@@ -1,0 +1,12 @@
+.vs
+
+data
+localDev-data
+
+_site
+cache
+temp
+wwwroot
+
+bin
+obj

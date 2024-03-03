@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assemblyDataYaml.csx" />
+    <None Remove="scraper.csx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="assemblyDataYaml.csx" />
+    <Compile Include="scraper.csx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.58" />
+    <PackageReference Include="Humanizer.Core" Version="2.14.1" />
+    <PackageReference Include="YamlDotNet" Version="15.1.1" />
+  </ItemGroup>
+
+</Project>

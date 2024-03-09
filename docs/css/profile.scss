@@ -1,0 +1,205 @@
+$section-underline-color: #5c5c9d;
+$header-color: DarkSlateGray;
+
+body {
+  color: white;
+  background-color: black;
+  font-family: sans-serif;
+  overflow-y: scroll;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: #cc0000;
+    background-color: $header-color;
+  }
+}
+
+a {
+  font-weight: bold;
+  color: orange;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &.disabled {
+    pointer-events: none;
+    font-weight: unset;
+    color: gray;
+  }
+}
+
+.header {
+  // & > div {
+  //   vertical-align: text-top;
+  //   margin: 6px 24px;
+  // }
+
+  .title-bar {
+    display: flex;
+    align-items: center;
+    background-color: $header-color;
+    padding: 0 32px;
+
+    h1 {
+      flex: 1;
+      margin-bottom: 0;
+      margin-top: 0;
+      background-color: unset;
+    }
+    .profile-nav {
+      // border: 2px dashed pink;
+    }
+    .attributions
+    {
+      background-color: red;
+      width: 50%;
+    }
+  }
+}
+
+.col-layout {
+  display: flex;
+
+  .left-col {
+    flex: 0;
+    .cart-faces {
+      display: flex;
+      flex-direction: column;
+
+      .cart-face {
+        max-width: 225px;
+        margin: 6px;
+      }
+    }
+  }
+
+  .center-col {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+}
+
+.section {
+  padding: 0 6px;
+  // background-color: red;
+  margin: 2px;
+  h1,
+  h2,
+  h3,
+  h4 {
+    border-bottom: 3px solid $section-underline-color;
+    margin-right: 36px;
+    padding-left: 12px;
+    margin-bottom: 12px;
+    padding-bottom: 3px;
+  }
+
+  &.release-info {
+    flex: 1;
+    min-width: 25%;
+  }
+
+  &.cart-properties {
+    flex: 1;
+    min-width: 25%;
+  }
+
+  &.pcb-properties {
+    flex: 1;
+    min-width: 25%;
+  }
+
+  &.rom-details {
+    flex: 1;
+    min-width: 25%;
+  }
+
+  &.detailed-chip-info {
+    flex: 2;
+  }
+}
+
+.gallery {
+  display: flex;
+
+  a.img-link {
+    display: inline-block;
+    vertical-align: top;
+    // background: pink;
+    & > div {
+      text-align: center;
+    }
+  }
+
+  .additional-images {
+    flex: 2;
+  }
+
+  .pcb-images {
+    flex: 1;
+    img {
+      max-width: 225px;
+    }
+  }
+
+  img {
+    max-height: 225px;
+    margin: 6px;
+  }
+}
+
+.left-headed-table {
+  th {
+    text-align: left;
+    min-width: 9.5em;
+    padding: 2px 12px;
+  }
+}
+
+.top-headed-table {
+  border-spacing: 0;
+  td,
+  th {
+    padding: 2px 12px;
+  }
+  tbody tr:first-child > td {
+    padding-top: 6px;
+  }
+  th {
+    border-bottom: 2px solid $section-underline-color;
+    padding-bottom: 6px;
+    text-align: left;
+  }
+}
+
+label {
+  font-weight: bold;
+}
+
+.mono {
+  font-family: monospace;
+  font-size: 120%;
+}
+
+.sub-detail {
+  &.highlighted {
+    color: lime;
+  }
+  &.implied {
+    color: #ff8000;
+  }
+
+  &.dimmed {
+    color: gray;
+  }
+}
+
+.flex-spacer {
+  flex: 1;
+}

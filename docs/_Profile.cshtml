@@ -1,11 +1,331 @@
 <!doctype html>
 <html lang="en-US">
+@{
+  bool IsPresent(string key) => !string.IsNullOrWhiteSpace(Document.Get(key) as string);
+}
+
+<head>
+  <title>@Document.Get("metadata:name") - NesCartDB</title>
+  <link href="/css/profile.css" rel="stylesheet" type="text/css">
+</head>
+
 <body>
+  <div class=header>
+    <div class="title-bar">
+      <h1>@Document.Get("metadata:name")</h1>
+      <div class="flex-spacer"></div>
+      <div class="profile-nav">
+        [
+          <a href="../@Document.Get("previous")"
+             class="@(Document.Get("previous") == null ? "disabled" : string.Empty)"
+          >previous</a>
+        ] 
+        [ <a class="disabled">index</a> ]
+        
+        [
+        <a href="../@Document.Get("next")"
+           class="@(Document.Get("next") == null ? "disabled" : string.Empty)"
+        >next</a>
+        ]
+      </div>
+    </div>
+    <div class="attributions">
+      <div>
+        <label>Submitted by:</label>
+        <span>@Document.Get("metadata:submittedBy")</span>
+      </div>
+      <div>
+        <label>Submitted on:</label>
+        <span>@Document.Get("metadata:submittedOn")</span>
+      </div>
+    </div>
+  </div>
 
-  <h1>@Document.Get("slug")</h1>
+  <div class="col-layout">
+    <div class="left-col">
 
-  @RenderBody()
+      <div class=cart-faces>
+        @if (IsPresent($"cartProperties:topImage:filename"))
+        {
+          <a href="./img/cart-top.jpg" target="_" title="Top">
+            <img class="cart-face" src="./img/cart-top.jpg" />
+          </a>
+        }
+        @if (IsPresent($"cartProperties:frontImage:filename"))
+        {
+          <a href="./img/cart-front.jpg" target="_" title="Front">
+            <img class="cart-face" src="./img/cart-front.jpg" />
+          </a>
+        }
+        @if (IsPresent($"cartProperties:backImage:filename"))
+        {
+          <a href="./img/cart-back.jpg" target="_" title="Back">
+            <img class="cart-face" src="./img/cart-back.jpg" />
+          </a>
+        }
+      </div>
+    </div>
 
+    <div class="center-col">
+
+      <div class="section release-info">
+        <h2>Release Info</h2>
+        <table class="left-headed-table">
+          <tbody>
+            <tr>
+              <th>Catalog ID</th>
+              <td>@Document.Get("releaseInfo:catalogId")</td>
+            </tr>
+            <tr>
+              <th>Region</th>
+              <td>@Document.Get("releaseInfo:region")</td>
+            </tr>
+            <tr>
+              <th>Class</th>
+              <td>@Document.Get("releaseInfo:class")</td>
+            </tr>
+            <tr>
+              <th>Release Date</th>
+              <td>@Document.Get("releaseInfo:releaseDate")</td>
+            </tr>
+            <tr>
+              <th>Publisher</th>
+              <td>@Document.Get("releaseInfo:publisher")</td>
+            </tr>
+            <tr>
+              <th>Developer</th>
+              <td>@Document.Get("releaseInfo:developer")</td>
+            </tr>
+            <tr>
+              <th>Players</th>
+              <td>@Document.Get("releaseInfo:players")</td>
+            </tr>
+            <tr>
+              <th>Peripherals</th>
+              <td>@Document.Get("releaseInfo:peripherals")</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="section cart-properties">
+        <h2>Cart Properties</h2>
+        <table class="left-headed-table">
+          <tbody>
+            <tr>
+              <th>Cart Producer</th>
+              <td>@Document.Get("cartProperties:cartProducer")</td>
+            </tr>
+            <tr>
+              <th>Color</th>
+              <td>@Document.Get("cartProperties:color")</td>
+            </tr>
+            <tr>
+              <th>Form Factor</th>
+              <td>@Document.Get("cartProperties:formFactor")</td>
+            </tr>
+            <tr>
+              <th>Embossed Text</th>
+              <td>@Document.Get("cartProperties:embossedText")</td>
+            </tr>
+            <tr>
+              <th>Front Label ID</th>
+              <td>@Document.Get("cartProperties:frontLabelId")</td>
+            </tr>
+            <tr>
+              <th>Seal of Quality</th>
+              <td>@Document.Get("cartProperties:sealOfQuality")</td>
+            </tr>
+            <tr>
+              <th>MfgString Present</th>
+              <td>@Document.Get("cartProperties:mfgstringPresent")</td>
+            </tr>
+            <tr>
+              <th>2-digit Code</th>
+              <td>@Document.Get("cartProperties:2-DigitCode")</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="section pcb-properties">
+        <h2>PCB Properties</h2>
+        <table class="left-headed-table">
+          <tbody>
+            <tr>
+              <th>Name</th>
+              <td>@Document.Get("pcbProperties:name")</td>
+            </tr>
+            <tr>
+              <th>PCB Producer</th>
+              <td>@Document.Get("pcbProperties:pcbProducer")</td>
+            </tr>
+            <tr>
+              <th>Manufacturer</th>
+              <td>@Document.Get("pcbProperties:manufacturer")</td>
+            </tr>
+            <tr>
+              <th>Mfg Range</th>
+              <td>@Document.Get("pcbProperties:mfgRange")</td>
+            </tr>
+            <tr>
+              <th>Est First Run</th>
+              <td>@Document.Get("pcbProperties:estFirstRun")</td>
+            </tr>
+            <tr>
+              <th>PCB Class</th>
+              <td>@Document.Get("pcbProperties:pcbClass")</td>
+            </tr>
+            <tr>
+              <th>iNES Mapper</th>
+              <td>@Document.Get("pcbProperties:inesMapper")</td>
+            </tr>
+            <tr>
+              <th>Mirroring</th>
+              <td>@Document.Get("pcbProperties:mirroring")</td>
+            </tr>
+            <tr>
+              <th>Battery present</th>
+              <td>@Document.Get("pcbProperties:batteryPresent")</td>
+            </tr>
+            <tr>
+              <th>WRAM</th>
+              <td>@Document.Get("pcbProperties:wram")</td>
+            </tr>
+            <tr>
+              <th>VRAM</th>
+              <td>@Document.Get("pcbProperties:vram")</td>
+            </tr>
+            <tr>
+              <th>CIC Type</th>
+              <td>@Document.Get("pcbProperties:cicType")</td>
+            </tr>
+            <tr>
+              <th>Hardware</th>
+              <td>@Document.Get("pcbProperties:hardware")</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="section rom-details">
+        <h2>ROM Details</h2>
+        <table class="top-headed-table">
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Label</th>
+              <th>Size</th>
+              <th>CRC32</th>
+              <th>x !</th>
+            </tr>
+          </thead>
+          <tbody>
+
+            @for (int i = 0; i < (int)@Document.Get("romDetails"); i++)
+            {
+              <tr>
+                <td>@Document.Get($"romDetails:{i}:type")</td>
+                <td>@Document.Get($"romDetails:{i}:label")</td>
+                <td>@Document.Get($"romDetails:{i}:size")</td>
+                <td class="mono">@Document.Get($"romDetails:{i}:crc32")</td>
+                <td>@Document.Get($"romDetails:{i}:x")</td>
+              </tr>
+            }
+          </tbody>
+        </table>
+      </div>
+
+      <div class="section detailed-chip-info">
+        <h2>Detailed Chip Info</h2>
+        <table class="top-headed-table">
+          <thead>
+            <tr>
+              <th>Designation</th>
+              <th>Maker</th>
+              <th>Part #</th>
+              <th>Type</th>
+              <th>Package</th>
+              <th>Date Code</th>
+              <th>Std</th>
+              <th>Misc</th>
+            </tr>
+          </thead>
+          <tbody>
+
+            @for (int i = 0; i < (int)@Document.Get("detailedChipInfo"); i++)
+            {
+              var partSubDetailClass =
+              IsPresent($"detailedChipInfo:{i}:partNumber")
+              ? "highlighted"
+              : "implied";
+              <tr>
+                <td>@Document.Get($"detailedChipInfo:{i}:designation")</td>
+                <td>@Document.Get($"detailedChipInfo:{i}:maker")</td>
+                <td>
+                  <span>@Document.Get($"detailedChipInfo:{i}:partNumber")</span>
+                  <span
+                    class="sub-detail @partSubDetailClass">@Document.Get($"detailedChipInfo:{i}:partNumberSubDetail")</span>
+                </td>
+                <td>
+                  <span>@Document.Get($"detailedChipInfo:{i}:type")</span>
+                  <span class="sub-detail highlighted">@Document.Get($"detailedChipInfo:{i}:typeSubDetail")</span>
+                </td>
+                <td>@Document.Get($"detailedChipInfo:{i}:package")</td>
+                <td>
+                  <span>@Document.Get($"detailedChipInfo:{i}:dateCodePrefix")</span>
+                  <span class="sub-detail dimmed">@Document.Get($"detailedChipInfo:{i}:dateCodeSuffix")</span>
+                </td>
+                <td class="sub-detail highlighted">@Document.Get($"detailedChipInfo:{i}:std")</td>
+                <td>@Document.Get($"detailedChipInfo:{i}:misc")</td>
+              </tr>
+            }
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="gallery">
+    <div class="section additional-images">
+      <h3>Additional Images</h3>
+      @for (int i = 0; i < (int)Document.Get("metadata:additionalImages"); i++)
+      {
+        var title =
+        string.Join(
+        '\n',
+        ((string)Document.Get($"metadata:additionalImages:{i}:toolTipJS"))
+        .Replace("ddrivetip('", "<br>")
+        .Replace("')", "")
+        .Split("<br>", StringSplitOptions.RemoveEmptyEntries));
+        <a href="./img/additional-@(i).jpg" title="@title" class="img-link" target="_">
+          <div>@title.Split("\n")[0].Trim()</div>
+          <img src="./img/additional-@(i).jpg" />
+        </a>
+      }
+    </div>
+
+    <div class="section pcb-images">
+      <h3>PCB Images</h3>
+      @if (IsPresent($"pcbProperties:frontImage:filename"))
+      {
+        <a href="./img/pcb-front.jpg" title="PCB Front" class="img-link" target="_">
+          <div>Front</div>
+          <img src="./img/pcb-front.jpg" />
+        </a>
+      }
+      @if (IsPresent($"pcbProperties:backImage:filename"))
+      {
+        <a href="./img/pcb-back.jpg" title="PCB Back" class="img-link" target="_">
+          <div>Back</div>
+          <img src="./img/pcb-back.jpg" />
+        </a>
+      }
+    </div>
+  </div>
+
+  <!-- Markdown Body Start -->@RenderBody()<!-- Markdown Body End -->
 </body>
 
 </html>

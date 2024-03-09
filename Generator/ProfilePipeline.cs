@@ -9,16 +9,13 @@ public class ProfilePipeline : Pipeline
     {
         this.InputModules = new()
         {
-            new ReadFiles("webscrape/profile/view/**/data.yaml"),
+            new ReadFiles("webscrape/profile/view/*/data.yaml"),
         };
         this.ProcessModules = new()
         {
-            new ProfileDataToDocumentModule(),
-            new ExtractFrontMatter(new ParseYaml("data")),
-            new ProfileModule(),
-            //new RenderMarkdown(),
+            new ProfilePrepModule(),
+            new ProfileYamlToMetadataModule(),
             new RenderRazor(),
-            //new GenerateExcerpt(),
             new SetDestination(".html"),
         };
         this.OutputModules = new()

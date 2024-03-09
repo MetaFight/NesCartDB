@@ -1,5 +1,6 @@
 #r "nuget: YamlDotNet, 15.1.1"
 #r "nuget: Humanizer.Core, 2.14.1"
+#r "nuget: HtmlAgilityPack, 1.11.59"
 #nullable enable
 
 using HtmlAgilityPack;
@@ -118,7 +119,6 @@ void AssembleDataYaml(int first, int last)
                         "Cart Producer" => GetAttr(root, $"/html/body/div[3]/table[2]/tr/td[4]/table/tr/th[text()='{header}']/../td/img", "title"),
                         _ => GetText(root, $"/html/body/div[3]/table[2]/tr/td[4]/table/tr/th[text()='{header}']/../td"),
                     }));
-        cartProperties["Country"] = GetAttr(root, "/html/body/div[3]/table[2]/tbody/tr/td[3]/table/tbody/tr[2]/td/img", "title");
 
         cartProperties["Top Image"] = new ImageEntry(
             ToolTipJS: GetAttr(root, "/html/body/div[3]/table[1]/tr[1]/td[1]/table/tr/td/a", "onmouseover"),

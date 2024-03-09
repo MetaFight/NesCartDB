@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Generator;
+using Microsoft.Extensions.DependencyInjection;
+using Statiq.Sass;
 using Statiq.Web.Pipelines;
 
 var pwd = new DirectoryInfo(Environment.CurrentDirectory);
@@ -14,8 +16,8 @@ var inputPath =
 
 return await Bootstrapper
     .Factory
-    .CreateWeb(args)
-    //.CreateDefault(args)
+    //.CreateWeb(args)
+    .CreateDefault(args)
     .AddInputPath("docs")
     .AddInputPath(inputPath)
     .SetOutputPath("_site/")
@@ -25,6 +27,18 @@ return await Bootstrapper
     })
     .AddPipeline<DirectoryMetadata>()
     .AddPipeline<Inputs>()
+    .BuildPipeline("Prep Profile Assets", builder =>
+        builder
+            .WithInputReadFiles("webscrape/profile/view/*/img/*.jpg")
+            .WithProcessModules(new ProfilePrepModule())
+            .WithOutputModules(new WriteFiles())
+    )
     .AddPipeline<ProfilePipeline>()
+    .BuildPipeline("Prep Web Assets", builder =>
+        builder
+            .WithInputReadFiles("**/*.scss")
+            .WithProcessModules(new CompileSass())
+            .WithOutputModules(new WriteFiles())
+    )
     .AddHostingCommands()
     .RunAsync();

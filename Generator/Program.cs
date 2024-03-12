@@ -6,7 +6,7 @@ var pwd = new DirectoryInfo(Environment.CurrentDirectory);
 Environment.CurrentDirectory = pwd.Parent!.FullName;
 
 // TODO: Add this to config
-bool isProduction = false;
+bool isProduction = true;
 
 var inputPath =
     isProduction

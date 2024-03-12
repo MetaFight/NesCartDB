@@ -20,12 +20,16 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
+    
     - name: Restore dependencies
       working-directory: ./Generator/
       run: dotnet restore
+    
     - name: Build
       working-directory: ./Generator/
       run: dotnet build --no-restore
-    # - name: Test
-    #   working-directory: ./Generator/
-    #   run: dotnet test --no-build --verbosity normal
+    
+    - name: Generate Site
+      working-directory: ./Generator/
+      run: dotnet run
+    

@@ -1,0 +1,39 @@
+@import "./_common";
+
+.letter-nav {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  & > li {
+    display: flex;
+    flex: 1;
+    border: 1px solid $header-color;
+    margin: 2px 2px;
+    background-color: rgba($header-color, 0.75);
+    
+    &:hover {
+      background-color: $header-color;
+    }
+
+    &.active {
+      border-color: $active-color;
+    }
+
+    a {
+      flex: 1;
+      padding: 3px 12px;
+      text-align: center;
+    }
+  }
+}
+
+.profile-list
+{
+  width: 100%;
+  .id {
+    text-align: right;
+  }
+}

@@ -1,4 +1,5 @@
 <!doctype html>
+<meta charset="utf-8"/>
 <html lang="en-US">
 @{
   bool IsPresent(string key) => !string.IsNullOrWhiteSpace(Document.Get(key) as string);
@@ -12,21 +13,21 @@
 <body>
   <div class=header>
     <div class="title-bar">
-      <h1>@Document.Get("metadata:name")</h1>
-      <div class="flex-spacer"></div>
+      <h1>
+        @Document.Get("metadata:name")
+        <div class="alt">@Document.Get("metadata:altName")</div>
+      </h1>
+
       <div class="profile-nav">
-        [
-          <a href="../@Document.Get("previous")"
-             class="@(Document.Get("previous") == null ? "disabled" : string.Empty)"
-          >previous</a>
-        ] 
-        [ <a class="disabled">index</a> ]
-        
-        [
-        <a href="../@Document.Get("next")"
-           class="@(Document.Get("next") == null ? "disabled" : string.Empty)"
-        >next</a>
-        ]
+        <a href="/@Document.Get("previousUrl")"
+            class="@(Document.Get("previousUrl") == null ? "disabled" : string.Empty)"
+            title="@Document.Get("previousName")"
+          >◀ previous</a>
+      <a href="/">home</a>
+        <a href="/@Document.Get("nextUrl")"
+          class="@(Document.Get("nextUrl") == null ? "disabled" : string.Empty)"
+          title="@Document.Get("nextName")"
+          >next ▶</a>
       </div>
     </div>
     <div class="attributions">

@@ -1,0 +1,60 @@
+@using System.Collections.Immutable;
+@using Statiq.Common;
+
+@{
+  var sortedChildren =
+    ((ImmutableArray<IDocument>)@Document.Get("Children"))
+      .OrderBy(c => c.Get("letterPage"))
+      .ToList();
+}
+
+<!doctype html>
+<html lang="en-US">
+<meta charset="utf-8"/>
+<head>
+  <title>NesCartDB</title>
+  <link href="/css/byNameIndex.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<h1 class="site-name">
+  <div class="top-text">
+    <span>NES Cart</span>
+    <span class="line-container">
+      <div class="lines">---------</div>
+      <div class="lines">---------</div>
+      <div class="lines">---------</div>
+      <div class="lines">---------</div>
+    </span>
+  </div>
+  <div class="bottom-text">
+    <span class="line-container">
+      <div class="lines">-------</div>
+      <div class="lines">-------</div>
+      <div class="lines">-------</div>
+      <div class="lines">-------</div>
+    </span>
+    <span>Database</span>
+  <div class="tag">
+    <span class="lines">-------</span>
+    <span >
+    mirror
+    </span>
+    <span class="lines">-------</span>
+  </div>
+</h1>
+
+  <ul class="letter-nav">
+  @foreach(var child in sortedChildren)
+  {
+    <li>
+      <a href="/@child.Destination"><span>@child.Get("letterPage")</span></a>
+    </li>
+  }
+  </ul>
+
+  @RenderBody()
+</body>
+
+</html>

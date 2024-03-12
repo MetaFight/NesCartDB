@@ -12,6 +12,8 @@ using YamlDotNet.Serialization.NamingConventions;
 
 const int first = 1;
 const int last = 4773;
+// const int first = 1534;
+// const int last = 1534;
 
 AssembleDataYaml(first, last);
 void AssembleDataYaml(int first, int last)
@@ -81,8 +83,9 @@ void AssembleDataYaml(int first, int last)
         var submittedRowOffset = hasSubTitle ? 1 : 0;
 
         metadata = new(
-            //Name: GetText(root, "/html/body/div[3]/table[1]/tbody/tr[1]/td[@class='headingmain']"),
-            Name: GetText(root, $"/html/body/div[3]/table[1]/tbody/tr[1]/td[{1 + nameColOffset}]"),
+            Name: GetText(root, "/html/body/div[3]/table[1]/tbody/tr/td[@class='headingmain']"),
+            AltName: GetText(root, "/html/body/div[3]/table[1]/tbody/tr/td[@class='headingsubtitle']"),
+            //Name: GetText(root, $"/html/body/div[3]/table[1]/tbody/tr[1]/td[{1 + nameColOffset}]"),
             Variant: GetText(root, $"/html/body/div[3]/table[1]/tbody/tr[1]/td[{1 + nameColOffset}]/span"),
             SubmittedBy: GetText(root, $"/html/body/div[3]/table[1]/tbody/tr[{2 + submittedRowOffset}]/td/a"),
             SubmittedOn: GetText(root, $"/html/body/div[3]/table[1]/tbody/tr[{2 + submittedRowOffset}]/td/span"),
@@ -262,5 +265,5 @@ public static string ApplyCase(this string source) => source.Transform(To.LowerC
 
 record DetailedChipInfoEntry(string? Designation, string? Maker, string? PartNumber, string? PartNumberSubDetail, string? Type, string? TypeSubDetail, string? Package, string? DateCodePrefix, string? DateCodeSuffix, string? Std, string? Misc);
 record ImageEntry(string? ToolTipJS, string? Filename);
-record Metadata(string? Name, string? Variant, string? SubmittedBy, string? SubmittedOn, List<int> MoreProfiles, List<int> RelatedProfiles, List<ImageEntry>? AdditionalImages);
+record Metadata(string? Name, string? AltName, string? Variant, string? SubmittedBy, string? SubmittedOn, List<int> MoreProfiles, List<int> RelatedProfiles, List<ImageEntry>? AdditionalImages);
 record RomDetailEntry(string? Type, string? Label, string? Size, string? Crc32, string? X);

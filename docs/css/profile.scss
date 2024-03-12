@@ -1,63 +1,42 @@
-$section-underline-color: #5c5c9d;
-$header-color: DarkSlateGray;
-
-body {
-  color: white;
-  background-color: black;
-  font-family: sans-serif;
-  overflow-y: scroll;
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5 {
-    color: #cc0000;
-    background-color: $header-color;
-  }
-}
-
-a {
-  font-weight: bold;
-  color: orange;
-  text-decoration: none;
-  &:hover {
-    text-decoration: underline;
-  }
-
-  &.disabled {
-    pointer-events: none;
-    font-weight: unset;
-    color: gray;
-  }
-}
+@import "./_common";
 
 .header {
-  // & > div {
-  //   vertical-align: text-top;
-  //   margin: 6px 24px;
-  // }
+  &>* {
+    padding: 0 32px;
+  }
 
   .title-bar {
     display: flex;
     align-items: center;
     background-color: $header-color;
-    padding: 0 32px;
 
     h1 {
       flex: 1;
-      margin-bottom: 0;
-      margin-top: 0;
+      margin: 2px 0;
+      padding: 0;
       background-color: unset;
+
+      .alt {
+        display: inline;
+        vertical-align: middle;
+        color: white;
+        font-size: 50%;
+        margin-left: 32px;        
+      }
     }
     .profile-nav {
-      // border: 2px dashed pink;
+      a {
+        display: inline-block;
+        margin-left: 24px;
+        // min-width: 110px;
+        // text-align: center;
+        // background-color: pink;
+      }
     }
-    .attributions
-    {
-      background-color: red;
-      width: 50%;
-    }
+  }
+  .attributions {
+    // background-color: red;
+    margin: 6px 0;
   }
 }
 
@@ -86,38 +65,24 @@ a {
 }
 
 .section {
-  padding: 0 6px;
-  // background-color: red;
-  margin: 2px;
-  h1,
-  h2,
-  h3,
-  h4 {
-    border-bottom: 3px solid $section-underline-color;
-    margin-right: 36px;
-    padding-left: 12px;
-    margin-bottom: 12px;
-    padding-bottom: 3px;
-  }
-
   &.release-info {
     flex: 1;
-    min-width: 25%;
+    min-width: 400px;
   }
 
   &.cart-properties {
     flex: 1;
-    min-width: 25%;
+    min-width: 400px;
   }
 
   &.pcb-properties {
     flex: 1;
-    min-width: 25%;
+    min-width: 400px;
   }
 
   &.rom-details {
     flex: 1;
-    min-width: 25%;
+    min-width: 400px;
   }
 
   &.detailed-chip-info {
@@ -154,39 +119,6 @@ a {
   }
 }
 
-.left-headed-table {
-  th {
-    text-align: left;
-    min-width: 9.5em;
-    padding: 2px 12px;
-  }
-}
-
-.top-headed-table {
-  border-spacing: 0;
-  td,
-  th {
-    padding: 2px 12px;
-  }
-  tbody tr:first-child > td {
-    padding-top: 6px;
-  }
-  th {
-    border-bottom: 2px solid $section-underline-color;
-    padding-bottom: 6px;
-    text-align: left;
-  }
-}
-
-label {
-  font-weight: bold;
-}
-
-.mono {
-  font-family: monospace;
-  font-size: 120%;
-}
-
 .sub-detail {
   &.highlighted {
     color: lime;
@@ -198,8 +130,4 @@ label {
   &.dimmed {
     color: gray;
   }
-}
-
-.flex-spacer {
-  flex: 1;
 }

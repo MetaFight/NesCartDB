@@ -1,0 +1,77 @@
+@using System.Collections.Immutable;
+@using Statiq.Common;
+
+@{
+  var pageLetter = Document.Get("letterPage") as string;
+  var entries = 
+    (Document.Get("Children") as IEnumerable<IDocument>)
+      .OrderBy(d => d.Get("metadata:name").ToString())
+      .ToList();
+  var navEntries = Document.Get("orderedLetterPageUrls") as IEnumerable<(string letter, NormalizedPath url)>;
+}
+
+<!doctype html>
+<html lang="en-US">
+<meta charset="utf-8"/>
+<head>
+  <title>@pageLetter Profiles - NesCartDB</title>
+  <link href="/css/byNameLetter.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <ul class="letter-nav">
+  <li><a href="/">HOME</a></li>
+  @foreach(var item in navEntries)
+  {
+    <li class="@(item.letter == pageLetter ? "active" : string.Empty)"><a href="/@item.url">@item.letter</a></li>
+  }
+  </ul>
+
+  <h1>@pageLetter</h1>
+
+  <table class="top-headed-table profile-list">
+    <thead>
+      <tr>
+        <th class="id">ID</th>
+        <th>Name</th>
+        <th>Catalog ID</th>
+        <th>Region</th>
+        <th>Publisher</th>
+        <th>Developer</th>
+        <th>Release Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach(var item in entries)
+      {
+        <tr>
+          <td class="mono number">
+            @item.Get("profileId")
+          </td>
+          <td>
+            <a href="/@item.Destination">@item.Get("metadata:name")</a>
+          </td>
+          <td>
+            @item.Get("releaseInfo:catalogId")
+          </td>
+          <td>
+            @item.Get("releaseInfo:region")
+          </td>
+          <td>
+            @item.Get("releaseInfo:publisher")
+          </td>
+          <td>
+            @item.Get("releaseInfo:developer")
+          </td>
+          <td>
+            @item.Get("releaseInfo:releaseDate")
+          </td>
+        </tr>
+      }
+    </tbody>
+  </table>
+
+  @RenderBody()
+</body>
+
+</html>

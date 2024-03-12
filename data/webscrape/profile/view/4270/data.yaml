@@ -1,0 +1,128 @@
+metadata:
+  name: The Legend of Zelda
+  altName: 
+  variant: (Revision A)
+  submittedBy: Yakushi~Kabuto
+  submittedOn: 2010-12-13 05:18:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1434
+  - 2126
+  - 1420
+  - 3948
+  - 1921
+  - 173
+  additionalImages: 
+slug: the-legend-of-zelda
+releaseInfo:
+  catalogId: NES-ZL-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: November 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZL-FRA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH (Battery)
+  2-DigitCode: 28
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Yakushi~Kabuto<br>Linked from profile 0')"
+    filename: /images/175/aa073bcb7f5a938fa4a6f22b6d8e7797.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Yakushi~Kabuto<br>Linked from profile 0')"
+    filename: /images/175/842e457d19c58fd5300b39c3b66a5749.jpg
+romDetails:
+- type: PRG0
+  label: PAL-ZL-1 PRG
+  size: 128 KB
+  crc32: D44B412E
+  x: 4
+pcbProperties:
+  name: NES-SNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8932
+  estFirstRun: August 1989
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 45
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8931
+  dateCodeSuffix: E
+  std: 8931
+  misc: 
+- designation: CHR
+  maker: OKI
+  partNumber: M5165AL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 94
+  dateCodeSuffix: 3007
+  std: 8914
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8923
+  dateCodeSuffix: A
+  std: 8923
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8932
+  dateCodeSuffix: 1 A
+  std: 8932
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: 3 Y
+  std: 8926
+  misc: 

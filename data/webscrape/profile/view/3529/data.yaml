@@ -1,0 +1,96 @@
+metadata:
+  name: Flappy
+  altName: フラッピー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-21 03:06:00
+  moreProfiles:
+  - 1686
+  - 3529
+  relatedProfiles: []
+  additionalImages: 
+slug: flappy
+releaseInfo:
+  catalogId: DBF-FL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 14, 1985
+  publisher: dB-SOFT
+  developer: dB-SOFT
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: dBF-FL
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1686')"
+    filename: /images/175/a9763eee86c060fd71cdd070b2a60d97.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-FL-0 PRG
+  size: 32 KB
+  crc32: C138CFEA
+  x: 2
+- type: CHR0
+  label: HVC-FL-0 CHR
+  size: 8 KB
+  crc32: 2E61BF44
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: CF701DA4
+  x: 2
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3fcd9c15573cf6a55bc6e9cfa9c29462.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8524
+  estFirstRun: June 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0051
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5F2
+  dateCodeSuffix: 33
+  std: 8524
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 06
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8523
+  dateCodeSuffix: E
+  std: 8523
+  misc: 

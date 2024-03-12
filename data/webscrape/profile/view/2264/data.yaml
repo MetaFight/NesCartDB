@@ -1,0 +1,107 @@
+metadata:
+  name: 'Tenka no Goikenban: Mito Koumon'
+  altName: 天下の御意見番 水戸黄門
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 02:59:00
+  moreProfiles:
+  - 2264
+  - 3072
+  - 3135
+  relatedProfiles: []
+  additionalImages: 
+slug: tenka-no-goikenban-mito-koumon
+releaseInfo:
+  catalogId: SUN-MK-5300
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 11, 1987
+  publisher: Sunsoft
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c922b8b1184d29eeac65f9b511d373e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f38466ef97576628c43dbf5a91aa719.jpg
+romDetails:
+- type: PRG0
+  label: SUNSOFT-7 PRG
+  size: 128 KB
+  crc32: 3BF38115
+  x: 3
+- type: CHR0
+  label: SUNSOFT-7 CHR
+  size: 128 KB
+  crc32: 106F9379
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 21F8C4AB
+  x: 3
+pcbProperties:
+  name: SUNSOFT-3
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SUNSOFT-3<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f202fed985efcf02e8a9bb07664bdc0b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SUNSOFT-3<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e4e11950feb82b77ea55062f7494719.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8731 - 8741 (3)
+  estFirstRun: August 1987
+  pcbClass: SUNSOFT-2
+  inesMapper: 89
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-2
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: SUNSOFT-2
+  partNumberSubDetail: 
+  type: Sunsoft-2
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8713
+  dateCodeSuffix: A
+  std: 8713
+  misc: 
+- designation: IC2
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: X6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8741
+  dateCodeSuffix: D
+  std: 8741
+  misc: 
+- designation: IC3
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: X5
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8737
+  dateCodeSuffix: D
+  std: 8737
+  misc: 

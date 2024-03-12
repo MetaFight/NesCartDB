@@ -1,0 +1,113 @@
+metadata:
+  name: Kyuukyoku Harikiri Stadium
+  altName: 究極ハリキリスタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-17 23:46:00
+  moreProfiles:
+  - 1765
+  - 1766
+  - 3071
+  - 3147
+  - 3148
+  - 3149
+  - 3150
+  - 3303
+  relatedProfiles: []
+  additionalImages: 
+slug: kyuukyoku-harikiri-stadium
+releaseInfo:
+  catalogId: TFC-KHS-5500-18
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 28, 1988
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Fake Battery Door
+  frontLabelId: TFC-KHS-5500
+  sequence#: 18
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1765')"
+    filename: /images/175/0b2c10beb27bc4fbe945b043886c9183.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1758')"
+    filename: /images/175/b394aea8eb89412418631ccd13a81e4d.jpg
+romDetails:
+- type: PRG0
+  label: PRG X3-020
+  size: 128 KB
+  crc32: 6611D8F3
+  x: 5
+- type: CHR0
+  label: CHR X3-021
+  size: 128 KB
+  crc32: 3CB636A4
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CEA35D5A
+  x: 5
+pcbProperties:
+  name: P3-034-C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-034-C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ae5776b8dcd843f214917e04c29974a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-034-C<br>Submitted by: bootgod<br>Linked from profile 1765')"
+    filename: /images/175/e52d07977de29b2d0c195563056cc29b.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8823 - 8910 (8)
+  estFirstRun: June 1988
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-005
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8823
+  dateCodeSuffix: KX
+  std: 8823
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8823
+  dateCodeSuffix: KY
+  std: 8823
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8816
+  dateCodeSuffix: K5
+  std: 8816
+  misc: BB

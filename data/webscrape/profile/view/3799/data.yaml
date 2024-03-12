@@ -1,0 +1,92 @@
+metadata:
+  name: Battle City
+  altName: バトルシティー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 03:34:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: battle-city
+releaseInfo:
+  catalogId: NAM-NBC-4500-09
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 9, 1985
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4fd2565d85e05ffd568d9055756e12cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c34f3d75f145452aa5d71f7f5e981453.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT BC PRG
+  size: 16 KB
+  crc32: 912D82C5
+  x: 1
+- type: CHR0
+  label: NAMCOT BC CHR
+  size: 8 KB
+  crc32: 6E32D231
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 7E053E64
+  x: 1
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a6ff5686bbb84d6beb0ef9a94a492a2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8532
+  estFirstRun: August 1985
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: General Instrument
+  partNumber: 9128DS
+  partNumberSubDetail: 0300
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8532
+  dateCodeSuffix: CDA
+  std: 8532
+  misc: 
+- designation: CH
+  maker: General Instrument
+  partNumber: 9864DS
+  partNumberSubDetail: 0169
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8532
+  dateCodeSuffix: CDA
+  std: 8532
+  misc: 

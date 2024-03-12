@@ -1,0 +1,131 @@
+metadata:
+  name: 'Werewolf: The Last Warrior'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-07-29 03:08:00
+  moreProfiles:
+  - 1842
+  - 4130
+  - 4340
+  relatedProfiles:
+  - 3936
+  - 402
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-W8-SCN<br>Submitted by: Kinopio<br>Linked from profile 1842')"
+    filename: /images/175/12629a93669478ca6fada0c69f6a0ce4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-W8-SCN<br>Submitted by: Kinopio<br>Linked from profile 1842')"
+    filename: /images/175/897dc0dd078013d6badc55dcbf9da0df.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-W8-SCN<br>Submitted by: Kinopio<br>Linked from profile 1842')"
+    filename: /images/175/d16882702563c68ec01e22fda3d54c6e.jpg
+slug: werewolf-the-last-warrior
+releaseInfo:
+  catalogId: NES-W8-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: September 26, 1991
+  publisher: Data East
+  developer: Sakata SAS
+  players: 2
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-W8-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1842')"
+    filename: /images/175/bc6b8a6edba99e31798f733c6bb1597d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1842')"
+    filename: /images/175/80cd7e9129323132faa51edd130f5ae5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-W8-0 PRG
+  size: 128 KB
+  crc32: 10AD80D8
+  x: 3
+- type: CHR0
+  label: NES-W8-0 CHR
+  size: 128 KB
+  crc32: 2D9187BD
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5D0D3047
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d33e2c59a3b21291132c09ad99c746d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9128 - 9129 (3)
+  estFirstRun: July 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 75
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9129
+  dateCodeSuffix: E
+  std: 9129
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 45
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9128
+  dateCodeSuffix: D
+  std: 9128
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9128
+  dateCodeSuffix: C
+  std: 9128
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9129
+  dateCodeSuffix: 3 DB
+  std: 9129
+  misc: 

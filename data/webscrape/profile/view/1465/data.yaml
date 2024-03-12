@@ -1,0 +1,107 @@
+metadata:
+  name: Tokyo Pachi Slot Adventure
+  altName: 東京パチスロアドベンチャー
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 02:57:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tokyo-pachi-slot-adventure
+releaseInfo:
+  catalogId: CDS-83
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 13, 1991
+  publisher: Coconuts
+  developer: Soft Machine
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: CDS-83
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dc8c89d856c4f643af529f9e12d7e1ec.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4599')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: CDS-83-1 PRG
+  size: 128 KB
+  crc32: 84DB1813
+  x: 1
+- type: CHR0
+  label: CDS-83-0 CHR
+  size: 128 KB
+  crc32: 92F6EE7F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 162CCBD0
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b22cff8c20423df9e43ac0f083f53b8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9207
+  estFirstRun: February 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W82
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9207
+  dateCodeSuffix: K9015
+  std: 9207
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W64
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9207
+  dateCodeSuffix: KY016
+  std: 9207
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9202
+  dateCodeSuffix: B3035
+  std: 9202
+  misc: 

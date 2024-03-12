@@ -1,0 +1,123 @@
+metadata:
+  name: Kickle Cubicle
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 03:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4381
+  - 3848
+  - 4547
+  additionalImages: 
+slug: kickle-cubicle
+releaseInfo:
+  catalogId: NES-QC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Irem
+  developer: Irem
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QC-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6b848911b75d907d52b3c6a9c1608652.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b660d8fba871396b6b9abf5cee90350.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-QC-0 PRG
+  size: 128 KB
+  crc32: A8B0CFCE
+  x: 1
+- type: CHR0
+  label: NES-QC-0 CHR
+  size: 128 KB
+  crc32: 7B8A4209
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CD10DCE2
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6330f9273cf8ea3194c6ffc7980a571d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9031
+  estFirstRun: August 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 45
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: E
+  std: 9029
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: S3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9029
+  dateCodeSuffix: E
+  std: 9029
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9031
+  dateCodeSuffix: 3 BA
+  std: 9031
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9031
+  dateCodeSuffix: 3 DA
+  std: 9031
+  misc: 

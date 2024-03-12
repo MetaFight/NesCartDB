@@ -1,0 +1,115 @@
+metadata:
+  name: Wrecking Crew
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-31 10:07:00
+  moreProfiles:
+  - 267
+  - 309
+  - 848
+  relatedProfiles:
+  - 2379
+  - 2442
+  - 1478
+  - 1976
+  additionalImages: 
+slug: wrecking-crew
+releaseInfo:
+  catalogId: NES-WR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WR-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc9895fc3a767a89bdecfb3c4bd614eb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29670424d33fb56f9ba348cedd503219.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: HVC-WR-0 PRG
+  size: 32 KB
+  crc32: 4328B273
+  x: 8
+- type: CHR0
+  label: HVC-WR-0 CHR
+  size: 8 KB
+  crc32: 23F0B9FD
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 9B506A48
+  x: 8
+pcbProperties:
+  name: NES-NROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/882c8445219fe3c4eee429b0d0f10e32.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2083')"
+    filename: /images/175/6096d3c0dbd9575d1d5063111af4d1e6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8639 - 8929 (3)
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: J2
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: B
+  std: 8922
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: R1
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: B
+  std: 8923
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8929
+  dateCodeSuffix: 5 CA
+  std: 8929
+  misc: 

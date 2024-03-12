@@ -1,0 +1,142 @@
+metadata:
+  name: Crystalis
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 03:45:00
+  moreProfiles:
+  - 186
+  - 1119
+  - 2373
+  - 2945
+  - 4477
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-G0 USA<br>Submitted by: polarz<br>Linked from profile 186')"
+    filename: /images/175/e17e29bbe08aa0b95e7c29446412171a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-G0 USA<br>Submitted by: polarz<br>Linked from profile 186')"
+    filename: /images/175/8eb831d922376149bfdeb9b02b37b1e5.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-G0-USA<br>Submitted by: polarz<br>Linked from profile 186')"
+    filename: /images/175/9fe9466ba727c58ac77a4cf529078f57.jpg
+slug: crystalis
+releaseInfo:
+  catalogId: NES-G0-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1990
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-G0-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 186')"
+    filename: /images/175/45405b94ba349fed23285a2dd653d2a5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 186')"
+    filename: /images/175/6e5a6d75111d50aa09da484cb5d4e3cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-G0-0 PRG
+  size: 256 KB
+  crc32: 630BE870
+  x: 6
+- type: CHR0
+  label: NES-G0-0 CHR
+  size: 128 KB
+  crc32: 864F0C1B
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 1335CB05
+  x: 6
+pcbProperties:
+  name: NES-TKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7c4a9c408eb75f1bc3f1e0f301da74a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-01<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/c57abe387034f49ec7fdb14d081c90ac.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9025 - 9027 (4)
+  estFirstRun: June 1990
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 99
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9026
+  dateCodeSuffix: D
+  std: 9026
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: S1
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9024
+  dateCodeSuffix: E
+  std: 9024
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9027
+  dateCodeSuffix: 1 AA
+  std: 9027
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9023
+  dateCodeSuffix: 1 DA
+  std: 9023
+  misc: 
+- designation: U5 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 060
+  dateCodeSuffix: B1
+  std: 9024
+  misc: 

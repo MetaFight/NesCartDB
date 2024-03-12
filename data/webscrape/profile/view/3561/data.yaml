@@ -1,0 +1,110 @@
+metadata:
+  name: Tecmo World Cup Soccer
+  altName: テクモワールドカップサッカー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-01 05:28:00
+  moreProfiles:
+  - 3561
+  - 3713
+  relatedProfiles:
+  - 2091
+  - 2400
+  additionalImages: 
+slug: tecmo-world-cup-soccer
+releaseInfo:
+  catalogId: TCF-WC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1990
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TCF-WC
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/12f60391e98e17af8de87350be9b2587.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TCF-WC-0 PRG
+  size: 64 KB
+  crc32: 22F1CA9E
+  x: 2
+- type: CHR0
+  label: TCF-WC-0 CHR
+  size: 64 KB
+  crc32: 6D3AD901
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 8A5BC0D3
+  x: 2
+pcbProperties:
+  name: HVC-TBROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TBROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a9fb2cfc6496652aec3427c11efd0e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TBROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bb85b7b5be3c8f9ec29cbfcf5c72710.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9108 - 9108 (2)
+  estFirstRun: February 1991
+  pcbClass: HVC-TBROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9108
+  dateCodeSuffix: E
+  std: 9108
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 52
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9108
+  dateCodeSuffix: E
+  std: 9108
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9037
+  dateCodeSuffix: KP033
+  std: 9037
+  misc: 

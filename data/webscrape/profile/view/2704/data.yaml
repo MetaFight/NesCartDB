@@ -1,0 +1,117 @@
+metadata:
+  name: Disney's The Lion King
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-05-01 06:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2886
+  - 2037
+  - 4500
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-KL-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e6f0ce3e416583a46f515533bbe27859.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-KL-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0423eb7f5d776520798528f1c1d3e0a0.jpg
+slug: disneys-the-lion-king
+releaseInfo:
+  catalogId: NES-KL-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: May 25, 1995
+  publisher: Virgin Games
+  developer: Dark Technologies
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KL-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0ad33de9a326cc4fb593999caef094fb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/23d2b201c7bf14fbb4f85fc7ceb04ca0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-KL-0 PRG
+  size: 256 KB
+  crc32: 89984244
+  x: 5
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9513
+  estFirstRun: March 1995
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 4U
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9513
+  dateCodeSuffix: D
+  std: 9513
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9222
+  dateCodeSuffix: EJ
+  std: 9222
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9511
+  dateCodeSuffix: B
+  std: 9511
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9336
+  dateCodeSuffix: ''
+  std: 9336
+  misc: 

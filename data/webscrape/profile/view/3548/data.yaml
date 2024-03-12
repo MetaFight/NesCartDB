@@ -1,0 +1,110 @@
+metadata:
+  name: Superstar Pro Wrestling
+  altName: スーパースタープロレスリング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-31 08:05:00
+  moreProfiles:
+  - 3547
+  - 3548
+  relatedProfiles:
+  - 404
+  additionalImages: 
+slug: superstar-pro-wrestling
+releaseInfo:
+  catalogId: PNF-S9 (R59V5923)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 9, 1989
+  publisher: Pony Canyon
+  developer: Nichibutsu
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Pink
+  formFactor: Small
+  frontLabelId: PNF-S9
+  secondaryId: R59V5923
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3547')"
+    filename: /images/175/15e3c6dd4c403e9e1511e71538a524a5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-S9-0 PRG
+  size: 128 KB
+  crc32: 0A1BCD91
+  x: 2
+- type: CHR0
+  label: PNF-S9-0 CHR
+  size: 128 KB
+  crc32: 9F0BDECF
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 705BD7C3
+  x: 2
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5d0e7dfe3eaeb9e8dacb00ad82fb0451.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8941 - 8943 (2)
+  estFirstRun: October 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010C
+  partNumberSubDetail: T93
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8940
+  dateCodeSuffix: EX701
+  std: 8940
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T58
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8941
+  dateCodeSuffix: EY819
+  std: 8941
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8940
+  dateCodeSuffix: EP
+  std: 8940
+  misc: 

@@ -1,0 +1,112 @@
+metadata:
+  name: Pachinko Daisakusen 2
+  altName: パチンコ大作戦２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 04:59:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b614c0aeae32c28bf8286cdc31f9a8b6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/112ce4c1b65c5598c95f4769db416d60.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/345ce447b945b7472a44cfe3dac4d7ee.jpg
+slug: pachinko-daisakusen-2
+releaseInfo:
+  catalogId: CDS-82
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 10, 1992
+  publisher: Coconuts
+  developer: Marionette
+  players: 1
+  peripherals: Famicom Controller,Pachinko Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Plum
+  formFactor: Small
+  frontLabelId: CDS-82
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa2c2588f41d174525c30c975c7fc6a5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CDS-82-0 PRG
+  size: 128 KB
+  crc32: 1644C162
+  x: 1
+- type: CHR0
+  label: CDS-82-0 CHR
+  size: 128 KB
+  crc32: B1AACEE2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 44F92026
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c2e18c51534d5557bcc29651c107ce1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9223
+  estFirstRun: June 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6694
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2FC
+  dateCodeSuffix: 42
+  std: 9223
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0165
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2FC
+  dateCodeSuffix: 42
+  std: 9223
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9212
+  dateCodeSuffix: 5 A 170
+  std: 9212
+  misc: 

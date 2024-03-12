@@ -1,0 +1,124 @@
+metadata:
+  name: "Puss 'n Boots: Pero's Great Adventure"
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-27 02:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3392
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-UO-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1d3545eaf39ab6f47d48ae0f224fb98.jpg
+slug: puss-n-boots-peros-great-adventure
+releaseInfo:
+  catalogId: NES-UO-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Electro Brain
+  developer: Shouei System
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UO-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6a1925b52e7048c864b328230549da7e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad33abf7ce953b00887cf2f61eda07c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-UO-0 PRG
+  size: 128 KB
+  crc32: 6E0EB43E
+  x: 1
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9014
+  estFirstRun: April 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5434
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0DC
+  dateCodeSuffix: 72
+  std: 9014
+  misc: 
+- designation: U2 CHR RAM
+  maker: Samsung
+  partNumber: KM6264AL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 012
+  dateCodeSuffix: N
+  std: 9012
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: 5 CA
+  std: 9014
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 011
+  dateCodeSuffix: EN
+  std: 9011
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9003
+  dateCodeSuffix: ''
+  std: 9003
+  misc: 

@@ -1,0 +1,87 @@
+metadata:
+  name: Kirby's Adventure
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-26 04:55:00
+  moreProfiles:
+  - 170
+  - 286
+  - 781
+  - 4236
+  - 1377
+  - 4644
+  relatedProfiles:
+  - 2118
+  - 993
+  - 1880
+  - 2241
+  - 2347
+  additionalImages: 
+slug: kirbys-adventure
+releaseInfo:
+  catalogId: NES-KR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1993
+  publisher: Nintendo
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KR-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 170')"
+    filename: /images/175/9e8775797a8f33de9d9a88e472b4f050.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 170')"
+    filename: /images/175/fc59c3c6e13d81218d963307bb753cb0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-KR-0 PRG
+  size: 512 KB
+  crc32: 9077A623
+  x: 5
+- type: CHR0
+  label: NES-KR-0 CHR
+  size: 256 KB
+  crc32: 7EDAE6F3
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: D7794AFC
+  x: 5
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9312 - 9334 (3)
+  estFirstRun: March 1993
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

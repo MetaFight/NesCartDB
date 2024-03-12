@@ -1,0 +1,117 @@
+metadata:
+  name: Cosmic Wars
+  altName: コズミックウォーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 00:59:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: cosmic-wars
+releaseInfo:
+  catalogId: KDS-CJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 4, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-CJ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56b1566482c136464b6f88bf33f109a4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KDS-CJ-0 PRG
+  size: 128 KB
+  crc32: 9EAB6B1F
+  x: 1
+- type: CHR0
+  label: KDS-CJ-0 CHR
+  size: 128 KB
+  crc32: 8C8F8FA5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9F2712DF
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b5e6ff276884d7e11466608561a113b1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 3453')"
+    filename: /images/175/82f707f1016690645558584d74fcfd4e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8929
+  estFirstRun: July 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: EX
+  std: 8923
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NWX
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 979
+  dateCodeSuffix: 52
+  std: 8929
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8928
+  dateCodeSuffix: 3 A
+  std: 8928
+  misc: 
+- designation: U4 W-RAM
+  maker: Sony
+  partNumber: CXK5864BP-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 95
+  dateCodeSuffix: 73
+  std: 8918
+  misc: 

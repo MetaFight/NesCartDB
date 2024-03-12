@@ -1,0 +1,113 @@
+metadata:
+  name: Maison Ikkoku
+  altName: めぞん一刻
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:24:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f14fd607aade1e8457fc78b6baab419.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c54351eb22b7a4895fc02f21b569c080.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/49f4ce9ba82eeab637065ee007a4e84e.jpg
+slug: maison-ikkoku
+releaseInfo:
+  catalogId: BTC-M1
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 21, 1988
+  publisher: Bothtec (Quest)
+  developer: Bothtec (Quest)
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: BTC-M1
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4366350fb6555178baee27879293dc5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: BTC-M1-0 PRG
+  size: 256 KB
+  crc32: 46F30F2D
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8839
+  estFirstRun: September 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 17
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8839
+  dateCodeSuffix: D
+  std: 8839
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8838
+  dateCodeSuffix: 1 DA
+  std: 8838
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8832
+  dateCodeSuffix: B5
+  std: 8832
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8834
+  dateCodeSuffix: 7 A
+  std: 8834
+  misc: 

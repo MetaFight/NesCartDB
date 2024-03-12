@@ -1,0 +1,107 @@
+metadata:
+  name: Castle Excellent
+  altName: キャッスルエクセレント
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 21:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 434
+  additionalImages: 
+slug: castle-excellent
+releaseInfo:
+  catalogId: HSP-05
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 28, 1986
+  publisher: ASCII
+  developer: Bits Laboratory
+  players: 1
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HSP-05
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e98eea4ccacd4eda6fcbc5c1a824ad2f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-05-0 PRG
+  size: 32 KB
+  crc32: 9FA1C11F
+  x: 1
+- type: CHR0
+  label: HSP-05-0 CHR
+  size: 32 KB
+  crc32: 04A8FF2E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 7FA2CC55
+  x: 1
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ec8f0f37fa94adf905723bd5027a2889.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 2690')"
+    filename: /images/175/2bc135e3bceee088043829b169c499b1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8646
+  estFirstRun: November 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 96
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8646
+  dateCodeSuffix: E
+  std: 8646
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 95
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8646
+  dateCodeSuffix: E
+  std: 8646
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8628
+  dateCodeSuffix: H
+  std: 8628
+  misc: 

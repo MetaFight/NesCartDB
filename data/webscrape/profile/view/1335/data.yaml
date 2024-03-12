@@ -1,0 +1,123 @@
+metadata:
+  name: Sky Kid
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 00:42:00
+  moreProfiles:
+  - 1078
+  - 1335
+  relatedProfiles:
+  - 1590
+  additionalImages: 
+slug: sky-kid
+releaseInfo:
+  catalogId: NES-SY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Sunsoft
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SY-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a02c9464acbe952b16023c5e187c914.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/55ab99e148b39b2d577aca6a3b3ac176.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-SY-0 PRG
+  size: 32 KB
+  crc32: AD7F9480
+  x: 2
+- type: CHR0
+  label: NES-SY-0 CHR
+  size: 128 KB
+  crc32: 419C422A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 3322105A
+  x: 2
+pcbProperties:
+  name: NES-SHROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SHROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f896b6931b62ec11e0da59a468d315c8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8736 - 8739 (2)
+  estFirstRun: September 1987
+  pcbClass: NES-SHROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: MMC1
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: E
+  std: 8739
+  misc: 
+- designation: IC2 CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: IC3 CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 

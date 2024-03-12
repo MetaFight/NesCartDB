@@ -1,0 +1,109 @@
+metadata:
+  name: RoboCop 2
+  altName: ロボコップ２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4374
+  - 1881
+  - 620
+  additionalImages: 
+slug: robocop-2
+releaseInfo:
+  catalogId: DFC-2C
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 2, 1991
+  publisher: Data East
+  developer: Ocean
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: DFC-2C
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c06042177645fbd86429ee24addb533b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: DFC-2C-0 PRG
+  size: 128 KB
+  crc32: E1A987E7
+  x: 1
+- type: CHR0
+  label: DFC-2C-0 CHR
+  size: 128 KB
+  crc32: 086FBCB2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C22FF1D8
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/084ceefda18e1d79b53e81f3cc4b2f55.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9110
+  estFirstRun: March 1991
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9110
+  dateCodeSuffix: K9701
+  std: 9110
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9110
+  dateCodeSuffix: EY701
+  std: 9110
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9108
+  dateCodeSuffix: 7 AA
+  std: 9108
+  misc: 

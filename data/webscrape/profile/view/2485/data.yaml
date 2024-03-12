@@ -1,0 +1,136 @@
+metadata:
+  name: Jurassic Park
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-12 00:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1038
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-J9-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/84581ad11217492b8fcfe1b992666148.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-J9-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3825888af636bd39f329eaa0acc8d093.jpg
+slug: jurassic-park
+releaseInfo:
+  catalogId: NES-J9-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: December 28, 1993
+  publisher: Ocean
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-J9-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1240ae8c1efeefdddbc1e0847437b1df.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a53c0fb743fb07aa511f3c4952a082dd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-J9-0 PRG
+  size: 128 KB
+  crc32: 10574E54
+  x: 1
+- type: CHR0
+  label: PAL-J9-0 CHR
+  size: 128 KB
+  crc32: 2C2A1012
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6C1AB645
+  x: 1
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fc9c77fc9c470683537cf2dcebddb11d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9348
+  estFirstRun: December 1993
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 0E
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9348
+  dateCodeSuffix: E
+  std: 9348
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 0C
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9348
+  dateCodeSuffix: D
+  std: 9348
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9247
+  dateCodeSuffix: A
+  std: 9247
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9317
+  dateCodeSuffix: 1 A
+  std: 9317
+  misc: 
+- designation: U5 W-RAM
+  maker: LSI Logic
+  partNumber: LH5268AF-10TLL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 342
+  dateCodeSuffix: D
+  std: 9342
+  misc: 

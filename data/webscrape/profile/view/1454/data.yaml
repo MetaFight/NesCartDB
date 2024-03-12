@@ -1,0 +1,108 @@
+metadata:
+  name: "Soccer League: Winner's Cup"
+  altName: サッカーリーグ ウィナーズカップ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 01:15:00
+  moreProfiles:
+  - 1454
+  - 3505
+  relatedProfiles: []
+  additionalImages: 
+slug: soccer-league-winners-cup
+releaseInfo:
+  catalogId: DFC-WN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 12, 1988
+  publisher: Data East
+  developer: Sakata SAS
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange-Red
+  formFactor: Small
+  frontLabelId: DFC-WN
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d38067733eee980b5cf1e19851dde50e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-WN-0 PRG
+  size: 128 KB
+  crc32: 5A7FD507
+  x: 2
+- type: CHR0
+  label: DFC-WN-0 CHR
+  size: 128 KB
+  crc32: B152FB6C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8D3C33B3
+  x: 2
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/732df1111d3600ffc7df8ebe8524d1bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8828 - 8831 (2)
+  estFirstRun: July 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8827
+  dateCodeSuffix: KX
+  std: 8827
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8828
+  dateCodeSuffix: KY
+  std: 8828
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8831
+  dateCodeSuffix: 1 A
+  std: 8831
+  misc: 

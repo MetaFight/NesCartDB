@@ -1,0 +1,102 @@
+metadata:
+  name: Solstice
+  altName: ソルスティス 三次元迷宮の狂獣
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 02:58:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1998
+  - 1617
+  - 2391
+  - 2018
+  - 199
+  additionalImages: 
+slug: solstice
+releaseInfo:
+  catalogId: ESF-E3/ESPG-33
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 20, 1990
+  publisher: Epic / Sony Records
+  developer: Software Creations
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Violet
+  formFactor: Small
+  frontLabelId: ESF-E3
+  secondaryId: ESPG-33
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eadc95fe8a5f4407094c3b27ee1b68b4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ESF-E3-0 PRG
+  size: 128 KB
+  crc32: A91460B8
+  x: 1
+pcbProperties:
+  name: HVC-AMROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9020
+  estFirstRun: May 1990
+  pcbClass: HVC-AMROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5448
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0EL
+  dateCodeSuffix: 40
+  std: 9020
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0D
+  dateCodeSuffix: 18E
+  std: 9014
+  misc: 
+- designation: U3 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8940
+  dateCodeSuffix: HnS
+  std: 8940
+  misc: 661600T

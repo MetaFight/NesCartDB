@@ -1,0 +1,132 @@
+metadata:
+  name: R.C. Pro-Am
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-06-09 19:13:00
+  moreProfiles:
+  - 1614
+  - 2139
+  - 2474
+  - 2515
+  relatedProfiles:
+  - 2377
+  - 4715
+  - 24
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PM-EEC<br>Submitted by: piteta<br>Linked from profile 2139')"
+    filename: /images/175/5b8d0c1afa9920d27ea0ca7f6987d5c0.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PM-EEC<br>Submitted by: piteta<br>Linked from profile 2139')"
+    filename: /images/175/7329427656512026304ab62d122e8f6b.jpg
+slug: rc-pro-am
+releaseInfo:
+  catalogId: NES-PM-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: April 15, 1988
+  publisher: Nintendo
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PM-EEC
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: FRG
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2474')"
+    filename: /images/175/215c979be20909b7673bac9147133aa8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/6de6fadf6a984e69f48bce5867ac742a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2057')"
+    filename: /images/175/c95adb7e02173738ba713de4ad5b5ac3.jpg
+romDetails:
+- type: PRG0
+  label: PAL-PM-0 PRG
+  size: 64 KB
+  crc32: E5A972BE
+  x: 4
+pcbProperties:
+  name: NES-AN1ROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8811 - 8832 (4)
+  estFirstRun: March 1988
+  pcbClass: NES-AN1ROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx02, 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5313
+  partNumberSubDetail: T1
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8821
+  dateCodeSuffix: E
+  std: 8821
+  misc: 
+- designation: CHR-ROM
+  maker: Sanyo
+  partNumber: LC3664N-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8B
+  dateCodeSuffix: 8
+  std: 8805
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8744
+  dateCodeSuffix: A
+  std: 8744
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8821
+  dateCodeSuffix: CA
+  std: 8821
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: MN74HC02
+  partNumberSubDetail: 
+  type: 74-02 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8?
+  dateCodeSuffix: ''
+  std: 8803
+  misc: 

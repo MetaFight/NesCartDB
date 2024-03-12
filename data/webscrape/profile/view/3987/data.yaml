@@ -1,0 +1,105 @@
+metadata:
+  name: Akumajou Dracula
+  altName: 悪魔城ドラキュラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 06:11:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: akumajou-dracula
+releaseInfo:
+  catalogId: KON-RV003
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 5, 1993
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RV003
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0d9a76e66cf33fde20c2b86298d0b1a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a0f3ade397af069771dabaa007c39ae6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RV 003 J00P
+  size: 128 KB
+  crc32: A0F99BB8
+  x: 1
+pcbProperties:
+  name: 353525
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9302
+  estFirstRun: January 1993
+  pcbClass: KONAMI-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Panasonic
+  partNumber: ''
+  partNumberSubDetail: MN231001
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 314
+  dateCodeSuffix: 53
+  std: 9302
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5168D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9209
+  dateCodeSuffix: 3 SB
+  std: 9209
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8737
+  dateCodeSuffix: W04
+  std: 8737
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9247
+  dateCodeSuffix: JJBD
+  std: 9247
+  misc: 

@@ -1,0 +1,107 @@
+metadata:
+  name: Kaijuu Monogatari
+  altName: 貝獣物語
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 04:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1599
+  - 1819
+  - 3324
+  additionalImages: 
+slug: kaijuu-monogatari
+releaseInfo:
+  catalogId: NAM-KM-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 18, 1988
+  publisher: Namco
+  developer: Birthday
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/0b734ea48e71e0318e0e9f9e701e71a3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/5c54dd17fc123c35571fe5ac543d2e34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT KM PRG
+  size: 128 KB
+  crc32: B1B9E187
+  x: 3
+- type: CHR0
+  label: NAMCOT KM CHR
+  size: 128 KB
+  crc32: 1009E2A2
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BC11E61A
+  x: 3
+pcbProperties:
+  name: 111F0
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>111F0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af9fc93fbb226405f63cda58ad901eae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>111F0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f558573839c0abd4f3f16e16bf04c699.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8839 - 8925 (3)
+  estFirstRun: September 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: P
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 5804
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9F3
+  dateCodeSuffix: 70
+  std: 8925
+  misc: 
+- designation: C
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 5805
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9F3
+  dateCodeSuffix: 70
+  std: 8925
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 163
+  partNumberSubDetail: 
+  type: Namcot 163
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 8840
+  dateCodeSuffix: Z28
+  std: 8840
+  misc: 

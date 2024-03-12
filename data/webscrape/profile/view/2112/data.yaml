@@ -1,0 +1,74 @@
+metadata:
+  name: Snow Brothers
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2007-09-24 05:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1915
+  - 1258
+  additionalImages: 
+slug: snow-brothers
+releaseInfo:
+  catalogId: NES-7L-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1991
+  publisher: Capcom
+  developer: Toaplan
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7L-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-7L-0 PRG
+  size: 128 KB
+  crc32: 154B30C0
+  x: 1
+- type: CHR0
+  label: PAL-7L-0 CHR
+  size: 128 KB
+  crc32: A0A7EABF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A9660690
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo: []

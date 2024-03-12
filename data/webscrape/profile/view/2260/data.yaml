@@ -1,0 +1,159 @@
+metadata:
+  name: Napoleon Senki
+  altName: ナポレオン戦記
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 01:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: napoleon-senki
+releaseInfo:
+  catalogId: IF-09
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 18, 1988
+  publisher: Irem
+  developer: Lenar
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Black
+  formFactor: New Style
+  frontLabelId: IF-09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ec3764ee8d436fad39f8806084f7e18.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b6999bf5ceeff658b72821f7888d32e4.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: ADB47286
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: F822DD8D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 06144B4A
+  x: 1
+pcbProperties:
+  name: LROG017-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG017-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/39a602823a348d0a182e2f532909e58c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG017-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b4eb531b4f31ccec9e29729057639500.jpg
+  pcbProducer: Irem
+  manufacturer: Sharp
+  mfgRange: 8810
+  estFirstRun: March 1988
+  pcbClass: IREM-74*161/161/21/138
+  inesMapper: 77
+  mirroring: Four Screen
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx138, 74xx161, 74xx161, 74xx21
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG017
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8810
+  dateCodeSuffix: 2
+  std: 8810
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8802
+  dateCodeSuffix: CA
+  std: 8802
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8802
+  dateCodeSuffix: CA
+  std: 8802
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC21C
+  partNumberSubDetail: 
+  type: 74-21 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8711
+  dateCodeSuffix: A7
+  std: 8711
+  misc: 
+- designation: 
+  maker: Texas Instruments
+  partNumber: SN74HC138N
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 745
+  dateCodeSuffix: J
+  std: 8745
+  misc: 

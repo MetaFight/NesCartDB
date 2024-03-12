@@ -1,0 +1,95 @@
+metadata:
+  name: Kaiketsu Yanchamaru
+  altName: 快傑ヤンチャ丸
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 04:11:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kaiketsu-yanchamaru
+releaseInfo:
+  catalogId: IF-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 2, 1987
+  publisher: Irem
+  developer: Irem
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original wo/ LED
+  frontLabelId: IF-07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/25f0dfb0e6ed29f0afe6f371373d91ae.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/908ca701bc56cc24df6fb719878b077c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/21c8d04e47a09a9a80a44bae17527b76.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: D1397940
+  x: 1
+pcbProperties:
+  name: FC-00-003
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8739
+  estFirstRun: September 1987
+  pcbClass: IREM-TAM-S1
+  inesMapper: 97
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: TAM-S1
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 06
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8514
+  dateCodeSuffix: EX703
+  std: 8514
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: TAM-S1
+  partNumberSubDetail: 
+  type: Irem TAM-S1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8732
+  dateCodeSuffix: C26
+  std: 8732
+  misc: 

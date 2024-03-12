@@ -1,0 +1,131 @@
+metadata:
+  name: Disney's DuckTales
+  altName: 
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 01:11:00
+  moreProfiles:
+  - 38
+  - 844
+  - 2849
+  - 1324
+  - 2919
+  - 4620
+  relatedProfiles:
+  - 2427
+  - 1985
+  - 4480
+  - 3780
+  - 2559
+  additionalImages: 
+slug: disneys-ducktales
+releaseInfo:
+  catalogId: NES-UK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/afaa32e1df6c7698f79caede4bd3129b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DUCK NEC CAPCOM
+  size: 128 KB
+  crc32: FF53D73E
+  x: 1
+pcbProperties:
+  name: NES-UNROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8938 - 8948 (3)
+  estFirstRun: September 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 27C1000
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2 CHR RAM
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U4 HC161
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74161
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5 HC32
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 7432
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

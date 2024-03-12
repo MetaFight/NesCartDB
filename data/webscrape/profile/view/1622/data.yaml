@@ -1,0 +1,119 @@
+metadata:
+  name: Spiritual Warfare
+  altName: 
+  variant: (Version 5.1)
+  submittedBy: bootgod
+  submittedOn: 2007-06-18 01:33:00
+  moreProfiles:
+  - 960
+  - 1365
+  - 1622
+  relatedProfiles: []
+  additionalImages: 
+slug: spiritual-warfare
+releaseInfo:
+  catalogId: WT-SC-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 960')"
+    filename: /images/175/e5be0208c2d3ed39fb74e6aea1fffa59.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 11')"
+    filename: /images/175/2802b7e85d3c27e439b1da228806fe6a.jpg
+romDetails:
+- type: PRG0
+  label: SC5
+  size: 128 KB
+  crc32: FF71813F
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 4A0822FD
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1948810E
+  x: 1
+pcbProperties:
+  name: BC5
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC5<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9355f9ccede559874240abb9c61a864f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC5<br>Submitted by: bootgod<br>Linked from profile 1607')"
+    filename: /images/175/16d4d6a4ad94f374242b1d164c208b7b.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9211 - 9514 (3)
+  estFirstRun: March 1992
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 4051
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: ST Micro
+  partNumber: M27C1001-12F1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9514
+  dateCodeSuffix: E
+  std: 9514
+  misc: 
+- designation: 
+  maker: ST Micro
+  partNumber: M27C1001-15F1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9131
+  dateCodeSuffix: 8
+  std: 9131
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9502
+  dateCodeSuffix: FIX
+  std: 9502
+  misc: 
+- designation: 
+  maker: Harris
+  partNumber: CD4051BE
+  partNumberSubDetail: 
+  type: 4051
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9336
+  dateCodeSuffix: H
+  std: 9336
+  misc: 

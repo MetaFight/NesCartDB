@@ -1,0 +1,118 @@
+metadata:
+  name: Championship Bowling
+  altName: チャンピオンシップボウリング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 05:15:00
+  moreProfiles: []
+  relatedProfiles:
+  - 707
+  additionalImages: 
+slug: championship-bowling
+releaseInfo:
+  catalogId: ATH-8B
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 8, 1991
+  publisher: Athena
+  developer: Another
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: ATH-8B
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a1a02105b64f63ecdc71627e495441f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 11C2E664
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 94103FA9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9992F445
+  x: 1
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c0407e9afc95fb3a0e2aadcba66f0c5b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9040
+  estFirstRun: October 1990
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: J8B
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: F
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9040
+  dateCodeSuffix: ''
+  std: 9040
+  misc: 

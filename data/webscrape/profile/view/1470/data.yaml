@@ -1,0 +1,96 @@
+metadata:
+  name: Volguard II
+  altName: ヴォルガードⅡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 03:49:00
+  moreProfiles:
+  - 1470
+  - 3686
+  relatedProfiles: []
+  additionalImages: 
+slug: volguard-ii
+releaseInfo:
+  catalogId: DBF-VL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1985
+  publisher: dB-SOFT
+  developer: dB-SOFT
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: dBF-VL
+  backLabelId/Desc: 850610
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/19aefc2c87fee52587383a7e2803aefe.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: dBF-VL-0 PRG
+  size: 32 KB
+  crc32: 29CC4DEE
+  x: 2
+- type: CHR0
+  label: dBF-VL-0 CHR
+  size: 8 KB
+  crc32: 575BA8B1
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: FDE14CCE
+  x: 2
+pcbProperties:
+  name: HVC-NROM-256K-02S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7a8bf58ba398f4562010ba61680d9d1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02S<br>Submitted by: bootgod<br>Linked from profile 3457')"
+    filename: /images/175/8334f808d8455e94a0ca64d4b9dbb9f6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8546 - 8548 (2)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0060
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5L4
+  dateCodeSuffix: A4
+  std: 8548
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 38
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8548
+  dateCodeSuffix: D
+  std: 8548
+  misc: 

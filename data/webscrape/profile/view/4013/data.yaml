@@ -1,0 +1,119 @@
+metadata:
+  name: 'Downtown Special: Kunio-kun no Jidaigeki Dayo Zenin Shuugou!'
+  altName: ダウンタウンスペシャル くにおくんの時代劇
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:32:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1a0831adf3b2032d764eed4574b1703.jpg
+slug: downtown-special-kunio-kun-no-jidaigeki-dayo-zenin-shuugou
+releaseInfo:
+  catalogId: TJC-J6
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 26, 1991
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-J6
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3760d22afe70c0e48402b1b55409f352.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TJC-J6-0 PRG
+  size: 128 KB
+  crc32: F3FEB3AB
+  x: 1
+- type: CHR0
+  label: TJC-J6-0 CHR
+  size: 128 KB
+  crc32: 3F6ACEEF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DC45A886
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/447e0eb19c392db71d000f416549ef89.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9122
+  estFirstRun: June 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W19
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9122
+  dateCodeSuffix: K9715
+  std: 9122
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W12
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9122
+  dateCodeSuffix: EY708
+  std: 9122
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9046
+  dateCodeSuffix: KP005
+  std: 9046
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9122
+  dateCodeSuffix: DC
+  std: 9122
+  misc: 

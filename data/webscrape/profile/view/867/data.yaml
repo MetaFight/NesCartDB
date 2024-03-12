@@ -1,0 +1,122 @@
+metadata:
+  name: Pinball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-29 01:28:00
+  moreProfiles:
+  - 17
+  - 234
+  - 867
+  relatedProfiles:
+  - 2380
+  - 2092
+  - 4373
+  - 1459
+  - 1911
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PN USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b2787c55bb1bd37ccf8e4cf0b1873feb.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PN USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9fdb8ee81932498ac82cdfdc29e7be6a.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-PN-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e00507714303436b4a2e49a2f2fc7175.jpg
+slug: pinball
+releaseInfo:
+  catalogId: NES-PN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PN-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 17')"
+    filename: /images/175/73958de703a270369b34d277110663fe.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 17')"
+    filename: /images/175/09beb3fec0ca6f5582402838291c4be1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: HVC-PN-0 PRG
+  size: 16 KB
+  crc32: 91D33E3C
+  x: 12
+- type: CHR0
+  label: HVC-PN-0 CHR
+  size: 8 KB
+  crc32: F2A53B3D
+  x: 18
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 035DC2E9
+  x: 12
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/041af27fbd69b7bb7c39aafc6e3dea8f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8543 - 8846 (3)
+  estFirstRun: October 1985
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 84
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: B
+  std: 8814
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 94
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: B
+  std: 8814
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8809
+  dateCodeSuffix: A
+  std: 8809
+  misc: 

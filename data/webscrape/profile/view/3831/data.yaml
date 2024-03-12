@@ -1,0 +1,104 @@
+metadata:
+  name: 'Sakigake!! Otoko Juku: Shippu Ichi Gou Sei'
+  altName: 魁！男塾 疾風一号生
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 12:05:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sakigake-otoko-juku-shippu-ichi-gou-sei
+releaseInfo:
+  catalogId: BA-SAKI
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 3, 1989
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/791e14e1b33e54fb653565f7f38d3a32.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f2fc3dbc6c69de067a41dfb2b99d1e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9b3503b5c73d704f48237717db64041a.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: AB3062CF
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 4B842939
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9C04C8D5
+  x: 1
+pcbProperties:
+  name: DORAGON2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DORAGON2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebf15f892470e57a2ee4abf1ae4d85ba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>DORAGON2<br>Submitted by: bootgod<br>Linked from profile 3125')"
+    filename: /images/175/ca1a9b0ecb3793a279f09a668360cdbf.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8930
+  estFirstRun: July 1989
+  pcbClass: BANDAI-FCG-1
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FCG-2
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: T54
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8930
+  dateCodeSuffix: EX756
+  std: 8930
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: T60
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8930
+  dateCodeSuffix: EX755
+  std: 8930
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FCG-2
+  partNumberSubDetail: 
+  type: Bandai FCG-2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8929
+  dateCodeSuffix: 5 T
+  std: 8929
+  misc: 

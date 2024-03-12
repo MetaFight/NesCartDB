@@ -1,0 +1,125 @@
+metadata:
+  name: Ring King
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 03:32:00
+  moreProfiles:
+  - 696
+  - 807
+  - 2833
+  relatedProfiles:
+  - 1589
+  additionalImages: 
+slug: ring-king
+releaseInfo:
+  catalogId: NES-RK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Data East
+  developer: Woodplace
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RK-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d4f7eeef5b7e515e0850aa520a2433ee.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/60e026853ee9420b3f1dd0a3a12ad28f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-RK-0 PRG
+  size: 64 KB
+  crc32: 4EBE8A31
+  x: 3
+- type: CHR0
+  label: NES-RK-0 CHR
+  size: 64 KB
+  crc32: C91FA9C9
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5BB62688
+  x: 3
+pcbProperties:
+  name: NES-DEROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-DEROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0d9b4ae096e5334499ca05e75e568cf0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8737 - 8823 (2)
+  estFirstRun: September 1987
+  pcbClass: NES-DEROM
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+  hardware: 109
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH5313
+  partNumberSubDetail: R8
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8737
+  dateCodeSuffix: E
+  std: 8737
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH5313
+  partNumberSubDetail: R7
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: E
+  std: 8736
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8724
+  dateCodeSuffix: C
+  std: 8724
+  misc: 
+- designation: CAS 108/109
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8729
+  dateCodeSuffix: B
+  std: 8729
+  misc: 

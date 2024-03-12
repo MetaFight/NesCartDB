@@ -1,0 +1,123 @@
+metadata:
+  name: Adventures of Lolo
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-22 17:54:00
+  moreProfiles:
+  - 2407
+  - 2560
+  relatedProfiles:
+  - 709
+  additionalImages: 
+slug: adventures-of-lolo
+releaseInfo:
+  catalogId: NES-AV-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: December 28, 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AV-EEC
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0350d0b444165eaa5a779b2bd65f6627.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4113beedde87868edc9e13e7dc9e86b8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4370')"
+    filename: /images/175/a21af66f98afe9cf2e24a1304514bd71.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AV-0 PRG
+  size: 32 KB
+  crc32: 8E773E04
+  x: 2
+- type: CHR0
+  label: PAL-AV-0 CHR
+  size: 32 KB
+  crc32: 1F9817E9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: DF4EDC13
+  x: 2
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4d487fb78ffc734ea01ed7b2758c4188.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023 - 9039 (2)
+  estFirstRun: June 1990
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2890
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0FC
+  dateCodeSuffix: 11
+  std: 9023
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2891
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0FF
+  dateCodeSuffix: 11
+  std: 9023
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9022
+  dateCodeSuffix: A
+  std: 9022
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8951
+  dateCodeSuffix: B3026
+  std: 8951
+  misc: 

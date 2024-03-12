@@ -1,0 +1,122 @@
+metadata:
+  name: Mappy-Land
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-06-22 17:23:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1790
+  additionalImages: 
+slug: mappy-land
+releaseInfo:
+  catalogId: NES-YD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1989
+  publisher: Taxan
+  developer: Namco
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YD-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d00c5b4ccd8eb8019190ebbc21baa33.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6026856d8ec5b31c7dea33699967efbe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YD-0 PRG
+  size: 128 KB
+  crc32: 6D9BA342
+  x: 1
+- type: CHR0
+  label: NES-YD-0 CHR
+  size: 32 KB
+  crc32: B01F4B06
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 83FC38F8
+  x: 1
+pcbProperties:
+  name: NES-TFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1ca17e1f718080ed5cc00cea854dd67.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8910
+  estFirstRun: March 1989
+  pcbClass: NES-TFROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9B5
+  dateCodeSuffix: A1
+  std: 8910
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2808
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9B5
+  dateCodeSuffix: 13
+  std: 8910
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8907
+  dateCodeSuffix: KP
+  std: 8907
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8909
+  dateCodeSuffix: 5 AA
+  std: 8909
+  misc: 

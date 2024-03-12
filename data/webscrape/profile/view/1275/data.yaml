@@ -1,0 +1,131 @@
+metadata:
+  name: Mickey's Safari in Letterland
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-15 06:16:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mickeys-safari-in-letterland
+releaseInfo:
+  catalogId: NES-M8-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 1993
+  publisher: Hi Tech Expressions
+  developer: Beam Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Hi Tech Expressions
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Hi Tech Expressions Licensed by Nintendo Made in U.S.A.
+  frontLabelId: Not Present
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: XLRX
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b6dd6407bfd3aeed3bcbba61d441a5c2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4454f8a51afe1b327d68f69158764760.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-M8 PRG
+  size: 128 KB
+  crc32: 91AA57F1
+  x: 1
+- type: CHR0
+  label: NES-M8 CHR
+  size: 128 KB
+  crc32: FBD1BB6A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 982DFB38
+  x: 1
+pcbProperties:
+  name: 55741
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>55741<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d8b85e4177e945b85decf31b28ff21ee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>55741<br>Submitted by: bootgod<br>Linked from profile 669')"
+    filename: /images/175/1cefaa96e7ab6abb2d9eb1b369106859.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9304
+  estFirstRun: January 1993
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx08, MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C1003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9304
+  dateCodeSuffix: ''
+  std: 9304
+  misc: 
+- designation: U2 CHR
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C1003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9303
+  dateCodeSuffix: ''
+  std: 9303
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: 3 BB
+  std: 9234
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9233
+  dateCodeSuffix: KVA22
+  std: 9233
+  misc: 
+- designation: U5
+  maker: Toshiba
+  partNumber: 74HC08AP
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9303
+  dateCodeSuffix: H
+  std: 9303
+  misc: 

@@ -1,0 +1,80 @@
+metadata:
+  name: Mighty Final Fight
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-08-16 19:40:00
+  moreProfiles:
+  - 1005
+  - 2767
+  relatedProfiles:
+  - 2070
+  - 3745
+  additionalImages: 
+slug: mighty-final-fight
+releaseInfo:
+  catalogId: NES-MF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2767')"
+    filename: /images/175/d26b74ca88544935e62ac0f8678443e8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2767')"
+    filename: /images/175/25aa23a488fa5d924e435e7287862e73.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-MF-0 PRG
+  size: 128 KB
+  crc32: 2EE3EF15
+  x: 2
+- type: CHR0
+  label: NES-MF-0 CHR
+  size: 128 KB
+  crc32: BCFEB409
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3F78037C
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9326
+  estFirstRun: June 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

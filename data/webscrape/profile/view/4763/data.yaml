@@ -1,0 +1,117 @@
+metadata:
+  name: Yume Penguin Monogatari
+  altName: 夢ペンギン物語
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 05:16:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: yume-penguin-monogatari
+releaseInfo:
+  catalogId: KDS-U8
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 25, 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-U8
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/e1b50fc893228e33c4f83df7c703d4a8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/e8c8e8a1107a3b5bf53266a47121e129.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 14A77E98
+  x: 0
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 22BAE0B9
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CBFB6DE5
+  x: 0
+pcbProperties:
+  name: TL-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>TL-01A<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/1b07e6ff164f2ee12e2e936f1b6323ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>TL-01A<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/c6fdefbc5c6f5e583443f74c8aece2f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9048
+  estFirstRun: December 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 1LU8
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: P
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9048
+  dateCodeSuffix: KP069
+  std: 9048
+  misc: 

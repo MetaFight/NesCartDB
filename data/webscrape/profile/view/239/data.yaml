@@ -1,0 +1,125 @@
+metadata:
+  name: World Class Track Meet
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-09 00:41:00
+  moreProfiles:
+  - 239
+  - 780
+  relatedProfiles:
+  - 2416
+  - 4027
+  - 1394
+  additionalImages: 
+slug: world-class-track-meet
+releaseInfo:
+  catalogId: NES-WT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1988
+  publisher: Nintendo
+  developer: Human Entertainment
+  players: 2
+  peripherals: Power Pad
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WT-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/801757be551eb39723a0275183bad123.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/212716240d557f70473482626f002e22.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WT-0 PRG
+  size: 32 KB
+  crc32: 1A43BFA9
+  x: 1
+- type: CHR0
+  label: NES-WT-0 CHR
+  size: 32 KB
+  crc32: 6AB36671
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 5734EB9E
+  x: 1
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca0a6e7769417e0f75c8aa44bb02ec05.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8908 - 9004 (2)
+  estFirstRun: February 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: YB
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8906
+  dateCodeSuffix: B
+  std: 8906
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: YD
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: B
+  std: 8908
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8907
+  dateCodeSuffix: 5 BA
+  std: 8907
+  misc: 
+- designation: LS161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8H4
+  dateCodeSuffix: T
+  std: 8834
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: 'Kamen Rider SD: Guranshokkaa no Yabou'
+  altName: 仮面ライダーＳＤ グランショッカーの野望
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 01:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kamen-rider-sd-guranshokkaa-no-yabou
+releaseInfo:
+  catalogId: ANG-KA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 22, 1993
+  publisher: Angel
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime
+  formFactor: Small
+  frontLabelId: ANG-KA
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/91b4ea44387de981aea1ddf69feea0a8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ANG-KA-0 PRG
+  size: 128 KB
+  crc32: 4EE69E3D
+  x: 1
+- type: CHR0
+  label: ANG-KA-0 CHR
+  size: 128 KB
+  crc32: 1E412648
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2A1919FE
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/523e47a2243943f81708e8acc1e4a599.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9249
+  estFirstRun: December 1992
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6712
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2MC
+  dateCodeSuffix: 1A
+  std: 9249
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0176
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2LC
+  dateCodeSuffix: 14
+  std: 9245
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9248
+  dateCodeSuffix: 7 A
+  std: 9248
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9236
+  dateCodeSuffix: A
+  std: 9236
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: 'Itadaki Street: Watashi no Mise ni Yottette'
+  altName: いた
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 07:05:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: itadaki-street-watashi-no-mise-ni-yottette
+releaseInfo:
+  catalogId: HSP-35
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 21, 1991
+  publisher: ASCII
+  developer: Game Studio
+  players: 4
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HSP-35
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b301511a77e364839353f18ec411ee9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: HSP-35-0 PRG
+  size: 128 KB
+  crc32: 7E5D2F1A
+  x: 1
+- type: CHR0
+  label: HSP-35-0 CHR
+  size: 128 KB
+  crc32: 1D98B913
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CA503F32
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/99c253f7b8bde1b8595f450bc955f04e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 3451')"
+    filename: /images/175/58d46d7468263b0f9bdd6e27dd7f131d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9106
+  estFirstRun: February 1991
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NTZ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1
+  dateCodeSuffix: B3
+  std: 9106
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NSA
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1
+  dateCodeSuffix: 52
+  std: 9106
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9103
+  dateCodeSuffix: 1 TA
+  std: 9103
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9039
+  dateCodeSuffix: 5 DB
+  std: 9039
+  misc: 

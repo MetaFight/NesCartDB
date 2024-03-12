@@ -1,0 +1,81 @@
+metadata:
+  name: Adventure Island
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-13 04:04:00
+  moreProfiles:
+  - 59
+  - 779
+  - 854
+  relatedProfiles:
+  - 1428
+  - 1501
+  - 1939
+  additionalImages: 
+slug: adventure-island
+releaseInfo:
+  catalogId: NES-TB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1988
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TB-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 59')"
+    filename: /images/175/5c6b2b5d997cae48a7a941dfcebffeb9.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TB-0 PRG
+  size: 32 KB
+  crc32: 34A8BD90
+  x: 4
+- type: CHR0
+  label: NES-TB-0 CHR
+  size: 32 KB
+  crc32: F01F13A3
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: F8A713BE
+  x: 4
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8832 - 8913 (2)
+  estFirstRun: August 1988
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

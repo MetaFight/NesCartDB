@@ -1,0 +1,78 @@
+metadata:
+  name: Friday the 13th
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 01:46:00
+  moreProfiles:
+  - 176
+  - 487
+  - 567
+  relatedProfiles: []
+  additionalImages: 
+slug: friday-the-13th
+releaseInfo:
+  catalogId: NES-F3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1989
+  publisher: LJN
+  developer: Pack-In-Video
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-F3-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 176')"
+    filename: /images/175/94b5993a50fc29f3f360ba68ce50ea8f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 487')"
+    filename: /images/175/98dc491a02b50348873d7f97d50d08bc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-F3-0 PRG
+  size: 32 KB
+  crc32: 92861600
+  x: 3
+- type: CHR0
+  label: NES-F3-0 CHR
+  size: 32 KB
+  crc32: 1B5BB3E0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: BEB15855
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8901 - 8914 (2)
+  estFirstRun: January 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

@@ -1,0 +1,132 @@
+metadata:
+  name: 'Double Dragon III: The Sacred Stones'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-11 03:30:00
+  moreProfiles:
+  - 557
+  - 1234
+  relatedProfiles:
+  - 1717
+  - 2452
+  - 2028
+  - 4476
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-3W USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bbccb1311b3271edb43f84b178a808c1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-3W USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8843a0bc643f8d40539e3819e7866c77.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-3W-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8bda64182b0d6c303e084b7246420810.jpg
+slug: double-dragon-iii-the-sacred-stones
+releaseInfo:
+  catalogId: NES-3W-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Acclaim
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3W-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b111e758b45e7c12916ea2e72c228a90.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/53e2471939759f75d573a3c9ec966861.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-3W-0 PRG
+  size: 128 KB
+  crc32: AC9817E3
+  x: 3
+- type: CHR0
+  label: NES-3W-0 CHR
+  size: 128 KB
+  crc32: 1E3FE47F
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 50FD0CC6
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0b6ab16fdbe559f57a6fb4cd939502f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9121
+  estFirstRun: May 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 70
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9121
+  dateCodeSuffix: E
+  std: 9121
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 35
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9121
+  dateCodeSuffix: E
+  std: 9121
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: 3 CB
+  std: 9046
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9046
+  dateCodeSuffix: KP087
+  std: 9046
+  misc: 

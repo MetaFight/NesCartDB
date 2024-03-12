@@ -1,0 +1,124 @@
+metadata:
+  name: Flight of the Intruder
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-12 02:23:00
+  moreProfiles:
+  - 748
+  - 1062
+  relatedProfiles:
+  - 4045
+  additionalImages: 
+slug: flight-of-the-intruder
+releaseInfo:
+  catalogId: NES-4F-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1991
+  publisher: Mindscape
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4F-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/16db01e7d9f91ccf490bde4f2ced224a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b528fe9a94d9b9310c0c3ec0c5d30c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4F-0 PRG
+  size: 128 KB
+  crc32: F92BE7F2
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9207
+  estFirstRun: February 1992
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9207
+  dateCodeSuffix: E
+  std: 9207
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9203
+  dateCodeSuffix: KT34
+  std: 9203
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9204
+  dateCodeSuffix: 7 BB
+  std: 9204
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 148
+  dateCodeSuffix: ER
+  std: 9148
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32AN
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9142
+  dateCodeSuffix: JJBS
+  std: 9142
+  misc: 

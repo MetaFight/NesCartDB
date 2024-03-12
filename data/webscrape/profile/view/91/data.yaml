@@ -1,0 +1,120 @@
+metadata:
+  name: 'WURM: Journey to the Center of the Earth'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-06 04:53:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: wurm-journey-to-the-center-of-the-earth
+releaseInfo:
+  catalogId: NES-WQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1991
+  publisher: Asmik
+  developer: Cyclone System
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WQ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6d0b5fd6008ee7ec46e9490b8958878.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/72710e04b95d6d3cda3b6f05daa7aad0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WQ-0 PRG
+  size: 128 KB
+  crc32: 4AFD02B9
+  x: 1
+- type: CHR0
+  label: NES-WQ-0 CHR
+  size: 128 KB
+  crc32: BA34FFE9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EB803610
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6eeb0da14a099da47291ae03fa9d6ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9139
+  estFirstRun: September 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6648
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1JB
+  dateCodeSuffix: K1 N
+  std: 9136
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0133
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1JB
+  dateCodeSuffix: 42
+  std: 9136
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 102
+  dateCodeSuffix: C
+  std: 9102
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9139
+  dateCodeSuffix: 1 AA
+  std: 9139
+  misc: 

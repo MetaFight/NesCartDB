@@ -1,0 +1,119 @@
+metadata:
+  name: Wagyan Land 2
+  altName: ワギャンランド2
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-06 03:21:00
+  moreProfiles:
+  - 2290
+  - 3264
+  - 3265
+  - 3266
+  relatedProfiles: []
+  additionalImages: 
+slug: wagyan-land-2
+releaseInfo:
+  catalogId: NAM-WL2-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 14, 1990
+  publisher: Namco
+  developer: Now Production
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2290')"
+    filename: /images/175/a1327cb6951b4e3c88c2753c05b5ea9d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1602')"
+    filename: /images/175/c6b086780d9ac8adb9d7526c15d84f86.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 02738C68
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 5674DF31
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 1DC0F740
+  x: 4
+pcbProperties:
+  name: 60-22
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-22<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35f0be986b33dc11ee52dc12afc446a7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-22<br>Submitted by: bootgod<br>Linked from profile 2290')"
+    filename: /images/175/5d7304766a0e37d7cad061c61bef3ac8.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9044 - 9106 (4)
+  estFirstRun: November 1990
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: WL2
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 044
+  dateCodeSuffix: K09
+  std: 9044
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP340
+  type: Namcot 340
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

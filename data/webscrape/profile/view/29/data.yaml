@@ -1,0 +1,124 @@
+metadata:
+  name: Trog!
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-30 02:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 997
+  - 1988
+  additionalImages: 
+slug: trog
+releaseInfo:
+  catalogId: NES-4A-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1991
+  publisher: Acclaim
+  developer: Midway
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4A-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/172059ec012e09ea22caabecbb75e322.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4fd6394ba7ac592a19c2b95aa02136b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4A-0 PRG
+  size: 128 KB
+  crc32: EE6892EB
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9138
+  estFirstRun: September 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NRC
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 199
+  dateCodeSuffix: 53
+  std: 9138
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9052
+  dateCodeSuffix: MD
+  std: 9052
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9138
+  dateCodeSuffix: 5 BB
+  std: 9138
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 130
+  dateCodeSuffix: EN
+  std: 9130
+  misc: 
+- designation: U5 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 124
+  dateCodeSuffix: GR
+  std: 9124
+  misc: 

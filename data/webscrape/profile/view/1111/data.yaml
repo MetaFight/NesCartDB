@@ -1,0 +1,105 @@
+metadata:
+  name: King Neptune's Adventure
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-13 03:47:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: king-neptunes-adventure
+releaseInfo:
+  catalogId: CDR-KE-81016
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Contest Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/39ef1cc4907a012bacfa1156b3ccbb9f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 679')"
+    filename: /images/175/c547411a7021c4174a8a5e657df342a0.jpg
+romDetails:
+- type: PRG0
+  label: KING NEPTUNE PRG.
+  size: 64 KB
+  crc32: 8C71F706
+  x: 1
+- type: CHR0
+  label: KING NEPTUNE VID.
+  size: 32 KB
+  crc32: 591F274B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: CB53C523
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVB
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVB<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e0ca1892adc645aabc922a00276eda55.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVB<br>Submitted by: bootgod<br>Linked from profile 1364')"
+    filename: /images/175/a2e46c6c9da39e1684a1a0295cf62a81.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9034
+  estFirstRun: August 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9033
+  dateCodeSuffix: FCF
+  std: 9033
+  misc: 
+- designation: U2
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9034
+  dateCodeSuffix: HUF
+  std: 9034
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

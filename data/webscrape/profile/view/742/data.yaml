@@ -1,0 +1,124 @@
+metadata:
+  name: The Adventures of Rad Gravity
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 22:49:00
+  moreProfiles:
+  - 742
+  - 947
+  relatedProfiles:
+  - 2467
+  - 4360
+  additionalImages: 
+slug: the-adventures-of-rad-gravity
+releaseInfo:
+  catalogId: NES-2A-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Activision
+  developer: Interplay
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2A-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37a5cd0de6901de504126b8b96830187.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/871663969a9ef18953461294c34b5217.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-2A-0 PRG
+  size: 128 KB
+  crc32: 72A0D9A7
+  x: 2
+- type: CHR0
+  label: NES-2A-0 CHR
+  size: 128 KB
+  crc32: B9E1F924
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D8EE7669
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d52e881254469654dba6ebcd0772453c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9040
+  estFirstRun: October 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5496
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0KB
+  dateCodeSuffix: G1
+  std: 9040
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0099
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0KB
+  dateCodeSuffix: 70
+  std: 9040
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: 5 BB
+  std: 9039
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9031
+  dateCodeSuffix: 5 TA
+  std: 9031
+  misc: 

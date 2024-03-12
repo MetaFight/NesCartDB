@@ -1,0 +1,141 @@
+metadata:
+  name: Déjà Vu
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-07-07 16:56:00
+  moreProfiles:
+  - 1821
+  - 4125
+  relatedProfiles:
+  - 2188
+  - 682
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-DG-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b3acc63042d9944f432fe1a155f23140.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-DG-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7bbb6aecc6e13195d5fc0a055d21463f.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-DG-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f6a6f2030bb191a4b99cc7333a76ace0.jpg
+slug: deja-vu
+releaseInfo:
+  catalogId: NES-DG-SWE
+  region: Sweden (PAL-B)
+  class: Licensed
+  releaseDate: September 24, 1992
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: NES Controller
+  country: Sweden
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DG-SWE/SWE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN (Battery)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a9d94f52deea8b445d222f489c67ad13.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a115b6082d840dcaab80d1c2946f3d28.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1846')"
+    filename: /images/175/a4f003b74ae779aad339a58fad041b5d.jpg
+romDetails:
+- type: PRG0
+  label: SWE-DG-0 PRG
+  size: 128 KB
+  crc32: 07259BA7
+  x: 2
+- type: CHR0
+  label: SWE-DG-0 CHR
+  size: 256 KB
+  crc32: 7CDF8B1A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 39D43261
+  x: 2
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a49fd21fc0ec3ca10743a2254ade1956.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9226 - 9226 (2)
+  estFirstRun: June 1992
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: BY
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9226
+  dateCodeSuffix: E
+  std: 9226
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 81
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9226
+  dateCodeSuffix: D
+  std: 9226
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9222
+  dateCodeSuffix: A
+  std: 9222
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 3 AB
+  std: 9204
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9216
+  dateCodeSuffix: KT41
+  std: 9216
+  misc: 

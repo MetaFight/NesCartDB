@@ -1,0 +1,127 @@
+metadata:
+  name: Dragon Warrior III
+  altName: 
+  variant: (Revision 0B)
+  submittedBy: bootgod
+  submittedOn: 2007-03-11 03:03:00
+  moreProfiles:
+  - 1273
+  - 2580
+  - 1381
+  - 2917
+  relatedProfiles:
+  - 1527
+  additionalImages: 
+slug: dragon-warrior-iii
+releaseInfo:
+  catalogId: NES-D3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1992
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-D3-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 27
+  revision: B
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1273')"
+    filename: /images/175/63272693b1d93bfbea5d9c2ec18baee1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c6fc96e928e89d2d1bc815ca010c9e7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-D3-0 PRG
+  size: 512 KB
+  crc32: A86A5318
+  x: 4
+pcbProperties:
+  name: NES-SUROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9151 - 9214 (3)
+  estFirstRun: December 1991
+  pcbClass: NES-SUROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534J
+  partNumberSubDetail: 52
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9214
+  dateCodeSuffix: D
+  std: 9214
+  misc: 
+- designation: U2 CHR-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9209
+  dateCodeSuffix: KT60
+  std: 9209
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9047
+  dateCodeSuffix: 3 AB
+  std: 9047
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9141
+  dateCodeSuffix: B3001
+  std: 9141
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9210
+  dateCodeSuffix: KT76
+  std: 9210
+  misc: 

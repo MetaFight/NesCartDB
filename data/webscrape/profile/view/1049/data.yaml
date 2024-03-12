@@ -1,0 +1,71 @@
+metadata:
+  name: 'Robin Hood: Prince of Thieves'
+  altName: 
+  variant: 
+  submittedBy: Akomander
+  submittedOn: 2006-09-21 02:14:00
+  moreProfiles:
+  - 1049
+  - 4154
+  - 2361
+  relatedProfiles:
+  - 2147
+  - 2703
+  - 194
+  additionalImages: 
+slug: robin-hood-prince-of-thieves
+releaseInfo:
+  catalogId: NES-7R-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: September 1, 1993
+  publisher: Mindscape
+  developer: Sculptured Software
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7R-ESP/ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2361')"
+    filename: /images/175/f2b20f765604fd2d110ad09a6337fa33.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Akomander<br>Linked from profile 0')"
+    filename: /images/175/396ceba7ededdb59feaedabc81104d64.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ESP-7R-0 PRG
+  size: 256 KB
+  crc32: FD21F54D
+  x: 3
+pcbProperties:
+  name: NES-SGROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9249 - 9249 (2)
+  estFirstRun: December 1992
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

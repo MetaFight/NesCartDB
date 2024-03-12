@@ -1,0 +1,123 @@
+metadata:
+  name: Snake's Revenge
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-02 03:11:00
+  moreProfiles:
+  - 738
+  - 2679
+  relatedProfiles:
+  - 1837
+  additionalImages: 
+slug: snakes-revenge
+releaseInfo:
+  catalogId: NES-E2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: Ultra Games
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-E2-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 738')"
+    filename: /images/175/c0a1bec6eb55e383fa040ffa546309f0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 738')"
+    filename: /images/175/9caf82bd05b667dba3059431709dbd5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-E2-0 PRG
+  size: 128 KB
+  crc32: C05D2034
+  x: 2
+- type: CHR0
+  label: NES-E2-0 CHR
+  size: 128 KB
+  crc32: F176FC45
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 48E904D0
+  x: 2
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/15325477230637fa65278b25578f7e70.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9010 - 9011 (2)
+  estFirstRun: March 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NUM
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: B3
+  std: 9010
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NUN
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0
+  dateCodeSuffix: 52
+  std: 9010
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9006
+  dateCodeSuffix: 5 AA
+  std: 9006
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9004
+  dateCodeSuffix: 5 AA
+  std: 9004
+  misc: 

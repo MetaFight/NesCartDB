@@ -1,0 +1,96 @@
+metadata:
+  name: Pac-Man
+  altName: パックマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-19 19:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1592
+  - 1809
+  - 3325
+  - 4708
+  additionalImages: 
+slug: pac-man
+releaseInfo:
+  catalogId: NAM-NPM-4500-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 2, 1984
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 02
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a1026a6ccdf565100eaa81bc143cdba.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/218a97e50a6577af81e803c35ec9e168.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a44b579bc91ce731d7621002b9eab338.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT PM PRG
+  size: 16 KB
+  crc32: 2BF9D836
+  x: 1
+- type: CHR0
+  label: NAMCOT PM CHR
+  size: 8 KB
+  crc32: 49ABEEE6
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5CDB2823
+  x: 1
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2cfd9bec69c95fb03506f96e5f9114de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8442 - 9122 (4)
+  estFirstRun: October 1984
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: General Instrument
+  partNumber: 9128DS
+  partNumberSubDetail: 0172
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8446
+  dateCodeSuffix: CDA
+  std: 8446
+  misc: 
+- designation: CH
+  maker: General Instrument
+  partNumber: 9864DS
+  partNumberSubDetail: 0125
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8446
+  dateCodeSuffix: CDA
+  std: 8446
+  misc: 

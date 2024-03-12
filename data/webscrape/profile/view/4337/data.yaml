@@ -1,0 +1,129 @@
+metadata:
+  name: Blue Shadow
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-03-16 00:03:00
+  moreProfiles:
+  - 2393
+  - 4337
+  - 4338
+  relatedProfiles:
+  - 1926
+  - 198
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-27-SCN<br>Submitted by: Kinopio<br>Linked from profile 2393')"
+    filename: /images/175/a6c1abd2a5e6143637a06c49361b3d97.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-27-SCN<br>Submitted by: Kinopio<br>Linked from profile 2393')"
+    filename: /images/175/4b9aed481db0fffa8d02a9825e336581.jpg
+slug: blue-shadow
+releaseInfo:
+  catalogId: NES-27-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: July 25, 1991
+  publisher: Taito
+  developer: Natsume
+  players: 2
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-27-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2393')"
+    filename: /images/175/b612e27c5faa50ad09692f7baf99f973.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2393')"
+    filename: /images/175/50764d79738a8229ca668a8cece0c17f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-27-0 PRG
+  size: 128 KB
+  crc32: 075A69E6
+  x: 4
+- type: CHR0
+  label: PAL-27-0 CHR
+  size: 128 KB
+  crc32: 750E47AE
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C92B814B
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/68e85dec6b7dcb5a83c270cd5e1fcf42.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9116 - 9116 (3)
+  estFirstRun: April 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 30
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9114
+  dateCodeSuffix: E
+  std: 9114
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 06
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9114
+  dateCodeSuffix: D
+  std: 9114
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9116
+  dateCodeSuffix: A
+  std: 9116
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9033
+  dateCodeSuffix: KP039
+  std: 9033
+  misc: 

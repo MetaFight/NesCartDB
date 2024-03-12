@@ -1,0 +1,100 @@
+metadata:
+  name: Clu Clu Land
+  altName: クルクルランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 05:53:00
+  moreProfiles:
+  - 1490
+  - 1657
+  - 2213
+  relatedProfiles:
+  - 2057
+  - 984
+  - 366
+  additionalImages: 
+slug: clu-clu-land
+releaseInfo:
+  catalogId: HVC-CL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 22, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: HVC-CL
+  backLabelId/Desc: 831018
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2213')"
+    filename: /images/175/a154df5adb57740066bfe01b1051eed7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-CL-0 PRG
+  size: 16 KB
+  crc32: 23A60A62
+  x: 7
+- type: CHR0
+  label: HVC-CL-0 CHR
+  size: 8 KB
+  crc32: A63B8B98
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 48F68D40
+  x: 7
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1b5e0aba5022b6a34f9e4818aa86ab01.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8444 - 8503 (3)
+  estFirstRun: November 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: OKI
+  partNumber: M38128A
+  partNumberSubDetail: C5
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 4Y
+  dateCodeSuffix: 13
+  std: 8444
+  misc: 
+- designation: CHR
+  maker: OKI
+  partNumber: M3864
+  partNumberSubDetail: C5
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4Y
+  dateCodeSuffix: 05
+  std: 8444
+  misc: 

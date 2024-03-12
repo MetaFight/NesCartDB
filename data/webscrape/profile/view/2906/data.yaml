@@ -1,0 +1,77 @@
+metadata:
+  name: Die Hard
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 05:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2635
+  - 1893
+  - 1110
+  additionalImages: 
+slug: die-hard
+releaseInfo:
+  catalogId: NES-57-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Activision
+  developer: Pack-In-Video
+  players: 1
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-57-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-57-0 PRG
+  size: 128 KB
+  crc32: E45EC669
+  x: 3
+- type: CHR0
+  label: NES-57-0 CHR
+  size: 128 KB
+  crc32: 0D4D1547
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 607BD020
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B3
+detailedChipInfo: []

@@ -1,0 +1,118 @@
+metadata:
+  name: Palamedes
+  altName: パラメデス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 01:40:00
+  moreProfiles: []
+  relatedProfiles:
+  - 538
+  additionalImages: 
+slug: palamedes
+releaseInfo:
+  catalogId: GAM-JI-07
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 6, 1990
+  publisher: HOT?B
+  developer: HOT?B
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: GAM-JI-07
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/08fe3ac8dce6f99f0582c05564bab6f6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4599')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 35E3EEA2
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 2CD6479B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C6B5D7E0
+  x: 1
+pcbProperties:
+  name: SE-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b79bc0a70fc2b4e6408a79970ab67775.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/772ee726769902dea5337b5ee1a3ee95.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9021
+  estFirstRun: May 1990
+  pcbClass: HVC-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: LJI
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: H
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9021
+  dateCodeSuffix: 3 AA
+  std: 9021
+  misc: 

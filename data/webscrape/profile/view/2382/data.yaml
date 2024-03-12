@@ -1,0 +1,124 @@
+metadata:
+  name: Kid Icarus
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2007-12-31 01:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1414
+  - 1975
+  - 310
+  additionalImages: 
+slug: kid-icarus
+releaseInfo:
+  catalogId: NES-KI-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KI-CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/01a0b9fb638d82b62e346fd529ee971e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/88bb82545806469f3395f2cc49502050.jpg
+romDetails:
+- type: PRG0
+  label: NES-KI-0 PRG
+  size: 128 KB
+  crc32: D9F0749F
+  x: 7
+pcbProperties:
+  name: NES-SNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8808
+  estFirstRun: February 1988
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0216
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7M3
+  dateCodeSuffix: C9
+  std: 8752
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: 1 A
+  std: 8808
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8803
+  dateCodeSuffix: B
+  std: 8803
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8746
+  dateCodeSuffix: A
+  std: 8746
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: 1 A
+  std: 8808
+  misc: 

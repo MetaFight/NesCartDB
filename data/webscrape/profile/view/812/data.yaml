@@ -1,0 +1,79 @@
+metadata:
+  name: 'Ninja Gaiden III: The Ancient Ship of Doom'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-19 05:07:00
+  moreProfiles:
+  - 203
+  - 295
+  - 812
+  relatedProfiles:
+  - 4010
+  additionalImages: 
+slug: ninja-gaiden-iii-the-ancient-ship-of-doom
+releaseInfo:
+  catalogId: NES-3N-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1991
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3N-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 295')"
+    filename: /images/175/fa48e5a6c01eb726bb653b616a8a821a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 295')"
+    filename: /images/175/9012bc71e686088b2520bf16139a100d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-3N-0 PRG
+  size: 128 KB
+  crc32: F0C77DCB
+  x: 3
+- type: CHR0
+  label: NES-3N-0 CHR
+  size: 128 KB
+  crc32: 584BCF5D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 902E3168
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9129 - 9151 (2)
+  estFirstRun: July 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

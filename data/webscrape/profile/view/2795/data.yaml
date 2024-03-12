@@ -1,0 +1,115 @@
+metadata:
+  name: Strider
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-29 02:28:00
+  moreProfiles:
+  - 416
+  - 2795
+  - 1305
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-HX-USA<br>Submitted by: bootgod<br>Linked from profile 416')"
+    filename: /images/175/f82e28e9f64c6b8fc2fed6e269d62d52.jpg
+slug: strider
+releaseInfo:
+  catalogId: NES-HX-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1989
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HX-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1305')"
+    filename: /images/175/260703800d40ceef7b8abde01aa99ca8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 416')"
+    filename: /images/175/ecc1cdd3586e0830a6c2f2c324784b0a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HX-0 PRG
+  size: 256 KB
+  crc32: 02EE3706
+  x: 3
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9004 (2)
+  estFirstRun: January 1990
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8952
+  dateCodeSuffix: R08
+  std: 8952
+  misc: 
+- designation: U2 CHR RAM
+  maker: Samsung
+  partNumber: KM6264AL-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 948
+  dateCodeSuffix: N
+  std: 8948
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9004
+  dateCodeSuffix: 3 AA
+  std: 9004
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9002
+  dateCodeSuffix: 3 CA
+  std: 9002
+  misc: 

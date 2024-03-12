@@ -1,0 +1,108 @@
+metadata:
+  name: Dash Yarou
+  altName: ダッシュ野郎
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 01:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 754
+  additionalImages: 
+slug: dash-yarou
+releaseInfo:
+  catalogId: VIS-5D
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 15, 1990
+  publisher: Visco
+  developer: Toaplan
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: VIS-5D
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc8ccab1363b13869f3613eeaee0c234.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: VIS-5D-0 PRG
+  size: 128 KB
+  crc32: 1ED48C5C
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9015
+  estFirstRun: April 1990
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R97
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9015
+  dateCodeSuffix: EX739
+  std: 9015
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9010
+  dateCodeSuffix: M5
+  std: 9010
+  misc: 
+- designation: U3 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 002
+  dateCodeSuffix: EN
+  std: 9002
+  misc: 
+- designation: U4 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 011
+  dateCodeSuffix: GN
+  std: 9011
+  misc: 

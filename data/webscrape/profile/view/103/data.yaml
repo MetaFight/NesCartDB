@@ -1,0 +1,140 @@
+metadata:
+  name: Gauntlet II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-09 00:13:00
+  moreProfiles:
+  - 103
+  - 808
+  relatedProfiles:
+  - 2592
+  - 2023
+  - 2494
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/90e023d7d3f70ee782f9a89166320c86.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/8619f15f5eea3c842bd52335eccb19e5.jpg
+slug: gauntlet-ii
+releaseInfo:
+  catalogId: NES-2U-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Mindscape
+  developer: Tengen
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2U-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/85e95b844db3cde5b8f152495ecc8db4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9751ca049d8766858dd8fba9e305faea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-2U-0 PRG
+  size: 128 KB
+  crc32: 2C609B52
+  x: 2
+- type: CHR0
+  label: NES-2U-0 CHR
+  size: 128 KB
+  crc32: FD61C9FE
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1B71CCDB
+  x: 2
+pcbProperties:
+  name: NES-TSROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9b48b61535fe9284368caeee571b8a66.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-07<br>Submitted by: Kinopio<br>Linked from profile 2438')"
+    filename: /images/175/b4dfcd90a8ffea33fa9f5fe234eef2d9.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5483
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0HM
+  dateCodeSuffix: 43
+  std: 9033
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0091
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0HL
+  dateCodeSuffix: 4B
+  std: 9032
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9036
+  dateCodeSuffix: 1 CA
+  std: 9036
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9034
+  dateCodeSuffix: 7 T
+  std: 9034
+  misc: 
+- designation: U5 W-RAM
+  maker: Sony
+  partNumber: CXK5864BP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 03
+  dateCodeSuffix: 62E
+  std: 9009
+  misc: 

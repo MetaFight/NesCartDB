@@ -1,0 +1,132 @@
+metadata:
+  name: Vegas Dream
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-14 15:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3749
+  additionalImages: 
+slug: vegas-dream
+releaseInfo:
+  catalogId: NES-LS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LS-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3005678e13ecf084adfba52488a6dc21.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/688294bec9e5ec47296a322dad0fa476.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LS-0 PRG
+  size: 128 KB
+  crc32: 86D67A97
+  x: 1
+- type: CHR0
+  label: NES-LS-0 CHR
+  size: 128 KB
+  crc32: 617F9A24
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C973699D
+  x: 1
+pcbProperties:
+  name: NES-SKROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f9cbd0d0f19129d5ce8e7efcc32718d3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKROM-04<br>Submitted by: Kinopio<br>Linked from profile 1787')"
+    filename: /images/175/198de038e4823bd5d2fa0af9e4a60e8e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9041
+  estFirstRun: October 1990
+  pcbClass: NES-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1854
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0KJ
+  dateCodeSuffix: XF
+  std: 9041
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0050
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0JB
+  dateCodeSuffix: 73
+  std: 9035
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: 3 CA
+  std: 9039
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9027
+  dateCodeSuffix: 3 AA
+  std: 9027
+  misc: 
+- designation: U5 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 034
+  dateCodeSuffix: N
+  std: 9034
+  misc: 

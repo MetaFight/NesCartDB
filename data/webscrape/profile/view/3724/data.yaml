@@ -1,0 +1,120 @@
+metadata:
+  name: 'Be-Bop High School: Koukousei Gokuraku Densetsu'
+  altName: ビー・バップ・ハイスクール 高
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 06:41:00
+  moreProfiles:
+  - 2186
+  - 3619
+  - 3724
+  relatedProfiles: []
+  additionalImages: 
+slug: be-bop-high-school-koukousei-gokuraku-densetsu
+releaseInfo:
+  catalogId: DFC-EP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 30, 1988
+  publisher: Data East
+  developer: Data East
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange-Red
+  formFactor: Small
+  frontLabelId: DFC-EP
+  backLabelId/Desc: 870417
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2186')"
+    filename: /images/175/f27955e4e95d1ff2f50882118a7caa1a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-EP-0 PRG
+  size: 128 KB
+  crc32: 190A3E11
+  x: 3
+- type: CHR0
+  label: DFC-EP-0 CHR
+  size: 128 KB
+  crc32: 35560AFE
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2BFB1186
+  x: 3
+pcbProperties:
+  name: HVC-SKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf799ff6d59727a863aed9e8a8c7d612.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 3619')"
+    filename: /images/175/d9586b9efaa8190e18f3fbd7f0c0922d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8810 - 8812 (3)
+  estFirstRun: March 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: EX
+  std: 8808
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8808
+  dateCodeSuffix: KY
+  std: 8808
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8812
+  dateCodeSuffix: A
+  std: 8812
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8812
+  dateCodeSuffix: 5 DA
+  std: 8812
+  misc: 

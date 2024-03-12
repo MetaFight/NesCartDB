@@ -1,0 +1,130 @@
+metadata:
+  name: Captain Planet and the Planeteers
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-09-16 00:30:00
+  moreProfiles:
+  - 2594
+  - 4174
+  relatedProfiles:
+  - 4484
+  - 4727
+  - 4534
+  - 607
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-5C-SCN<br>Submitted by: Kinopio<br>Linked from profile 2594')"
+    filename: /images/175/1b2e7d4983fa2b4256c0d119df112d79.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-5C-SCN<br>Submitted by: Kinopio<br>Linked from profile 2594')"
+    filename: /images/175/128cb6c0d83d4e48daece68a79b03359.jpg
+slug: captain-planet-and-the-planeteers
+releaseInfo:
+  catalogId: NES-5C-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: August 20, 1992
+  publisher: Mindscape
+  developer: Gray Matter
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-5C-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2594')"
+    filename: /images/175/1c620f38936ba9a668b93088c0501d86.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2594')"
+    filename: /images/175/65812df7e00e6a2b0d5b0758fb3daecb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-5C-0 PRG
+  size: 128 KB
+  crc32: 40A458F0
+  x: 3
+- type: CHR0
+  label: NES-5C-0 CHR
+  size: 128 KB
+  crc32: 8D92550D
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8D901FAD
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/58c7a5ac2c31274c53b59121bf1d4140.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9219 - 9219 (2)
+  estFirstRun: May 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W71
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: K9002
+  std: 9219
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W15
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9219
+  dateCodeSuffix: KY001
+  std: 9219
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9218
+  dateCodeSuffix: A
+  std: 9218
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9209
+  dateCodeSuffix: 1 T
+  std: 9209
+  misc: 

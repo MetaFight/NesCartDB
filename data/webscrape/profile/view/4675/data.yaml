@@ -1,0 +1,185 @@
+metadata:
+  name: RacerMate Challenge II
+  altName: 
+  variant: (3.11.088)
+  submittedBy: Skrybe
+  submittedOn: 2012-08-31 04:44:00
+  moreProfiles:
+  - 2696
+  - 4674
+  - 4675
+  relatedProfiles: []
+  additionalImages: 
+slug: racermate-challenge-ii
+releaseInfo:
+  catalogId: UNL-RCMII
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: March 22, 1996
+  publisher: RacerMate
+  developer: RacerMate
+  players: 2
+  peripherals: RacerMate Bike
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/5167ced2fbcf470eac6871db82bcc681.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/d144fc46702b2568e7b3d2c95bc50397.jpg
+romDetails:
+- type: PRG0
+  label: N311088 05/15/91
+  size: 64 KB
+  crc32: 74920C13
+  x: 1
+pcbProperties:
+  name: R981-112-00
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9016 - 9648 (3)
+  estFirstRun: April 1990
+  pcbClass: UNL-RACERMATE
+  inesMapper: 168
+  mirroring: Horizontal
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 64 KB
+  cicType: 337002
+  hardware: 74xx00, 74xx00, 74xx174, 74xx174, 74xx32, 74xx32, 74xx4040
+detailedChipInfo:
+- designation: U1
+  maker: Harris
+  partNumber: CDM62256E10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 923
+  dateCodeSuffix: ''
+  std: 8923
+  misc: 
+- designation: U10
+  maker: Harris
+  partNumber: CD74HC4040E
+  partNumberSubDetail: 
+  type: 74-4040 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: H
+  std: 9014
+  misc: 
+- designation: U11
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8906
+  dateCodeSuffix: ILZA
+  std: 8906
+  misc: 
+- designation: U2
+  maker: Harris
+  partNumber: CDM62256E10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 923
+  dateCodeSuffix: ''
+  std: 8923
+  misc: 
+- designation: U3
+  maker: Microchip
+  partNumber: 27C512-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: CTD
+  std: 8944
+  misc: 
+- designation: U4
+  maker: Harris
+  partNumber: CD74HC174E
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8949
+  dateCodeSuffix: H.
+  std: 8949
+  misc: 
+- designation: U5
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6F3
+  dateCodeSuffix: T
+  std: 8625
+  misc: 
+- designation: U6
+  maker: Phillips
+  partNumber: 74HC00N
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8905
+  dateCodeSuffix: KC
+  std: 8905
+  misc: KFZ7874
+- designation: U7
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6F3
+  dateCodeSuffix: T
+  std: 8625
+  misc: 
+- designation: U8
+  maker: Phillips
+  partNumber: 74HC00N
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8905
+  dateCodeSuffix: KC
+  std: 8905
+  misc: KFZ7874
+- designation: U9
+  maker: Motorola
+  partNumber: MC74HC74AN
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9016
+  dateCodeSuffix: FFPD
+  std: 9016
+  misc: 

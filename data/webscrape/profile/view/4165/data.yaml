@@ -1,0 +1,130 @@
+metadata:
+  name: Rush'n Attack
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-09-09 00:58:00
+  moreProfiles:
+  - 2363
+  - 4165
+  - 4166
+  relatedProfiles:
+  - 2003
+  - 312
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RA-EEC<br>Submitted by: Kinopio<br>Linked from profile 2363')"
+    filename: /images/175/80926c882bc31fbacd7aa2ea7d3131c0.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RA-EEC<br>Submitted by: Kinopio<br>Linked from profile 2363')"
+    filename: /images/175/a69acc2b966c4bc3d8f542a1b31a1118.jpg
+slug: rushn-attack
+releaseInfo:
+  catalogId: NES-RA-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: June 8, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RA-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2363')"
+    filename: /images/175/66de6b373366777e5e9f51deb54055ca.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2363')"
+    filename: /images/175/e3a8fbadec24078c0614b74c0ce01504.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RA-0 PRG
+  size: 128 KB
+  crc32: E0AC6242
+  x: 4
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8915 - 8915 (3)
+  estFirstRun: April 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5322
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9D2
+  dateCodeSuffix: E4
+  std: 8915
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864BP-12L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 93
+  dateCodeSuffix: 42
+  std: 8909
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8913
+  dateCodeSuffix: A
+  std: 8913
+  misc: 
+- designation: LS161N
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 844
+  dateCodeSuffix: J
+  std: 8844
+  misc: 
+- designation: LS32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: H36
+  dateCodeSuffix: ''
+  std: 8836
+  misc: 

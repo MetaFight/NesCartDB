@@ -1,0 +1,161 @@
+metadata:
+  name: Days of Thunder
+  altName: 
+  variant: (Prototype)
+  submittedBy: piteta
+  submittedOn: 2016-02-21 13:44:00
+  moreProfiles:
+  - 614
+  - 4729
+  relatedProfiles:
+  - 2634
+  - 4331
+  additionalImages: 
+slug: days-of-thunder
+releaseInfo:
+  catalogId: NES-YH-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Mindscape
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d805f708103c7aa5a60d16db47ec392b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: FA3BFC11
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: FA3ACBA9
+  x: 1
+- type: CHR1
+  label: Not Present
+  size: 128 KB
+  crc32: 69DF8BFB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 12748678
+  x: 2
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9037
+  estFirstRun: September 1990
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301G-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8844
+  dateCodeSuffix: ''
+  std: 8844
+  misc: 
+- designation: U10
+  maker: Toshiba
+  partNumber: 74HC139AP
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8918
+  dateCodeSuffix: H
+  std: 8918
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301G-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8844
+  dateCodeSuffix: ''
+  std: 8844
+  misc: 
+- designation: U6 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301G-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8844
+  dateCodeSuffix: ''
+  std: 8844
+  misc: 
+- designation: U7 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9K
+  dateCodeSuffix: 27E
+  std: 8944
+  misc: 
+- designation: U8 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9004
+  dateCodeSuffix: KP038
+  std: 9004
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9019
+  dateCodeSuffix: 5 AA
+  std: 9019
+  misc: 

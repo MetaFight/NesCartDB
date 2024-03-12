@@ -1,0 +1,121 @@
+metadata:
+  name: Boulder Dash
+  altName: バルダーダッシュ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 04:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4472
+  - 1901
+  - 564
+  additionalImages: 
+slug: boulder-dash
+releaseInfo:
+  catalogId: DFC-XB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 23, 1990
+  publisher: Data East
+  developer: First Star Software
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Khaki
+  formFactor: Small
+  frontLabelId: DFC-XB
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a4b8c05e25caf18a03f04b6e3efc7e2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: C6475C2A
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: F2B91C72
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 89567668
+  x: 1
+pcbProperties:
+  name: SE-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02799893eb3ae27cbd15d5e296ef657a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/772ee726769902dea5337b5ee1a3ee95.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9002
+  estFirstRun: January 1990
+  pcbClass: HVC-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: LXB
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: A
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9002
+  dateCodeSuffix: 1 AA
+  std: 9002
+  misc: 

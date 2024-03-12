@@ -1,0 +1,108 @@
+metadata:
+  name: Nekketsu Kouha Kunio-kun
+  altName: 熱血硬派くにおくん
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 21:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 695
+  additionalImages: 
+slug: nekketsu-kouha-kunio-kun
+releaseInfo:
+  catalogId: TJC-KN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 17, 1987
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange-Red
+  formFactor: Small
+  frontLabelId: TJC-KN
+  backLabelId/Desc: 860410
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f5404c85207a7cdafaf698e296c9f707.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TJC-KN-0 PRG
+  size: 128 KB
+  crc32: A7D3635E
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8713
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8713
+  dateCodeSuffix: D
+  std: 8713
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864P-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6K
+  dateCodeSuffix: 15
+  std: 8644
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8648
+  dateCodeSuffix: CA
+  std: 8648
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7
+  dateCodeSuffix: ''
+  std: 8709
+  misc: 

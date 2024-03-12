@@ -1,0 +1,118 @@
+metadata:
+  name: Rasaaru Ishii no Childs Quest
+  altName: ラサール石井のチャイルズクエスト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-18 05:13:00
+  moreProfiles:
+  - 1580
+  - 3209
+  - 3210
+  relatedProfiles: []
+  additionalImages: 
+slug: rasaaru-ishii-no-childs-quest
+releaseInfo:
+  catalogId: NAM-CQ-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 23, 1989
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42129285c333974b04e41eb6088519f0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/89212709129622b5b1c0c3f01e019524.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 58581770
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 02A6C39F
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: D97C31B0
+  x: 3
+pcbProperties:
+  name: LROG055-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG055-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fdce2ed38765699447c4317b86306b51.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG055-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/10b0ef05b320684ba2dafb0e4828bc70.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8915 - 8920 (3)
+  estFirstRun: April 1989
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG055
+  partNumberSubDetail: CQ
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8920
+  dateCodeSuffix: 5
+  std: 8920
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

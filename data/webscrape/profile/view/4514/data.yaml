@@ -1,0 +1,100 @@
+metadata:
+  name: 'Baken Hisshou Gaku: Gate In'
+  altName: ゲートイン 馬券必勝学
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 04:07:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1ad93b5fc5a8f880f125cdf2b322be3d.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0603a9214a8f815882cb06141936ed9c.jpg
+slug: baken-hisshou-gaku-gate-in
+releaseInfo:
+  catalogId: KAC-3F
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 25, 1990
+  publisher: KAC
+  developer: Graphic Research
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime Green
+  formFactor: Small
+  frontLabelId: KAC-3F
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e04bc16265d50120d918f4e8fedd58d4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KAC-3F-0 PRG
+  size: 256 KB
+  crc32: 27C16011
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023
+  estFirstRun: June 1990
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 95
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9019
+  dateCodeSuffix: D
+  std: 9019
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9013
+  dateCodeSuffix: MD
+  std: 9013
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9023
+  dateCodeSuffix: 3 AA
+  std: 9023
+  misc: 

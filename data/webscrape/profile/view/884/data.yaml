@@ -1,0 +1,79 @@
+metadata:
+  name: Anticipation
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-05-31 00:23:00
+  moreProfiles:
+  - 89
+  - 454
+  - 884
+  relatedProfiles:
+  - 2472
+  additionalImages: 
+slug: anticipation
+releaseInfo:
+  catalogId: NES-AP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: Nintendo
+  developer: Rare
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AP-USA
+  sealOfQuality: None
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 89')"
+    filename: /images/175/877ef6100c0d6b93820e577cf62031d0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 454')"
+    filename: /images/175/dfdf1293353bb07e201ca760fdffafa1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-AP-0 PRG
+  size: 32 KB
+  crc32: 79D8C39D
+  x: 3
+- type: CHR0
+  label: NES-AP-0 CHR
+  size: 32 KB
+  crc32: E4E8E16E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 99A9F57E
+  x: 3
+pcbProperties:
+  name: NES-SEROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844 - 8849 (2)
+  estFirstRun: November 1988
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo: []

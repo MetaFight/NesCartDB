@@ -1,0 +1,123 @@
+metadata:
+  name: Flying Warriors
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2012-04-17 03:49:00
+  moreProfiles:
+  - 196
+  - 2931
+  - 4623
+  relatedProfiles:
+  - 2182
+  additionalImages: 
+slug: flying-warriors
+releaseInfo:
+  catalogId: NES-6F-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/83c8b7e5fff1695354595831e5500e08.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/c781900b6e458684b046b3434eb2d3cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/2e8a6a3b12eb94cbc63869e79cf60768.jpg
+romDetails:
+- type: PRG0
+  label: PG
+  size: 128 KB
+  crc32: EEEE06F7
+  x: 1
+- type: CHR0
+  label: CG
+  size: 128 KB
+  crc32: 4035B7FC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 92DD67EA
+  x: 1
+pcbProperties:
+  name: NES-SKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/8bc3e449c7dd0552db3ba5da4a359f91.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/125e843dbf8707b6c3d904feb8b125c8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9047
+  estFirstRun: November 1990
+  pcbClass: NES-SKEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Mitsubishi
+  partNumber: M5M27C100K-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 919
+  dateCodeSuffix: 119
+  std: 8919
+  misc: 
+- designation: IC3 CHR
+  maker: Mitsubishi
+  partNumber: M5M27C100K-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 919
+  dateCodeSuffix: 119
+  std: 8919
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8724
+  dateCodeSuffix: A
+  std: 8724
+  misc: 
+- designation: IC5 3193
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8933
+  dateCodeSuffix: 5 AA
+  std: 8933
+  misc: 

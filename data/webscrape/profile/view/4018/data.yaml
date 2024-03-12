@@ -1,0 +1,107 @@
+metadata:
+  name: Igo Shinan '91
+  altName: 囲碁指南 ’９１
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 01:06:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: igo-shinan-91
+releaseInfo:
+  catalogId: HCT-9A/011
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 5, 1991
+  publisher: Hect
+  developer: Hect
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Grey
+  formFactor: Small
+  frontLabelId: HCT-9A
+  secondaryId: 011
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/58572adec886801cf1c49ac0dcfa59d4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HCT-9A-0 PRG
+  size: 128 KB
+  crc32: BE00966B
+  x: 1
+- type: CHR0
+  label: HCT-9A-0 CHR
+  size: 32 KB
+  crc32: 267DAF97
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: E333FFA1
+  x: 1
+pcbProperties:
+  name: HVC-SFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aac7fd8c8325b014265464d55034b221.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 3591')"
+    filename: /images/175/a451a3696b59a9d2d6cf76c0fd675656.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9122
+  estFirstRun: June 1991
+  pcbClass: HVC-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6637
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1EC
+  dateCodeSuffix: 42
+  std: 9119
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3218
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 1EM
+  dateCodeSuffix: 14
+  std: 9120
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9122
+  dateCodeSuffix: 5 AA
+  std: 9122
+  misc: 

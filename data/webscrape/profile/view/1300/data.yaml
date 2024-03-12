@@ -1,0 +1,130 @@
+metadata:
+  name: Felix the Cat
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2007-02-04 07:39:00
+  moreProfiles: []
+  relatedProfiles:
+  - 685
+  additionalImages: 
+slug: felix-the-cat
+releaseInfo:
+  catalogId: NES-FC-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Hudson Soft
+  developer: Shimada Kikaku
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FC-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-FC-0 PRG
+  size: 128 KB
+  crc32: DC549BD3
+  x: 1
+- type: CHR0
+  label: PAL-FC-0 CHR
+  size: 128 KB
+  crc32: 60171742
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FBD48274
+  x: 1
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5caa11f5ab40536458eeb718f86a1490.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9304
+  estFirstRun: January 1993
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: GW
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9304
+  dateCodeSuffix: E
+  std: 9304
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 9Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9304
+  dateCodeSuffix: D
+  std: 9304
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9235
+  dateCodeSuffix: A
+  std: 9235
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9249
+  dateCodeSuffix: EP010
+  std: 9249
+  misc: 
+- designation: U5 W-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9249
+  dateCodeSuffix: HCK
+  std: 9249
+  misc: 

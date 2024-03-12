@@ -1,0 +1,131 @@
+metadata:
+  name: Track & Field II
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-25 19:24:00
+  moreProfiles:
+  - 1944
+  - 2421
+  - 2422
+  - 2424
+  relatedProfiles:
+  - 1661
+  - 2423
+  - 242
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-F2-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/08bc44c7839b3190567739bb90f17bda.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-F2-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7465816a05bf4cfb91d68412cd704ace.jpg
+slug: track-field-ii
+releaseInfo:
+  catalogId: NES-F2-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: November 22, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-F2-EEC
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/300638ad23d5f409ff250d2446e83d85.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/99be6e78f763fbdd3e661d9b7aa1ba3f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-F2-0 PRG
+  size: 128 KB
+  crc32: 8ACAFE51
+  x: 5
+- type: CHR0
+  label: NES-F2-1 CHR
+  size: 128 KB
+  crc32: B65E6472
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C53CF1D0
+  x: 5
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f0d952e88c936bafb6ae8dd3cedd46d9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8942 - 9109 (4)
+  estFirstRun: October 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5345
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0DM
+  dateCodeSuffix: 7D
+  std: 9016
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 9H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9012
+  dateCodeSuffix: E
+  std: 9012
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: A
+  std: 9017
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9016
+  dateCodeSuffix: 3 AA
+  std: 9016
+  misc: 

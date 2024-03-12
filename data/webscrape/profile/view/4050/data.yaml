@@ -1,0 +1,119 @@
+metadata:
+  name: Volley Ball
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2010-05-24 00:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 964
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/ea48fc0df6acb52b72d08502f379232e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/aa836121ff673f0fb7f9b7fd5dba4764.jpg
+slug: volley-ball
+releaseInfo:
+  catalogId: MGC-010
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Gluk Video
+  developer: Idea-Tek
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Black
+  frontLabelId: MGC10-B
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9d585ac2e8e4c84c5024ff1dd57d84b3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: 04-01021-000
+  size: 32 KB
+  crc32: 42812DAE
+  x: 1
+- type: CHR0
+  label: 04-01021-010
+  size: 32 KB
+  crc32: 382E6A7B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: A23CB659
+  x: 1
+pcbProperties:
+  name: 01-22000-400
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>01-22000-400<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/280f4f2540d90e8bb63e478b67eb9489.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9111
+  estFirstRun: March 1991
+  pcbClass: TXC-74*138/175
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: MX27C256-15
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: MX27C256-15
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U4
+  maker: Matsushita
+  partNumber: 74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .133
+  dateCodeSuffix: N_
+  std: 9111
+  misc: 
+- designation: U5
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .971
+  dateCodeSuffix: ''
+  std: 8928
+  misc: 

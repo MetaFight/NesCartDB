@@ -1,0 +1,116 @@
+metadata:
+  name: Dai-2-ji Super Robot Taisen
+  altName: 第２次スーパーロボット大戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:12:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: dai-2-ji-super-robot-taisen
+releaseInfo:
+  catalogId: BAP-N9
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 19, 1991
+  publisher: Banpresto
+  developer: Winky Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BAP-N9
+  backLabelId/Desc: 880920 (Red Text)
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/056e9c728cddd5c918635ee8e5cd37ca.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BAP-N9-0 PRG
+  size: 256 KB
+  crc32: C5FEA9F2
+  x: 1
+- type: CHR0
+  label: BAP-N9-0 CHR
+  size: 256 KB
+  crc32: DD364EF1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: C48363B4
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2a04b8ff34a5403c5259781161a35f97.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9148
+  estFirstRun: December 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9148
+  dateCodeSuffix: T01
+  std: 9148
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9148
+  dateCodeSuffix: T01
+  std: 9148
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9147
+  dateCodeSuffix: 7 AB
+  std: 9147
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 146
+  dateCodeSuffix: N
+  std: 9146
+  misc: 

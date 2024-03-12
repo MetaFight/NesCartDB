@@ -1,0 +1,121 @@
+metadata:
+  name: Thunderbirds
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 03:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3738
+  additionalImages: 
+slug: thunderbirds
+releaseInfo:
+  catalogId: NES-T5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Activision
+  developer: Pack-In-Video
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-T5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd980ee938732514a9ec4b59f27e6bdc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f8118e01ac437043728ae52bef1fcdb0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-T5-0 PRG
+  size: 128 KB
+  crc32: A2DA133B
+  x: 1
+- type: CHR0
+  label: NES-T5-0 CHR
+  size: 128 KB
+  crc32: 757D3DF5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2DDC2DC3
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/082e5fda82375b43db6a37c90d9bc595.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9028
+  estFirstRun: July 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5471
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0GC
+  dateCodeSuffix: 70
+  std: 9027
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0085
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0GD
+  dateCodeSuffix: 70
+  std: 9027
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 028
+  dateCodeSuffix: C
+  std: 9028
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9024
+  dateCodeSuffix: 3 TA
+  std: 9024
+  misc: 

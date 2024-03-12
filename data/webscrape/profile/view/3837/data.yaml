@@ -1,0 +1,126 @@
+metadata:
+  name: Devil Man
+  altName: デビルマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 19:20:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: devil-man
+releaseInfo:
+  catalogId: NAM-DM-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 25, 1989
+  publisher: Namco
+  developer: ISCO
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/971f5f0d9043bb7adcfd210d66fd956f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8b9cc81785e4edfc7a85f9636b512088.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: C1B6B2A6
+  x: 1
+- type: CHR0
+  label: DM-CHR
+  size: 128 KB
+  crc32: 13D13564
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D1691028
+  x: 1
+pcbProperties:
+  name: UNK-NAMCOT-DM
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-NAMCOT-DM<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce5ee1a8c74770337cfcc4bc5896b0cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-NAMCOT-DM<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/711b1dd8393ad765da097c199f22309c.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8913
+  estFirstRun: March 1989
+  pcbClass: NAMCOT-3453
+  inesMapper: 154
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118, 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: 831000-15
+  partNumberSubDetail: 5A0 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: Z06
+  std: 8912
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8913
+  dateCodeSuffix: D
+  std: 8913
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 87?3
+  dateCodeSuffix: ''
+  std: 8828
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9A1
+  dateCodeSuffix: 5
+  std: 8901
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9A2
+  dateCodeSuffix: 6
+  std: 8902
+  misc: 

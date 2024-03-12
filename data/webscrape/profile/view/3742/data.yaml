@@ -1,0 +1,107 @@
+metadata:
+  name: Hanjuku Hero
+  altName: 半熟英雄
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 20:44:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hanjuku-hero
+releaseInfo:
+  catalogId: SQF-HJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 2, 1988
+  publisher: Square
+  developer: Bits Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Spring Green
+  formFactor: Small
+  frontLabelId: SQF-HJ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8c4481ca55cf9ff29df71db1be8cfb9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SQF-HJ-0 PRG
+  size: 128 KB
+  crc32: CD7A2FD7
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8914
+  estFirstRun: April 1989
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: Z03
+  std: 8908
+  misc: 
+- designation: U2 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9C
+  dateCodeSuffix: 17
+  std: 8909
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: MX
+  std: 8912
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8914
+  dateCodeSuffix: 1 A
+  std: 8914
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: Tetris
+  altName: テトリス
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 01:43:00
+  moreProfiles:
+  - 1497
+  - 1710
+  - 1711
+  - 2330
+  - 3346
+  - 3347
+  - 3348
+  - 3448
+  - 3449
+  - 3702
+  relatedProfiles: []
+  additionalImages: 
+slug: tetris
+releaseInfo:
+  catalogId: BPS-T0
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 22, 1988
+  publisher: Bullet-Proof Software
+  developer: Bullet-Proof Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BPS-T0
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1711')"
+    filename: /images/175/1a22add214947b8998f8a9fcdb2344c8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: BPS-T0-1 PRG
+  size: 32 KB
+  crc32: B5B29375
+  x: 4
+- type: CHR0
+  label: BPS-T0-1 CHR
+  size: 16 KB
+  crc32: A4896EEF
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: D074653D
+  x: 4
+pcbProperties:
+  name: UNK-BPS-T0
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-BPS-T0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4dc69d4b53ca47f687337bb14dbb8702.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-BPS-T0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/027434834b0c299bf989002b4aef7ac6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8926 - 9043 (10)
+  estFirstRun: June 1989
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2816
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9L3
+  dateCodeSuffix: 15
+  std: 8947
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP23128E
+  partNumberSubDetail: 2817
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9L3
+  dateCodeSuffix: 15
+  std: 8947
+  misc: 
+- designation: 161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8934
+  dateCodeSuffix: ''
+  std: 8934
+  misc: 

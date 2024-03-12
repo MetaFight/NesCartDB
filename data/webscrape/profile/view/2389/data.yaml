@@ -1,0 +1,118 @@
+metadata:
+  name: Rad Racer
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2007-12-31 05:20:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1433
+  - 1967
+  - 2124
+  - 3918
+  - 1943
+  - 243
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-RC-CAN<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/c2406631ecd76c110446449a98cadfc1.jpg
+slug: rad-racer
+releaseInfo:
+  catalogId: NES-RC-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: January 19, 1988
+  publisher: Nintendo
+  developer: Square
+  players: 1
+  peripherals: NES Controller,3-D Glasses
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RC-CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/d815f6a11d1bc500965cb6dbf211b43d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/7dd1d557333b290dd5f85d50b381b3fe.jpg
+romDetails:
+- type: PRG0
+  label: NES-RC-0 PRG
+  size: 128 KB
+  crc32: 8B9D3E9C
+  x: 8
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8808
+  estFirstRun: February 1988
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8803
+  dateCodeSuffix: EX
+  std: 8803
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: 1 A
+  std: 8808
+  misc: 
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8743
+  dateCodeSuffix: A
+  std: 8743
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8742
+  dateCodeSuffix: C
+  std: 8742
+  misc: 

@@ -1,0 +1,129 @@
+metadata:
+  name: Lee Trevino's Fighting Golf
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-03-16 04:43:00
+  moreProfiles:
+  - 2534
+  - 2605
+  - 4177
+  relatedProfiles:
+  - 3506
+  - 470
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-FI-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d37c7c189507fca9f94eb1991f91ebab.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-FI-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/710e9075427fe02237996763e486e5ff.jpg
+slug: lee-trevinos-fighting-golf
+releaseInfo:
+  catalogId: NES-FI-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: May 18, 1990
+  publisher: SNK
+  developer: SNK
+  players: 4
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FI-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7f25181ef04b01e95c412e017daeff6d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ccd04b41aa31972e6c0420dad34f0ad3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-FI-0 PRG
+  size: 128 KB
+  crc32: 7EB6F695
+  x: 3
+- type: CHR0
+  label: NES-FI-0 CHR
+  size: 128 KB
+  crc32: 719845ED
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9630A7E5
+  x: 3
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d4b6078e1f633a4a868fd1b13983130d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9109 (3)
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 03
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8951
+  dateCodeSuffix: E
+  std: 8951
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 4Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9002
+  dateCodeSuffix: E
+  std: 9002
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8947
+  dateCodeSuffix: A
+  std: 8947
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9004
+  dateCodeSuffix: 3 AA
+  std: 9004
+  misc: 

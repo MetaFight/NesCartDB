@@ -1,0 +1,136 @@
+metadata:
+  name: Astyanax
+  altName: 
+  variant: (Prototype)
+  submittedBy: piteta
+  submittedOn: 2016-02-20 22:05:00
+  moreProfiles:
+  - 2011
+  - 4728
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-YX-ESP<br>Submitted by: piteta<br>Linked from profile 2011')"
+    filename: /images/175/e033771c0d72e7c165afb4967dafbbd2.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-YX-ESP<br>Submitted by: piteta<br>Linked from profile 2011')"
+    filename: /images/175/4a5d0170edb2d47f721aede6b3011021.jpg
+slug: astyanax
+releaseInfo:
+  catalogId: NES-YX-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Jaleco
+  developer: Aicom
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d1b5373aaea77fcbee726bb6e2cfefdc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c672fdd25636655b2063cd0d7918be67.jpg
+romDetails:
+- type: PRG0
+  label: ASTYANAX PRG
+  size: 128 KB
+  crc32: EC6D545A
+  x: 1
+- type: CHR0
+  label: ASTYANAX CHR
+  size: 128 KB
+  crc32: 545C1B47
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F27D4017
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKEPROM-01<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/195f352c4451e8f2ec23b8c25d6cb86f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 2950')"
+    filename: /images/175/f089f309566b489086cd9dd493eb7a92.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9135
+  estFirstRun: September 1991
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9024
+  dateCodeSuffix: ''
+  std: 9024
+  misc: 
+- designation: U10
+  maker: Motorola
+  partNumber: MC74HC139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8447
+  dateCodeSuffix: N J
+  std: 8447
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9046
+  dateCodeSuffix: ''
+  std: 9046
+  misc: 
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9017
+  dateCodeSuffix: 3 EA
+  std: 9017
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8836
+  dateCodeSuffix: A
+  std: 8836
+  misc: 

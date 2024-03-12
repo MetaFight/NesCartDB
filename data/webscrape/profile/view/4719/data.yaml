@@ -1,0 +1,127 @@
+metadata:
+  name: RoadBlasters
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2013-12-01 21:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4422
+  - 419
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VE-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/612e7738ca55e28b9c5671aef0d22b36.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VE-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/555a48fbffbd8bfd5e504889bbc83a2d.jpg
+slug: roadblasters
+releaseInfo:
+  catalogId: NES-VE-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Mindscape
+  developer: Tengen
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VE-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/54d1cdd99e1aa4643c9a3ad667c72962.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VE-0 PRG
+  size: 128 KB
+  crc32: 18D63EBF
+  x: 2
+- type: CHR0
+  label: NES-VE-0 CHR
+  size: 128 KB
+  crc32: D19B16FC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 17389E3D
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9210
+  estFirstRun: March 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9210
+  dateCodeSuffix: K9028
+  std: 9210
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W56
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9210
+  dateCodeSuffix: KY006
+  std: 9210
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9209
+  dateCodeSuffix: C
+  std: 9209
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9204
+  dateCodeSuffix: B3015
+  std: 9204
+  misc: 

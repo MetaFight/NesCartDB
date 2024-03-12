@@ -1,0 +1,117 @@
+metadata:
+  name: 'Gun Hed: Arutanaru Tatakai'
+  altName: ガンヘッド 新たなる戦い
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 04:43:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: gun-hed-arutanaru-tatakai
+releaseInfo:
+  catalogId: VRE-R3
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 13, 1990
+  publisher: Varie
+  developer: Varie
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Slate Grey
+  formFactor: Small
+  frontLabelId: VRE-R3
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b3c8f1b4a9a1c7a0da97e527b1f741bf.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VRE-R3-0 PRG
+  size: 128 KB
+  crc32: E362ECDC
+  x: 1
+- type: CHR0
+  label: VRE-R3-0 CHR
+  size: 128 KB
+  crc32: 95FABCC8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E8BAA782
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ef1cd0b1af3e22790858921fbedce614.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 3451')"
+    filename: /images/175/58d46d7468263b0f9bdd6e27dd7f131d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9008
+  estFirstRun: February 1990
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R72
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9001
+  dateCodeSuffix: EX708
+  std: 9001
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T78
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9003
+  dateCodeSuffix: EY710
+  std: 9003
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9008
+  dateCodeSuffix: 1 AA
+  std: 9008
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: 51
+  std: 9005
+  misc: 

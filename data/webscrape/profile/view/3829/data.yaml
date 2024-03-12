@@ -1,0 +1,113 @@
+metadata:
+  name: 'Shin Satomi Hakkenden: Hikari to Yami no Tatakai'
+  altName: 新 里見八犬伝 光と闇の戦い
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 11:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29dc093df9be4b5d73162f445f4c6776.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/966d0cacee85c7fc458c0968d4160e88.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f987a1fed1def13afcf73a62ce20ccf.jpg
+slug: shin-satomi-hakkenden-hikari-to-yami-no-tatakai
+releaseInfo:
+  catalogId: TDF-91
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 8, 1989
+  publisher: Toei Animation
+  developer: Micronics / Khaos
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Indigo
+  formFactor: Small
+  frontLabelId: TDF-91
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6b836f85ab21a3c48928ff86a6e278ca.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TDF-91-0 PRG
+  size: 256 KB
+  crc32: 23E9C736
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8944
+  estFirstRun: November 1989
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T40
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8943
+  dateCodeSuffix: PY713
+  std: 8943
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8940
+  dateCodeSuffix: M5005
+  std: 8940
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 5 AA
+  std: 8944
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: 51
+  std: 8942
+  misc: 

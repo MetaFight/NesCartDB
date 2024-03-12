@@ -1,0 +1,131 @@
+metadata:
+  name: 'Star Wars: The Empire Strikes Back'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-02 01:40:00
+  moreProfiles:
+  - 1023
+  - 2761
+  - 1955
+  relatedProfiles:
+  - 2155
+  - 4336
+  - 4742
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-EK USA<br>Submitted by: bootgod<br>Linked from profile 1023')"
+    filename: /images/175/ccee8c20178debd06f389cbd610a1a35.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-EK USA<br>Submitted by: bootgod<br>Linked from profile 1023')"
+    filename: /images/175/9ccde29331ad8c45c7c97e890ed15eda.jpg
+slug: star-wars-the-empire-strikes-back
+releaseInfo:
+  catalogId: NES-EK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1992
+  publisher: JVC
+  developer: LucasFilm Games
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EK-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1023')"
+    filename: /images/175/8a10eb2cd68b0bd509a7a2e31cdae033.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1023')"
+    filename: /images/175/d0538b4a869fbbe47412b12f4866b872.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EK-0 PRG
+  size: 256 KB
+  crc32: 65FB428A
+  x: 3
+- type: CHR0
+  label: NES-EK-0 CHR
+  size: 256 KB
+  crc32: 32300C40
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 240DE736
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/44365fbda3852d78c7bc1704c588daad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9205 - 9206 (2)
+  estFirstRun: February 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J674
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9205
+  dateCodeSuffix: EAI
+  std: 9205
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J675
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9205
+  dateCodeSuffix: EAI
+  std: 9205
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9204
+  dateCodeSuffix: 7 BB
+  std: 9204
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 5 T
+  std: 9204
+  misc: 

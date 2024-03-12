@@ -1,0 +1,107 @@
+metadata:
+  name: Metro-Cross
+  altName: メトロクロス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-19 04:08:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1593
+  - 2675
+  - 3175
+  additionalImages: 
+slug: metro-cross
+releaseInfo:
+  catalogId: NAM-MC-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 16, 1986
+  publisher: Namco
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1593')"
+    filename: /images/175/9b6960857e3d6f15703a16103990bb55.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1593')"
+    filename: /images/175/110ec70e62a5e82d08238e00e7017765.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT-MC-PRG
+  size: 32 KB
+  crc32: BDABC4A6
+  x: 3
+- type: CHR0
+  label: NAMCOT-MC-CHR
+  size: 32 KB
+  crc32: E94CEEEE
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: E40B4973
+  x: 3
+pcbProperties:
+  name: 3451
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3451<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/72818b4603b384ca58f26fb36b5e6a24.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3451<br>Submitted by: bootgod<br>Linked from profile 1593')"
+    filename: /images/175/29672b1284247bf6f7f6b4fccbb1c0f1.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8645 - 8647 (3)
+  estFirstRun: November 1986
+  pcbClass: NAMCOT-3451
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: 256
+  partNumberSubDetail: M5M23
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 646
+  dateCodeSuffix: 10Z
+  std: 8646
+  misc: (P)
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M23256
+  partNumberSubDetail: 195P
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 647
+  dateCodeSuffix: 10G
+  std: 8647
+  misc: (P)
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 6
+  dateCodeSuffix: ''
+  std: 8644
+  misc: 

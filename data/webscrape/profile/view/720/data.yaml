@@ -1,0 +1,123 @@
+metadata:
+  name: Dragon Power
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-04 04:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2591
+  - 2066
+  - 1744
+  additionalImages: 
+slug: dragon-power
+releaseInfo:
+  catalogId: NES-DP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1988
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DP-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7400de35c4ae6cb078098e7e1f785b0c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5dc56ebe1513d41a96711fb1f920949c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DP-0 PRG
+  size: 128 KB
+  crc32: ECE525DD
+  x: 1
+- type: CHR0
+  label: NES-DP-0 CHR
+  size: 32 KB
+  crc32: 59F0FBAA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 811F06D9
+  x: 1
+pcbProperties:
+  name: NES-GN-ROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-GN-ROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ad85cfe4eecf21b100342517beb4821.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-GN-ROM-03<br>Submitted by: Kinopio<br>Linked from profile 2522')"
+    filename: /images/175/fa0337a896889285944d075110f2e58e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8819
+  estFirstRun: May 1988
+  pcbClass: NES-GNROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: E
+  std: 8819
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: L5
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8811
+  dateCodeSuffix: B
+  std: 8811
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8817
+  dateCodeSuffix: B
+  std: 8817
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8813
+  dateCodeSuffix: H
+  std: 8813
+  misc: 

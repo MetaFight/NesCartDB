@@ -1,0 +1,120 @@
+metadata:
+  name: Tennis
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-05-13 20:06:00
+  moreProfiles:
+  - 1562
+  - 4158
+  - 2440
+  - 2520
+  - 2521
+  relatedProfiles:
+  - 1455
+  - 1973
+  - 568
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-TE-EEC<br>Submitted by: piteta<br>Linked from profile 4158')"
+    filename: /images/175/c62610e62e872ef25508313a347a48ae.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-TE-EEC<br>Submitted by: piteta<br>Linked from profile 4158')"
+    filename: /images/175/b303233d96a24c9a7840cc5e6927047f.jpg
+slug: tennis
+releaseInfo:
+  catalogId: NES-TE-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: September 1, 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TE-EEC
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: FRG
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/10f74d702aa0ee8ecdcc155507b2226d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2057')"
+    filename: /images/175/c95adb7e02173738ba713de4ad5b5ac3.jpg
+romDetails:
+- type: PRG0
+  label: PAL-TE-0 PRG
+  size: 16 KB
+  crc32: 108F732E
+  x: 6
+- type: CHR0
+  label: HVC-TE-0 CHR
+  size: 8 KB
+  crc32: 3A34C45B
+  x: 16
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 304FA926
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-04<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/7247394c8854887c08860f04f60caf47.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 2056')"
+    filename: /images/175/4d2ba057fb9442e3c06fe0fef293acbd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8740 - 9036 (5)
+  estFirstRun: October 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0558
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8D4
+  dateCodeSuffix: 30
+  std: 8817
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2014
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8E3
+  dateCodeSuffix: 56
+  std: 8820
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8839
+  dateCodeSuffix: A
+  std: 8839
+  misc: 

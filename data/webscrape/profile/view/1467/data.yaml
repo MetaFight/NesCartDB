@@ -1,0 +1,117 @@
+metadata:
+  name: Excitebike
+  altName: エキサイトバイク
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 03:30:00
+  moreProfiles:
+  - 1467
+  - 1694
+  - 2314
+  - 3356
+  - 3472
+  - 3473
+  - 3474
+  - 3648
+  relatedProfiles:
+  - 2056
+  - 2149
+  - 1960
+  - 18
+  additionalImages: 
+slug: excitebike
+releaseInfo:
+  catalogId: HVC-EB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 30, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HVC-EB
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2ef7ec8a7b145821e645994c50391651.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 3A94FA0B
+  x: 15
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: E5F72401
+  x: 22
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 49AEB3A6
+  x: 17
+pcbProperties:
+  name: 2A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6be47cfdf094ccf3e7a5bbcbc7ea295.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2A<br>Submitted by: bootgod<br>Linked from profile 3369')"
+    filename: /images/175/43faf6a49b068e94aeae426820697916.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8448 - 8505 (6)
+  estFirstRun: December 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-EB
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 4Z
+  dateCodeSuffix: 24
+  std: 8448
+  misc: 2H-C6
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

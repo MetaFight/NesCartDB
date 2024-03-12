@@ -1,0 +1,103 @@
+metadata:
+  name: F1 Race
+  altName: Ｆ１レース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 01:35:00
+  moreProfiles:
+  - 1476
+  - 2742
+  - 1677
+  - 2325
+  - 3378
+  - 3379
+  - 3491
+  - 3492
+  - 3660
+  relatedProfiles: []
+  additionalImages: 
+slug: f1-race
+releaseInfo:
+  catalogId: HVC-FR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 2, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lavender
+  formFactor: Small
+  frontLabelId: HVC-FR
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1476')"
+    filename: /images/175/ee89a8153a018a283b3bdf70e311d8e2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-FR-0 PRG
+  size: 16 KB
+  crc32: 57970078
+  x: 9
+- type: CHR0
+  label: HVC-FR-0 CHR
+  size: 8 KB
+  crc32: E653DBCB
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E0604F76
+  x: 9
+pcbProperties:
+  name: HVC-RROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d53026f80ca804f8c2f63a2355997318.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 3446')"
+    filename: /images/175/f924c55de70e8be8d53b7bafd544da7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8444 - 8506 (6)
+  estFirstRun: November 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1259
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 448
+  dateCodeSuffix: VA 5207
+  std: 8448
+  misc: RP23128 0323
+- designation: CHR
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0905
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4ZB
+  dateCodeSuffix: 2
+  std: 8450
+  misc: 

@@ -1,0 +1,79 @@
+metadata:
+  name: Star Voyager
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 22:57:00
+  moreProfiles:
+  - 626
+  - 1310
+  - 1336
+  relatedProfiles:
+  - 3900
+  additionalImages: 
+slug: star-voyager
+releaseInfo:
+  catalogId: NES-SV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Acclaim
+  developer: ASCII
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SV-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 626')"
+    filename: /images/175/f2fc979ff82db5043ec9a9b2eb509140.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 626')"
+    filename: /images/175/9b7c4b8883682734cdf4e8a71e6dc174.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-SV-0 PRG
+  size: 32 KB
+  crc32: AAD84AFF
+  x: 4
+- type: CHR0
+  label: NES-SV-0 CHR
+  size: 32 KB
+  crc32: 6F6D9520
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: B1723338
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8743 - 8836 (2)
+  estFirstRun: October 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo: []

@@ -1,0 +1,115 @@
+metadata:
+  name: 'Megami Tensei: Digital Devil Story'
+  altName: 女神転生 デジタルデビル物語
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 00:25:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: megami-tensei-digital-devil-story
+releaseInfo:
+  catalogId: NAM-MT-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 11, 1987
+  publisher: Namco
+  developer: Atlus
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e305af2702bb043b6792346bc9a15191.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ede0b881d7a5f599df6da53fb22f35f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8be9abedfc80f55ecf8a092cef87cc1.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTMTPR
+  size: 128 KB
+  crc32: 9F3DA143
+  x: 1
+- type: CHR0
+  label: NAMCOTMTCH
+  size: 128 KB
+  crc32: 73F1E3CF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5393D949
+  x: 1
+pcbProperties:
+  name: 3446
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3446<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a6c06de5767a52a813b5f91b27899c9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3446<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5dd8ddcf394fc1f3bb64575c735754de.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8736
+  estFirstRun: September 1987
+  pcbClass: NAMCOT-3446
+  inesMapper: 76
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108, 74xx32
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: 831000-15
+  partNumberSubDetail: 665 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: Z13
+  std: 8736
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: 831010-20
+  partNumberSubDetail: 666 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: Z17
+  std: 8736
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 108
+  partNumberSubDetail: 
+  type: Namcot 108
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8729
+  dateCodeSuffix: Z02
+  std: 8729
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8706
+  dateCodeSuffix: U79
+  std: 8706
+  misc: 

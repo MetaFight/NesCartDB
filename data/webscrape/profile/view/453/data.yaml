@@ -1,0 +1,126 @@
+metadata:
+  name: Zanac
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-30 02:42:00
+  moreProfiles:
+  - 258
+  - 299
+  - 453
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-ZA-USA<br>Submitted by: bootgod<br>Linked from profile 258')"
+    filename: /images/175/ead573aacd89351c4b0456d64d55a24b.jpg
+slug: zanac
+releaseInfo:
+  catalogId: NES-ZA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1987
+  publisher: FCI
+  developer: Compile
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZA-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 299')"
+    filename: /images/175/12ffb95cc419b1a574065eff54ed839c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 299')"
+    filename: /images/175/5174e7608a0485fa474caba8ae658747.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZA-0 PRG
+  size: 128 KB
+  crc32: E292AA10
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8738 - 8738 (3)
+  estFirstRun: September 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2315
+  partNumberSubDetail: 95
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8738
+  dateCodeSuffix: D
+  std: 8738
+  misc: 
+- designation: CHR RAM
+  maker: OKI
+  partNumber: M5165L-20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 63
+  dateCodeSuffix: 062
+  std: 8609
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8734
+  dateCodeSuffix: C
+  std: 8734
+  misc: 
+- designation: LS161N
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8729
+  dateCodeSuffix: CA
+  std: 8729
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7?
+  dateCodeSuffix: ''
+  std: 8735
+  misc: 

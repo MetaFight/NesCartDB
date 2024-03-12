@@ -1,0 +1,126 @@
+metadata:
+  name: Tiny Toon Adventures
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-06-22 05:06:00
+  moreProfiles:
+  - 264
+  - 770
+  - 2815
+  relatedProfiles:
+  - 2030
+  - 1571
+  - 2464
+  additionalImages: 
+slug: tiny-toon-adventures
+releaseInfo:
+  catalogId: NES-NI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-NI-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 264')"
+    filename: /images/175/5f9cae34bf903ecebdf95cec1da20d37.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 264')"
+    filename: /images/175/aca8b44ba529360372c0cc8b0011b969.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-NI-0 PRG
+  size: 128 KB
+  crc32: 9CB55B96
+  x: 4
+- type: CHR0
+  label: NES-NI-0 CHR
+  size: 128 KB
+  crc32: A024AE14
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 99DDDB04
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a0ebe4d8b6504fb02174289fc4a453a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9237 - 9250 (2)
+  estFirstRun: September 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J615
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9236
+  dateCodeSuffix: EAI
+  std: 9236
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC531003CP
+  partNumberSubDetail: J616
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9237
+  dateCodeSuffix: EAI
+  std: 9237
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: 3 BB
+  std: 9234
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9233
+  dateCodeSuffix: 1 T
+  std: 9233
+  misc: 

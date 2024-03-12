@@ -1,0 +1,135 @@
+metadata:
+  name: M.C. Kids
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-11-22 02:58:00
+  moreProfiles:
+  - 146
+  - 1127
+  relatedProfiles:
+  - 2590
+  - 2072
+  additionalImages: 
+slug: mc-kids
+releaseInfo:
+  catalogId: NES-4Q-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1992
+  publisher: Virgin Games
+  developer: Virgin Games
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4Q-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0837f7652b5e20b6492fce2250d711f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/17c9133c7d9bb54d3e638b25ccb57c8d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4Q-0 PRG
+  size: 128 KB
+  crc32: 6C15F90E
+  x: 4
+- type: CHR0
+  label: NES-4Q-0 CHR
+  size: 128 KB
+  crc32: 32AF2F1B
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B0EBF3DB
+  x: 2
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd7e56941807ba68d830bccdb68e07e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9152
+  estFirstRun: December 1991
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J662
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9149
+  dateCodeSuffix: EAI
+  std: 9149
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC531003CP
+  partNumberSubDetail: J663
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9149
+  dateCodeSuffix: EAI
+  std: 9149
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9149
+  dateCodeSuffix: 7 BB
+  std: 9149
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9152
+  dateCodeSuffix: 5 AB
+  std: 9152
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: KT73
+  std: 9146
+  misc: 

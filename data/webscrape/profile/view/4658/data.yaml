@@ -1,0 +1,113 @@
+metadata:
+  name: Shuffle Fight
+  altName: シャッフルファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:23:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4867c2dd825aed7c924636866390a9c.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/57c4d6f4277a4db9c4f9d93023e0df97.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/88e9ca55235f9c2d6d105ee86e8c2dbe.jpg
+slug: shuffle-fight
+releaseInfo:
+  catalogId: BAP-CB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 9, 1992
+  publisher: Banpresto
+  developer: Pandora Box
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BAP-CB
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de159c44b58f503a89c3975d1b689448.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BAP-CB-0 PRG
+  size: 256 KB
+  crc32: BDC124E5
+  x: 1
+pcbProperties:
+  name: HVC-TNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9236
+  estFirstRun: September 1992
+  pcbClass: HVC-TNROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 98
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9236
+  dateCodeSuffix: D
+  std: 9236
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9211
+  dateCodeSuffix: EJ
+  std: 9211
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9216
+  dateCodeSuffix: 3 U
+  std: 9216
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9221
+  dateCodeSuffix: 5E025
+  std: 9221
+  misc: 

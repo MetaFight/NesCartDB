@@ -1,0 +1,134 @@
+metadata:
+  name: Disney's DuckTales
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-27 06:49:00
+  moreProfiles:
+  - 2427
+  - 2428
+  - 2429
+  - 4106
+  relatedProfiles:
+  - 1985
+  - 4480
+  - 3780
+  - 2559
+  - 38
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-UK-EEC<br>Submitted by: Kinopio<br>Linked from profile 2427')"
+    filename: /images/175/baa5015b242d948d18dd9343337d9850.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-UK-EEC<br>Submitted by: Kinopio<br>Linked from profile 2427')"
+    filename: /images/175/b23a435dd87e2982443b7846b30176f4.jpg
+slug: disneys-ducktales
+releaseInfo:
+  catalogId: NES-UK-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: December 14, 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UK-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2427')"
+    filename: /images/175/1dba2bd1bcf6021a045c8eaa99108a17.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2427')"
+    filename: /images/175/411a6c96acdaf8a1478919974f08e59c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-UK-0 PRG
+  size: 128 KB
+  crc32: D029F841
+  x: 8
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9039 - 9109 (4)
+  estFirstRun: September 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9039
+  dateCodeSuffix: E
+  std: 9039
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9034
+  dateCodeSuffix: 5 DB
+  std: 9034
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: A
+  std: 9039
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 032
+  dateCodeSuffix: EN
+  std: 9032
+  misc: 
+- designation: U5 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 034
+  dateCodeSuffix: GN
+  std: 9034
+  misc: 

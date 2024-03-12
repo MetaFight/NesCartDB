@@ -1,0 +1,82 @@
+metadata:
+  name: 'Golgo 13: Top Secret Episode'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-05-31 04:19:00
+  moreProfiles:
+  - 200
+  - 2779
+  - 886
+  - 1002
+  - 1202
+  - 2936
+  relatedProfiles:
+  - 1644
+  additionalImages: 
+slug: golgo-13-top-secret-episode
+releaseInfo:
+  catalogId: NES-G3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1988
+  publisher: Vic Tokai
+  developer: Vic Tokai
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-G3-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1002')"
+    filename: /images/175/165612e2412485859f85d74c273dde15.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 200')"
+    filename: /images/175/53ccf59b3641210741fa688afc1911e4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-G3-0 PRG
+  size: 128 KB
+  crc32: 72725A0B
+  x: 6
+- type: CHR0
+  label: NES-G3-0 CHR
+  size: 128 KB
+  crc32: 92B85ED0
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F532F09A
+  x: 6
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8916 - 8934 (3)
+  estFirstRun: April 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

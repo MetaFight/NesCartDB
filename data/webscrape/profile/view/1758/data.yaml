@@ -1,0 +1,116 @@
+metadata:
+  name: 'Taito Grand Prix: Eikou e no License'
+  altName: タイトーグランプリ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-30 04:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: taito-grand-prix-eikou-e-no-license
+releaseInfo:
+  catalogId: TFC-TG-5500-15
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 18, 1987
+  publisher: Taito
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Fake Battery Door
+  frontLabelId: TFC-TG5500
+  sequence#: 15
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a40073caf24f86781bb48affb733482.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b394aea8eb89412418631ccd13a81e4d.jpg
+romDetails:
+- type: PRG0
+  label: PR0 X3-018
+  size: 128 KB
+  crc32: 17627D4B
+  x: 1
+- type: CHR0
+  label: CH X3-019
+  size: 128 KB
+  crc32: 505AA340
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 10B0F8B0
+  x: 1
+pcbProperties:
+  name: P3-33A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-33A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a86c3d06e525903c42eaf434a130113e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-33A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7372f070e5652daff94df97333269d9b.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8747
+  estFirstRun: November 1987
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, X1-005
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: KX
+  std: 8747
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: KX
+  std: 8747
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8724
+  dateCodeSuffix: K5
+  std: 8724
+  misc: BB
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7K3
+  dateCodeSuffix: 1
+  std: 8743
+  misc: 

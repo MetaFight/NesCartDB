@@ -1,0 +1,122 @@
+metadata:
+  name: 'Dynowarz: The Destruction of Spondylus'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-31 23:42:00
+  moreProfiles:
+  - 282
+  - 2863
+  relatedProfiles: []
+  additionalImages: 
+slug: dynowarz-the-destruction-of-spondylus
+releaseInfo:
+  catalogId: NES-WZ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: Bandai
+  developer: Advance Communication
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WZ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd5d7ff67e351647d20cf2b61e150200.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a18f70defebe456c7ea2384877173ca.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WZ-0 PRG
+  size: 128 KB
+  crc32: 428DFAC6
+  x: 2
+- type: CHR0
+  label: NES-WZ-0 CHR
+  size: 128 KB
+  crc32: 84912A0C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BDE93999
+  x: 2
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d4752f653558697062c9a210633f22c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9011 - 9011 (2)
+  estFirstRun: March 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5424
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0BM
+  dateCodeSuffix: 41
+  std: 9007
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: H8
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9011
+  dateCodeSuffix: E
+  std: 9011
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9007
+  dateCodeSuffix: 1 CA
+  std: 9007
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9006
+  dateCodeSuffix: 5 AA
+  std: 9006
+  misc: 

@@ -1,0 +1,125 @@
+metadata:
+  name: Anticipation
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-10 23:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 89
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-AP-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0f3e4249ac10de8ebc6780e916d76632.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-AP-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a282fa2b8de7031a0f7ec1dba91a45f3.jpg
+slug: anticipation
+releaseInfo:
+  catalogId: NES-AP-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: October 25, 1989
+  publisher: Nintendo
+  developer: Rare
+  players: 4
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AP-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0653e33b591807d79eb55e93c95c8cf6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e1cbd0941c587840edbfe852db85b58f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AP-0 PRG
+  size: 32 KB
+  crc32: B391A86D
+  x: 1
+- type: CHR0
+  label: NES-AP-0 CHR
+  size: 32 KB
+  crc32: E4E8E16E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 8B7D3C75
+  x: 1
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3300c0e307facfe02f35a8aafcbe6d62.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8949
+  estFirstRun: December 1989
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2825
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9L4
+  dateCodeSuffix: 53
+  std: 8948
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2087
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9H1
+  dateCodeSuffix: 98
+  std: 8932
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8946
+  dateCodeSuffix: A
+  std: 8946
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8949
+  dateCodeSuffix: 3 AA
+  std: 8949
+  misc: 

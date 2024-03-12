@@ -1,0 +1,126 @@
+metadata:
+  name: North & South
+  altName: ノース＆サウスわくわく南北戦争
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 03:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2433
+  - 4047
+  - 879
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a75f4d5bd1f8a31aa255a60d2e263bb4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80e8ebc09a9027e040b9a6ddc554ad3e.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0574ac291b4eae7fc3f28176be6e231.jpg
+slug: north-south
+releaseInfo:
+  catalogId: KSC-N5
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 21, 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-N5
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/63fbf6f573a91140f31e80ad93e2e002.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-N5-0 PRG
+  size: 128 KB
+  crc32: 68E8A520
+  x: 1
+- type: CHR0
+  label: KSC-N5-0 CHR
+  size: 128 KB
+  crc32: D1EA387E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0FC8E9B7
+  x: 1
+pcbProperties:
+  name: HVC-TSROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/81640d80ca4e6d648fb5cde30096bb3c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 3517')"
+    filename: /images/175/851efaf0f53fb9cc5bbba4c770ac86fd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9032
+  estFirstRun: August 1990
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S26
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: EX483
+  std: 9032
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R09
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9032
+  dateCodeSuffix: EY734
+  std: 9032
+  misc: 
+- designation: U3 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: MD
+  std: 9029
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9031
+  dateCodeSuffix: KX005
+  std: 9031
+  misc: 

@@ -1,0 +1,107 @@
+metadata:
+  name: 'Captain Comic: The Adventure'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-09-03 04:22:00
+  moreProfiles:
+  - 734
+  - 1016
+  relatedProfiles: []
+  additionalImages: 
+slug: captain-comic-the-adventure
+releaseInfo:
+  catalogId: CDR-CC-81001
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa8ddc33b9e1c217bd729ddf28e52bb6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4621')"
+    filename: /images/175/3ebd3cd5a7c494b60a2851f41d51c8f3.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 3D8C4A06
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: A868E20C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: A5E89675
+  x: 2
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c19d6b7e4ed18b3a7b363f2405c8e4fc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 8938 - 9144 (2)
+  estFirstRun: September 1989
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Winbond
+  partNumber: WR259321-20
+  partNumberSubDetail: 
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8937
+  dateCodeSuffix: ''
+  std: 8937
+  misc: 
+- designation: U2
+  maker: Winbond
+  partNumber: WR259322-20
+  partNumberSubDetail: 
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8938
+  dateCodeSuffix: ''
+  std: 8938
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

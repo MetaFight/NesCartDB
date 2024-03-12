@@ -1,0 +1,125 @@
+metadata:
+  name: Mighty Bomb Jack
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-18 04:09:00
+  moreProfiles:
+  - 202
+  - 291
+  - 1352
+  relatedProfiles:
+  - 1261
+  - 2143
+  additionalImages: 
+slug: mighty-bomb-jack
+releaseInfo:
+  catalogId: NES-BJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BJ-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 202')"
+    filename: /images/175/20881623d24f8cf9a03302ec4b0449b8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/423322eb2a9ab74e5ab88cf16351eb42.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-BJ-0 PRG
+  size: 32 KB
+  crc32: 18BA5AC0
+  x: 3
+- type: CHR0
+  label: NES-BJ-0 CHR
+  size: 32 KB
+  crc32: 71F83045
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: AAC2E75E
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/59e4075fdd4a70fb30d8e775e044c5d5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8722 - 8741 (3)
+  estFirstRun: June 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2008
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7K1
+  dateCodeSuffix: 12
+  std: 8741
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2009
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7J4
+  dateCodeSuffix: A0
+  std: 8740
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8651
+  dateCodeSuffix: BA
+  std: 8651
+  misc: 

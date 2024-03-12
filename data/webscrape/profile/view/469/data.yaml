@@ -1,0 +1,123 @@
+metadata:
+  name: NFL
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-08 03:33:00
+  moreProfiles:
+  - 469
+  - 1244
+  relatedProfiles: []
+  additionalImages: 
+slug: nfl
+releaseInfo:
+  catalogId: NES-FN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: LJN
+  developer: Atlus
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FN-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80f8f1f8f89e98b6ca59fff420c3acde.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e589790087694510e69b985a51b0e1f1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-FN-0 PRG
+  size: 128 KB
+  crc32: 35B6FEBF
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9011 - 9027 (2)
+  estFirstRun: March 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 9J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9011
+  dateCodeSuffix: E
+  std: 9011
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9K
+  dateCodeSuffix: 35E
+  std: 8944
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9006
+  dateCodeSuffix: 7 CA
+  std: 9006
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 001
+  dateCodeSuffix: EN
+  std: 9001
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9002
+  dateCodeSuffix: ''
+  std: 9002
+  misc: 

@@ -1,0 +1,124 @@
+metadata:
+  name: Kyuukyoku Harikiri Stadium
+  altName: 究極ハリキリスタジア
+  variant: (Version 2.0)
+  submittedBy: bootgod
+  submittedOn: 2007-07-01 02:01:00
+  moreProfiles:
+  - 1765
+  - 1766
+  - 3071
+  - 3147
+  - 3148
+  - 3149
+  - 3150
+  - 3303
+  relatedProfiles: []
+  additionalImages: 
+slug: kyuukyoku-harikiri-stadium
+releaseInfo:
+  catalogId: TFC-KHS-5500-18
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 28, 1988
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Fake Battery Door
+  frontLabelId: TFC-KHS-5500
+  sequence#: 18
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/517d8a2cb2fe99d3a01eb4226d60eb3f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d8b7db5555b306463a85707a495b0ab6.jpg
+romDetails:
+- type: PRG0
+  label: PRG X3-022
+  size: 128 KB
+  crc32: 6C438BB2
+  x: 3
+- type: CHR0
+  label: CHR X3-021B
+  size: 128 KB
+  crc32: 3CB636A4
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D0E53454
+  x: 3
+pcbProperties:
+  name: P3-33A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-33A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e83699f999993be0e265aba48d73618.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-33A<br>Submitted by: bootgod<br>Linked from profile 1758')"
+    filename: /images/175/7372f070e5652daff94df97333269d9b.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8823 - 8910 (8)
+  estFirstRun: June 1988
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, X1-005
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: JY
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8849
+  dateCodeSuffix: D
+  std: 8849
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8846
+  dateCodeSuffix: KX
+  std: 8846
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8843
+  dateCodeSuffix: K5
+  std: 8843
+  misc: BB
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8G4
+  dateCodeSuffix: 6
+  std: 8830
+  misc: 

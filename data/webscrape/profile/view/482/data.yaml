@@ -1,0 +1,118 @@
+metadata:
+  name: Pac-Mania
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-08 05:59:00
+  moreProfiles:
+  - 482
+  - 4237
+  relatedProfiles: []
+  additionalImages: 
+slug: pac-mania
+releaseInfo:
+  catalogId: TGN-021-PMA
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Tengen
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  4-DigitCode: PMR1
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f18d3c4fbbd8360466f255d869ac29ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335021-1011 PMAPR
+  size: 64 KB
+  crc32: 02ED6298
+  x: 2
+- type: CHR0
+  label: 335021-1012 PMACH
+  size: 32 KB
+  crc32: F5DB6965
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: E73E7260
+  x: 2
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0089fb204018f1e056022ae5ae8e8c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 322')"
+    filename: /images/175/61422c6d305e1b3b4200a2448d86752b.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9043 - 9044 (2)
+  estFirstRun: October 1990
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: MAD
+  std: 9044
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: MAE
+  std: 9043
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9035
+  dateCodeSuffix: ILKM
+  std: 9035
+  misc: 
+- designation: MIMIC 1
+  maker: Motorola
+  partNumber: 337001-002
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: ILAB
+  std: 8926
+  misc: 

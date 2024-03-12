@@ -1,0 +1,99 @@
+metadata:
+  name: Gomoku Narabe Renju
+  altName: 五目ならべ 連
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 03:44:00
+  moreProfiles:
+  - 1652
+  - 3390
+  - 3391
+  - 3689
+  - 4003
+  relatedProfiles: []
+  additionalImages: 
+slug: gomoku-narabe-renju
+releaseInfo:
+  catalogId: HVC-GO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 27, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HVC-GO
+  backLabelId/Desc: 831018
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1652')"
+    filename: /images/175/07827934df3182633d7bf4efdf1e0470.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-GO-0 PRG
+  size: 16 KB
+  crc32: 5603F579
+  x: 5
+- type: CHR0
+  label: HVC-GO-0 CHR
+  size: 8 KB
+  crc32: 97EA7144
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 4A99B47E
+  x: 5
+pcbProperties:
+  name: HVC-RROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1f7b8a1bb4ebf12bd4175cd4babb831c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 3446')"
+    filename: /images/175/f924c55de70e8be8d53b7bafd544da7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8401 - 8409 (2)
+  estFirstRun: January 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: _UnkRicohMexico
+  partNumber: C3308
+  partNumberSubDetail: 12
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8401
+  dateCodeSuffix: 0232
+  std: 8401
+  misc: RP23128 0038
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D68
+  partNumberSubDetail: 0033
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 3M2
+  dateCodeSuffix: 05
+  std: 8350
+  misc: 

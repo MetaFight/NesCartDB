@@ -1,0 +1,128 @@
+metadata:
+  name: 'Teenage Mutant Hero Turtles II: The Arcade Game'
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 19:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4033
+  - 1773
+  - 2504
+  - 145
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-89-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/76330d1d6494bdb42ec5a4e2d9f01dba.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-89-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/81c3dae4830e6ec18c690bbdd69c7fd5.jpg
+slug: teenage-mutant-hero-turtles-ii-the-arcade-game
+releaseInfo:
+  catalogId: NES-89-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: October 25, 1991
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-89-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c2c9f6578e6d3868ef46521a67f8953d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-89-0 PRG
+  size: 256 KB
+  crc32: 355DDEE6
+  x: 4
+- type: CHR0
+  label: PAL-89-0 CHR
+  size: 256 KB
+  crc32: 26747879
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: C5657C12
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/034f40d8f7fa28dc3dd36469c19433c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9148
+  estFirstRun: December 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 24
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: D
+  std: 9143
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 25
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9148
+  dateCodeSuffix: D
+  std: 9148
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9143
+  dateCodeSuffix: A
+  std: 9143
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9148
+  dateCodeSuffix: 3 AB
+  std: 9148
+  misc: 

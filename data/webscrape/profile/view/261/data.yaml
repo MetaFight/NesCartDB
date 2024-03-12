@@ -1,0 +1,127 @@
+metadata:
+  name: Donkey Kong Classics
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-09 00:48:00
+  moreProfiles:
+  - 109
+  - 261
+  relatedProfiles:
+  - 3644
+  - 2132
+  - 4254
+  - 2885
+  - 4454
+  additionalImages: 
+slug: donkey-kong-classics
+releaseInfo:
+  catalogId: NES-DJ-USA
+  region: USA (NTSC)
+  class: Licensed  » Multi-cart
+  releaseDate: October 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DJ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 109')"
+    filename: /images/175/df4de67e0f2bbd051a76ad7733945710.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31595f1706bb311924b813695d2fbdf3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DJ-0 PRG
+  size: 32 KB
+  crc32: D711EA15
+  x: 8
+- type: CHR0
+  label: NES-DJ-0 CHR
+  size: 16 KB
+  crc32: E0474EB5
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: AB2006B4
+  x: 8
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2e2c0d20bf1202b793dcb295f040b021.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8931 - 8933 (2)
+  estFirstRun: August 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: HJ
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: B
+  std: 8926
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 98
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: B
+  std: 8926
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8931
+  dateCodeSuffix: 5 CA
+  std: 8931
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 918
+  dateCodeSuffix: EN
+  std: 8918
+  misc: 

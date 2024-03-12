@@ -1,0 +1,95 @@
+metadata:
+  name: 'Ninja-kun: Majou no Bouken'
+  altName: 忍者くん　魔城の冒険
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 01:07:00
+  moreProfiles:
+  - 2281
+  - 3281
+  relatedProfiles: []
+  additionalImages: 
+slug: ninja-kun-majou-no-bouken
+releaseInfo:
+  catalogId: JF-03
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: May 10, 1985
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Red
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-03
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2281')"
+    filename: /images/175/67330a60f0e79c3a8480e240a81260dc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2281')"
+    filename: /images/175/37adb3de2fcb3e7a4fad515225bbf48e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: FDE61002
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 22EA1607
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FC00A282
+  x: 1
+pcbProperties:
+  name: JF
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4afcf74b85c5b65294abc6aaeda18355.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8519 - 8540 (2)
+  estFirstRun: May 1985
+  pcbClass: JALECO-JF-03
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: NEC
+  partNumber: D27128C
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8540
+  dateCodeSuffix: KX014
+  std: 8540
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: D2764C
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8538
+  dateCodeSuffix: KX
+  std: 8538
+  misc: 

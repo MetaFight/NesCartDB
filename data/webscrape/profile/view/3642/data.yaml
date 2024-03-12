@@ -1,0 +1,126 @@
+metadata:
+  name: Final Fantasy I & II
+  altName: ファイナルファンタジー
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2009-06-24 05:29:00
+  moreProfiles:
+  - 3642
+  - 3950
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 3950')"
+    filename: /images/175/bfb6fac106c2368abf014022e702c622.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 3950')"
+    filename: /images/175/631a580ef26836dd317bff807e100af5.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 3950')"
+    filename: /images/175/902a94480aad016e6c37c86d32546133.jpg
+slug: final-fantasy-i-ii
+releaseInfo:
+  catalogId: SQF-FO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 27, 1994
+  publisher: Square
+  developer: Square
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: SQF-FO
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/91bf4f5e31ddfa2cbb11dcf50adabc04.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 1409')"
+    filename: /images/175/00ce7a07232b4ed021b1557d3b959623.jpg
+romDetails:
+- type: PRG0
+  label: SQF-FO-0 PRG
+  size: 512 KB
+  crc32: C9556B36
+  x: 2
+pcbProperties:
+  name: HVC-SXROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9404 - 9406 (2)
+  estFirstRun: January 1994
+  pcbClass: HVC-SXROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 32 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx04, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB834000
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9404
+  dateCodeSuffix: T01
+  std: 9404
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9349
+  dateCodeSuffix: NB
+  std: 9349
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9244
+  dateCodeSuffix: 1 A 170
+  std: 9244
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY62256ALLP-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9345
+  dateCodeSuffix: C
+  std: 9345
+  misc: 
+- designation: U5 HCU04
+  maker: Texas Instruments
+  partNumber: SN74HCU04N
+  partNumberSubDetail: 
+  type: 74-04 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 331
+  dateCodeSuffix: 5DU KER
+  std: 9331
+  misc: 

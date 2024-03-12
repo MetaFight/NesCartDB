@@ -1,0 +1,123 @@
+metadata:
+  name: 'Dragon Ball Z III: Ressen Jinzou Ningen'
+  altName: ドラゴンボールＺIII 烈戦人
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 01:22:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1536
+  - 1751
+  - 3084
+  - 3085
+  - 3086
+  - 3087
+  - 3088
+  - 3296
+  additionalImages: 
+slug: dragon-ball-z-iii-ressen-jinzou-ningen
+releaseInfo:
+  catalogId: BA-DBZ3
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 7, 1992
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1536')"
+    filename: /images/175/c8e0c1806f10b6648935fdc896c3afac.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1536')"
+    filename: /images/175/7ad782752f64e95a723a199f0c1033da.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/ba2cc5408003eaede63130f26fb0713c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI'92 DÂ·BÂ·Z-3 PRG
+  size: 256 KB
+  crc32: 09499F4D
+  x: 8
+- type: CHR0
+  label: BANDAI'92 DÂ·BÂ·Z-3 CHR
+  size: 256 KB
+  crc32: E8FCFE95
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: DC52BF0C
+  x: 8
+pcbProperties:
+  name: DRAGON BALL Z-B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DRAGON BALL Z-B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32a8123b49066db368b0775d98a20611.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>DRAGON BALL Z-B<br>Submitted by: bootgod<br>Linked from profile 1537')"
+    filename: /images/175/3f2738f3183e53a9f012cbf24c043984.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9227 - 9229 (8)
+  estFirstRun: July 1992
+  pcbClass: BANDAI-LZ93D50+24C02
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 24C02, FCG-3
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9229
+  dateCodeSuffix: E
+  std: 9229
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9227
+  dateCodeSuffix: D
+  std: 9227
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D50
+  partNumberSubDetail: 
+  type: Bandai FCG-3
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 9136
+  dateCodeSuffix: 3 A
+  std: 9136
+  misc: 
+- designation: 
+  maker: Xicor
+  partNumber: X24C02P
+  partNumberSubDetail: 
+  type: Serial EEPROM
+  typeSubDetail: 2 kb
+  package: DIP-8
+  dateCodePrefix: 137
+  dateCodeSuffix: ''
+  std: 9137
+  misc: 

@@ -1,0 +1,121 @@
+metadata:
+  name: 'Seiryaku Simulation: Inbou no Wakusei: Shancara'
+  altName: 陰謀の惑星シャンカラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 04:00:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/84f646f2cd29665d7ae3d6db9c283ebb.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce2ccd8ce1a7dc561494f4855c72be7a.jpg
+slug: seiryaku-simulation-inbou-no-wakusei-shancara
+releaseInfo:
+  catalogId: IGS-SV
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 26, 1992
+  publisher: IGS
+  developer: 
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: IGS-SV
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6605991a32b93f3e9f1d26af2b7bd10.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: IGS-SV-0 PRG
+  size: 128 KB
+  crc32: 009DA4C0
+  x: 1
+- type: CHR0
+  label: IGS-SV-0 CHR
+  size: 128 KB
+  crc32: B79A163E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C22BC87B
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd4ea49448eaec62a17331eb3c88a55b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9221
+  estFirstRun: May 1992
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T04
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9221
+  dateCodeSuffix: K9001
+  std: 9221
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W88
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9220
+  dateCodeSuffix: KY005
+  std: 9220
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9207
+  dateCodeSuffix: EP015
+  std: 9207
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9210
+  dateCodeSuffix: A
+  std: 9210
+  misc: 

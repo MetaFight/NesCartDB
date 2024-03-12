@@ -1,0 +1,128 @@
+metadata:
+  name: Trojan
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 02:33:00
+  moreProfiles:
+  - 400
+  - 790
+  - 1354
+  relatedProfiles:
+  - 2488
+  - 2231
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-TJ-USA<br>Submitted by: bootgod<br>Linked from profile 400')"
+    filename: /images/175/bfa08382a9fa4181c141040510b9cf8c.jpg
+slug: trojan
+releaseInfo:
+  catalogId: NES-TJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1987
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TJ-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/17c8b1c8d6a013fe18bd7d5ddd7b8f7d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc2f2be193c297e8a2b0e3bfac90dc81.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-TJ-0 PRG
+  size: 128 KB
+  crc32: FC3E5C86
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8722 - 8739 (2)
+  estFirstRun: June 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 35
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7E
+  dateCodeSuffix: 59
+  std: 8718
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8737
+  dateCodeSuffix: C
+  std: 8737
+  misc: 
+- designation: LS161N
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8727
+  dateCodeSuffix: CA
+  std: 8727
+  misc: 
+- designation: LS32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8712
+  dateCodeSuffix: C7
+  std: 8712
+  misc: 

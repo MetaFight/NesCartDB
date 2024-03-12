@@ -1,0 +1,122 @@
+metadata:
+  name: Rampart
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-18 03:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 122
+  additionalImages: 
+slug: rampart
+releaseInfo:
+  catalogId: NES-73-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Jaleco
+  developer: Tengen
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-73-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a8f94a562b747d3e8434350d66089373.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b6d548927e32a4dbd533aa03e65e22b0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-73-0 PRG
+  size: 128 KB
+  crc32: 28EDFAD4
+  x: 1
+- type: CHR0
+  label: NES-73-0 CHR
+  size: 128 KB
+  crc32: 94A07125
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C115A022
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0866c90f33e14e319d089320830cee81.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9242
+  estFirstRun: October 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: F0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9242
+  dateCodeSuffix: E
+  std: 9242
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 83
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9239
+  dateCodeSuffix: E
+  std: 9239
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9237
+  dateCodeSuffix: A
+  std: 9237
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9235
+  dateCodeSuffix: EP005
+  std: 9235
+  misc: 

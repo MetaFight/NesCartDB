@@ -1,0 +1,104 @@
+metadata:
+  name: 'Tiny Toon Adventures 2: Montana Land e Youkoso'
+  altName: タイニートゥーンアドベンチャー2　モンタナランドへようこそ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 13:26:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tiny-toon-adventures-2-montana-land-e-youkoso
+releaseInfo:
+  catalogId: KON-RV051
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 27, 1992
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RV051
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/13e8a53a870af4beaf7c022fa4db6e9d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4bd8e9e7f5310c47a99cc911eb798e5e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RV051J00P
+  size: 128 KB
+  crc32: 1AA0479C
+  x: 1
+- type: CHR0
+  label: RV051J00C
+  size: 128 KB
+  crc32: CA162561
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E4362167
+  x: 1
+pcbProperties:
+  name: 353429
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>353429<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3616aedeb47af3fa030742e0f07b17b7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>353429<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97e376d4a7aaf6a1387276cc535e9361.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9246
+  estFirstRun: November 1992
+  pcbClass: KONAMI-VRC-7
+  inesMapper: 85
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC7
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231030E
+  partNumberSubDetail: 0050
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9246
+  dateCodeSuffix: E
+  std: 9246
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9246
+  dateCodeSuffix: EY001
+  std: 9246
+  misc: 
+- designation: 
+  maker: _UnkAMS
+  partNumber: 053982 VRC VII
+  partNumberSubDetail: 
+  type: Konami VRC VII
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9049
+  dateCodeSuffix: IASD
+  std: 9049
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: Ganbare Goemon! Karakuri Douchuu
+  altName: がんばれゴエモン！からくり道中
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-25 03:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3040
+  - 3041
+  additionalImages: 
+slug: ganbare-goemon-karakuri-douchuu
+releaseInfo:
+  catalogId: KON-RC815
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 30, 1986
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC815
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 3040')"
+    filename: /images/175/6f88ef535fa664240348c74738bfe76b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3040')"
+    filename: /images/175/5e107a77286408e996689c10426a850c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC815J0P
+  size: 128 KB
+  crc32: 565A57E5
+  x: 2
+- type: CHR0
+  label: RC815J0C
+  size: 128 KB
+  crc32: D9842835
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4FC2F673
+  x: 2
+pcbProperties:
+  name: 302114A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>302114A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e77149a0abd246f156094d3f5e14d2b0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>302114A<br>Submitted by: bootgod<br>Linked from profile 3040')"
+    filename: /images/175/cad61ea71600d905fb5877c03adc076f.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8629 - 8630 (2)
+  estFirstRun: July 1986
+  pcbClass: KONAMI-VRC-1
+  inesMapper: 75
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, VRC1
+detailedChipInfo:
+- designation: IC1
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 201P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 630
+  dateCodeSuffix: 108
+  std: 8630
+  misc: 
+- designation: IC2
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 200P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 630
+  dateCodeSuffix: 111
+  std: 8630
+  misc: 
+- designation: IC3
+  maker: NEC
+  partNumber: 007422 VRC
+  partNumberSubDetail: 075
+  type: Konami VRC
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8627
+  dateCodeSuffix: K7
+  std: 8627
+  misc: 
+- designation: IC4
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8627
+  dateCodeSuffix: B7
+  std: 8627
+  misc: 

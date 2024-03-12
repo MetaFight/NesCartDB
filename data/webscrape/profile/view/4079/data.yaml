@@ -1,0 +1,127 @@
+metadata:
+  name: 'Solomon no Kagi 2: Coolmintou Kyuushutsu Sakusen'
+  altName: ソロモンの鍵２　クールミン島救出作戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2895
+  - 2431
+  - 4052
+  - 915
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f9359f314454e2be6113a611a6fc5a6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f4bca7c6afe4d24250b3e4427609b784.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4793a4c6661cfc5d6b501d5a91c06962.jpg
+slug: solomon-no-kagi-2-coolmintou-kyuushutsu-sakusen
+releaseInfo:
+  catalogId: TCF-SZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 24, 1992
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Aquamarine
+  formFactor: Small
+  frontLabelId: TCF-SZ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2303a72e4a0c35d01c0b2427dd0346b8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-SZ-0 PRG
+  size: 128 KB
+  crc32: C71E77CA
+  x: 1
+- type: CHR0
+  label: TCF-SZ-0 CHR
+  size: 128 KB
+  crc32: 3E1D8F0D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EEE6314E
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f04f0d2c5e489ea1b85cec7fe2117e72.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9151
+  estFirstRun: December 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W72
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9151
+  dateCodeSuffix: K9008
+  std: 9151
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W60
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9150
+  dateCodeSuffix: KY008
+  std: 9150
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9149
+  dateCodeSuffix: 5 AB
+  std: 9149
+  misc: 
+- designation: U4 W-RAM
+  maker: Sanyo
+  partNumber: LC3564PL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 14
+  dateCodeSuffix: 126
+  std: 9114
+  misc: 

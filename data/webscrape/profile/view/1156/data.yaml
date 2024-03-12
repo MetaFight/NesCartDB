@@ -1,0 +1,135 @@
+metadata:
+  name: 'Wizardry: Knight of Diamonds'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 18:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1631
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-32-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb330c52d6bb0ce55952ba1a28007837.jpg
+slug: wizardry-knight-of-diamonds
+releaseInfo:
+  catalogId: NES-32-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1992
+  publisher: ASCII
+  developer: Sir-Tech Software
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-32-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31b09708d1b7d55b3a00041db903ccb0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a5aace3e22e30b971aee823d89094ab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-32-0 PRG
+  size: 128 KB
+  crc32: D9736A6D
+  x: 1
+- type: CHR0
+  label: NES-32-0 CHR
+  size: 128 KB
+  crc32: 9852CA8E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6BC33D2F
+  x: 1
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3dbbee1baca055258a5eca7af1ff4f6a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9206
+  estFirstRun: February 1992
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W80
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9206
+  dateCodeSuffix: K9040
+  std: 9206
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W70
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9206
+  dateCodeSuffix: KY021
+  std: 9206
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 201
+  dateCodeSuffix: C
+  std: 9201
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 3 AB
+  std: 9204
+  misc: 
+- designation: U5 S-RAM
+  maker: Sony
+  partNumber: CXK5864BPX-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 204
+  dateCodeSuffix: A05X
+  std: 9204
+  misc: 

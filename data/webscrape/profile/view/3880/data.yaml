@@ -1,0 +1,96 @@
+metadata:
+  name: 'Kaettekita! Gunjin Shougi: Nanya Sore!?'
+  altName: 帰って来た！軍人将棋なんやそれ!?
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 01:45:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kaettekita-gunjin-shougi-nanya-sore
+releaseInfo:
+  catalogId: SFL-NS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 26, 1989
+  publisher: Sofel
+  developer: Sofel
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Violet
+  formFactor: Small
+  frontLabelId: SFL-NS
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/157a075d2e464fb2fba7bb49424a89f9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFL-NS-0 PRG
+  size: 128 KB
+  crc32: E74AA15A
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919
+  estFirstRun: May 1989
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 1L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8919
+  dateCodeSuffix: E
+  std: 8919
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8916
+  dateCodeSuffix: M5
+  std: 8916
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8918
+  dateCodeSuffix: 3 A
+  std: 8918
+  misc: 

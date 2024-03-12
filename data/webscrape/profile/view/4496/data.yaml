@@ -1,0 +1,128 @@
+metadata:
+  name: 'Mission: Impossible'
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-01-02 03:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 989
+  - 4403
+  - 2506
+  - 156
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-U4-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/6130a49356f13a6daa1b73c3d3927385.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-U4-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e8a9960e983edbc9ae26d0924b184342.jpg
+slug: mission-impossible
+releaseInfo:
+  catalogId: NES-U4-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: November 28, 1991
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U4-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/67fccfa7b930ded5660316f0a7d60771.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-U4-0 PRG
+  size: 128 KB
+  crc32: 71BAECEC
+  x: 4
+- type: CHR0
+  label: PAL-U4-0 CHR
+  size: 128 KB
+  crc32: 4BF6D30B
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1353A134
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2e3d5a852a86ea0d117d97b5283f0a99.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9143
+  estFirstRun: October 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 2J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9143
+  dateCodeSuffix: E
+  std: 9143
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 64
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: E
+  std: 9143
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9137
+  dateCodeSuffix: A
+  std: 9137
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9137
+  dateCodeSuffix: EP016
+  std: 9137
+  misc: 

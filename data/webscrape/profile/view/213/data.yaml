@@ -1,0 +1,124 @@
+metadata:
+  name: Heavy Barrel
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-27 01:00:00
+  moreProfiles:
+  - 213
+  - 513
+  relatedProfiles:
+  - 3826
+  additionalImages: 
+slug: heavy-barrel
+releaseInfo:
+  catalogId: NES-HV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Data East
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HV-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a5c0f5c97034647d62cf605f332eba0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/db6658c6086451eaa49e18f5f6ae0761.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HV-0 PRG
+  size: 128 KB
+  crc32: B4D554D6
+  x: 3
+- type: CHR0
+  label: NES-HV-0 CHR
+  size: 128 KB
+  crc32: D070AEFC
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 34EAB034
+  x: 2
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ad66beeff6dfcc929e23c084d7a9722.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9008 - 9014 (2)
+  estFirstRun: February 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5417
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0CM
+  dateCodeSuffix: 44
+  std: 9011
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0055
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0CL
+  dateCodeSuffix: 4M
+  std: 9011
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: 1 AA
+  std: 9014
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9010
+  dateCodeSuffix: KP051
+  std: 9010
+  misc: 

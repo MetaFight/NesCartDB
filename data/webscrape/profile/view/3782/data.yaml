@@ -1,0 +1,107 @@
+metadata:
+  name: 'Tantei Jinguuji Saburou: Toki no Sugiyuku Mama ni'
+  altName: 探偵神宮寺三郎　時の過ぎゆくままに
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 23:08:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tantei-jinguuji-saburou-toki-no-sugiyuku-mama-ni
+releaseInfo:
+  catalogId: DFC-J4
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 28, 1990
+  publisher: Data East
+  developer: Sakata SAS
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: DFC-J4
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/76492e4f9da2a42389cce47f8a4ea19e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: DFC-J4-0 PRG
+  size: 128 KB
+  crc32: 2061772A
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9033
+  estFirstRun: August 1990
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5482
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0HL
+  dateCodeSuffix: 72
+  std: 9033
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 031
+  dateCodeSuffix: B
+  std: 9031
+  misc: 
+- designation: U3 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: ''
+  std: 9014
+  misc: 
+- designation: U4 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9007
+  dateCodeSuffix: ''
+  std: 9007
+  misc: 

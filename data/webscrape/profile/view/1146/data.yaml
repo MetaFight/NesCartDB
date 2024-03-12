@@ -1,0 +1,125 @@
+metadata:
+  name: Fester's Quest
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 17:25:00
+  moreProfiles:
+  - 166
+  - 1067
+  - 1146
+  - 2929
+  relatedProfiles:
+  - 1852
+  additionalImages: 
+slug: festers-quest
+releaseInfo:
+  catalogId: NES-EQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EQ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1067')"
+    filename: /images/175/fbec7f2f6799efb690b8e0c6bb7ca0bf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 166')"
+    filename: /images/175/6e42e49750e9c75306637d6729ec2d24.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EQ-0 PRG
+  size: 128 KB
+  crc32: 953A3EAF
+  x: 4
+- type: CHR0
+  label: NES-EQ-0 CHR
+  size: 128 KB
+  crc32: 0CA17AB5
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B6BF5137
+  x: 4
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8615566580a360dc0c4d91349d982488.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-04<br>Submitted by: Kinopio<br>Linked from profile 2422')"
+    filename: /images/175/dcc49909419dbfd669adf95e140e460c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8937 - 8941 (2)
+  estFirstRun: September 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8935
+  dateCodeSuffix: Z04
+  std: 8935
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 8B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8941
+  dateCodeSuffix: D
+  std: 8941
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8939
+  dateCodeSuffix: 7 BA
+  std: 8939
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8941
+  dateCodeSuffix: 3 A
+  std: 8941
+  misc: 

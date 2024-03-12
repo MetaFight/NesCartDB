@@ -1,0 +1,118 @@
+metadata:
+  name: Mega Man 2
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-25 19:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1417
+  - 1917
+  - 3481
+  - 47
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-XR-FRG<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c786a1fe7ecb8086d0056b51d65a9884.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-XR-FRG<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/86dbcd0d7869334b8ea200b60e1eff93.jpg
+slug: mega-man-2
+releaseInfo:
+  catalogId: NES-XR-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: December 14, 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XR-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2cc08ce00b648f258fbdd91d66c2e526.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-XR-0 PRG
+  size: 256 KB
+  crc32: A6638CBA
+  x: 5
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9128
+  estFirstRun: July 1991
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W03
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9126
+  dateCodeSuffix: EP727
+  std: 9126
+  misc: 
+- designation: U2 CHR RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 124
+  dateCodeSuffix: N
+  std: 9124
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9119
+  dateCodeSuffix: 5 AA
+  std: 9119
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9128
+  dateCodeSuffix: C
+  std: 9128
+  misc: 

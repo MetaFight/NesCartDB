@@ -1,0 +1,112 @@
+metadata:
+  name: Puzslot
+  altName: パズロット
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 04:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4091ba028d225f2c40200d2f74c400d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/85409e07ed566eace0d8f7467dc20ea1.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/902548bcf793455357199f2212da2b95.jpg
+slug: puzslot
+releaseInfo:
+  catalogId: SAC-1P
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 28, 1992
+  publisher: Sammy
+  developer: Sammy
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: SAC-1P
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/52d18bb0b54b04a0e0db616b55248db2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: SAC-1P-0 PRG
+  size: 128 KB
+  crc32: 6611497F
+  x: 1
+- type: CHR0
+  label: SAC-1P-0 CHR
+  size: 128 KB
+  crc32: C74B723B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F4DD5BA5
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/217dcf6365359c57339fc4ec4d705bd6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9202
+  estFirstRun: January 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W73
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9152
+  dateCodeSuffix: K9004
+  std: 9152
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W63
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9152
+  dateCodeSuffix: KY004
+  std: 9152
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9202
+  dateCodeSuffix: 1 A 170
+  std: 9202
+  misc: 

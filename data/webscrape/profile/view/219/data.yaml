@@ -1,0 +1,106 @@
+metadata:
+  name: Pyramid
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-27 05:45:00
+  moreProfiles:
+  - 219
+  - 315
+  relatedProfiles: []
+  additionalImages: 
+slug: pyramid
+releaseInfo:
+  catalogId: AVE-PY
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Sachen / Joy Van
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/359c578de1c58601d0d602944c90d894.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43af404a43d0ab4b510aa9999c60492d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1269')"
+    filename: /images/175/818454343a4135a12b4bad8f20ea4f94.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 1FF8DACE
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 8EEF716A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 2969A5C1
+  x: 1
+pcbProperties:
+  name: NINA-03 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f22e9c28d7e9ba4325c452979eaed55.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 1375')"
+    filename: /images/175/ba39c04386d4d07c727a8aab1d5c872c.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9038 - 9311 (2)
+  estFirstRun: September 1990
+  pcbClass: AVE-NINA-03
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+detailedChipInfo:
+- designation: U1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9038
+  dateCodeSuffix: ''
+  std: 9038
+  misc: 

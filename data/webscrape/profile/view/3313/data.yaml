@@ -1,0 +1,108 @@
+metadata:
+  name: Salamander
+  altName: 沙羅曼蛇
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 07:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1783
+  - 2649
+  - 3313
+  additionalImages: 
+slug: salamander
+releaseInfo:
+  catalogId: KON-RC821
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 25, 1987
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Clear Green
+  formFactor: Small
+  frontLabelId: RC821
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1783')"
+    filename: /images/175/365a9fe0629eaa613b006eaa68cfaca8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1783')"
+    filename: /images/175/ac14b0a09e5595b00941876198112db7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: RC821J1P
+  size: 128 KB
+  crc32: AC652B47
+  x: 3
+pcbProperties:
+  name: 350685
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8735 - 8736 (3)
+  estFirstRun: September 1987
+  pcbClass: KONAMI-VRC-3
+  inesMapper: 73
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: VRC3
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: D
+  std: 8736
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8704
+  dateCodeSuffix: MX002
+  std: 8704
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 051959 VRC III
+  partNumberSubDetail: 
+  type: Konami VRC III
+  typeSubDetail: 
+  package: DIP-18
+  dateCodePrefix: 8734
+  dateCodeSuffix: D
+  std: 8734
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8464A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8652
+  dateCodeSuffix: R29
+  std: 8652
+  misc: 

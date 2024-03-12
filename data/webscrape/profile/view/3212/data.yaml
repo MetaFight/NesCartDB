@@ -1,0 +1,95 @@
+metadata:
+  name: Choujikuu Yousai Macross
+  altName: 超時空要塞マクロス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-25 23:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2304
+  - 3211
+  - 3212
+  additionalImages: 
+slug: choujikuu-yousai-macross
+releaseInfo:
+  catalogId: NAM-NMR-4500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 10, 1985
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2304')"
+    filename: /images/175/45a783ff3340e3b4670c7744d05af8d5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2304')"
+    filename: /images/175/fe576e4865db1120f9a9ff556ba58779.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCO MR PRG
+  size: 16 KB
+  crc32: 350BF21B
+  x: 3
+- type: CHR0
+  label: NAMCO MR CHR
+  size: 8 KB
+  crc32: D1E5D796
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: C1D7AB1D
+  x: 3
+pcbProperties:
+  name: 3302
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3302<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c56e8508ce3b7f56e14d679346d5be97.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3302<br>Submitted by: bootgod<br>Linked from profile 1802')"
+    filename: /images/175/90459714c294b16fc12680c5fe696d03.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8544 - 8546 (3)
+  estFirstRun: November 1985
+  pcbClass: NAMCOT-3302
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Toshiba
+  partNumber: TMM24128P
+  partNumberSubDetail: 2002
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8545
+  dateCodeSuffix: ABA
+  std: 8545
+  misc: 
+- designation: CH
+  maker: Toshiba
+  partNumber: TMM2464P
+  partNumberSubDetail: 1002
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8544
+  dateCodeSuffix: ADA
+  std: 8544
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: Bio Miracle Bokutte Upa
+  altName: バイオミラクル ぼくってウパ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 06:17:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b634e122ac1e4e575ca3bfe70541fc3.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c93b4a44568ccbc1b5829eb464ea37c2.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/beaf4e005a085f7e396c80095212a591.jpg
+slug: bio-miracle-bokutte-upa
+releaseInfo:
+  catalogId: KON-RV102
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 26, 1993
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RV102
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9352b16cbe2bcba3c51c0560153025e0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f4d47cbe3d400814975fb4e3e555d340.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RV102J00P
+  size: 128 KB
+  crc32: 0BBD85FF
+  x: 1
+- type: CHR0
+  label: RV102J00C
+  size: 128 KB
+  crc32: B8168EFA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6DC28B5A
+  x: 1
+pcbProperties:
+  name: 351406
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351406<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dded878ac26c3f7a2ca23594ab07c308.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351406<br>Submitted by: bootgod<br>Linked from profile 1565')"
+    filename: /images/175/314843651fac8c32d3b5e4509ec472e9.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9307
+  estFirstRun: February 1993
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 25
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9305
+  dateCodeSuffix: Z01
+  std: 9305
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9307
+  dateCodeSuffix: E
+  std: 9307
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 054003 VRC IV
+  partNumberSubDetail: 
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9149
+  dateCodeSuffix: AA
+  std: 9149
+  misc: 

@@ -1,0 +1,123 @@
+metadata:
+  name: Yoshi
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-03 05:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1997
+  - 2232
+  - 2536
+  additionalImages: 
+slug: yoshi
+releaseInfo:
+  catalogId: NES-YM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1992
+  publisher: Nintendo
+  developer: Game Freak
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4db886096731632ba2a217801e6277d1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0658d0612eeda5d7dc0560ba5cd6d6b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YM-0 PRG
+  size: 128 KB
+  crc32: FE5F17F0
+  x: 1
+- type: CHR0
+  label: NES-YM-0 CHR
+  size: 32 KB
+  crc32: 694C1999
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: E7EAD93B
+  x: 1
+pcbProperties:
+  name: NES-SFROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ec09684ab4cdd04421bc52eedbd8cdc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SFROM-03<br>Submitted by: Kinopio<br>Linked from profile 2103')"
+    filename: /images/175/86f09c953bcf44626f72e405c4f057ae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9217
+  estFirstRun: April 1992
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: AL
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9214
+  dateCodeSuffix: E
+  std: 9214
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2355
+  partNumberSubDetail: 54
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9217
+  dateCodeSuffix: B
+  std: 9217
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9047
+  dateCodeSuffix: 5 AB
+  std: 9047
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9146
+  dateCodeSuffix: B3007
+  std: 9146
+  misc: 

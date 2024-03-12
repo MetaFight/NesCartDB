@@ -1,0 +1,78 @@
+metadata:
+  name: Paperboy
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 12:06:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1844
+  - 4036
+  - 2511
+  - 230
+  additionalImages: 
+slug: paperboy
+releaseInfo:
+  catalogId: NES-PY-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: September 27, 1990
+  publisher: Mindscape
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PY-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0507d22a39e65a3ab29eb358428a0438.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-PY-0 PRG
+  size: 32 KB
+  crc32: 2CED1577
+  x: 3
+- type: CHR0
+  label: PAL-PY-0 CHR
+  size: 32 KB
+  crc32: 3D8FD7E0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: EE219A49
+  x: 3
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo: []

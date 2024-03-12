@@ -1,0 +1,121 @@
+metadata:
+  name: Artelius
+  altName: アルテリオス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 07:29:00
+  moreProfiles:
+  - 1503
+  - 3576
+  - 3683
+  relatedProfiles: []
+  additionalImages: 
+slug: artelius
+releaseInfo:
+  catalogId: NBF-AU (06)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 13, 1987
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-AU
+  secondaryId: 06
+  backLabelId/Desc: 870417
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6b679584ea3e63d5c95ee76dcef1bf46.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NBF-AU-0 PRG
+  size: 128 KB
+  crc32: EBAC24E9
+  x: 3
+- type: CHR0
+  label: NBF-AU-0 CHR
+  size: 32 KB
+  crc32: 07F2131B
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 093E845F
+  x: 3
+pcbProperties:
+  name: HVC-SJROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3c7c19a534c53babc8ca7ca241c983b4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 2691')"
+    filename: /images/175/ba7f1dd8941d6a3203956f3826c900cf.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8742 - 8743 (3)
+  estFirstRun: October 1987
+  pcbClass: HVC-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8741
+  dateCodeSuffix: KX
+  std: 8741
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: 28
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8742
+  dateCodeSuffix: E
+  std: 8742
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 
+- designation: W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7H
+  dateCodeSuffix: 05
+  std: 8731
+  misc: 

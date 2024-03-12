@@ -1,0 +1,128 @@
+metadata:
+  name: Teenage Mutant Hero Turtles
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-01 05:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2033
+  - 4408
+  - 4563
+  - 8
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-88-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/05e00bdaa0067646eb2bc32b83eadb74.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-88-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ac43a133dc32fd7b530bc285ef0fabf8.jpg
+slug: teenage-mutant-hero-turtles
+releaseInfo:
+  catalogId: NES-88-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: August 17, 1990
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-88-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/03292852f3a4492f466e6505b85f1491.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9035cb18378639e5893eb6e5b5fb71d3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-88-0 PRG
+  size: 128 KB
+  crc32: 857DBC36
+  x: 7
+- type: CHR0
+  label: PAL-88-0 CHR
+  size: 128 KB
+  crc32: 66231389
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 00AD1189
+  x: 7
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/811dfb94801bcf73597e4eecae8f1cc1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9113
+  estFirstRun: March 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R98
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9113
+  dateCodeSuffix: EX709
+  std: 9113
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T92
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9113
+  dateCodeSuffix: EY700
+  std: 9113
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9113
+  dateCodeSuffix: A
+  std: 9113
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9046
+  dateCodeSuffix: B3059
+  std: 9046
+  misc: 

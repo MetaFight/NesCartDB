@@ -1,0 +1,120 @@
+metadata:
+  name: Operation Wolf
+  altName: オペレーションウルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 05:36:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2910
+  - 1923
+  - 4376
+  - 180
+  additionalImages: 
+slug: operation-wolf
+releaseInfo:
+  catalogId: TFC-OW-5900-24
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 31, 1989
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Zapper Light Gun,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-OW-5900
+  sequence#: 24
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4fbe8c0684574045a34287c377a5d927.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/674cc4fbe8bd7a975aa5bb1ce732822a.jpg
+romDetails:
+- type: PRG0
+  label: B76-01
+  size: 128 KB
+  crc32: 42D893E4
+  x: 1
+- type: CHR0
+  label: B76-02
+  size: 128 KB
+  crc32: 0A5402F9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2A6559A1
+  x: 1
+pcbProperties:
+  name: J9100161A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100161A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/724cac9a4569773b826c36dcd717cc46.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100161A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2599c3fd4a6d9a3872bba8b9a3fbb0d8.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8905
+  estFirstRun: February 1989
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx245, TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8905
+  dateCodeSuffix: EX
+  std: 8905
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8905
+  dateCodeSuffix: EX
+  std: 8905
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8832
+  dateCodeSuffix: KY
+  std: 8832
+  misc: 
+- designation: 
+  maker: Texas Instruments
+  partNumber: SN74LS245N
+  partNumberSubDetail: 
+  type: 74-245 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 821
+  dateCodeSuffix: J
+  std: 8821
+  misc: 

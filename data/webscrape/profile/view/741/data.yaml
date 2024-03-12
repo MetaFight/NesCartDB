@@ -1,0 +1,121 @@
+metadata:
+  name: Magic Darts
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 22:43:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3906
+  additionalImages: 
+slug: magic-darts
+releaseInfo:
+  catalogId: NES-4R-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1991
+  publisher: Romstar
+  developer: Seta
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4R-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/20d874d0c1f33fe9bbdd6387191f36f1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d1645bca19827224a6963f90c1e08d3c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4R-0 PRG
+  size: 128 KB
+  crc32: C8A10B71
+  x: 1
+- type: CHR0
+  label: NES-4R-0 CHR
+  size: 128 KB
+  crc32: 06E760D1
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5EB8E707
+  x: 1
+pcbProperties:
+  name: NES-SLRROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLRROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6cc35f4cb592b3744cec1bb6f5fe63ab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLRROM-01<br>Submitted by: Kinopio<br>Linked from profile 2496')"
+    filename: /images/175/0b514b57a136d9cdffabfb3a9b099769.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9131
+  estFirstRun: August 1991
+  pcbClass: NES-SLRROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NSW
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1
+  dateCodeSuffix: 53
+  std: 9131
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NSX
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1
+  dateCodeSuffix: 52
+  std: 9131
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 101
+  dateCodeSuffix: C
+  std: 9101
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9041
+  dateCodeSuffix: B3018
+  std: 9041
+  misc: 

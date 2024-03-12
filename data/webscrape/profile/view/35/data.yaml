@@ -1,0 +1,120 @@
+metadata:
+  name: Mega Man 4
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2005-09-30 04:21:00
+  moreProfiles:
+  - 35
+  - 804
+  - 840
+  relatedProfiles:
+  - 1418
+  - 4709
+  - 1489
+  - 2109
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-4V-USA<br>Submitted by: bootgod<br>Linked from profile 840')"
+    filename: /images/175/d5a92fa60f81ed7c059002c91c2c8a0b.jpg
+slug: mega-man-4
+releaseInfo:
+  catalogId: NES-4V-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4V-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/289155bd4795709a8245d81490c0efaf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 840')"
+    filename: /images/175/e3635054d5c58c61efeb4bc93958b45f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4V-1 PRG
+  size: 512 KB
+  crc32: 18A2E74F
+  x: 1
+pcbProperties:
+  name: NES-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9148 - 9217 (3)
+  estFirstRun: December 1991
+  pcbClass: NES-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534J
+  partNumberSubDetail: 77
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9217
+  dateCodeSuffix: E
+  std: 9217
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9211
+  dateCodeSuffix: EJ
+  std: 9211
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9212
+  dateCodeSuffix: 5 T
+  std: 9212
+  misc: 

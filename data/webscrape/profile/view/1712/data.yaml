@@ -1,0 +1,118 @@
+metadata:
+  name: 'Dragon Quest II: Akuryou no Kamigami'
+  altName: ドラゴンクエストII 悪霊の神々
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 01:50:00
+  moreProfiles:
+  - 1525
+  - 1712
+  - 1715
+  - 2323
+  - 3438
+  - 3439
+  - 3440
+  - 3441
+  - 3442
+  - 3681
+  relatedProfiles:
+  - 1274
+  additionalImages: 
+slug: dragon-quest-ii-akuryou-no-kamigami
+releaseInfo:
+  catalogId: EFC-D2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 26, 1987
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: EFC-D2
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1525')"
+    filename: /images/175/06ca04ea323c409ddba1afff6b3ad9af.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: EFC-D2-0 PRG
+  size: 128 KB
+  crc32: 48349B0B
+  x: 10
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8702 - 8951 (10)
+  estFirstRun: January 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8709
+  dateCodeSuffix: Z36
+  std: 8709
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864P-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6K
+  dateCodeSuffix: 04
+  std: 8644
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8704
+  dateCodeSuffix: CA
+  std: 8704
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8647
+  dateCodeSuffix: H
+  std: 8647
+  misc: 

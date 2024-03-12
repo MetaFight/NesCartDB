@@ -1,0 +1,112 @@
+metadata:
+  name: Rollerball
+  altName: ローラーボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2411
+  - 379
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2d370c5bc0119dc3c88c8342790e6447.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d9bd54da0ff758014fa4f2f2b66213f5.jpg
+slug: rollerball
+releaseInfo:
+  catalogId: HAL-RH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 20, 1988
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HAL-RH
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a917ee00fd30de815fc77c9f32a1b44.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: HAL-RH-0 PRG
+  size: 128 KB
+  crc32: BF3BB6D5
+  x: 1
+- type: CHR0
+  label: HAL-RH-0 CHR
+  size: 32 KB
+  crc32: 99D8D5E6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: E2A79A57
+  x: 1
+pcbProperties:
+  name: HVC-SFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/08fcb66c7f138fc31e5c3383dd1f55f2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 3591')"
+    filename: /images/175/a451a3696b59a9d2d6cf76c0fd675656.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8849
+  estFirstRun: December 1988
+  pcbClass: HVC-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1800
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8L5
+  dateCodeSuffix: A1
+  std: 8849
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2090
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8L3
+  dateCodeSuffix: A2
+  std: 8847
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8849
+  dateCodeSuffix: 1 A
+  std: 8849
+  misc: 

@@ -1,0 +1,121 @@
+metadata:
+  name: Rolling Thunder
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 06:59:00
+  moreProfiles:
+  - 422
+  - 1212
+  relatedProfiles:
+  - 3339
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1212')"
+    filename: /images/175/1b9c381026bc746ff661be76cac6c0e0.jpg
+slug: rolling-thunder
+releaseInfo:
+  catalogId: TGN-007-RT
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Namco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  4-DigitCode: YBRZ
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1212')"
+    filename: /images/175/15aae5b6b9d386e56d286a8ba7e8e129.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335007-1011 RTPRG
+  size: 128 KB
+  crc32: 9808ABB8
+  x: 2
+- type: CHR0
+  label: 335007-1012 RTCHR
+  size: 128 KB
+  crc32: C7634F44
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F92BE3EC
+  x: 2
+pcbProperties:
+  name: 800032 REV B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800032 REV B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad2888f4ab6f98ba736497f0499cc900.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800032 REV B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/580d939cbe57ebb9fa0833e166650468.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8939 - 9052 (2)
+  estFirstRun: September 1989
+  pcbClass: TENGEN-800032
+  inesMapper: 64
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006, 74xx32
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: RAMBO 1
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9042
+  dateCodeSuffix: F842972K
+  std: 9042
+  misc: NCR0381301
+- designation: 
+  maker: National Semiconductor
+  partNumber: DM74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9052
+  dateCodeSuffix: SP
+  std: 9052
+  misc: AF

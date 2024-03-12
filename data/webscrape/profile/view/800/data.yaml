@@ -1,0 +1,75 @@
+metadata:
+  name: Final Fantasy
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 04:08:00
+  moreProfiles:
+  - 154
+  - 509
+  - 800
+  - 810
+  - 3056
+  - 2930
+  - 3061
+  relatedProfiles:
+  - 715
+  - 1623
+  additionalImages: 
+slug: final-fantasy
+releaseInfo:
+  catalogId: NES-FF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1990
+  publisher: Nintendo
+  developer: Square
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 154')"
+    filename: /images/175/7672e6b72b324abfa613fe47bd9560ee.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 154')"
+    filename: /images/175/e443eee119db0c64c9260f13ca6c3eff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-FF-0 PRG
+  size: 256 KB
+  crc32: CEBD2A31
+  x: 8
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9016 - 9024 (4)
+  estFirstRun: April 1990
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

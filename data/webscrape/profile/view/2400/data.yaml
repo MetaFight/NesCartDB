@@ -1,0 +1,126 @@
+metadata:
+  name: Tecmo World Cup Soccer
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-01-18 23:02:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2091
+  - 3561
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-WC-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/14b9c562e7cc02e51f657ea1c52b6b83.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-WC-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9b41d5e0bd7fd0243b6f8bf1c7d7e8b3.jpg
+slug: tecmo-world-cup-soccer
+releaseInfo:
+  catalogId: NES-WC-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: April 4, 1992
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WC-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4c3798980dea55c97b14b6210fb15ab3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-WC-0 PRG
+  size: 64 KB
+  crc32: 42F3BA28
+  x: 2
+- type: CHR0
+  label: PAL-WC-0 CHR
+  size: 64 KB
+  crc32: 369626DD
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 86E02D65
+  x: 2
+pcbProperties:
+  name: NES-TBROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TBROM-01<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b453567bfece1ffda4efb5aa1307e879.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TBROM-01<br>Submitted by: piteta<br>Linked from profile 2091')"
+    filename: /images/175/61664f5b78bab1cd738fc768f809aff4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9214
+  estFirstRun: April 1992
+  pcbClass: NES-TBROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 62
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9214
+  dateCodeSuffix: B
+  std: 9214
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 63
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9214
+  dateCodeSuffix: B
+  std: 9214
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9213
+  dateCodeSuffix: A
+  std: 9213
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9212
+  dateCodeSuffix: 5 T
+  std: 9212
+  misc: 

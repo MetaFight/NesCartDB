@@ -1,0 +1,108 @@
+metadata:
+  name: Banana
+  altName: バナナ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2008-04-17 03:10:00
+  moreProfiles:
+  - 2690
+  - 4277
+  relatedProfiles: []
+  additionalImages: 
+slug: banana
+releaseInfo:
+  catalogId: VFR-B1-01
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 8, 1986
+  publisher: Victor
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Hot Pink
+  formFactor: Small
+  frontLabelId: VFR-B1-01
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/291b2ec0750fcf9d84c0cd6bb1cac5b7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VFR-B1-0 PRG
+  size: 32 KB
+  crc32: 9CF17FAB
+  x: 2
+- type: CHR0
+  label: VFR-B1-0 CHR
+  size: 16 KB
+  crc32: 940018F3
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 86ACB36B
+  x: 2
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42bbbba44a627ca32e1166ee751bf8bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2bc135e3bceee088043829b169c499b1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8632 - 8632 (2)
+  estFirstRun: August 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0084
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6H1
+  dateCodeSuffix: 13
+  std: 8632
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: RP2D129
+  partNumberSubDetail: 0906
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6G5
+  dateCodeSuffix: 15
+  std: 8632
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8629
+  dateCodeSuffix: A
+  std: 8629
+  misc: 

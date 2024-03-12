@@ -1,0 +1,84 @@
+metadata:
+  name: Blaster Master
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 03:44:00
+  moreProfiles:
+  - 168
+  - 231
+  - 448
+  - 796
+  - 4615
+  relatedProfiles:
+  - 1873
+  - 1909
+  - 3923
+  - 2365
+  additionalImages: 
+slug: blaster-master
+releaseInfo:
+  catalogId: NES-VM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VM-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 168')"
+    filename: /images/175/5a5269c2627c192c1501a23fd3b0e0d5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 448')"
+    filename: /images/175/9f51073f480042f74b58ef20987a50e5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-VM-0 PRG
+  size: 128 KB
+  crc32: C71C7619
+  x: 5
+- type: CHR0
+  label: NES-VM-0 CHR
+  size: 128 KB
+  crc32: F2C24999
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3F0FD764
+  x: 5
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919 - 8953 (3)
+  estFirstRun: May 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo: []

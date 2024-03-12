@@ -1,0 +1,110 @@
+metadata:
+  name: Sanma no Mei Tantei
+  altName: さんまの名探偵 改
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 05:17:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1585
+  - 2665
+  - 2296
+  - 3195
+  - 3196
+  - 3329
+  additionalImages: 
+slug: sanma-no-mei-tantei
+releaseInfo:
+  catalogId: NAM-SM-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 2, 1987
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/60307302f0666db007320799fa7e7c5a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/f83f02e57c59fbb410af6368d9a19735.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTSMPR
+  size: 128 KB
+  crc32: 61F96440
+  x: 6
+- type: CHR0
+  label: NAMCOT SM CHR
+  size: 64 KB
+  crc32: 37E3C6FA
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: F41ADD60
+  x: 6
+pcbProperties:
+  name: 3406
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3406<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/901eaec3b428d56e25f0029cbd7c16ff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3406<br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/08d976116ed744c9abc350746b4b5a27.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8711 - 8712 (6)
+  estFirstRun: March 1987
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: 831000-15
+  partNumberSubDetail: 496 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8710
+  dateCodeSuffix: Z85
+  std: 8710
+  misc: 
+- designation: C
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8711
+  dateCodeSuffix: KX
+  std: 8711
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 108
+  partNumberSubDetail: 
+  type: Namcot 108
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8709
+  dateCodeSuffix: Z10
+  std: 8709
+  misc: 

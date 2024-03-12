@@ -1,0 +1,113 @@
+metadata:
+  name: Top Gun
+  altName: トップガン
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-08 05:22:00
+  moreProfiles:
+  - 1521
+  - 1675
+  - 3698
+  - 4577
+  relatedProfiles:
+  - 1022
+  - 2005
+  - 86
+  additionalImages: 
+slug: top-gun
+releaseInfo:
+  catalogId: KDS-TG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 11, 1987
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-TG
+  backLabelId/Desc: 860410
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1521')"
+    filename: /images/175/0f9f06cd657f7afc9e8479dd0d0b2682.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KDS-TG-0 PRG
+  size: 128 KB
+  crc32: 37CB1801
+  x: 3
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8745 - 8810 (4)
+  estFirstRun: November 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8745
+  dateCodeSuffix: KX
+  std: 8745
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7I
+  dateCodeSuffix: 53
+  std: 8736
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8742
+  dateCodeSuffix: H
+  std: 8742
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8741
+  dateCodeSuffix: H
+  std: 8741
+  misc: 

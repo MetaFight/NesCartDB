@@ -1,0 +1,87 @@
+metadata:
+  name: Excitebike
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 08:08:00
+  moreProfiles:
+  - 18
+  - 19
+  - 311
+  - 655
+  - 826
+  - 837
+  - 1069
+  - 1118
+  - 4732
+  relatedProfiles:
+  - 2056
+  - 2149
+  - 1467
+  - 1960
+  additionalImages: 
+slug: excitebike
+releaseInfo:
+  catalogId: NES-EB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EB-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 19')"
+    filename: /images/175/502eac64db8b9a8602dae75b2bb84c71.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 837')"
+    filename: /images/175/26f90c4bc53a83102cbe81bf7a9b77f0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-EB-0 PRG
+  size: 16 KB
+  crc32: 3A94FA0B
+  x: 14
+- type: CHR0
+  label: HVC-EB-0 CHR
+  size: 8 KB
+  crc32: E5F72401
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 49AEB3A6
+  x: 14
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8651 - 8909 (6)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

@@ -1,0 +1,120 @@
+metadata:
+  name: 'Choujin: Ultra Baseball'
+  altName: 超人ウルトラベースボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 00:12:00
+  moreProfiles:
+  - 1492
+  - 1699
+  relatedProfiles:
+  - 390
+  additionalImages: 
+slug: choujin-ultra-baseball
+releaseInfo:
+  catalogId: CBF-UB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 27, 1989
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Off White
+  formFactor: Small
+  frontLabelId: CBF-UB
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1492')"
+    filename: /images/175/f14ea547fc16816adead3ec4f4c7de93.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CBF-UB-0 PRG
+  size: 128 KB
+  crc32: BD2269AD
+  x: 2
+- type: CHR0
+  label: CBF-UB-0 CHR
+  size: 128 KB
+  crc32: F6B3F87C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 078CED30
+  x: 2
+pcbProperties:
+  name: HVC-SKROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/da9bcf28272ee9884a7f47a2f174b7a5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 3451')"
+    filename: /images/175/58d46d7468263b0f9bdd6e27dd7f131d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8944 - 8947 (2)
+  estFirstRun: November 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: EX
+  std: 8941
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8941
+  dateCodeSuffix: EY
+  std: 8941
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 5 AA
+  std: 8944
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9O7
+  dateCodeSuffix: 51
+  std: 8942
+  misc: 

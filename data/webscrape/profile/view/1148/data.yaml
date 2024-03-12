@@ -1,0 +1,124 @@
+metadata:
+  name: Bomberman II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 17:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4466
+  - 2158
+  - 1934
+  additionalImages: 
+slug: bomberman-ii
+releaseInfo:
+  catalogId: NES-BW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1993
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BW-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e4890ceb03ad21f065d6381dd1f28a05.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0cac440d368120d35a7ee6eaab9a39ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-BW-0 PRG
+  size: 128 KB
+  crc32: 1EBB5B42
+  x: 1
+pcbProperties:
+  name: NES-SNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9304
+  estFirstRun: January 1993
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: GR
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9304
+  dateCodeSuffix: E
+  std: 9304
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9240
+  dateCodeSuffix: HCK
+  std: 9240
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9252
+  dateCodeSuffix: 1 CB
+  std: 9252
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9229
+  dateCodeSuffix: 1 A 170
+  std: 9229
+  misc: 
+- designation: U5 W-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9240
+  dateCodeSuffix: HCK
+  std: 9240
+  misc: 

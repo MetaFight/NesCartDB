@@ -1,0 +1,106 @@
+metadata:
+  name: Perfect Bowling
+  altName: パーフェクトボーリング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 03:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: perfect-bowling
+releaseInfo:
+  catalogId: TKS-G8
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 25, 1989
+  publisher: Tonkin House
+  developer: Aisystem Tokyo
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TKS-G8
+  backLabelId/Desc: TKS
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b8b6d215143595970fb5c32c7352c19a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TKS-G8-0 PRG
+  size: 128 KB
+  crc32: 10327E0E
+  x: 1
+- type: CHR0
+  label: TKS-G8-0 CHR
+  size: 32 KB
+  crc32: 5B9698E2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 9ECB9DCD
+  x: 1
+pcbProperties:
+  name: HVC-SFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/059084ef19e6bfa36505dec3d1ee73e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 3591')"
+    filename: /images/175/a451a3696b59a9d2d6cf76c0fd675656.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8926
+  estFirstRun: June 1989
+  pcbClass: HVC-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5330
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9F4
+  dateCodeSuffix: 71
+  std: 8926
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2815
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9F4
+  dateCodeSuffix: A0
+  std: 8926
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8926
+  dateCodeSuffix: 5 A
+  std: 8926
+  misc: 

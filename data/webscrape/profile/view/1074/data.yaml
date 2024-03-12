@@ -1,0 +1,127 @@
+metadata:
+  name: Battleship
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-09 05:46:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1996
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-BH USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f461ed89b08428bba71ce591b142d1cf.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-BH USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa4c835e5c612c2b1ff59f6b771b4431.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-BH-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fb63ef567fb33a0412ae8ce2c68b0e50.jpg
+slug: battleship
+releaseInfo:
+  catalogId: NES-BH-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1993
+  publisher: Mindscape
+  developer: Mindscape
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BH-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0dd78c7874d9f59f772e36974a324340.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d82d9d1a85f4ffe10445998a9b1a7ba.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-BH-0 PRG
+  size: 32 KB
+  crc32: 288C9271
+  x: 1
+- type: CHR0
+  label: NES-BH-0 CHR
+  size: 32 KB
+  crc32: D9FF2568
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 50CCC8ED
+  x: 1
+pcbProperties:
+  name: NES-CNROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bdcf1f7fd3e314cdd793cf310a839db.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-08<br>Submitted by: Kinopio<br>Linked from profile 2132')"
+    filename: /images/175/a7dd9fc25ca364d99f765bd2cc139753.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9326
+  estFirstRun: June 1993
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3245
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 3GB
+  dateCodeSuffix: 10
+  std: 9326
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3246
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 3GC
+  dateCodeSuffix: 13
+  std: 9326
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9317
+  dateCodeSuffix: 5 CB
+  std: 9317
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9249
+  dateCodeSuffix: ''
+  std: 9249
+  misc: 

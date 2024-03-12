@@ -1,0 +1,77 @@
+metadata:
+  name: Athletic World
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 07:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2415
+  - 1738
+  - 602
+  additionalImages: 
+slug: athletic-world
+releaseInfo:
+  catalogId: NES-AW-ITA
+  region: Italy (PAL-A)
+  class: Licensed
+  releaseDate: June 15, 1988
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Family Fun Fitness Mat
+  country: Italy
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AW-ITA
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AW-0 PRG
+  size: 32 KB
+  crc32: 552FB544
+  x: 4
+- type: CHR0
+  label: NES-AW-0 CHR
+  size: 32 KB
+  crc32: 51BF1FC5
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: E592F53A
+  x: 4
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: 74xx161
+detailedChipInfo: []

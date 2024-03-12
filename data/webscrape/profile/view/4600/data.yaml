@@ -1,0 +1,114 @@
+metadata:
+  name: Captain Silver
+  altName: キャプテンシルバー
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2012-03-06 04:55:00
+  moreProfiles:
+  - 4600
+  - 4651
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 4651')"
+    filename: /images/175/b4c11e402ee9f205e6cd0830b9212712.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 4651')"
+    filename: /images/175/c681012bee4da2e08d6ba0e9a0ce2b6f.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 4651')"
+    filename: /images/175/13ff6b79edae571977128f7870cc61e4.jpg
+slug: captain-silver
+releaseInfo:
+  catalogId: GTS-CK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 16, 1988
+  publisher: Tokuma Shoten
+  developer: Data East
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: GTS-CK
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/edae3ab6d2766cfff3dcaf80c338ca10.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/890e8f70d9be4810c124fe64e2cf103e.jpg
+romDetails:
+- type: PRG0
+  label: GTS-CK-0 PRG
+  size: 128 KB
+  crc32: 0AB39900
+  x: 1
+- type: CHR0
+  label: GTS-CK-0 CHR
+  size: 128 KB
+  crc32: 97EB172F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CB0A3AF4
+  x: 2
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/155c98e46178f7278a12355713a68e47.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8847 - 8848 (2)
+  estFirstRun: November 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: LS
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: E
+  std: 8847
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 1S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8847
+  dateCodeSuffix: D
+  std: 8847
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8846
+  dateCodeSuffix: 3 A
+  std: 8846
+  misc: 

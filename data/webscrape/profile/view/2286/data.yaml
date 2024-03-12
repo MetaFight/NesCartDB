@@ -1,0 +1,140 @@
+metadata:
+  name: Pinball Quest
+  altName: ピンボールクエスト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-29 05:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2904
+  - 147
+  additionalImages: 
+slug: pinball-quest
+releaseInfo:
+  catalogId: JF-26
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 15, 1989
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-26
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/834e1085a06c76e320ba5d3fe4ecf658.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4107b38dec95f8593af5296538bb04e5.jpg
+romDetails:
+- type: PRG0
+  label: MR-89019-PRG
+  size: 128 KB
+  crc32: 55C3589C
+  x: 1
+- type: CHR0
+  label: MR-89019-CHR
+  size: 128 KB
+  crc32: 1FCDD252
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 475CDBFE
+  x: 1
+pcbProperties:
+  name: JF-17
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-17<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/45b78a5a2fac9e42398bb6a33f498764.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-17<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ffbeb67d92bb6f07c888973d75e0b6a9.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8945
+  estFirstRun: November 1989
+  pcbClass: JALECO-JF-17
+  inesMapper: 72
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx174, 74xx174, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: 231026E
+  partNumberSubDetail: 6403
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L1
+  dateCodeSuffix: 74
+  std: 8945
+  misc: 
+- designation: 
+  maker: Ricoh
+  partNumber: 231026E
+  partNumberSubDetail: 6404
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L1
+  dateCodeSuffix: 76
+  std: 8945
+  misc: 
+- designation: 161
+  maker: Motorola
+  partNumber: MC74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8911
+  dateCodeSuffix: N J
+  std: 8911
+  misc: 
+- designation: 174
+  maker: Motorola
+  partNumber: MC74HC174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8822
+  dateCodeSuffix: N A
+  std: 8822
+  misc: 
+- designation: 174
+  maker: Motorola
+  partNumber: MC74HC174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8822
+  dateCodeSuffix: N A
+  std: 8822
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8932
+  dateCodeSuffix: QJPK
+  std: 8932
+  misc: 

@@ -1,0 +1,109 @@
+metadata:
+  name: Clu Clu Land
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-07-24 03:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2057
+  - 1490
+  - 366
+  additionalImages: 
+slug: clu-clu-land
+releaseInfo:
+  catalogId: NES-CL-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: February 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: FRA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-CL-0 PRG
+  size: 16 KB
+  crc32: 23A60A62
+  x: 7
+- type: CHR0
+  label: HVC-CL-0 CHR
+  size: 8 KB
+  crc32: A63B8B98
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 48F68D40
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ba43c83a0417ac23a155dedb1f7a72a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8731
+  estFirstRun: August 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: General Instrument
+  partNumber: 9128DS
+  partNumberSubDetail: 0190
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8450
+  dateCodeSuffix: CDA
+  std: 8450
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2016
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7G4
+  dateCodeSuffix: 10
+  std: 8731
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8727
+  dateCodeSuffix: A
+  std: 8727
+  misc: 

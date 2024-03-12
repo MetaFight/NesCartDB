@@ -1,0 +1,107 @@
+metadata:
+  name: Gunsight
+  altName: ガンサイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:38:00
+  moreProfiles: []
+  relatedProfiles:
+  - 929
+  additionalImages: 
+slug: gunsight
+releaseInfo:
+  catalogId: KDS-8G
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 15, 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KDS-8G
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/670ccf9b13262bc6a3a9a0ed52af34c9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4595')"
+    filename: /images/175/15e4c337a135a7e62be81acc322b1e82.jpg
+romDetails:
+- type: PRG0
+  label: KDS-8G-0 PRG
+  size: 128 KB
+  crc32: 255B129C
+  x: 1
+- type: CHR0
+  label: KDS-8G-0 CHR
+  size: 128 KB
+  crc32: 95A72C42
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0AFB395E
+  x: 1
+pcbProperties:
+  name: HVC-ELROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-ELROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31eb0106daec45429b1055f309168e41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-ELROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/16f444b7cc877d0a386e27b697509470.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9107
+  estFirstRun: February 1991
+  pcbClass: HVC-ELROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R30
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9107
+  dateCodeSuffix: EY003
+  std: 9107
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R28
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9106
+  dateCodeSuffix: EY002
+  std: 9106
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9042
+  dateCodeSuffix: AA019
+  std: 9042
+  misc: 

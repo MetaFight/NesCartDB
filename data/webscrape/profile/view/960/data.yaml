@@ -1,0 +1,119 @@
+metadata:
+  name: Spiritual Warfare
+  altName: 
+  variant: (Version 6.1)
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 06:09:00
+  moreProfiles:
+  - 960
+  - 1365
+  - 1622
+  relatedProfiles: []
+  additionalImages: 
+slug: spiritual-warfare
+releaseInfo:
+  catalogId: WT-SC-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Embossed Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5be0208c2d3ed39fb74e6aea1fffa59.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 958')"
+    filename: /images/175/99483cfeab9e41e4f25867420819206b.jpg
+romDetails:
+- type: PRG0
+  label: SPIRITUAL WARFARE 61 PRG
+  size: 128 KB
+  crc32: 61FBD9A6
+  x: 1
+- type: CHR0
+  label: SPIRITUAL WARFARE 61 VID
+  size: 128 KB
+  crc32: 4A0822FD
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 14105C13
+  x: 1
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e4f6b81a7d82d2d52eaed765a8615425.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 959')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9211 - 9514 (3)
+  estFirstRun: March 1992
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9352
+  dateCodeSuffix: UEF
+  std: 9352
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9325
+  dateCodeSuffix: UDF
+  std: 9325
+  misc: 
+- designation: 
+  maker: Samsung
+  partNumber: KS74HCTLS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 129
+  dateCodeSuffix: ''
+  std: 9129
+  misc: 
+- designation: 
+  maker: Harris
+  partNumber: 7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9345
+  dateCodeSuffix: H
+  std: 9345
+  misc: 

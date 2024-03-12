@@ -1,0 +1,122 @@
+metadata:
+  name: Pinball
+  altName: ピンボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 02:37:00
+  moreProfiles:
+  - 1459
+  - 1668
+  - 1685
+  - 2207
+  - 3412
+  - 3685
+  - 3758
+  relatedProfiles:
+  - 2380
+  - 2092
+  - 4373
+  - 1911
+  - 17
+  additionalImages: 
+slug: pinball
+releaseInfo:
+  catalogId: HVC-PN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 2, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: HVC-PN
+  backLabelId/Desc: 831018
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1459')"
+    filename: /images/175/6f12ae12aa76f192adf9ce94eae79830.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-PN-0 PRG-A
+  size: 8 KB
+  crc32: 0078D54A
+  x: 1
+- type: PRG1
+  label: HVC-PN-0 PRG-B
+  size: 8 KB
+  crc32: 24471979
+  x: 1
+- type: CHR0
+  label: HVC-PN-0 CHR
+  size: 8 KB
+  crc32: F2A53B3D
+  x: 18
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 035DC2E9
+  x: 11
+pcbProperties:
+  name: HVC-STROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8406 - 8430 (4)
+  estFirstRun: February 1984
+  pcbClass: HVC-STROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1 PRG ROM A
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: S2
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47B
+  dateCodeSuffix: 2
+  std: 8428
+  misc: 
+- designation: IC2 PRG ROM B
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: S3
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47A
+  dateCodeSuffix: 2
+  std: 8427
+  misc: 
+- designation: IC3 CHR ROM
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: S1
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47A
+  dateCodeSuffix: 2
+  std: 8427
+  misc: 

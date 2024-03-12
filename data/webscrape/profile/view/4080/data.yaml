@@ -1,0 +1,115 @@
+metadata:
+  name: Adventures of Lolo II
+  altName: アドベンチャーズ オブ ロロII
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:15:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1848
+  - 4253
+  - 1098
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29bc5deb40d4afcb7e1e75416ab9e535.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e30e804c6bb131ccf9e1d67d43d3e4e0.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bdecb3062a5cde53048e1b826a0d001.jpg
+slug: adventures-of-lolo-ii
+releaseInfo:
+  catalogId: HAL-QL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 26, 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Off White
+  formFactor: Small
+  frontLabelId: HAL-QL
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/44b07687b68d21489d039be5095606d8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HAL-QL-0 PRG
+  size: 128 KB
+  crc32: B1849D4E
+  x: 1
+- type: CHR0
+  label: HAL-QL-0 CHR
+  size: 128 KB
+  crc32: B114C6BD
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EAB93CFB
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7b106e7cef20db15565393c45ed3f496.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6622
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0LM
+  dateCodeSuffix: 41
+  std: 9046
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0114
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0MD
+  dateCodeSuffix: 41
+  std: 9049
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9049
+  dateCodeSuffix: 1 AA
+  std: 9049
+  misc: 

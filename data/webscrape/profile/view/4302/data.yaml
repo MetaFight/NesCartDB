@@ -1,0 +1,124 @@
+metadata:
+  name: Mahjong Taisen
+  altName: 麻雀大戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 04:25:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f8458d869a4f90f246b8974f7c5f4212.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1087b9f868a2046a1687610a86495dda.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac7eea235ccdf227d4535700e469175b.jpg
+slug: mahjong-taisen
+releaseInfo:
+  catalogId: NBF-8J (12)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 20, 1992
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-8J
+  secondaryId: 12
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6caa9e4ddce81562f255c83e8cf225c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: NBF-8J-0 PRG
+  size: 256 KB
+  crc32: F55CDEF2
+  x: 1
+- type: CHR0
+  label: NBF-8J-0 CHR
+  size: 128 KB
+  crc32: E37A1D57
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 59449E3B
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b769f3ed3cb17a5cd8d72004da5076bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9215
+  estFirstRun: April 1992
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W56
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9215
+  dateCodeSuffix: EY004
+  std: 9215
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W76
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9215
+  dateCodeSuffix: KY002
+  std: 9215
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9208
+  dateCodeSuffix: EP023
+  std: 9208
+  misc: 
+- designation: U4 W-RAM
+  maker: LSI Logic
+  partNumber: LH5168FB-10TL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 210
+  dateCodeSuffix: D
+  std: 9210
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: Princess Tomato in the Salad Kingdom
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-29 03:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2177
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RT USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/05ec026c312f1d83c2cc49f7b8f54a1a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RT USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/03ae5e2a2c301ff57cca92b3a270eb0b.jpg
+slug: princess-tomato-in-the-salad-kingdom
+releaseInfo:
+  catalogId: NES-RT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RT-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/12f04d91a6c41a8708b070de374898dd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9bc458f49cb637901cd9f038d5d37e5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RT-0 PRG
+  size: 256 KB
+  crc32: 56756615
+  x: 1
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9052
+  estFirstRun: December 1990
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN232001
+  partNumberSubDetail: NKK
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 0
+  dateCodeSuffix: 50
+  std: 9052
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 043
+  dateCodeSuffix: B
+  std: 9043
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9052
+  dateCodeSuffix: 3 AA
+  std: 9052
+  misc: 
+- designation: U4 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 048
+  dateCodeSuffix: C
+  std: 9048
+  misc: 

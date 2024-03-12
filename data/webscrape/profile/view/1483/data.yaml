@@ -1,0 +1,106 @@
+metadata:
+  name: Haja no Fuuin
+  altName: 覇邪の封印
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 05:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: haja-no-fuuin
+releaseInfo:
+  catalogId: HSP-08
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 23, 1987
+  publisher: ASCII
+  developer: Kogado Studio
+  players: 1
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Olive Green
+  formFactor: Small
+  frontLabelId: HSP-08
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1343ed09471fc10957bbce16015e1acc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-08-0 PRG
+  size: 128 KB
+  crc32: 7C46998B
+  x: 1
+- type: CHR0
+  label: HSP-08-0 CHR
+  size: 128 KB
+  crc32: 0006419C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 21DD2174
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab581b95b08261e3b2ae520e9a8171b9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8739
+  estFirstRun: September 1987
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 0S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 28
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 

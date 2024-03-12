@@ -1,0 +1,132 @@
+metadata:
+  name: The Miracle Piano Teaching System
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-19 21:35:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2563
+  additionalImages: 
+slug: the-miracle-piano-teaching-system
+releaseInfo:
+  catalogId: NES-9M-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: 1990
+  publisher: The Software Toolworks
+  developer: The Software Toolworks
+  players: 1
+  peripherals: NES Controller,Miracle Piano
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-9M-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2db654a45ccc2b5ff4cb40d4096772b4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/63a8290294f2431455564c8e23967f41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-9M-0 PRG
+  size: 256 KB
+  crc32: 3349BA0E
+  x: 1
+- type: CHR0
+  label: NES-9M-0 CHR
+  size: 64 KB
+  crc32: DD3C40E8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 320 KB
+  crc32: 92C138E4
+  x: 1
+pcbProperties:
+  name: NES-SJROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SJROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/82d43ac6916f7082ca74dc4b23396e7b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SJROM-03<br>Submitted by: Kinopio<br>Linked from profile 2119')"
+    filename: /images/175/533e8e625e8d96b22d606eca5484a74d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9044
+  estFirstRun: November 1990
+  pcbClass: NES-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T79
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9042
+  dateCodeSuffix: PY015
+  std: 9042
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 53
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: E
+  std: 9044
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 039
+  dateCodeSuffix: C
+  std: 9039
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9039
+  dateCodeSuffix: B3148
+  std: 9039
+  misc: 
+- designation: U5 W-RAM
+  maker: Sanyo
+  partNumber: LC3564PL-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 02
+  dateCodeSuffix: 214
+  std: 9005
+  misc: 

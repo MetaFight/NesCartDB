@@ -1,0 +1,116 @@
+metadata:
+  name: Blackjack
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-05-06 00:21:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: blackjack
+releaseInfo:
+  catalogId: AVE-BJ
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: AVE
+  developer: Odyssey Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/83f9761e0fde9cff07cc8596fdb0eab3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f122487c5055fe8aac5c1a9eb1d668f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1241')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: BJAK 1005 PRG 6F43
+  size: 32 KB
+  crc32: 33CD1506
+  x: 2
+- type: CHR0
+  label: BJAK 0821 CHR 673B
+  size: 32 KB
+  crc32: 90772101
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C2A4612E
+  x: 2
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/383c2eec2e3478c4c072a5b098507436.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9222
+  estFirstRun: June 1992
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-15 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2314803
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-15 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2314803
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9222
+  dateCodeSuffix: ''
+  std: 9222
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74HCT174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9027
+  dateCodeSuffix: ''
+  std: 9027
+  misc: 

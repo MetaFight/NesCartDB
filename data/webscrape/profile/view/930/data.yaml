@@ -1,0 +1,124 @@
+metadata:
+  name: Loopz
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 01:04:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-L8-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae0dd3e30f0a9a8ed6d31a7ef781f8dc.jpg
+slug: loopz
+releaseInfo:
+  catalogId: NES-L8-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Mindscape
+  developer: Audiogenic Software
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-L8-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb7f69ce0f09aac3c2977b8b6a0d84b7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1c27db9a682b05c5858267892951451.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-L8-0 PRG
+  size: 128 KB
+  crc32: FD8D6C75
+  x: 1
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9036
+  dateCodeSuffix: Z09
+  std: 9036
+  misc: 
+- designation: U2 CHR RAM
+  maker: Phillips
+  partNumber: FCB61C65-70P
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9005
+  dateCodeSuffix: HSH
+  std: 9005
+  misc: K9E270NB
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9028
+  dateCodeSuffix: 7 AA
+  std: 9028
+  misc: 
+- designation: U4 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9027
+  dateCodeSuffix: Hnn
+  std: 9027
+  misc: 663970T
+- designation: U5 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 023
+  dateCodeSuffix: J
+  std: 9023
+  misc: 

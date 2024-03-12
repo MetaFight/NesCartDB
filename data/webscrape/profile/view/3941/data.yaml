@@ -1,0 +1,108 @@
+metadata:
+  name: Nangoku Shirei!! Spy vs. Spy
+  altName: 南国指令！！スパイＶＳスパイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:45:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: nangoku-shirei-spy-vs-spy
+releaseInfo:
+  catalogId: KSC-SI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 27, 1987
+  publisher: Kemco
+  developer: First Star Software
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-SI
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f96814b05c418a99f2c14ff5c9c93688.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-SI-0 PRG
+  size: 128 KB
+  crc32: 10D62149
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8712
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0210
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7C3
+  dateCodeSuffix: A6
+  std: 8712
+  misc: 
+- designation: CHR RAM
+  maker: Fujitsu
+  partNumber: MB8464-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8644
+  dateCodeSuffix: R02
+  std: 8644
+  misc: BA
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8704
+  dateCodeSuffix: H
+  std: 8704
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8643
+  dateCodeSuffix: H
+  std: 8643
+  misc: 

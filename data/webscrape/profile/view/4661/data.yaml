@@ -1,0 +1,121 @@
+metadata:
+  name: Little Magic
+  altName: リトルマジック
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5bc1b6a4c96b9710a53fd72df6fdf79.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c4ed6dfa9de305cf858ea3786628dd3.jpg
+slug: little-magic
+releaseInfo:
+  catalogId: DFC-LG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 14, 1990
+  publisher: Data East
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Olive
+  formFactor: Small
+  frontLabelId: DFC-LG
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5797e11e7a9bbc59cf67f994ec60e114.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-LG-0 PRG
+  size: 128 KB
+  crc32: 9894F766
+  x: 1
+- type: CHR0
+  label: DFC-LG-0 CHR
+  size: 128 KB
+  crc32: 8191173A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C9EDF585
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a7a25c7a044d13241a5d22270ed0997.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9031
+  estFirstRun: August 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S21
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9030
+  dateCodeSuffix: EX037
+  std: 9030
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R06
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9030
+  dateCodeSuffix: EY743
+  std: 9030
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9031
+  dateCodeSuffix: 5 T
+  std: 9031
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: B1
+  std: 9031
+  misc: 

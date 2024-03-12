@@ -1,0 +1,131 @@
+metadata:
+  name: Tetris
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 21:25:00
+  moreProfiles:
+  - 172
+  - 313
+  - 518
+  - 847
+  - 851
+  relatedProfiles:
+  - 2390
+  - 1857
+  - 4431
+  - 1902
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-EI-USA<br>Submitted by: bootgod<br>Linked from profile 172')"
+    filename: /images/175/5b794779543e4df6715bd74dd87716b4.jpg
+slug: tetris
+releaseInfo:
+  catalogId: NES-EI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1989
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EI-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 172')"
+    filename: /images/175/d579144326bbdecdd4106d9da2c8407c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97c1a3fd94e45d12c964e32afe05dc42.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EI-0 PRG
+  size: 32 KB
+  crc32: 943DFBBE
+  x: 7
+- type: CHR0
+  label: NES-EI-0 CHR
+  size: 16 KB
+  crc32: 251AF21C
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 1394F57E
+  x: 7
+pcbProperties:
+  name: NES-SEROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5d962ed7bf94abc004db27e8fde78e73.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-03<br>Submitted by: _zane<br>Linked from profile 2390')"
+    filename: /images/175/c89c562bfef0256dfcc60a02199bd42b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8938 - 9113 (5)
+  estFirstRun: September 1989
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2830
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9H3
+  dateCodeSuffix: A1
+  std: 8934
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23128E
+  partNumberSubDetail: 0213
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9H4
+  dateCodeSuffix: 21
+  std: 8935
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8938
+  dateCodeSuffix: 5 CA
+  std: 8938
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8932
+  dateCodeSuffix: A3041
+  std: 8932
+  misc: 

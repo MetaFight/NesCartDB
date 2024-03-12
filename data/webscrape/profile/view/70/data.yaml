@@ -1,0 +1,120 @@
+metadata:
+  name: Dash Galaxy in the Alien Asylum
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-02 20:48:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: dash-galaxy-in-the-alien-asylum
+releaseInfo:
+  catalogId: NES-XY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Data East
+  developer: Beam Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XY-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/268a99c70c23b0d0548a7e1231d3b9ee.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de07785ea632e6f486773236b06b8132.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-XY-0 PRG
+  size: 32 KB
+  crc32: AC0D2D09
+  x: 1
+- type: CHR0
+  label: NES-XY-0 CHR
+  size: 32 KB
+  crc32: BFD46284
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 67811DA6
+  x: 1
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b19226a75a65cdd7e143c3153a9afb74.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-07<br>Submitted by: Kinopio<br>Linked from profile 1844')"
+    filename: /images/175/1ff348e674e093ddf58f8efc4774c29d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9008
+  estFirstRun: February 1990
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2853
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0BB
+  dateCodeSuffix: 42
+  std: 9005
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2854
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0BL
+  dateCodeSuffix: 41
+  std: 9007
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9008
+  dateCodeSuffix: 5 AA
+  std: 9008
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 001
+  dateCodeSuffix: EN
+  std: 9001
+  misc: 

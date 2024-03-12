@@ -1,0 +1,76 @@
+metadata:
+  name: Disney's DuckTales
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-12 01:45:00
+  moreProfiles:
+  - 38
+  - 844
+  - 2849
+  - 1324
+  - 2919
+  - 4620
+  relatedProfiles:
+  - 2427
+  - 1985
+  - 4480
+  - 3780
+  - 2559
+  additionalImages: 
+slug: disneys-ducktales
+releaseInfo:
+  catalogId: NES-UK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UK-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ef8221592f7be6842a15fcff1741a32b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/cf79fb1e3bceca8f3c464ea967fdd123.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-UK-0 PRG
+  size: 128 KB
+  crc32: EFB09075
+  x: 5
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8938 - 8948 (3)
+  estFirstRun: September 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

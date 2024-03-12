@@ -1,0 +1,119 @@
+metadata:
+  name: Jajamaru no Daibouken
+  altName: じゃじゃ丸の大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 03:34:00
+  moreProfiles:
+  - 1733
+  - 3004
+  - 3005
+  relatedProfiles: []
+  additionalImages: 
+slug: jajamaru-no-daibouken
+releaseInfo:
+  catalogId: JF-09
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 22, 1986
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Aqua
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7155266af12e61827067084d36804e0f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb8ae6858ebc11e68e9331fe79e4931d.jpg
+romDetails:
+- type: PRG0
+  label: JF09-PRG
+  size: 32 KB
+  crc32: E6F5FDD2
+  x: 3
+- type: CHR0
+  label: JF09-CHR
+  size: 32 KB
+  crc32: 957C94AE
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 61B4295A
+  x: 3
+pcbProperties:
+  name: JF-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a8dec648729d4e16a7c17fcd8ab8224.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8631 - 8632 (3)
+  estFirstRun: August 1986
+  pcbClass: JALECO-JF-09
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: OKI
+  partNumber: 256
+  partNumberSubDetail: M38
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 68
+  dateCodeSuffix: 02
+  std: 8631
+  misc: 
+- designation: CH
+  maker: OKI
+  partNumber: 256
+  partNumberSubDetail: M38
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 68
+  dateCodeSuffix: 13
+  std: 8631
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M74HC139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 63
+  dateCodeSuffix: 11
+  std: 8609
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M74HC74
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 63
+  dateCodeSuffix: 11
+  std: 8609
+  misc: 

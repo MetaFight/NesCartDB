@@ -1,0 +1,121 @@
+metadata:
+  name: Corre Benny
+  altName: Go! Benny!
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-23 15:11:00
+  moreProfiles:
+  - 2645
+  - 2707
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d66866f4b0068036b9be8bb87f65ced6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/8dd329dfbccddee75e2be79f242fffef.jpg
+slug: corre-benny
+releaseInfo:
+  catalogId: CN-14
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: January 1, 1992
+  publisher: Gluk Video
+  developer: MegaSoft
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f836c458f7d6010b3c20a696f3198884.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 650829BF
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: CEAADB67
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 86083FBC
+  x: 3
+pcbProperties:
+  name: N715062
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N715062<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/54958a8e82adcd5b3db87737b73636bc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9249
+  estFirstRun: December 1992
+  pcbClass: NTDEC-N715062
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9249
+  dateCodeSuffix: ''
+  std: 9249
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: KC5373B-010
+  partNumberSubDetail: 
+  type: NTDEC CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

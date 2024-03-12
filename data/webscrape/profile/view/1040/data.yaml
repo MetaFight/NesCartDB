@@ -1,0 +1,105 @@
+metadata:
+  name: Baby Boomer
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 21:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: baby-boomer
+releaseInfo:
+  catalogId: CDR-BR-81000
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 2
+  peripherals: NES Controller,Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5645693c937e602532b63b8377c93958.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/851dece0ec0738875a041b4003b47e90.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: FB69C131
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 45FE3114
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 80 KB
+  crc32: BBE40DC4
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f10cdb1c258803f51ca5b0d6a78aa687.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7bf7ad0002a4e011e2fb51a0fada2a2d.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9001
+  estFirstRun: January 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Toshiba
+  partNumber: TMM24512AP-25
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: HAK
+  std: 8912
+  misc: 
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9001
+  dateCodeSuffix: KK
+  std: 9001
+  misc: 239AQ01
+- designation: U3
+  maker: Signetics
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

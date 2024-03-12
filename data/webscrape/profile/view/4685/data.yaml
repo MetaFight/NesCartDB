@@ -1,0 +1,107 @@
+metadata:
+  name: The Untouchables
+  altName: アンタッチャブル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2013-02-10 22:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 596
+  additionalImages: 
+slug: the-untouchables
+releaseInfo:
+  catalogId: ALT-U6
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 20, 1991
+  publisher: Altron
+  developer: Ocean
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Grey
+  formFactor: Small
+  frontLabelId: ALT-U6
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a5d83f8f46e381405033d5a8e55819f0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ALT-U6-0 PRG
+  size: 128 KB
+  crc32: 903E36AD
+  x: 1
+- type: CHR0
+  label: ALT-U6-0 CHR
+  size: 128 KB
+  crc32: F52EC2AD
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DA8F65AE
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/609ef327ce2f81bb338b5a6709c29208.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146
+  estFirstRun: November 1991
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W66
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: K9707
+  std: 9146
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W52
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: KY031
+  std: 9146
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9142
+  dateCodeSuffix: B3046
+  std: 9142
+  misc: 

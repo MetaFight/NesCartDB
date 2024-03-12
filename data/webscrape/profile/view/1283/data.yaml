@@ -1,0 +1,120 @@
+metadata:
+  name: Mickey's Adventure in Numberland
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-16 00:24:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mickeys-adventure-in-numberland
+releaseInfo:
+  catalogId: NES-NL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1994
+  publisher: Hi Tech Expressions
+  developer: Beam Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-NL-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1c2fdf068d26098f147954c9ad7b265.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/68f448cbadeffc8e41ac21cf01cfb718.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-NL-0 PRG
+  size: 128 KB
+  crc32: 6817857D
+  x: 1
+- type: CHR0
+  label: NES-NL-0 CHR
+  size: 128 KB
+  crc32: 7AFE5BF4
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6FB349E2
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c920f335440f0a51839933b83655fe8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9407
+  estFirstRun: February 1994
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1N
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9407
+  dateCodeSuffix: E
+  std: 9407
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: OW
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9407
+  dateCodeSuffix: D
+  std: 9407
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9343
+  dateCodeSuffix: 7 BB
+  std: 9343
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9312
+  dateCodeSuffix: 3 A
+  std: 9312
+  misc: 

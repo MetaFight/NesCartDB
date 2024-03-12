@@ -1,0 +1,115 @@
+metadata:
+  name: Advanced Dungeons & Dragons Hillsfar
+  altName: ＡＤ＆Ｄ ヒルズファー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 05:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1221
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b4e8d9aa8dde40dd8c391ca1ce65798d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7a939b4d04027e49bad5766d5f3fee7.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd512eaf19a90e1df94ea361393697c2.jpg
+slug: advanced-dungeons-dragons-hillsfar
+releaseInfo:
+  catalogId: PNF-QQ (R78V5936)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 21, 1991
+  publisher: Pony Canyon
+  developer: Strategic Simulations
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: PNF-QQ
+  secondaryId: R78V5936
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8f268fe1725e90b72a44eac0433c1132.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-QQ-0 PRG
+  size: 256 KB
+  crc32: 2C33161D
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9104
+  estFirstRun: January 1991
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP232048E
+  partNumberSubDetail: 0059
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 1AB
+  dateCodeSuffix: 70
+  std: 9101
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: HCK
+  std: 9032
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9104
+  dateCodeSuffix: 1 AA
+  std: 9104
+  misc: 
+- designation: U4 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: HCK
+  std: 9032
+  misc: 

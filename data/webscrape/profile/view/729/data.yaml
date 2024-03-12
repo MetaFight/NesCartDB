@@ -1,0 +1,123 @@
+metadata:
+  name: BreakThru
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 03:06:00
+  moreProfiles:
+  - 729
+  - 1318
+  - 1348
+  relatedProfiles: []
+  additionalImages: 
+slug: breakthru
+releaseInfo:
+  catalogId: NES-BE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1987
+  publisher: Data East
+  developer: Data East
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BE-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9270268275fe6321bdcff714fd6a2db8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/723a50fa8156ddf381f0d87183f433af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-BE-0 PRG
+  size: 128 KB
+  crc32: 24900C64
+  x: 3
+- type: CHR0
+  label: NES-BE-0 CHR
+  size: 128 KB
+  crc32: 5814BC6C
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A5E8D2CD
+  x: 3
+pcbProperties:
+  name: NES-SFEOROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFEOROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/469c88ba91a0ac27ecfde0630366dcfa.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8743 - 8823 (2)
+  estFirstRun: October 1987
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8741
+  dateCodeSuffix: KX
+  std: 8741
+  misc: 
+- designation: CHR-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8741
+  dateCodeSuffix: KY
+  std: 8741
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8743
+  dateCodeSuffix: A
+  std: 8743
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8742
+  dateCodeSuffix: A
+  std: 8742
+  misc: 

@@ -1,0 +1,133 @@
+metadata:
+  name: The Adventures of Bayou Billy
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-03 04:46:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2492
+  - 2689
+  additionalImages: 
+slug: the-adventures-of-bayou-billy
+releaseInfo:
+  catalogId: NES-MU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller,Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MU-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0dcd4b905bd19e87e45b8413586dbb0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e1d280b0034e09fefaf1b5197a1efe78.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: RD013N0P
+  size: 128 KB
+  crc32: CB275051
+  x: 1
+- type: CHR0
+  label: RD013N0C
+  size: 128 KB
+  crc32: 26EBE463
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 67751094
+  x: 1
+pcbProperties:
+  name: 351908
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351908<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d75162e43df6805a70f2ef9426bafdb.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8949
+  estFirstRun: December 1989
+  pcbClass: KONAMI-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: 
+  maker: Panasonic
+  partNumber: ''
+  partNumberSubDetail: MN231001
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: B3
+  std: 8939
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8936
+  dateCodeSuffix: E
+  std: 8936
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8949
+  dateCodeSuffix: 3 AA
+  std: 8949
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 1 AA
+  std: 8944
+  misc: 
+- designation: 
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8935
+  dateCodeSuffix: HnS
+  std: 8935
+  misc: 651510T

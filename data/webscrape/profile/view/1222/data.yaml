@@ -1,0 +1,123 @@
+metadata:
+  name: Ultimate Air Combat
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-06 18:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2884
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-3Z-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab44ff7dc948ddcd656c6543c6914c22.jpg
+slug: ultimate-air-combat
+releaseInfo:
+  catalogId: NES-3Z-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1992
+  publisher: Activision
+  developer: Activision
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3Z-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f19cafa9e937bdf63528aaa5cf29aa7b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aff426fb2b3259ce373a1fd8e23e6f83.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-3Z-0 PRG
+  size: 256 KB
+  crc32: 8348C788
+  x: 1
+- type: CHR0
+  label: NES-3Z-0 CHR
+  size: 256 KB
+  crc32: 6574749B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: E387C77F
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7ea3816b1fac19a8f2a912122238e4c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9209
+  estFirstRun: March 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W53
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9209
+  dateCodeSuffix: EY004
+  std: 9209
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W54
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9209
+  dateCodeSuffix: EY009
+  std: 9209
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9208
+  dateCodeSuffix: 5 AB
+  std: 9208
+  misc: 

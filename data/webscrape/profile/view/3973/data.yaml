@@ -1,0 +1,118 @@
+metadata:
+  name: Dynamite Bowl
+  altName: ãƒ€ã‚¤ãƒŠãƒžã‚¤ãƒˆãƒœã‚¦ãƒ«
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 04:27:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: dynamite-bowl
+releaseInfo:
+  catalogId: TFS-DL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 24, 1987
+  publisher: Toemiland
+  developer: Soft Vision
+  players: 5
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: TFS-DL
+  backLabelId/Desc: 860410
+  2-DigitCode: 17
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/504d9f9aec49fcc27835e8708ca58563.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 21621797
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 70625CD5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9E66A66B
+  x: 1
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/833b9edc79d7d38f4adb900a0b8910d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8803
+  estFirstRun: January 1988
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 2JDL
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 06961 07706
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8803
+  dateCodeSuffix: CA
+  std: 8803
+  misc: 

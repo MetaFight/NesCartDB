@@ -1,0 +1,128 @@
+metadata:
+  name: Mighty Final Fight
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-08-12 06:00:00
+  moreProfiles:
+  - 2070
+  - 4040
+  relatedProfiles:
+  - 3745
+  - 1005
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-MF-NOE<br>Submitted by: piteta<br>Linked from profile 4040')"
+    filename: /images/175/5da485fc611e503634ef1559eb3c50da.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MF-NOE<br>Submitted by: piteta<br>Linked from profile 4040')"
+    filename: /images/175/b37525630c8939cb871b9295a19f8520.jpg
+slug: mighty-final-fight
+releaseInfo:
+  catalogId: NES-MF-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: December 2, 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MF-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/15dbb04d52d41be042ef84647ea4808d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/831a813cd50555a825947f552a3815e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MF-0 PRG
+  size: 128 KB
+  crc32: 184F784D
+  x: 2
+- type: CHR0
+  label: PAL-MF-0 CHR
+  size: 128 KB
+  crc32: BCFEB409
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7653103A
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/92fa1b6f9c58c132c87b2b4d198bbe33.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9349 - 9349 (2)
+  estFirstRun: December 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6746
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3MF
+  dateCodeSuffix: 40
+  std: 9349
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0200
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3MB
+  dateCodeSuffix: 40
+  std: 9348
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9144
+  dateCodeSuffix: C
+  std: 9144
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9346
+  dateCodeSuffix: EX003
+  std: 9346
+  misc: 

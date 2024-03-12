@@ -1,0 +1,123 @@
+metadata:
+  name: 'Dai Kaijuu: Deburas'
+  altName: 大怪獣 デブラス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 11:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/70472e0aa7a5734df5e7e977ef9bd5bb.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7fc645b06ab5074feed8a2e29bac8aa9.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/edbc4c3bb2f54b25f5ef27a0d7e805ac.jpg
+slug: dai-kaijuu-deburas
+releaseInfo:
+  catalogId: DFC-24
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1990
+  publisher: Data East
+  developer: Data East
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: DFC-24
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ccef64c7a8990aad050e04ada6585928.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-24-0 PRG
+  size: 128 KB
+  crc32: A9A0D729
+  x: 1
+- type: CHR0
+  label: DFC-24-0 CHR
+  size: 256 KB
+  crc32: BCEAFF09
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 956E3D90
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ee7be33ed420e07ff9eeee35b53cd704.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9047
+  estFirstRun: November 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S30
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9045
+  dateCodeSuffix: E9003
+  std: 9045
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T82
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9043
+  dateCodeSuffix: PD029
+  std: 9043
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9047
+  dateCodeSuffix: 3 DB
+  std: 9047
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: 51
+  std: 9044
+  misc: 

@@ -1,0 +1,98 @@
+metadata:
+  name: Bomberman
+  altName: ボンバーマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 03:16:00
+  moreProfiles:
+  - 1495
+  - 1713
+  - 3357
+  - 3450
+  - 3659
+  relatedProfiles:
+  - 834
+  additionalImages: 
+slug: bomberman
+releaseInfo:
+  catalogId: HFC-BM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 19, 1985
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HFC-BM
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1495')"
+    filename: /images/175/ac7114ca19f8b72c118b973cf46aa333.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-BM-0 PRG
+  size: 16 KB
+  crc32: 9684657F
+  x: 5
+- type: CHR0
+  label: HFC-BM-0 CHR
+  size: 8 KB
+  crc32: A775822E
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: F2FC8212
+  x: 5
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/10611a30a6f29ea4270105ebbadbff08.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8548 - 8552 (3)
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 15
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8549
+  dateCodeSuffix: D
+  std: 8549
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8549
+  dateCodeSuffix: D
+  std: 8549
+  misc: 

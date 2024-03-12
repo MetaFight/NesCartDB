@@ -1,0 +1,111 @@
+metadata:
+  name: 'Dragon Ball 3: Gokuu Den'
+  altName: ドラゴンボール３　悟空伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-06 19:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1535
+  - 2620
+  - 3103
+  - 3104
+  - 3105
+  - 3106
+  - 3107
+  additionalImages: 
+slug: dragon-ball-3-gokuu-den
+releaseInfo:
+  catalogId: BA-DB3
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 27, 1989
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f10be81dbde1735b8eb6eba7477143af.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/143cea13465a9e5bcb99399f8556ad44.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e069cb75119a40426b8640143e15a4cb.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI89 DRAGON-3-PRG
+  size: 128 KB
+  crc32: 8EDEB257
+  x: 7
+- type: CHR0
+  label: BANDAI89 DRAGON3-CHR
+  size: 256 KB
+  crc32: C515B027
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 6E68E31A
+  x: 7
+pcbProperties:
+  name: DORAGON BOOL 3
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DORAGON BOOL 3<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b4692b7d1b3503f28e4dc23c7ccf1bcf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>DORAGON BOOL 3<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98bc6ddb33a18f89dcb57e48e8f0094a.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8939 - 8949 (7)
+  estFirstRun: September 1989
+  pcbClass: BANDAI-FCG-2
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FCG-2
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8938
+  dateCodeSuffix: E
+  std: 8938
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8939
+  dateCodeSuffix: D
+  std: 8939
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FCG-2
+  partNumberSubDetail: 
+  type: Bandai FCG-2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8934
+  dateCodeSuffix: 5 T
+  std: 8934
+  misc: 

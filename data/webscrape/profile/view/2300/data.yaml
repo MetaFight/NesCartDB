@@ -1,0 +1,106 @@
+metadata:
+  name: 'Super Xevious: Gump no Nazo'
+  altName: スーパーゼビウス ガンプの謎
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 05:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1595
+  - 2300
+  additionalImages: 
+slug: super-xevious-gump-no-nazo
+releaseInfo:
+  catalogId: NAM-SX-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 19, 1986
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Gold
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/374a414034ccd14ba9e21bdf634d4648.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/323099f34be898c45632955a72c1bcf6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2e7117655c2d8d55e4e172cf0c874761.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT SX PRG
+  size: 128 KB
+  crc32: 4D21172C
+  x: 2
+- type: CHR0
+  label: NAMCOT SX CHR
+  size: 32 KB
+  crc32: E27C7434
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 7BB5664F
+  x: 2
+pcbProperties:
+  name: 3405
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3405<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/592d03fb7ca69b67188145451e034850.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3405<br>Submitted by: bootgod<br>Linked from profile 1595')"
+    filename: /images/175/9d91b21c2f7912e8f9a27e62e79ebcc2.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8634 - 8637 (2)
+  estFirstRun: August 1986
+  pcbClass: NAMCOT-3405
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 203P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 634
+  dateCodeSuffix: 10B
+  std: 8634
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: R8
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8634
+  dateCodeSuffix: D
+  std: 8634
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8634
+  dateCodeSuffix: B
+  std: 8634
+  misc: 

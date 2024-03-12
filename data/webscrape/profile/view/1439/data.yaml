@@ -1,0 +1,129 @@
+metadata:
+  name: Super Jeopardy!
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-22 03:50:00
+  moreProfiles:
+  - 579
+  - 1021
+  - 1439
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-7J-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c47a12dabbe67ef5e39c6650b8790436.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-7J-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5dc7700a1e42bd364b2a9e2cdba65a76.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-7J-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/53ebedaa5ca9d476cf87cc2aa7568927.jpg
+slug: super-jeopardy
+releaseInfo:
+  catalogId: NES-7J-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1991
+  publisher: GameTek
+  developer: GameTek
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7J-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1021')"
+    filename: /images/175/7e94ab867e937ceaaaabb99dccbe1990.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41dbc2f6939a3d2155eca3accb172310.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-7J-0 PRG
+  size: 128 KB
+  crc32: D3428E2E
+  x: 3
+- type: CHR0
+  label: NES-7J-0 CHR
+  size: 128 KB
+  crc32: FA029DBF
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CF4487A2
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f88331675b7088b156cf6db9f078d234.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9136 - 9214 (2)
+  estFirstRun: September 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 6644
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1HC
+  dateCodeSuffix: K8 N
+  std: 9131
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0132
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1JB
+  dateCodeSuffix: 47
+  std: 9136
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 103
+  dateCodeSuffix: C
+  std: 9103
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9106
+  dateCodeSuffix: B3053
+  std: 9106
+  misc: 

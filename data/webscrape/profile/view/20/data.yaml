@@ -1,0 +1,112 @@
+metadata:
+  name: Volleyball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-19 01:32:00
+  moreProfiles:
+  - 20
+  - 2114
+  relatedProfiles:
+  - 2473
+  - 985
+  additionalImages: 
+slug: volleyball
+releaseInfo:
+  catalogId: NES-VB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1987
+  publisher: Nintendo
+  developer: Pax Softnica
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b097b05ed2a320fc51dca5df7c485bec.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0927cd4552803c47cd0e0e767127d137.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-VB-0 PRG
+  size: 32 KB
+  crc32: 0A2490AF
+  x: 4
+- type: CHR0
+  label: NES-VB-0 CHR
+  size: 8 KB
+  crc32: 2415DCE2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 27777635
+  x: 4
+pcbProperties:
+  name: NES-NROM-256-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/952909d45626a7944b825df5bc57cdc2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-02<br>Submitted by: Kinopio<br>Linked from profile 2082')"
+    filename: /images/175/0ea8c5a8b89e87fd3f22e7b063eea033.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8709 - 8741 (2)
+  estFirstRun: March 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: 01
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8709
+  dateCodeSuffix: E
+  std: 8709
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8709
+  dateCodeSuffix: E
+  std: 8709
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8650
+  dateCodeSuffix: A
+  std: 8650
+  misc: 

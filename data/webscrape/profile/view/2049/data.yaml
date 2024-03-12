@@ -1,0 +1,79 @@
+metadata:
+  name: 'Teenage Mutant Ninja Turtles III: The Manhattan Project'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-08-06 02:49:00
+  moreProfiles:
+  - 56
+  - 2049
+  relatedProfiles:
+  - 3042
+  additionalImages: 
+slug: teenage-mutant-ninja-turtles-iii-the-manhattan-project
+releaseInfo:
+  catalogId: NES-T3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1992
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-T3-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 56')"
+    filename: /images/175/6b82f9a1be22989f1d7c768aff50e0b5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 56')"
+    filename: /images/175/ad59cea09a5a06f7d1c1820d8140a8e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-T3-0 PRG
+  size: 256 KB
+  crc32: 6906E0DA
+  x: 2
+- type: CHR0
+  label: NES-T3-0 CHR
+  size: 256 KB
+  crc32: 44716157
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: BB6D7949
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9216
+  estFirstRun: April 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

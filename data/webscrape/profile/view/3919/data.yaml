@@ -1,0 +1,109 @@
+metadata:
+  name: 'Great Boxing: Rush Up'
+  altName: ラッシュ アップ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 05:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1297
+  - 1892
+  - 587
+  additionalImages: 
+slug: great-boxing-rush-up
+releaseInfo:
+  catalogId: VIS-5E
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1990
+  publisher: Visco
+  developer: Pixel
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: VIS-5E
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1026ed0e321003f40ddd282b8fd5170b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4606')"
+    filename: /images/175/7409cac45e90630c48c7b200477cdb84.jpg
+romDetails:
+- type: PRG0
+  label: VIS-5E-0 PRG
+  size: 128 KB
+  crc32: 68ECB923
+  x: 1
+- type: CHR0
+  label: VIS-5E-0 CHR
+  size: 128 KB
+  crc32: 80746717
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 175EDA0B
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/12e62e225ee2ba163e42edd5f04df72e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9046
+  estFirstRun: November 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6607
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0KM
+  dateCodeSuffix: 41
+  std: 9042
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0104
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0LD
+  dateCodeSuffix: 40
+  std: 9045
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9046
+  dateCodeSuffix: 3 DB
+  std: 9046
+  misc: 

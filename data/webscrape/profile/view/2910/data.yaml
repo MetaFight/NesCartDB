@@ -1,0 +1,78 @@
+metadata:
+  name: 'Operation Wolf: Take no Prisoners'
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 06:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3959
+  - 1923
+  - 4376
+  - 180
+  additionalImages: 
+slug: operation-wolf-take-no-prisoners
+releaseInfo:
+  catalogId: NES-OW-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: NES Controller,Zapper Light Gun
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OW-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4723')"
+    filename: /images/175/403594fc30f3818bdc3a66554c0aedfa.jpg
+romDetails:
+- type: PRG0
+  label: PAL-OW-0 PRG
+  size: 128 KB
+  crc32: 54C34223
+  x: 3
+- type: CHR0
+  label: NES-OW-1 CHR
+  size: 128 KB
+  crc32: B6C77A38
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5529431F
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B3
+detailedChipInfo: []

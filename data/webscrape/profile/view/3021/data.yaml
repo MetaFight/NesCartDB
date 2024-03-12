@@ -1,0 +1,119 @@
+metadata:
+  name: 'Mississippi Satsujin Jiken: Murder on the Mississippi'
+  altName: ミシシッピー殺人事件
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-19 06:10:00
+  moreProfiles:
+  - 1548
+  - 3020
+  - 3021
+  relatedProfiles: []
+  additionalImages: 
+slug: mississippi-satsujin-jiken-murder-on-the-mississippi
+releaseInfo:
+  catalogId: JF-11
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 31, 1986
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Midnight Blue
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1548')"
+    filename: /images/175/dc0564253877f8c76b2b4e93ba0340d2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1548')"
+    filename: /images/175/7904feb66f8266a7749a84ea16b467a3.jpg
+romDetails:
+- type: PRG0
+  label: JF-11-PRG
+  size: 128 KB
+  crc32: 022A819C
+  x: 3
+- type: CHR0
+  label: JF-11-CHR
+  size: 32 KB
+  crc32: 31CCCBA8
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: E46B1C5D
+  x: 3
+pcbProperties:
+  name: JF-11
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-11<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b9e552e4ea80d04ceab3c64b494b8778.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-11<br>Submitted by: bootgod<br>Linked from profile 1548')"
+    filename: /images/175/21e36bd53fb63fc561adc5e2427ec1d6.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8643 - 8644 (3)
+  estFirstRun: October 1986
+  pcbClass: JALECO-JF-11
+  inesMapper: 140
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx174
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 207P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 643
+  dateCodeSuffix: 10E
+  std: 8643
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M23256
+  partNumberSubDetail: 180P
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 634
+  dateCodeSuffix: 101
+  std: 8634
+  misc: (P)
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8623
+  dateCodeSuffix: N J
+  std: 8623
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC174P
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 4L4
+  dateCodeSuffix: T
+  std: 8448
+  misc: 

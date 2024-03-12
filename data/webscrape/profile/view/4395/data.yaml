@@ -1,0 +1,143 @@
+metadata:
+  name: Kirby's Adventure
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-12 03:50:00
+  moreProfiles:
+  - 1880
+  - 4383
+  - 4395
+  relatedProfiles:
+  - 2118
+  - 993
+  - 2241
+  - 2347
+  - 170
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-KR-NOE/FRG<br>Submitted by: piteta<br>Linked from profile 1880')"
+    filename: /images/175/9dfa81c89d1663638a872a122b3d0733.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-KR-NOE/FRG<br>Submitted by: piteta<br>Linked from profile 1880')"
+    filename: /images/175/d595562b52380a72610289a1b029477c.jpg
+slug: kirbys-adventure
+releaseInfo:
+  catalogId: NES-KR-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: June 27, 1993
+  publisher: Nintendo
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KR-NOE/FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS (Battery)
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 4383')"
+    filename: /images/175/29ba04a7a0ccc67376ea9431652f8b49.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4383')"
+    filename: /images/175/b7940eefc2f275a68751abd922f8dd5c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2095')"
+    filename: /images/175/55b0415dbef94c59c1b95f47ce71b7c8.jpg
+romDetails:
+- type: PRG0
+  label: FRG-KR-0 PRG
+  size: 512 KB
+  crc32: F287FA05
+  x: 3
+- type: CHR0
+  label: FRG-KR-0 CHR
+  size: 256 KB
+  crc32: B7D7676B
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: 127D76F4
+  x: 3
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b689bced2a65320d87ea899d8a928f20.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9326 - 9327 (3)
+  estFirstRun: June 1993
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534T
+  partNumberSubDetail: 97
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9327
+  dateCodeSuffix: D
+  std: 9327
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 5A
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9326
+  dateCodeSuffix: D
+  std: 9326
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9320
+  dateCodeSuffix: EP013
+  std: 9320
+  misc: 
+- designation: U5 S-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9319
+  dateCodeSuffix: NB
+  std: 9319
+  misc: 

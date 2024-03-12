@@ -1,0 +1,152 @@
+metadata:
+  name: Super Mario Bros. 2
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2005-10-26 05:00:00
+  moreProfiles:
+  - 130
+  - 229
+  - 268
+  - 563
+  - 4233
+  - 575
+  - 2814
+  - 1397
+  - 3058
+  relatedProfiles:
+  - 1287
+  - 1995
+  - 1949
+  - 1457
+  - 2633
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-MW USA<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/f6761766c1b629061eac505fcf01ea40.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MW USA<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/17f5a1a4dcb338b1a9dbc5aff164af0b.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-MW-USA<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/5124a25096e34d1a1f5a1a699bb784cf.jpg
+slug: super-mario-bros-2
+releaseInfo:
+  catalogId: NES-MW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MW-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 575')"
+    filename: /images/175/c82977c3481265dc08a23a5361ee9e52.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b22c224f3a1fd85c18492f98d7bb440.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4741')"
+    filename: /images/175/ad00db9923d49b428ee0df399cfd4c81.jpg
+romDetails:
+- type: PRG0
+  label: NES-MW-1 PRG
+  size: 128 KB
+  crc32: 9ED99198
+  x: 10
+- type: CHR0
+  label: NES-MW-0 CHR
+  size: 128 KB
+  crc32: F2BA1170
+  x: 20
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CA594ACE
+  x: 10
+pcbProperties:
+  name: NES-TSROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9a16c4cd46d7d2dfb7954ae0149286d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-03<br>Submitted by: Kinopio<br>Linked from profile 2529')"
+    filename: /images/175/23979e42b51db9530a893eab536f0878.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8839 - 9011 (6)
+  estFirstRun: September 1988
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NWE
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 930
+  dateCodeSuffix: 53
+  std: 8910
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NWB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 937
+  dateCodeSuffix: 52
+  std: 8911
+  misc: 
+- designation: U3 W-RAM
+  maker: Sanyo
+  partNumber: LC3664N-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9C
+  dateCodeSuffix: 05
+  std: 8909
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8901
+  dateCodeSuffix: KP
+  std: 8901
+  misc: 
+- designation: U5 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8911
+  dateCodeSuffix: 3 AA
+  std: 8911
+  misc: 

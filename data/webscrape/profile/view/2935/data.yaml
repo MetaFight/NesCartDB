@@ -1,0 +1,75 @@
+metadata:
+  name: Ghosts 'n Goblins
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-22 07:34:00
+  moreProfiles:
+  - 4
+  - 45
+  - 811
+  - 2113
+  - 2935
+  relatedProfiles:
+  - 2443
+  - 1914
+  - 1648
+  additionalImages: 
+slug: ghosts-n-goblins
+releaseInfo:
+  catalogId: NES-GG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1986
+  publisher: Capcom
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GG-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 45')"
+    filename: /images/175/e55a7f33278934b22c7ad9b23be44e2b.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-GG-0 PRG
+  size: 128 KB
+  crc32: B4E4879E
+  x: 5
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8715 - 8822 (3)
+  estFirstRun: April 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

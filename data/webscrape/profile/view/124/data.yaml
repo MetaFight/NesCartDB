@@ -1,0 +1,135 @@
+metadata:
+  name: Hoops
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-15 22:32:00
+  moreProfiles:
+  - 124
+  - 1865
+  relatedProfiles:
+  - 4412
+  - 2285
+  additionalImages: 
+slug: hoops
+releaseInfo:
+  catalogId: NES-2B-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Jaleco
+  developer: Aicom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2B-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1865')"
+    filename: /images/175/ce6aae60636cb3c6d7ef8b88d6601859.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f7e49cc7bc335a7d81fdb8153b5de2d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-2B-0 PRG
+  size: 128 KB
+  crc32: 514B8C43
+  x: 3
+- type: CHR0
+  label: NES-2B-0 CHR
+  size: 128 KB
+  crc32: 4BA913D0
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F4615036
+  x: 2
+pcbProperties:
+  name: NES-SL1ROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SL1ROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e58faf52f846304b951711e4fd32e7e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8943
+  estFirstRun: October 1989
+  pcbClass: NES-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8935
+  dateCodeSuffix: XX705
+  std: 8935
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8932
+  dateCodeSuffix: EX773
+  std: 8932
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8943
+  dateCodeSuffix: 5 CA
+  std: 8943
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8941
+  dateCodeSuffix: 3 A
+  std: 8941
+  misc: 
+- designation: U5 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8836
+  dateCodeSuffix: H
+  std: 8836
+  misc: 

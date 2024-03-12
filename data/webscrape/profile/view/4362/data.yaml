@@ -1,0 +1,126 @@
+metadata:
+  name: Trog!
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2011-05-29 17:49:00
+  moreProfiles:
+  - 997
+  - 4362
+  relatedProfiles:
+  - 1988
+  - 29
+  additionalImages: 
+slug: trog
+releaseInfo:
+  catalogId: NES-4A-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1991
+  publisher: Acclaim
+  developer: Midway
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4A-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/cda8d2ca31a5e76288d2ec682f8a7c5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-4A-0 PRG
+  size: 128 KB
+  crc32: B6B5C372
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9149 - 9149 (2)
+  estFirstRun: December 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6667
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1MC
+  dateCodeSuffix: 42
+  std: 9149
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9147
+  dateCodeSuffix: KT77
+  std: 9147
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9144
+  dateCodeSuffix: C
+  std: 9144
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: ''
+  std: 9046
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9038
+  dateCodeSuffix: ''
+  std: 9038
+  misc: 

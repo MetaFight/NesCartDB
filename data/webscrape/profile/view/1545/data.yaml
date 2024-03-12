@@ -1,0 +1,98 @@
+metadata:
+  name: Formation Z
+  altName: フォーメーションＺ
+  variant: (Version 1.0)
+  submittedBy: bootgod
+  submittedOn: 2007-05-09 03:06:00
+  moreProfiles:
+  - 1545
+  - 3022
+  - 3023
+  - 3024
+  - 3284
+  relatedProfiles: []
+  additionalImages: 
+slug: formation-z
+releaseInfo:
+  catalogId: JF-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 4, 1985
+  publisher: Jaleco
+  developer: Hect
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Orange
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/81cc0669053823d46a9b08231d9eed07.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a253638769ef3144150a13e07c0f9c15.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 7F792D47
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 5D0E5BDA
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 63338C3C
+  x: 3
+pcbProperties:
+  name: JF
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ea9bb8df125e095df3786603a5afd177.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8febbefcfab058ee4c8211087cfe80b4.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8511 - 8521 (5)
+  estFirstRun: March 1985
+  pcbClass: JALECO-JF-02
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Hitachi
+  partNumber: HN4827128G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8504
+  dateCodeSuffix: ''
+  std: 8504
+  misc: 00009SS0
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5L2764K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 521
+  dateCodeSuffix: 102
+  std: 8521
+  misc: 

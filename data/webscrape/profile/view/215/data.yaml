@@ -1,0 +1,126 @@
+metadata:
+  name: Dick Tracy
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-27 02:26:00
+  moreProfiles:
+  - 215
+  - 2542
+  - 2543
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-3Y-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c12744bb73db86d60940a1ff10df648.jpg
+slug: dick-tracy
+releaseInfo:
+  catalogId: NES-3Y-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1990
+  publisher: Bandai
+  developer: Realtime Associates
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3Y-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1b136ad0bed9da65a156a41e32342734.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c4068a5ce006346add9d059cdd07e81.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-3Y-0 PRG
+  size: 128 KB
+  crc32: D738C059
+  x: 4
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9028 - 9040 (3)
+  estFirstRun: July 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5468
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0KC
+  dateCodeSuffix: 7M
+  std: 9040
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 035
+  dateCodeSuffix: B
+  std: 9035
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: 7 BB
+  std: 9039
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 028
+  dateCodeSuffix: EN
+  std: 9028
+  misc: 
+- designation: U5 HC32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9026
+  dateCodeSuffix: J7
+  std: 9026
+  misc: 

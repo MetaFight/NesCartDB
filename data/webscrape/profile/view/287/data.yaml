@@ -1,0 +1,129 @@
+metadata:
+  name: 'Street Fighter 2010: The Final Fight'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-01 00:40:00
+  moreProfiles:
+  - 287
+  - 2874
+  relatedProfiles:
+  - 3920
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-YA USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/106a6fe2ac879bd40fa5bf6ea3871ba8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-YA USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/62ef117d4a5ce5a05692b2576c50355a.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-YA-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f1abc5b500709d2584cf12776df6a038.jpg
+slug: street-fighter-2010-the-final-fight
+releaseInfo:
+  catalogId: NES-YA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YA-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8fe01a1a02a6b5eedd57533b34e33d01.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0bb2b6c9a4209251026118559b38bf3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YA-0 PRG
+  size: 128 KB
+  crc32: 139B07DB
+  x: 4
+- type: CHR0
+  label: NES-YA-0 CHR
+  size: 128 KB
+  crc32: 8C8EF865
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8DA651D4
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ff9a9a0604509f62036dc50801a2c540.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9031 - 9034 (2)
+  estFirstRun: August 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S20
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9031
+  dateCodeSuffix: EX720
+  std: 9031
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R05
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9029
+  dateCodeSuffix: EY002
+  std: 9029
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9034
+  dateCodeSuffix: 3 AA
+  std: 9034
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9028
+  dateCodeSuffix: KP020
+  std: 9028
+  misc: 

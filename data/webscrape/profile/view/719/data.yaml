@@ -1,0 +1,129 @@
+metadata:
+  name: Roger Clemens' MVP Baseball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-04 03:59:00
+  moreProfiles:
+  - 719
+  - 878
+  - 1446
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-6V-USA<br>Submitted by: bootgod<br>Linked from profile 1446')"
+    filename: /images/175/77768312073e21e63ee4213d8cacf403.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-6V-USA<br>Submitted by: bootgod<br>Linked from profile 1446')"
+    filename: /images/175/cbb54dc689e23a4075eb306373061941.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-6V-USA<br>Submitted by: bootgod<br>Linked from profile 1446')"
+    filename: /images/175/33f1dfda2a2bd3d0cfcbb3cd16644d1f.jpg
+slug: roger-clemens-mvp-baseball
+releaseInfo:
+  catalogId: NES-6V-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 1991
+  publisher: LJN
+  developer: Sculptured Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-6V-USA[-1]
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: NKRY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1488f1d5ba3bc4b8ec8560ba21a1136d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0de46a3e628e3d3ced55434f9906865b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-6V-1 PRG
+  size: 128 KB
+  crc32: 804A0570
+  x: 3
+- type: CHR0
+  label: NES-6V-1 CHR
+  size: 256 KB
+  crc32: E68FCEC3
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 018A8699
+  x: 3
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb1c2d7110fa5c997ea2ecc57301f7f0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 661')"
+    filename: /images/175/8327ac9b64b61c483a5dbc99f043c41a.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9136 - 9206 (3)
+  estFirstRun: September 1991
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9203
+  dateCodeSuffix: FAF
+  std: 9203
+  misc: 
+- designation: U2 CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9203
+  dateCodeSuffix: ECF
+  std: 9203
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9206
+  dateCodeSuffix: KVB42
+  std: 9206
+  misc: 

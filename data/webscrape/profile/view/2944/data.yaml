@@ -1,0 +1,77 @@
+metadata:
+  name: Will Harvey Presents The Immortal
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-25 06:20:00
+  moreProfiles:
+  - 480
+  - 2944
+  relatedProfiles: []
+  additionalImages: 
+slug: will-harvey-presents-the-immortal
+releaseInfo:
+  catalogId: NES-E8-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: Electronic Arts
+  developer: Will Harvey
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-E8-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 480')"
+    filename: /images/175/e6170805d4c00665d5c7c59ccd6f0241.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 480')"
+    filename: /images/175/4a01125a5d4fcc5c5ef9ccc9d1bb9c9b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-E8-0 PRG
+  size: 128 KB
+  crc32: 9BA777E1
+  x: 2
+- type: CHR0
+  label: NES-E8-0 CHR
+  size: 256 KB
+  crc32: 080FE8EC
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 8889C564
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9044
+  estFirstRun: November 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

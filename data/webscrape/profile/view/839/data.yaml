@@ -1,0 +1,124 @@
+metadata:
+  name: Cowboy Kid
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 19:09:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-9C USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0de588af31bd19cd3389da8c13c1cd43.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-9C USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/669e22eef541ac74a197be9c2d9067cb.jpg
+slug: cowboy-kid
+releaseInfo:
+  catalogId: NES-9C-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1992
+  publisher: Romstar
+  developer: Pixel
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-9C-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d743fdfd1de5db18a0c483f040311de8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f2b6a79ca029e6c42536f6f06621fa32.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-9C-0 PRG
+  size: 256 KB
+  crc32: ED55073F
+  x: 1
+- type: CHR0
+  label: NES-9C-0 CHR
+  size: 256 KB
+  crc32: 8E7E135C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: D18E6BE3
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2315963e94230a81472799b5005edabc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9149
+  estFirstRun: December 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9149
+  dateCodeSuffix: D
+  std: 9149
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 52
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9149
+  dateCodeSuffix: D
+  std: 9149
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9148
+  dateCodeSuffix: 7 BB
+  std: 9148
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9149
+  dateCodeSuffix: 3 AB
+  std: 9149
+  misc: 

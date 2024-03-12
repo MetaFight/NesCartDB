@@ -1,0 +1,104 @@
+metadata:
+  name: 'Honoo no Toukyuuji: Dodge Danpei'
+  altName: 炎の闘球児 ドッジ弾平
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-26 19:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: honoo-no-toukyuuji-dodge-danpei
+releaseInfo:
+  catalogId: SUN-DOD-6500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 28, 1992
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4962d9060e6dc891193448fe3b2315e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1543')"
+    filename: /images/175/1d12161ff991b0be73d0eade3d38fd39.jpg
+romDetails:
+- type: PRG0
+  label: FC-DOD-PRG
+  size: 128 KB
+  crc32: 9B4F0405
+  x: 1
+- type: CHR0
+  label: FC-DOD-CHR
+  size: 256 KB
+  crc32: 17C47018
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 4C049CFE
+  x: 1
+pcbProperties:
+  name: GRM-E301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>GRM-E301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1341a2c11f29f247cd0d12366ff46011.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>GRM-E301<br>Submitted by: bootgod<br>Linked from profile 3805')"
+    filename: /images/175/8897cf1f80cc8d0027bf29c8e975613a.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9222
+  estFirstRun: June 1992
+  pcbClass: SUNSOFT-FME-7
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FME-7
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9208
+  dateCodeSuffix: K9705
+  std: 9208
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9221
+  dateCodeSuffix: XD009
+  std: 9221
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9222
+  dateCodeSuffix: AA
+  std: 9222
+  misc: 

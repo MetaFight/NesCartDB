@@ -1,0 +1,123 @@
+metadata:
+  name: Kage no Densetsu
+  altName: 影の伝説
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-08 05:31:00
+  moreProfiles:
+  - 1557
+  - 2252
+  - 3156
+  - 3157
+  - 3301
+  - 4579
+  relatedProfiles:
+  - 277
+  additionalImages: 
+slug: kage-no-densetsu
+releaseInfo:
+  catalogId: TFC-KD-4900-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 18, 1986
+  publisher: Taito
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 3 Screws
+  frontLabelId: Not Present
+  sequence#: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2252')"
+    filename: /images/175/324de360831beaa7bad22dda9dbb3f87.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1759')"
+    filename: /images/175/8e34e19891490e2dcc8929f3d39236c1.jpg
+romDetails:
+- type: PRG0
+  label: TAITO 86 KAGE2
+  size: 32 KB
+  crc32: 391C4261
+  x: 5
+- type: CHR0
+  label: TAITO 86 KAGE1
+  size: 16 KB
+  crc32: 0489AABC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: BDA7925E
+  x: 5
+pcbProperties:
+  name: FC-009
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-009<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/276a18a1e1253d85745d8e4b745c99f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-009<br>Submitted by: bootgod<br>Linked from profile 2252')"
+    filename: /images/175/d2b22c8771e6ff80cd78afa6be4def73.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8608 - 8614 (6)
+  estFirstRun: February 1986
+  pcbClass: TAITO-74*139/74
+  inesMapper: 87
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 100P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 605
+  dateCodeSuffix: 11F
+  std: 8605
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M27128
+  partNumberSubDetail: 248P
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 608
+  dateCodeSuffix: 103
+  std: 8608
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 606
+  dateCodeSuffix: 101
+  std: 8606
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC74P
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 606
+  dateCodeSuffix: 1A1
+  std: 8606
+  misc: 

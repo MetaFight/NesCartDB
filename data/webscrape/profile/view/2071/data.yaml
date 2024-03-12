@@ -1,0 +1,86 @@
+metadata:
+  name: 'The Simpsons:  Bart vs. The Space Mutants'
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2007-08-14 04:00:00
+  moreProfiles:
+  - 28
+  - 771
+  - 2826
+  - 1386
+  - 2071
+  relatedProfiles:
+  - 2402
+  - 2436
+  - 1940
+  - 4394
+  additionalImages: 
+slug: the-simpsons-bart-vs-the-space-mutants
+releaseInfo:
+  catalogId: NES-Q5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Q5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 28')"
+    filename: /images/175/958c44759717fb7b3e29846b94ded0c3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1386')"
+    filename: /images/175/1969a4694818f4a9b4949ace7b975c41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-Q5-1 PRG
+  size: 128 KB
+  crc32: 4A5795CC
+  x: 2
+- type: CHR0
+  label: NES-Q5-1 CHR
+  size: 128 KB
+  crc32: 06652B61
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5248CAF3
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9102 - 9127 (3)
+  estFirstRun: January 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

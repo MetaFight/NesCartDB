@@ -1,0 +1,115 @@
+metadata:
+  name: 'Splatterhouse: Wanpaku Graffiti'
+  altName: スプラッターハウス わんぱくグラフィティ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 06:38:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: splatterhouse-wanpaku-graffiti
+releaseInfo:
+  catalogId: NAM-FSH-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 31, 1989
+  publisher: Namco
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/85d42a964418b52264231b4a38df6e72.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a36b2f594809e7fd94b3bb7fc6121b6.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: D666560F
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 34F019F2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 46FD7843
+  x: 1
+pcbProperties:
+  name: LROG058-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG058-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fe8ecb1ca2cfb74c6a66d6f8cdcf605c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG058-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eaf6e7fb8d5533467495aaae16118c19.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8930
+  estFirstRun: July 1989
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG058
+  partNumberSubDetail: FSH
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8930
+  dateCodeSuffix: 3
+  std: 8930
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP340
+  type: Namcot 340
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

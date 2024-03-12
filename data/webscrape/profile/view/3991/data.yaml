@@ -1,0 +1,123 @@
+metadata:
+  name: Metal Max
+  altName: メタルマックス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 22:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb6504c087abbcd30e879df2350b1228.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f7640e96f0fbb4817775c795a844ce25.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8697775f7b5a8edf84835f63ca6a0713.jpg
+slug: metal-max
+releaseInfo:
+  catalogId: DFC-26
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 24, 1991
+  publisher: Data East
+  developer: Data East
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Khaki
+  formFactor: Small
+  frontLabelId: DFC-26
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ef12e593ab8b7da96caa2176b39e740.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-26-0 PRG
+  size: 256 KB
+  crc32: FD0299C3
+  x: 1
+- type: CHR0
+  label: DFC-26-0 CHR
+  size: 256 KB
+  crc32: F1A551FF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 9509F703
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/710d6b1d3932dc15cd074ae8f4cc47f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9116
+  estFirstRun: April 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9116
+  dateCodeSuffix: T14
+  std: 9116
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9116
+  dateCodeSuffix: T08
+  std: 9116
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9036
+  dateCodeSuffix: KX026
+  std: 9036
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: B1
+  std: 9049
+  misc: 

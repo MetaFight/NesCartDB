@@ -1,0 +1,120 @@
+metadata:
+  name: Championship Rally
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 15:31:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: championship-rally
+releaseInfo:
+  catalogId: NES-29-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: November 1, 1991
+  publisher: HAL Laboratory
+  developer: Human Entertainment
+  players: 8
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-29-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/52a1e04032221b377e696143603b19f7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-29-0 PRG
+  size: 128 KB
+  crc32: 10B4CE4D
+  x: 1
+- type: CHR0
+  label: PAL-29-0 CHR
+  size: 128 KB
+  crc32: 7E960E53
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C076D66F
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f799997f2ca8a6fe58ffca9591fadb05.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 5A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: E
+  std: 9144
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 74
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9144
+  dateCodeSuffix: E
+  std: 9144
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9144
+  dateCodeSuffix: A
+  std: 9144
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9124
+  dateCodeSuffix: 5 AA
+  std: 9124
+  misc: 

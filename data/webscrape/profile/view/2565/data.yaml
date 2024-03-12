@@ -1,0 +1,128 @@
+metadata:
+  name: Sword Master
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-17 05:47:00
+  moreProfiles:
+  - 1285
+  - 2565
+  relatedProfiles:
+  - 2530
+  - 1894
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-8S USA<br>Submitted by: bootgod<br>Linked from profile 1285')"
+    filename: /images/175/a4bfaaab2e3682506ffe7b715cbb42aa.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-8S USA<br>Submitted by: bootgod<br>Linked from profile 1285')"
+    filename: /images/175/7e9efac111693841a51531b4fcdc6cc2.jpg
+slug: sword-master
+releaseInfo:
+  catalogId: NES-8S-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1992
+  publisher: Activision
+  developer: Athena
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8S-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1285')"
+    filename: /images/175/118ed3fcdc0ea342f4e45f3559e8921d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1285')"
+    filename: /images/175/16f29723e3748633312652829a1d28cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-8S-0 PRG
+  size: 128 KB
+  crc32: 458936EF
+  x: 2
+- type: CHR0
+  label: NES-8S-0 CHR
+  size: 128 KB
+  crc32: 5170E390
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 465E5483
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bb24e6d88829419bbf4dc9729f856a52.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146 - 9146 (2)
+  estFirstRun: November 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 5L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: E
+  std: 9146
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 77
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: E
+  std: 9146
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9141
+  dateCodeSuffix: 5 T
+  std: 9141
+  misc: 

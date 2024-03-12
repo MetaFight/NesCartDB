@@ -1,0 +1,128 @@
+metadata:
+  name: Venice Beach Volleyball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 22:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4050
+  additionalImages: 
+slug: venice-beach-volleyball
+releaseInfo:
+  catalogId: AVE-VB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: AVE
+  developer: Idea-Tek
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02a97cfca6ff156f5ceca6cda0482093.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aaa08bbef4c97acb3f506d506a7bc1cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: 2388-PGM
+  size: 32 KB
+  crc32: 552F1143
+  x: 1
+- type: CHR0
+  label: 949B-CHR
+  size: 32 KB
+  crc32: 70254E19
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 882E1901
+  x: 1
+pcbProperties:
+  name: MB-91?A?
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MB-91?A?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8bd73b453e9755f1ac92d18ec6276fbf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MB-91?A?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eaa230d262bfa5192f5a29590d2b3ed4.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9126
+  estFirstRun: June 1991
+  pcbClass: AVE-MB-91
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: MX23256
+  partNumberSubDetail: 1039
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9126
+  dateCodeSuffix: EHF
+  std: 9126
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: MX23256
+  partNumberSubDetail: 1038
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9126
+  dateCodeSuffix: ENF
+  std: 9126
+  misc: 
+- designation: U3
+  maker: Signetics
+  partNumber: 74LS138N
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9105
+  dateCodeSuffix: EG
+  std: 9105
+  misc: 2111A50
+- designation: U4
+  maker: Mitsubishi
+  partNumber: M74LS175P
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 808
+  dateCodeSuffix: 4K5
+  std: 8808
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9123
+  dateCodeSuffix: ''
+  std: 9123
+  misc: 

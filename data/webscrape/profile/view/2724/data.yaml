@@ -1,0 +1,111 @@
+metadata:
+  name: Konamic Sports in Seoul
+  altName: コナミックスポーツインソウル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 20:58:00
+  moreProfiles:
+  - 1661
+  - 2724
+  relatedProfiles:
+  - 1944
+  - 2423
+  - 242
+  additionalImages: 
+slug: konamic-sports-in-seoul
+releaseInfo:
+  catalogId: KDS-F2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 16, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-F2
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1661')"
+    filename: /images/175/f2a60b1b5a433b47f02a42aa00ecd351.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KDS-F2-0 PRG
+  size: 128 KB
+  crc32: 900C7442
+  x: 2
+- type: CHR0
+  label: KDS-F2-0 CHR
+  size: 128 KB
+  crc32: 6143D8FE
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C7642467
+  x: 2
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c49ea73d944f50957d0b04a875b292d6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8834 - 8834 (2)
+  estFirstRun: August 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0238
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8H2
+  dateCodeSuffix: B5
+  std: 8832
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8833
+  dateCodeSuffix: KY
+  std: 8833
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8834
+  dateCodeSuffix: 1 A
+  std: 8834
+  misc: 

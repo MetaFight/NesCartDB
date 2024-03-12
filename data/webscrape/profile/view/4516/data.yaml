@@ -1,0 +1,125 @@
+metadata:
+  name: Advanced Dungeons & Dragons Heroes of the Lance
+  altName: ＡＤ＆Ｄ ヒーロー オブ ランス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 04:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 933
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f80fd2b4e6a09f8e4363cf85e0735135.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/28834f5a0c4a45ba0d1edd84091bb513.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d4f49c70b1746cf4e0bd2d13207f526.jpg
+slug: advanced-dungeons-dragons-heroes-of-the-lance
+releaseInfo:
+  catalogId: PNF-LQ (R68V5929)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 8, 1991
+  publisher: Pony Canyon
+  developer: Strategic Simulations
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: PNF-LQ
+  secondaryId: R68V5929
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35f8c14bb02ad89364282cc2b385c1ed.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-LQ-0 PRG
+  size: 128 KB
+  crc32: 929C7B2F
+  x: 1
+- type: CHR0
+  label: PNF-LQ-0 CHR
+  size: 128 KB
+  crc32: 32876B98
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1E472E7A
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6067ea9a14cc9d0181f2e38ea8ca4a34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 3451')"
+    filename: /images/175/58d46d7468263b0f9bdd6e27dd7f131d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9102
+  estFirstRun: January 1991
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S55
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9102
+  dateCodeSuffix: E9717
+  std: 9102
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R24
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9052
+  dateCodeSuffix: EY708
+  std: 9052
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9102
+  dateCodeSuffix: 5 TA
+  std: 9102
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 047
+  dateCodeSuffix: N
+  std: 9047
+  misc: 

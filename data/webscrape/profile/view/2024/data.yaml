@@ -1,0 +1,128 @@
+metadata:
+  name: 'Joe & Mac: Caveman Ninja'
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 21:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1608
+  - 4167
+  - 4546
+  - 526
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-CJ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/af6561268cf061291c3c475d3341a103.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-CJ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/51dfd722a54fcd263ada37d636443c4d.jpg
+slug: joe-mac-caveman-ninja
+releaseInfo:
+  catalogId: NES-CJ-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Elite
+  developer: Elite
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CJ-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/22d3082516c1da7183247a991fef60cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-CJ-0 PRG
+  size: 128 KB
+  crc32: 948AD7F6
+  x: 5
+- type: CHR0
+  label: PAL-CJ-0 CHR
+  size: 128 KB
+  crc32: 52AD922B
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 04142764
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c373c0132c9d016f5e922dbce26cae99.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9220
+  estFirstRun: May 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W91
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9220
+  dateCodeSuffix: K9708
+  std: 9220
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W75
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9220
+  dateCodeSuffix: KY705
+  std: 9220
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9218
+  dateCodeSuffix: C
+  std: 9218
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9208
+  dateCodeSuffix: 3 T
+  std: 9208
+  misc: 

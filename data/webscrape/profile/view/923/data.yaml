@@ -1,0 +1,121 @@
+metadata:
+  name: Kung-Fu Heroes
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 00:06:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1579
+  additionalImages: 
+slug: kung-fu-heroes
+releaseInfo:
+  catalogId: NES-CE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1989
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CE-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b21fa571ad305d1ccadb1ad5e87d3ee7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/101250e04df1409c4dbb76fb37fc7ff4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-CE-0 PRG
+  size: 32 KB
+  crc32: E21B75D0
+  x: 1
+- type: CHR0
+  label: NES-CE-0 CHR
+  size: 32 KB
+  crc32: EBF876AE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: AA74A4D8
+  x: 1
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ed0e6ca8547ba8b0ee8e0e9d5731358.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8926
+  estFirstRun: June 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2803
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9F2
+  dateCodeSuffix: 76
+  std: 8924
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2804
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9F2
+  dateCodeSuffix: 24
+  std: 8924
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8926
+  dateCodeSuffix: 1 BA
+  std: 8926
+  misc: 
+- designation: LS161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9E3
+  dateCodeSuffix: T
+  std: 8920
+  misc: 

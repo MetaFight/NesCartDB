@@ -1,0 +1,106 @@
+metadata:
+  name: Zombie Hunter
+  altName: ゾンビハンター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2008-04-17 03:16:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: zombie-hunter
+releaseInfo:
+  catalogId: HSS-ZO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 3, 1987
+  publisher: Hi-Score Software
+  developer: Lenar
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSS-ZO
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0742c0faaacd814b43af5642caf92eb.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSS-ZO-0 PRG
+  size: 128 KB
+  crc32: C35E8D34
+  x: 1
+- type: CHR0
+  label: HSS-ZO-0 CHR
+  size: 32 KB
+  crc32: 45657447
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 41632CB6
+  x: 1
+pcbProperties:
+  name: HVC-SJROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b18c72635f3e14fb990732d16ec7da66.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ba7f1dd8941d6a3203956f3826c900cf.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8724
+  estFirstRun: June 1987
+  pcbClass: HVC-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0215
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7F2
+  dateCodeSuffix: A5
+  std: 8724
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2014
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7F2
+  dateCodeSuffix: A2
+  std: 8724
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8718
+  dateCodeSuffix: A
+  std: 8718
+  misc: 

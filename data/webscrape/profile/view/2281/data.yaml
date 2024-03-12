@@ -1,0 +1,95 @@
+metadata:
+  name: 'Ninja-kun: Majou no Bouken'
+  altName: 忍者くん　魔城の冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-29 04:02:00
+  moreProfiles:
+  - 2281
+  - 3281
+  relatedProfiles: []
+  additionalImages: 
+slug: ninja-kun-majou-no-bouken
+releaseInfo:
+  catalogId: JF-03
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: May 10, 1985
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Red
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-03
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/67330a60f0e79c3a8480e240a81260dc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37adb3de2fcb3e7a4fad515225bbf48e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 7A3FCC31
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 22EA1607
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: A222F5A0
+  x: 1
+pcbProperties:
+  name: JF-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0c3820e80f131fba80069b02f281418.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e6f74861a9a2d932ed4a2d79f4049fe5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8519 - 8540 (2)
+  estFirstRun: May 1985
+  pcbClass: JALECO-JF-03
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5L27128K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 512
+  dateCodeSuffix: 10S
+  std: 8512
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: D2364EC
+  partNumberSubDetail: 200
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8519
+  dateCodeSuffix: P7
+  std: 8519
+  misc: 

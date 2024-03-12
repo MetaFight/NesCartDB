@@ -1,0 +1,120 @@
+metadata:
+  name: Krazy Kreatures
+  altName: 
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2005-12-31 04:38:00
+  moreProfiles:
+  - 255
+  - 2597
+  - 3002
+  - 4594
+  relatedProfiles: []
+  additionalImages: 
+slug: krazy-kreatures
+releaseInfo:
+  catalogId: AVE-KK
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Bitmasters
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc4d32cd7e8900f3ab3027a44a7d428b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f56470534bc70c93363096cd2c02a07d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1241')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: KK-PGM B54C
+  size: 32 KB
+  crc32: 1D873633
+  x: 3
+- type: CHR0
+  label: KK-CHR BDED
+  size: 32 KB
+  crc32: 98C888E0
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 637FE65C
+  x: 3
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/128c0e75abff3ad1dfee2b1b9616bdfc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9045 - 9319 (4)
+  estFirstRun: November 1990
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2314802
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-15 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: KL
+  std: 9135
+  misc: 2314N03
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9141
+  dateCodeSuffix: ''
+  std: 9141
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9137
+  dateCodeSuffix: ''
+  std: 9137
+  misc: 

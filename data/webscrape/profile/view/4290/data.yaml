@@ -1,0 +1,112 @@
+metadata:
+  name: USA Ice Hockey in FC
+  altName: ＵＳＡアイスホッケーinＦＣ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 03:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 938
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1e3c14217387dac8358bd1830a51646.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9dc12ac6c1260a73d695887f2f83022a.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b592f0b38f455aacc77810bf397ef1e9.jpg
+slug: usa-ice-hockey-in-fc
+releaseInfo:
+  catalogId: JF-40
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 6, 1993
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-40
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dbe0eaadae5f83a56987e1ec8032e792.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/016feb61734dec7855ed76c09b86bfd1.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B89764A2
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 07731C55
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 91D52E9A
+  x: 1
+pcbProperties:
+  name: JF-37
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-37<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a26033d720bdfdc1c0ff9f20da4df0be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-37<br>Submitted by: bootgod<br>Linked from profile 3981')"
+    filename: /images/175/9c39b5c99ab3df2e41eb1b347db611fc.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9306
+  estFirstRun: February 1993
+  pcbClass: JALECO-JF-37
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1001EACZ
+  partNumberSubDetail: W11
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9305
+  dateCodeSuffix: ED001
+  std: 9305
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1001EACZ
+  partNumberSubDetail: W10
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9306
+  dateCodeSuffix: ED004
+  std: 9306
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 144
+  dateCodeSuffix: 184
+  std: 9144
+  misc: 

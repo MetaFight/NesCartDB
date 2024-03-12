@@ -1,0 +1,119 @@
+metadata:
+  name: R.B.I. Baseball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2016-12-28 05:21:00
+  moreProfiles:
+  - 321
+  - 447
+  - 2568
+  - 4734
+  relatedProfiles: []
+  additionalImages: 
+slug: rbi-baseball
+releaseInfo:
+  catalogId: TGN-001-RB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1987
+  publisher: Tengen
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 321')"
+    filename: /images/175/73116f3f933424ab8ee4ec398a34c1bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335001-1011
+  size: 64 KB
+  crc32: 203D32B5
+  x: 5
+- type: CHR0
+  label: 335001-1012
+  size: 32 KB
+  crc32: C36B03AE
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 2E326A1D
+  x: 4
+pcbProperties:
+  name: 800002-01 REV C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800002-01 REV C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7f0ef5ec9be447bdba457657df3d14c7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800002-01 REV C<br>Submitted by: bootgod<br>Linked from profile 321')"
+    filename: /images/175/5bcb49fb05afa23e61cde83a9e0bd4ca.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8847 - 8916 (4)
+  estFirstRun: November 1988
+  pcbClass: TENGEN-800002
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8846
+  dateCodeSuffix: HUA
+  std: 8846
+  misc: 
+- designation: CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: LDA
+  std: 8847
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8842
+  dateCodeSuffix: QUDZ
+  std: 8842
+  misc: 
+- designation: 337001
+  maker: Motorola
+  partNumber: 337001-001
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: ZKUAB
+  std: 8844
+  misc: 

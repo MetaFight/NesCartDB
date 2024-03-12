@@ -1,0 +1,120 @@
+metadata:
+  name: Namco Classic
+  altName: ナムコクラシック
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-21 04:20:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1600
+  - 1814
+  - 3206
+  - 3207
+  - 3208
+  additionalImages: 
+slug: namco-classic
+releaseInfo:
+  catalogId: NAM-NC-5900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: May 27, 1988
+  publisher: Namco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb9e9f24d8e7d45b7978bde4e6eeab15.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/df518d1d202441af454bb74213095bab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1727bc045948158abff26df79bd7e4c4.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 2B825CE1
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: 6489B8DC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 4C5836BD
+  x: 5
+pcbProperties:
+  name: 60-13
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-13<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/12d78440b1db3afc51efbf917edb5cdf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-13<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5de596fc4fa9e9b5cfcce219ce77364.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8813 - 8942 (5)
+  estFirstRun: March 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: NC
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 813
+  dateCodeSuffix: K03
+  std: 8813
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

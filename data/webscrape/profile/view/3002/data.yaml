@@ -1,0 +1,120 @@
+metadata:
+  name: Krazy Kreatures
+  altName: 
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2009-01-11 02:22:00
+  moreProfiles:
+  - 255
+  - 2597
+  - 3002
+  - 4594
+  relatedProfiles: []
+  additionalImages: 
+slug: krazy-kreatures
+releaseInfo:
+  catalogId: AVE-KK
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Bitmasters
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Square Corner
+  embossedText: American Video Entertainment Made in USA
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27a4d1e3a0b352045188a744d7baacd1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/18f70c1df56698af26bf4cd27a05d471.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3003')"
+    filename: /images/175/8c6bc29d71201d0d4a6968d12dfe548d.jpg
+romDetails:
+- type: PRG0
+  label: KRAZY KREAT PGM B54C-R11
+  size: 32 KB
+  crc32: 1D873633
+  x: 3
+- type: CHR0
+  label: KRAZY KREAT CHR BDED
+  size: 32 KB
+  crc32: 98C888E0
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 637FE65C
+  x: 3
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f876f85fe639bf1fb0566a0d1a233da.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9045 - 9319 (4)
+  estFirstRun: November 1990
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9149
+  dateCodeSuffix: ''
+  std: 9149
+  misc: 
+- designation: U2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9149
+  dateCodeSuffix: ''
+  std: 9149
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9311
+  dateCodeSuffix: ''
+  std: 9311
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9319
+  dateCodeSuffix: ''
+  std: 9319
+  misc: 

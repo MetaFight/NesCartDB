@@ -1,0 +1,75 @@
+metadata:
+  name: Double Dribble
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-03-12 05:14:00
+  moreProfiles:
+  - 463
+  - 612
+  - 642
+  - 871
+  - 1245
+  - 1309
+  - 1866
+  relatedProfiles:
+  - 2638
+  - 4321
+  additionalImages: 
+slug: double-dribble
+releaseInfo:
+  catalogId: NES-DW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DW-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 463')"
+    filename: /images/175/8324fb8a7179bb5f29b7966c858745ae.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-DW-1 PRG
+  size: 128 KB
+  crc32: D0E96F6B
+  x: 5
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8738 - 8932 (5)
+  estFirstRun: September 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

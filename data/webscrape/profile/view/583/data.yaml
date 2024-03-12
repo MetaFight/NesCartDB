@@ -1,0 +1,117 @@
+metadata:
+  name: Shinobi
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 03:18:00
+  moreProfiles:
+  - 583
+  - 4240
+  relatedProfiles: []
+  additionalImages: 
+slug: shinobi
+releaseInfo:
+  catalogId: TGN-010-SH
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Sega
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ffe9c54150052c83f70ddd3491a38b3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335010-1011 SHPRG
+  size: 128 KB
+  crc32: DC270779
+  x: 2
+- type: CHR0
+  label: 335010-1012 SHCHR
+  size: 128 KB
+  crc32: AAE9F037
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EB0BDA7E
+  x: 2
+pcbProperties:
+  name: 800032 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0e8432d7b82e9c52d459d3ab14fc51b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 323')"
+    filename: /images/175/3067f9631a297e88bc7dbb264c92fbee.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8943
+  estFirstRun: October 1989
+  pcbClass: TENGEN-800032
+  inesMapper: 64
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006, 74xx32
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: RAMBO 1
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8935
+  dateCodeSuffix: F836332R
+  std: 8935
+  misc: NCR0381301
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8939
+  dateCodeSuffix: ZKXAD
+  std: 8939
+  misc: 

@@ -1,0 +1,107 @@
+metadata:
+  name: Satsujin Club
+  altName: 殺人倶楽部 マーダークラブ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 22:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: satsujin-club
+releaseInfo:
+  catalogId: KKS-RZ (05)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 30, 1989
+  publisher: Seta
+  developer: Riverhill Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KKS-RZ
+  secondaryId: 05
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6207b5467d9a175140d66127facb7dfd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: KKS-RZ-0 PRG
+  size: 128 KB
+  crc32: 3D4D2BA5
+  x: 1
+- type: CHR0
+  label: KKS-RZ-0 CHR
+  size: 128 KB
+  crc32: 67737C6F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3B1A7EEF
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0f86c8351dd297587d3e0e0922cf69f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 3554')"
+    filename: /images/175/e47f7cbfef953cb325053380b2a37efe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8922
+  estFirstRun: June 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 4B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: D
+  std: 8922
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 6B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8922
+  dateCodeSuffix: D
+  std: 8922
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8901
+  dateCodeSuffix: KP
+  std: 8901
+  misc: 

@@ -1,0 +1,134 @@
+metadata:
+  name: Kid Icarus
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-01 06:51:00
+  moreProfiles:
+  - 310
+  - 841
+  - 1197
+  - 1405
+  relatedProfiles:
+  - 2382
+  - 1414
+  - 1975
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab7277f8a43d352ce2a68354c379459b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d8cc84d4d56b3247ec1d311ebddfabf.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/113ba782af761f9d1b17e9b7816b2f59.jpg
+slug: kid-icarus
+releaseInfo:
+  catalogId: NES-KI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 841')"
+    filename: /images/175/5cdea0e573095001d0225c0ae6fc79bf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/872174f8f1c443c95f0c3deb6de2a8bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-KI-0 PRG
+  size: 128 KB
+  crc32: D9F0749F
+  x: 7
+pcbProperties:
+  name: NES-SNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8728 - 8824 (4)
+  estFirstRun: July 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0216
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7J2
+  dateCodeSuffix: A9
+  std: 8738
+  misc: 
+- designation: CHR
+  maker: Fujitsu
+  partNumber: MB8464-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8731
+  dateCodeSuffix: KT85
+  std: 8731
+  misc: BA
+- designation: 
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8716
+  dateCodeSuffix: C
+  std: 8716
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8737
+  dateCodeSuffix: A
+  std: 8737
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8464-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8731
+  dateCodeSuffix: KT85
+  std: 8731
+  misc: BA

@@ -1,0 +1,105 @@
+metadata:
+  name: Door Door
+  altName: ドアドア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 18:48:00
+  moreProfiles:
+  - 1512
+  - 2716
+  relatedProfiles: []
+  additionalImages: 
+slug: door-door
+releaseInfo:
+  catalogId: EFC-DR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 18, 1985
+  publisher: Enix
+  developer: Chunsoft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: EFC-DR
+  backLabelId/Desc: Green Text
+  2-DigitCode: 33
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ac3f8eba62d49aefface15c97161d44.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 021193B2
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: AE41CFEF
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 12E6CB79
+  x: 2
+pcbProperties:
+  name: 9011-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6691bcd9925bf2086e73f06859d63afa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a75038af58fce3eb60a49fc18705c44d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GDR
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 088B296B
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

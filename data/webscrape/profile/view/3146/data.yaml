@@ -1,0 +1,111 @@
+metadata:
+  name: Batman
+  altName: バットマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-17 22:39:00
+  moreProfiles:
+  - 3145
+  - 3146
+  relatedProfiles:
+  - 2434
+  - 1421
+  - 2054
+  - 1904
+  - 165
+  additionalImages: 
+slug: batman
+releaseInfo:
+  catalogId: SUN-BAT-6200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1989
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3145')"
+    filename: /images/175/17bc8387c97ce7021a9c83365951a283.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1543')"
+    filename: /images/175/1d12161ff991b0be73d0eade3d38fd39.jpg
+romDetails:
+- type: PRG0
+  label: PRG-BAT
+  size: 128 KB
+  crc32: 094AFAB5
+  x: 2
+- type: CHR0
+  label: BAT-CHR
+  size: 128 KB
+  crc32: F3B41C18
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4D7859A9
+  x: 2
+pcbProperties:
+  name: BAT-E301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BAT-E301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0db9c13cb81829ea6151d28dce5bedcb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BAT-E301<br>Submitted by: bootgod<br>Linked from profile 3145')"
+    filename: /images/175/2df1f4543685d0d4d942e3f8b003ee58.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8944 - 8944 (2)
+  estFirstRun: November 1989
+  pcbClass: SUNSOFT-5A
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-5A
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 6450
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9K3
+  dateCodeSuffix: 72
+  std: 8942
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: E
+  std: 8944
+  misc: 
+- designation: 
+  maker: _UnkAMS
+  partNumber: SUNSOFT-5A
+  partNumberSubDetail: 
+  type: Sunsoft-5
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9X
+  dateCodeSuffix: 0164B
+  std: 8939
+  misc: 6630

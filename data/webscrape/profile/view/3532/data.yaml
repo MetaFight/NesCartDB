@@ -1,0 +1,121 @@
+metadata:
+  name: 'SD Gundam Gachapon Senshi 3: Eiyuu Senki'
+  altName: ＳＤガンダ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-28 04:32:00
+  moreProfiles:
+  - 1477
+  - 3530
+  - 3531
+  - 3532
+  relatedProfiles: []
+  additionalImages: 
+slug: sd-gundam-gachapon-senshi-3-eiyuu-senki
+releaseInfo:
+  catalogId: SHI-3G
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 22, 1990
+  publisher: Yutaka
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Blue-Grey
+  formFactor: Small
+  frontLabelId: SHI-3G
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1477')"
+    filename: /images/175/5b3fc609c1097c4601dfe1e58fc1769b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-3G-0 PRG
+  size: 128 KB
+  crc32: 66B2DEC7
+  x: 4
+- type: CHR0
+  label: SHI-3G-0 CHR
+  size: 128 KB
+  crc32: B86E4C1E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1066B66D
+  x: 4
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d13313ff0ad268bdd5ef412a60b98490.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9044 - 9111 (4)
+  estFirstRun: November 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 27
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: E
+  std: 9111
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: P3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9111
+  dateCodeSuffix: E
+  std: 9111
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: 3 DA
+  std: 9102
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 

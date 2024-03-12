@@ -1,0 +1,123 @@
+metadata:
+  name: 'Code Name: Viper'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 22:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4756
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-VP-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e7882990f292d391edcd4f3c6d9b7da3.jpg
+slug: code-name-viper
+releaseInfo:
+  catalogId: NES-VP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VP-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6ec785837b547ed737ecd586250fba7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd7b9726b488f906d496351ab94802de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VP-0 PRG
+  size: 128 KB
+  crc32: 1253EA03
+  x: 1
+- type: CHR0
+  label: NES-VP-0 CHR
+  size: 128 KB
+  crc32: B93125DA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E2313813
+  x: 1
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/588eebbc4f3e973ffbf500ddbab078f6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9006
+  estFirstRun: February 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R76
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9003
+  dateCodeSuffix: EX712
+  std: 9003
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T79
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9003
+  dateCodeSuffix: EY716
+  std: 9003
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9004
+  dateCodeSuffix: 7 AA
+  std: 9004
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9006
+  dateCodeSuffix: KP042
+  std: 9006
+  misc: 

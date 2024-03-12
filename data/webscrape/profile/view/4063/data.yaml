@@ -1,0 +1,109 @@
+metadata:
+  name: Gyro
+  altName: ジャイロ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:47:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1286
+  - 4423
+  - 4542
+  - 266
+  additionalImages: 
+slug: gyro
+releaseInfo:
+  catalogId: HVC-GY
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 13, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: R. O. B.,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-GY
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5cc4deebb23ed3aeb19f9559a681fb23.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 21B099F3
+  x: 10
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: D0135A78
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 023A5A32
+  x: 10
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32d54fd107825a0509262d81d1f6f8cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3376')"
+    filename: /images/175/a9cbe6ee6c764c7058c51f0924fd3029.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8531
+  estFirstRun: August 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-GY
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 58
+  dateCodeSuffix: 04
+  std: 8531
+  misc: 0H-96
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

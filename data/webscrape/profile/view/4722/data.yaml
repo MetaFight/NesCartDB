@@ -1,0 +1,141 @@
+metadata:
+  name: The Chessmaster
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2014-05-10 16:45:00
+  moreProfiles:
+  - 371
+  - 864
+  - 4722
+  relatedProfiles:
+  - 982
+  - 2119
+  - 2476
+  - 1984
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-EM-USA *<br>Submitted by: bootgod<br>Linked from profile 864')"
+    filename: /images/175/c03501f0c35ac27bad5b5cfc3a7bc474.jpg
+slug: the-chessmaster
+releaseInfo:
+  catalogId: NES-EM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Hi Tech Expressions
+  developer: The Software Toolworks
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 371')"
+    filename: /images/175/46e429500ed1afe665c02e25a0ce88da.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 864')"
+    filename: /images/175/b14e113bde30a45ee28d58eb2d926878.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-EM-1 PRG
+  size: 128 KB
+  crc32: F512D742
+  x: 1
+- type: CHR0
+  label: NES-EM-0 CHR
+  size: 32 KB
+  crc32: DDCFE401
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 19F4CA6B
+  x: 1
+pcbProperties:
+  name: NES-SJROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SJROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fcc124d2b5d3499ef466e06df58b1d18.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SJROM-03<br>Submitted by: Kinopio<br>Linked from profile 2119')"
+    filename: /images/175/533e8e625e8d96b22d606eca5484a74d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002 - 9223 (3)
+  estFirstRun: January 1990
+  pcbClass: NES-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6653
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2FC
+  dateCodeSuffix: K0 N
+  std: 9223
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2847
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 1JC
+  dateCodeSuffix: 10
+  std: 9136
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: 7 BB
+  std: 9219
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9223
+  dateCodeSuffix: 1 A 170
+  std: 9223
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9215
+  dateCodeSuffix: KT30
+  std: 9215
+  misc: 

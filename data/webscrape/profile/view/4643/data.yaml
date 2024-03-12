@@ -1,0 +1,121 @@
+metadata:
+  name: Castelian
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-24 02:17:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1942
+  - 668
+  additionalImages: 
+slug: castelian
+releaseInfo:
+  catalogId: NES-4C-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Storm
+  developer: Hewson
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/b9567a370ada342627ae7582e91aff0f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CASTELIAN 2/4/92 CHK$985A
+  size: 128 KB
+  crc32: CF7CA9BD
+  x: 2
+pcbProperties:
+  name: NES-UNEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-UNEPROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3197A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: IC3 LS161
+  maker: Harris
+  partNumber: CD74HC161E
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9043
+  dateCodeSuffix: H
+  std: 9043
+  misc: 
+- designation: IC5 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9223
+  dateCodeSuffix: A
+  std: 9223
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9144
+  dateCodeSuffix: ''
+  std: 9144
+  misc: 00017EE0
+- designation: 
+  maker: Hyundai
+  partNumber: HY6264ALP-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: T
+  std: 9144
+  misc: 
+- designation: LS32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

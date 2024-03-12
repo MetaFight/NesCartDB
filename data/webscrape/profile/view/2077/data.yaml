@@ -1,0 +1,135 @@
+metadata:
+  name: The Legend of Zelda
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-08-18 05:54:00
+  moreProfiles:
+  - 1434
+  - 2077
+  - 2078
+  - 4396
+  relatedProfiles:
+  - 2126
+  - 4270
+  - 1420
+  - 3948
+  - 1921
+  - 173
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b3440bd238a0ead840fc69d5ef37355b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8ecb570266dc1ea6ee56564222cd7366.jpg
+slug: the-legend-of-zelda
+releaseInfo:
+  catalogId: NES-ZL-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: November 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: PAL-ZL
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2ad2ab8e464b1891375f29e18b30f83b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ccd1c2432886de01fe855f49b01031cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/06ead11016bc306e71960832d031410a.jpg
+romDetails:
+- type: PRG0
+  label: PAL-ZL-0 PRG
+  size: 128 KB
+  crc32: ED7F5555
+  x: 2
+pcbProperties:
+  name: NES-SNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8739 - 9028 (4)
+  estFirstRun: September 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 2J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8752
+  dateCodeSuffix: E
+  std: 8752
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8752
+  dateCodeSuffix: 1 D
+  std: 8752
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8744
+  dateCodeSuffix: A
+  std: 8744
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8751
+  dateCodeSuffix: A
+  std: 8751
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8752
+  dateCodeSuffix: 1 D
+  std: 8752
+  misc: 

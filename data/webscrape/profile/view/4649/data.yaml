@@ -1,0 +1,117 @@
+metadata:
+  name: Exploding Fist
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2012-04-24 04:15:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: exploding-fist
+releaseInfo:
+  catalogId: UNR-EF-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Tradewest
+  developer: Beam Software
+  players: 3
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/7881705df27a286c8433e593375e3357.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/ce0c42a9ff1f09e8f14ff801b8d607e3.jpg
+romDetails:
+- type: PRG0
+  label: FIST PROM 22/5/90
+  size: 32 KB
+  crc32: 1C63E706
+  x: 1
+- type: CHR0
+  label: FIST GROM 22/5/90
+  size: 32 KB
+  crc32: 4A4DCC7E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 1C31DD60
+  x: 1
+pcbProperties:
+  name: NES-CN-ROM-256-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-04<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/9cb6fc54b4b65e0883d44cd8f03bb4e3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-04<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/b28a50ede1ef85ee1f2e6f714d087f32.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: General Instrument
+  partNumber: 27256-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: HG8
+  std: 8819
+  misc: 
+- designation: CHR ROM
+  maker: Intel
+  partNumber: D27256-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 841
+  dateCodeSuffix: K
+  std: 8841
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8749
+  dateCodeSuffix: A
+  std: 8749
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8746
+  dateCodeSuffix: CA
+  std: 8746
+  misc: 

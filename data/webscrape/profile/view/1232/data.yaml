@@ -1,0 +1,124 @@
+metadata:
+  name: Goal! Two
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-11 03:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4424
+  - 2042
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-GT-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/45f0a83dfcf2505de2a12bd5e65f0cfb.jpg
+slug: goal-two
+releaseInfo:
+  catalogId: NES-GT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1992
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GT-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/155765218e0d18dbbcdfe424d7f6a0e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0de02d2f143a71371c14174967f2c497.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-GT-0 PRG
+  size: 128 KB
+  crc32: 7262843C
+  x: 1
+- type: CHR0
+  label: NES-GT-0 CHR
+  size: 128 KB
+  crc32: 2DDAE847
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 90C773C1
+  x: 1
+pcbProperties:
+  name: NES-TLSROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLSROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b9c90af9272e23fed6f68c38524f1894.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLSROM-01<br>Submitted by: Kinopio<br>Linked from profile 4424')"
+    filename: /images/175/ca9edf1fb4297830947da40e2edaa846.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9243
+  estFirstRun: October 1992
+  pcbClass: NES-TLSROM
+  inesMapper: 118
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: G0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9243
+  dateCodeSuffix: E
+  std: 9243
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 7L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9243
+  dateCodeSuffix: D
+  std: 9243
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9233
+  dateCodeSuffix: 3 BB
+  std: 9233
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9217
+  dateCodeSuffix: 1 T
+  std: 9217
+  misc: 

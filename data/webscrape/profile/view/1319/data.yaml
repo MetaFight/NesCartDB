@@ -1,0 +1,80 @@
+metadata:
+  name: Super C
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:48:00
+  moreProfiles:
+  - 128
+  - 459
+  - 857
+  - 1319
+  relatedProfiles:
+  - 2035
+  additionalImages: 
+slug: super-c
+releaseInfo:
+  catalogId: NES-UE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UE-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 857')"
+    filename: /images/175/af370a4edcb6f7a3388d6a5acb4f3e0f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: polarz<br>Linked from profile 459')"
+    filename: /images/175/8dd3580cad47e2e6a75817b7682ce6c9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: RD023N0.2P
+  size: 128 KB
+  crc32: C7FBECC3
+  x: 5
+- type: CHR0
+  label: RD023N0.1C
+  size: 128 KB
+  crc32: 153295C1
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 305B4E62
+  x: 5
+pcbProperties:
+  name: 352026
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9006 - 9008 (2)
+  estFirstRun: February 1990
+  pcbClass: KONAMI-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC3B
+detailedChipInfo: []

@@ -1,0 +1,121 @@
+metadata:
+  name: 'Home Run Nighter: Pennant League!!'
+  altName: ホームランナイター ペナントリーグ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-21 22:06:00
+  moreProfiles:
+  - 3573
+  - 3574
+  - 3575
+  - 3680
+  relatedProfiles: []
+  additionalImages: 
+slug: home-run-nighter-pennant-league
+releaseInfo:
+  catalogId: DFC-YQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 31, 1989
+  publisher: Data East
+  developer: Data East
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow Green
+  formFactor: Small
+  frontLabelId: DFC-YQ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3573')"
+    filename: /images/175/1611aa33d10f147ac26988c6f2175166.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-YQ-0 PRG
+  size: 128 KB
+  crc32: 52449508
+  x: 4
+- type: CHR0
+  label: DFC-YQ-0 CHR
+  size: 128 KB
+  crc32: FE7D15EE
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3057B904
+  x: 4
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c2882a743280c962959343f522d1b5cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8907 - 8909 (4)
+  estFirstRun: February 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 54
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8909
+  dateCodeSuffix: D
+  std: 8909
+  misc: 
+- designation: U2 W-RAM
+  maker: Sony
+  partNumber: CXK5864BP-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9B
+  dateCodeSuffix: 08
+  std: 8905
+  misc: 
+- designation: U3 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 4B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8909
+  dateCodeSuffix: E
+  std: 8909
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8908
+  dateCodeSuffix: 7 A
+  std: 8908
+  misc: 

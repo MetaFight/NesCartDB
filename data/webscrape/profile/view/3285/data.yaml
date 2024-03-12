@@ -1,0 +1,99 @@
+metadata:
+  name: Exerion
+  altName: エクセリオン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 01:40:00
+  moreProfiles:
+  - 2280
+  - 3008
+  - 3009
+  - 3285
+  - 3760
+  relatedProfiles: []
+  additionalImages: 
+slug: exerion
+releaseInfo:
+  catalogId: JF-01
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 11, 1985
+  publisher: Jaleco
+  developer: Jaleco
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Teal
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2280')"
+    filename: /images/175/27821dd1b4de5475275adb5a020b3e55.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2280')"
+    filename: /images/175/c0c7e9fa6fa54981f75f515c75537199.jpg
+romDetails:
+- type: PRG0
+  label: FC-EX-01
+  size: 16 KB
+  crc32: C86A1F7D
+  x: 5
+- type: CHR0
+  label: FC-EX-01
+  size: 8 KB
+  crc32: 682B3FD8
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: BEB30478
+  x: 5
+pcbProperties:
+  name: JF-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5321884a54468ff4a877013c5d9ad742.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-01<br>Submitted by: bootgod<br>Linked from profile 2280')"
+    filename: /images/175/67a29fab74143d57da750d9caaadad43.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8501 - 8508 (5)
+  estFirstRun: January 1985
+  pcbClass: JALECO-JF-01
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 141P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 507
+  dateCodeSuffix: 10D
+  std: 8507
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 203P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 506
+  dateCodeSuffix: 109
+  std: 8506
+  misc: 

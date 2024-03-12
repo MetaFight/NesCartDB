@@ -1,0 +1,123 @@
+metadata:
+  name: Adventures of Lolo 2
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-11 01:32:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1849
+  - 1876
+  - 3419
+  additionalImages: 
+slug: adventures-of-lolo-2
+releaseInfo:
+  catalogId: NES-A4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-A4-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/956153274fec2da1789e974067a28d77.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/24d3bc734d8e305a0cb3ccc07eeb7ce5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-A4-0 PRG
+  size: 32 KB
+  crc32: 937ABA88
+  x: 1
+- type: CHR0
+  label: NES-A4-0 CHR
+  size: 32 KB
+  crc32: 4AF6DED6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 1992D163
+  x: 1
+pcbProperties:
+  name: NES-TEROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TEROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f81a3c8cc4bf5e5b18ebdddf1234cde.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TEROM-03<br>Submitted by: Kinopio<br>Linked from profile 1849')"
+    filename: /images/175/ff535ea46ae757f31a52d10cffaa4d09.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9003
+  estFirstRun: January 1990
+  pcbClass: NES-TEROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2864
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0A3
+  dateCodeSuffix: 24
+  std: 9003
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2865
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0A2
+  dateCodeSuffix: 12
+  std: 9002
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9002
+  dateCodeSuffix: 3 AA
+  std: 9002
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9002
+  dateCodeSuffix: 3 T
+  std: 9002
+  misc: 

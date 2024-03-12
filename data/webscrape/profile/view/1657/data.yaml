@@ -1,0 +1,100 @@
+metadata:
+  name: Clu Clu Land
+  altName: クルクルランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 20:41:00
+  moreProfiles:
+  - 1490
+  - 1657
+  - 2213
+  relatedProfiles:
+  - 2057
+  - 984
+  - 366
+  additionalImages: 
+slug: clu-clu-land
+releaseInfo:
+  catalogId: HVC-CL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 22, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: HVC-CL
+  backLabelId/Desc: 831018
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2213')"
+    filename: /images/175/a154df5adb57740066bfe01b1051eed7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-CL-0 PRG
+  size: 16 KB
+  crc32: 23A60A62
+  x: 7
+- type: CHR0
+  label: HVC-CL-0 CHR
+  size: 8 KB
+  crc32: A63B8B98
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 48F68D40
+  x: 7
+pcbProperties:
+  name: HVC-RROM-05S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0d17533b04c490082e5d0b38332de9a6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 3492')"
+    filename: /images/175/52e90c72ee82e2d0a1ca3d8d4616badc.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8444 - 8503 (3)
+  estFirstRun: November 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C128
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8449
+  dateCodeSuffix: KX
+  std: 8449
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0056
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 51B
+  dateCodeSuffix: 5
+  std: 8503
+  misc: 

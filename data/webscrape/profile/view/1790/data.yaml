@@ -1,0 +1,105 @@
+metadata:
+  name: Mappy-Land
+  altName: マッピーランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 20:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mappy-land
+releaseInfo:
+  catalogId: NAM-ML-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 26, 1986
+  publisher: Namco
+  developer: Namco
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f14502c4a5f7a38a38a897146f7f576.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e6cd4771c6cac94fc1beb896ed13c221.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a691d34a73b3fb64bbd9723f2d8eaea.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT ML PRG
+  size: 128 KB
+  crc32: 15BE6E58
+  x: 1
+- type: CHR0
+  label: NAMCOT ML CHR
+  size: 32 KB
+  crc32: 7F107D71
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 2E563C66
+  x: 1
+pcbProperties:
+  name: 3415
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3415<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/01eea5d67299421e33e72a811ed8e8dd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3415<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c21cf4a883f111b30240bb98152f458.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8644
+  estFirstRun: November 1986
+  pcbClass: NAMCOT-3415
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: P
+  maker: Toshiba
+  partNumber: TC531000P
+  partNumberSubDetail: 4730
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8644
+  dateCodeSuffix: EBI
+  std: 8644
+  misc: 
+- designation: C
+  maker: Toshiba
+  partNumber: TC53257P
+  partNumberSubDetail: 4729
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8644
+  dateCodeSuffix: EBI
+  std: 8644
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8639
+  dateCodeSuffix: B
+  std: 8639
+  misc: 

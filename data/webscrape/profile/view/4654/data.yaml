@@ -1,0 +1,123 @@
+metadata:
+  name: Tsuppari Wars
+  altName: つっぱりウォーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:00:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7349e26e0bfc8c305c1ea4ce4db9a07f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d8358d269b74c431ba785e4339a62f6.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e1d2ea31c7f57091f2a7b69558c4ae3.jpg
+slug: tsuppari-wars
+releaseInfo:
+  catalogId: SAC-7W
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 28, 1991
+  publisher: Sammy
+  developer: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SAC-7W
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d66a1369b6911ec065d6af7b35fb0840.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: SAC-7W-0 PRG
+  size: 128 KB
+  crc32: D54F5DA9
+  x: 1
+- type: CHR0
+  label: SAC-7W-0 CHR
+  size: 128 KB
+  crc32: C9BAC5D2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 972D08C5
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/965b2657d269fb988535b4862cacefc2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 3459')"
+    filename: /images/175/7626a4d83d7a9f45742ab1e7a2b46085.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9122
+  estFirstRun: June 1991
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NSK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1
+  dateCodeSuffix: 53
+  std: 9122
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NSL
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1
+  dateCodeSuffix: 52
+  std: 9121
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9122
+  dateCodeSuffix: 3 AA
+  std: 9122
+  misc: 
+- designation: U4 W-RAM
+  maker: Sanyo
+  partNumber: LC3564PL-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 07
+  dateCodeSuffix: 128
+  std: 9027
+  misc: 

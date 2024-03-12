@@ -1,0 +1,128 @@
+metadata:
+  name: 'Megami Tensei II: Digital Devil Story'
+  altName: 女神転生Ⅱ　デジタルデビル物語
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-23 01:49:00
+  moreProfiles:
+  - 1605
+  - 2673
+  relatedProfiles: []
+  additionalImages: 
+slug: megami-tensei-ii-digital-devil-story
+releaseInfo:
+  catalogId: NAM-FMT-7800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 6, 1990
+  publisher: Namco
+  developer: Atlus
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b987f272006b13f0d4ee414afcd112a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/651716ecdc1711fd148d556ec445f6c9.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 1294AB5A
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: B41EE15A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 96773F32
+  x: 2
+pcbProperties:
+  name: 60-21
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-21<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/866700c8e78e820f64d572d65680be08.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-21<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad3780659348e2f5231ea6211817c4aa.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9009 - 9010 (2)
+  estFirstRun: March 1990
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FMT
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 010
+  dateCodeSuffix: K07
+  std: 9010
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

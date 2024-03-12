@@ -1,0 +1,117 @@
+metadata:
+  name: Hottaaman no Chitei Tanken
+  altName: ホッターマンの地底探検
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 21:09:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hottaaman-no-chitei-tanken
+releaseInfo:
+  catalogId: USE-HC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 6, 1986
+  publisher: Use
+  developer: Use
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: USE-HC
+  backLabelId/Desc: 860410
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce9eba0100ab2cda69a0ebd68a3327d0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 586915A7
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 0BD6FD62
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3275FD7E
+  x: 1
+pcbProperties:
+  name: N04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/389722a4bf992b68ed81a728d1d31ff4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>N04<br>Submitted by: bootgod<br>Linked from profile 1496')"
+    filename: /images/175/fa1f98b4d603b263d28b5a635323e0a8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8647
+  estFirstRun: November 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: JHC
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 534
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8647
+  dateCodeSuffix: C
+  std: 8647
+  misc: 

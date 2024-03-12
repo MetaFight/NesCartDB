@@ -1,0 +1,155 @@
+metadata:
+  name: Moero!! Pro Tennis
+  altName: 燃えろ！！プロテニス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 03:32:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4714
+  - 713
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e8b0e9ab9e1dade13f10d43509546400.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0fbf5567ab3ef332260118bed3b2ded.jpg
+slug: moero-pro-tennis
+releaseInfo:
+  catalogId: JF-17
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 15, 1988
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: White
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bc0ce283fbcc6b4c4c5fb669b8cc4677.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4e581336d4c036c749b0c6df9858b47.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 598A7398
+  x: 1
+- type: CHR0
+  label: JF-17 CHR
+  size: 128 KB
+  crc32: 43E86EFA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6C61B622
+  x: 1
+pcbProperties:
+  name: JF-17
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-17<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d67a65247a673c334fa717c52b1b3b2e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-17<br>Submitted by: bootgod<br>Linked from profile 2286')"
+    filename: /images/175/ffbeb67d92bb6f07c888973d75e0b6a9.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8814
+  estFirstRun: April 1988
+  pcbClass: JALECO-JF-17
+  inesMapper: 72
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx174, 74xx174, 74xx32, D7756C
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: D23C1010C
+  partNumberSubDetail: T53
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8809
+  dateCodeSuffix: EX711
+  std: 8809
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: D
+  std: 8814
+  misc: 
+- designation: 161
+  maker: NEC
+  partNumber: D74HC161C
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8746
+  dateCodeSuffix: J7
+  std: 8746
+  misc: 
+- designation: 174
+  maker: NEC
+  partNumber: D74HC174C
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8752
+  dateCodeSuffix: J7
+  std: 8752
+  misc: 
+- designation: 174
+  maker: NEC
+  partNumber: D74HC174C
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8752
+  dateCodeSuffix: J7
+  std: 8752
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8748
+  dateCodeSuffix: T7
+  std: 8748
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D7756C
+  partNumberSubDetail: 186
+  type: ADPCM Speech Chip
+  typeSubDetail: 256 kb
+  package: DIP-18
+  dateCodePrefix: 8808
+  dateCodeSuffix: PY054
+  std: 8808
+  misc: 

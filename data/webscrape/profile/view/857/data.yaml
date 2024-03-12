@@ -1,0 +1,131 @@
+metadata:
+  name: Super C
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 22:57:00
+  moreProfiles:
+  - 128
+  - 459
+  - 857
+  - 1319
+  relatedProfiles:
+  - 2035
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 128')"
+    filename: /images/175/28bb29a3d81ade8bbdb3190ef03a0aa0.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 128')"
+    filename: /images/175/7573264bbdcf4f5e05703e2e91583eed.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-UE-USA<br>Submitted by: bootgod<br>Linked from profile 128')"
+    filename: /images/175/cc9e2c9955ab138f55e95670e41d3d8f.jpg
+slug: super-c
+releaseInfo:
+  catalogId: NES-UE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UE-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af370a4edcb6f7a3388d6a5acb4f3e0f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 128')"
+    filename: /images/175/966982f3159b1d4249173848ce5a546d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-UE-0 PRG
+  size: 128 KB
+  crc32: C7FBECC3
+  x: 5
+- type: CHR0
+  label: NES-UE-0 CHR
+  size: 128 KB
+  crc32: 153295C1
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 305B4E62
+  x: 5
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/522ebac31bccfbe78f9ee790e24a63cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9006 - 9008 (2)
+  estFirstRun: February 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1843
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0BM
+  dateCodeSuffix: R5
+  std: 9007
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: D9
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9008
+  dateCodeSuffix: D
+  std: 9008
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9004
+  dateCodeSuffix: 3 AA
+  std: 9004
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9004
+  dateCodeSuffix: KP002
+  std: 9004
+  misc: 

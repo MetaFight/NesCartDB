@@ -1,0 +1,119 @@
+metadata:
+  name: 'Exodus: Journey to the Promised Land'
+  altName: 
+  variant: (Version 4.0)
+  submittedBy: bootgod
+  submittedOn: 2005-09-04 05:15:00
+  moreProfiles:
+  - 11
+  - 2709
+  - 2921
+  relatedProfiles: []
+  additionalImages: 
+slug: exodus-journey-to-the-promised-land
+releaseInfo:
+  catalogId: WT-EC-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e4987668eb04bac18678435f4798ac67.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2802b7e85d3c27e439b1da228806fe6a.jpg
+romDetails:
+- type: PRG0
+  label: JOURNEY VER 4.0 PRG.
+  size: 128 KB
+  crc32: 3CED963A
+  x: 2
+- type: CHR0
+  label: JOURNEY VER 4.0 VID.
+  size: 128 KB
+  crc32: AB344905
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0AB26DB6
+  x: 2
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2af956bece67643846ceb1e0cb840edc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 959')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9143 - 9148 (2)
+  estFirstRun: October 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9148
+  dateCodeSuffix: FND
+  std: 9148
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: CKD
+  std: 9146
+  misc: 
+- designation: 
+  maker: ST Micro
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9140
+  dateCodeSuffix: 9
+  std: 9140
+  misc: 
+- designation: 
+  maker: Teledyne
+  partNumber: TC7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9144
+  dateCodeSuffix: EH
+  std: 9144
+  misc: 

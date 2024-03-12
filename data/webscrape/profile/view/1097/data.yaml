@@ -1,0 +1,137 @@
+metadata:
+  name: Capcom's Gold Medal Challenge '92
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-11 02:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4072
+  - 1855
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-GM USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b9c174ab1681a020239a8d02199e69f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-GM USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0d7587a87b41c82dfb6cb7abdcd89074.jpg
+slug: capcoms-gold-medal-challenge-92
+releaseInfo:
+  catalogId: NES-GM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 8
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6079c9a8d809199340801f6131cd1204.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf4d2767fe1d56796f922571cd2b7b23.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-GM-0 PRG
+  size: 128 KB
+  crc32: 6A5ABFAC
+  x: 1
+- type: CHR0
+  label: NES-GM-0 CHR
+  size: 128 KB
+  crc32: 3F092CDF
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BE250388
+  x: 1
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a3d69e7e5452d1b6ae79971e10db4146.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9226
+  estFirstRun: June 1992
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: C4
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9226
+  dateCodeSuffix: E
+  std: 9226
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 2Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9226
+  dateCodeSuffix: D
+  std: 9226
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 216
+  dateCodeSuffix: C
+  std: 9216
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9214
+  dateCodeSuffix: EP004
+  std: 9214
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9217
+  dateCodeSuffix: KT42
+  std: 9217
+  misc: 

@@ -1,0 +1,104 @@
+metadata:
+  name: Spartan X 2
+  altName: スパルタンＸ２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 04:10:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: spartan-x-2
+releaseInfo:
+  catalogId: IF-23
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 27, 1991
+  publisher: Irem
+  developer: Tamtex
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Red
+  formFactor: New Style
+  frontLabelId: IF-23
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c3233c9b5ae041ea7e3336e8944236f1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9daa5641eedd3fbea6d3b4afa79684b.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: D202612B
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 5D89A3DA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6F6686B0
+  x: 1
+pcbProperties:
+  name: FC-00-017B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-017B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b45c4db5b4e10e60fb56433d1ce7afbd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-017B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/805f4caa86335db90f8abf7878642c86.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9136
+  estFirstRun: September 1991
+  pcbClass: IREM-H3001
+  inesMapper: 65
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: IF-H3001
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W36
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: K2002
+  std: 9136
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W37
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: K9725
+  std: 9136
+  misc: 
+- designation: H3001
+  maker: NEC
+  partNumber: IF-H3001
+  partNumberSubDetail: 
+  type: Irem H3001
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9129
+  dateCodeSuffix: K5004
+  std: 9129
+  misc: 

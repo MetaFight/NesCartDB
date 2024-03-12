@@ -1,0 +1,120 @@
+metadata:
+  name: 'Vice: Project Doom'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-18 02:38:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: vice-project-doom
+releaseInfo:
+  catalogId: NES-9G-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1991
+  publisher: Sammy
+  developer: Aicom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-9G-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d5355e29fa938ae461b3014c96b83f28.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1c5432e290e729a6cdc290385a685c72.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-9G-0 PRG
+  size: 128 KB
+  crc32: 16192BF2
+  x: 1
+- type: CHR0
+  label: NES-9G-0 CHR
+  size: 128 KB
+  crc32: 02997F14
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 753768A6
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce49590bca42bde5422b1a33c7fa56a0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9139
+  estFirstRun: September 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J602
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: EAI
+  std: 9136
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC531003CP
+  partNumberSubDetail: J603
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9136
+  dateCodeSuffix: EAI
+  std: 9136
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9049
+  dateCodeSuffix: 1 AB
+  std: 9049
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9139
+  dateCodeSuffix: 3 AB
+  std: 9139
+  misc: 

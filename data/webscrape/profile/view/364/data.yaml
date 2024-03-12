@@ -1,0 +1,120 @@
+metadata:
+  name: 'The King of Kings:  The Early Years'
+  altName: 
+  variant: (Version 1.2)
+  submittedBy: bootgod
+  submittedOn: 2006-01-25 05:56:00
+  moreProfiles:
+  - 364
+  - 678
+  - 1607
+  - 4772
+  relatedProfiles: []
+  additionalImages: 
+slug: the-king-of-kings-the-early-years
+releaseInfo:
+  catalogId: WT-KK-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/82a13cfec8cbbb90b86e75c985cb1304.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1239')"
+    filename: /images/175/0afa387af9c5dc8794c967fba4f0e30e.jpg
+romDetails:
+- type: PRG0
+  label: KING VER 1.2 PRG.
+  size: 128 KB
+  crc32: 10B6AFF0
+  x: 1
+- type: CHR0
+  label: KING VER 1.2 VID.
+  size: 128 KB
+  crc32: 3272BFD1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 560BF5A6
+  x: 1
+pcbProperties:
+  name: 196A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>196A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a10d95b4834b27e4cef43d2ebbfdfc23.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>196A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80fce91cb16ec56e25ecc884a99ad457.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9131 - 9143 (3)
+  estFirstRun: August 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9131
+  dateCodeSuffix: UHF
+  std: 9131
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9131
+  dateCodeSuffix: WJF
+  std: 9131
+  misc: 
+- designation: 
+  maker: ST Micro
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9127
+  dateCodeSuffix: 9
+  std: 9127
+  misc: 
+- designation: 
+  maker: Linear Tech
+  partNumber: LTC1044-CN8
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9025
+  dateCodeSuffix: ''
+  std: 9025
+  misc: 

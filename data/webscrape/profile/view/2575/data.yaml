@@ -1,0 +1,130 @@
+metadata:
+  name: The Black Bass
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 04:57:00
+  moreProfiles:
+  - 53
+  - 2575
+  - 835
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-BO USA<br>Submitted by: bootgod<br>Linked from profile 835')"
+    filename: /images/175/9f80800cf1096a54b2c3a3a3eb903522.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-BO USA<br>Submitted by: bootgod<br>Linked from profile 835')"
+    filename: /images/175/d753e2aadbf0d4592f99fe52959748d3.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-BO-USA<br>Submitted by: bootgod<br>Linked from profile 835')"
+    filename: /images/175/6a80f356d7160839f1eef085e8e57949.jpg
+slug: the-black-bass
+releaseInfo:
+  catalogId: NES-BO-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: HOT?B
+  developer: Another
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BO-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 53')"
+    filename: /images/175/57f5ecf17b431af591574f735a4f90bb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 53')"
+    filename: /images/175/6ab5c0fc42e9f2e3b04f9a0f3d7426e7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-BO-0 PRG
+  size: 128 KB
+  crc32: 1D0F4D6B
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8941 - 9223 (3)
+  estFirstRun: October 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5478
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2FC
+  dateCodeSuffix: 47
+  std: 9223
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: EJ
+  std: 9219
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: 7 CB
+  std: 9219
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9205
+  dateCodeSuffix: ''
+  std: 9205
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9213
+  dateCodeSuffix: ''
+  std: 9213
+  misc: 

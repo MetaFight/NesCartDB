@@ -1,0 +1,138 @@
+metadata:
+  name: Family BASIC
+  altName: ファミリーベーシック
+  variant: (Revision A1)
+  submittedBy: bootgod
+  submittedOn: 2009-07-31 04:24:00
+  moreProfiles:
+  - 3167
+  - 3810
+  - 4737
+  relatedProfiles:
+  - 4028
+  - 4622
+  additionalImages: 
+slug: family-basic
+releaseInfo:
+  catalogId: HVC-BS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 21, 1984
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: Family Keyboard,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Family Basic
+  frontLabelId: Not Present
+  backLabelId/Desc: 840315
+  revision: A1
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3167')"
+    filename: /images/175/dc4a1f50525a77ded36980ee0a847b49.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3167')"
+    filename: /images/175/bc166f9cd64d9c9703aad595efab7a5a.jpg
+romDetails:
+- type: PRG1
+  label: HVC-FB1-2 B
+  size: 16 KB
+  crc32: 9FBFB6BA
+  x: 1
+- type: PRG0
+  label: HVC-FB1-2 A
+  size: 16 KB
+  crc32: 1048E43D
+  x: 1
+- type: CHR0
+  label: HVC-FB1-0 C
+  size: 8 KB
+  crc32: 11848B93
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 895037BC
+  x: 1
+pcbProperties:
+  name: FB-N-128-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8431 - 8442 (3)
+  estFirstRun: August 1984
+  pcbClass: HVC-FAMILYBASIC
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: Yes
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx20
+detailedChipInfo:
+- designation: IC1 WORKING RAM
+  maker: Fujitsu
+  partNumber: MB8416A-15-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: SDIP-24
+  dateCodePrefix: 8432
+  dateCodeSuffix: G17
+  std: 8432
+  misc: 
+- designation: IC2 PROGRAM ROM-A 128K
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1246
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 437
+  dateCodeSuffix: VA 4415
+  std: 8437
+  misc: RP23128 0541
+- designation: IC3 PROGRAM ROM-B 128K
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1247
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 437
+  dateCodeSuffix: VA 4391
+  std: 8437
+  misc: RP23128 0542
+- designation: IC4 LS20
+  maker: Toshiba
+  partNumber: TC74HC20P
+  partNumberSubDetail: 
+  type: 74-20 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8431
+  dateCodeSuffix: H
+  std: 8431
+  misc: 
+- designation: IC5 CHARACTER ROM-C 64K
+  maker: Ricoh
+  partNumber: RP2D70
+  partNumberSubDetail: 0032
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4K3
+  dateCodeSuffix: 24
+  std: 8442
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: Contra
+  altName: コントラ　魂斗羅
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 06:03:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: contra
+releaseInfo:
+  catalogId: KON-RC826
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 9, 1988
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC826
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/878913c21807cf66e8f2d2b4f4566cd0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f31630c1f72f34a570850b048455054.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 919AC0FE
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: C6172032
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B27B8CF4
+  x: 1
+pcbProperties:
+  name: LROG009-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG009-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5485a5a5d6da445a848e17bdf7fde172.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG009-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/170e3c2bb87b38e527bc8393d66a613c.jpg
+  pcbProducer: Konami
+  manufacturer: Sharp
+  mfgRange: 8804
+  estFirstRun: January 1988
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: 826J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8804
+  dateCodeSuffix: 7
+  std: 8804
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EPVRC2
+  type: Konami VRC II
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

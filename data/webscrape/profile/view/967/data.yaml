@@ -1,0 +1,97 @@
+metadata:
+  name: Wally Bear and the No! Gang
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 23:52:00
+  moreProfiles:
+  - 967
+  - 3001
+  relatedProfiles: []
+  additionalImages: 
+slug: wally-bear-and-the-no-gang
+releaseInfo:
+  catalogId: AVE-WB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: AGCI
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5c3c0982e07d3f8c615f3b7878027aa7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4dda2edb07e561d3f95087aba547d77.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd994cd4ad8f7c20166933ecd7365229.jpg
+romDetails:
+- type: PRG0
+  label: WALLY BEAR
+  size: 128 KB
+  crc32: 81ECDA0D
+  x: 2
+pcbProperties:
+  name: NINA-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9119 - 9119 (2)
+  estFirstRun: May 1991
+  pcbClass: AVE-NINA-07
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: GoldStar
+  partNumber: GM76C88-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: I20
+  dateCodeSuffix: ''
+  std: 8920
+  misc: 
+- designation: U2
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9119
+  dateCodeSuffix: NEF
+  std: 9119
+  misc: 
+- designation: U4
+  maker: SGS
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8622
+  dateCodeSuffix: 9
+  std: 8622
+  misc: 

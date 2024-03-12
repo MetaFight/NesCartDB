@@ -1,0 +1,98 @@
+metadata:
+  name: Field Combat
+  altName: フィールドコンバット
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-08 05:42:00
+  moreProfiles:
+  - 3025
+  - 3026
+  - 3027
+  - 4583
+  relatedProfiles: []
+  additionalImages: 
+slug: field-combat
+releaseInfo:
+  catalogId: JF-04
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 9, 1985
+  publisher: Jaleco
+  developer: Jaleco
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Green
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3025')"
+    filename: /images/175/11f6eccb81c91b614d98f74b01d8ae19.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3025')"
+    filename: /images/175/a4970c4d5e5f988fe84dc4e4a88ab9a2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: E90D4A9F
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 0E060C68
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 1B45A73E
+  x: 3
+pcbProperties:
+  name: JF
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/141c3f19d0e151ca6104c6c9c327e16a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8524 - 8529 (4)
+  estFirstRun: June 1985
+  pcbClass: JALECO-JF-04
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: NEC
+  partNumber: D23128EC
+  partNumberSubDetail: 159
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: K9
+  std: 8528
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: D2364EC
+  partNumberSubDetail: 211
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: X7
+  std: 8528
+  misc: 

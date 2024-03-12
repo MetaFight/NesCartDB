@@ -1,0 +1,107 @@
+metadata:
+  name: Meikyuu Jima
+  altName: 迷宮島
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 03:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4381
+  - 4547
+  - 692
+  additionalImages: 
+slug: meikyuu-jima
+releaseInfo:
+  catalogId: IF-18
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 29, 1990
+  publisher: Irem
+  developer: Irem
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: White
+  formFactor: New Style
+  frontLabelId: IF-18
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dea68c5cc796c2c878a8bf75b79acd00.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f54c23ea3b3735ab996362c9819ae880.jpg
+romDetails:
+- type: PRG0
+  label: IREM-PRG-ME
+  size: 128 KB
+  crc32: 788BED9A
+  x: 1
+- type: CHR0
+  label: IREM-CHR-ME
+  size: 128 KB
+  crc32: 4E4557FA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6F5D9B2A
+  x: 1
+pcbProperties:
+  name: FC-00-016
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/528dd5b28459729ccdd49a3c03d4b30d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-016<br>Submitted by: bootgod<br>Linked from profile 2262')"
+    filename: /images/175/54612e86b06d26a5954b3013b3fb96e0.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9019
+  estFirstRun: May 1990
+  pcbClass: IREM-G101
+  inesMapper: 32
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: G-101
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9019
+  dateCodeSuffix: E
+  std: 9019
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 6451
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0DM
+  dateCodeSuffix: 76
+  std: 9016
+  misc: 
+- designation: G-101
+  maker: Mitsubishi
+  partNumber: G-101
+  partNumberSubDetail: 
+  type: Irem G-101
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 007
+  dateCodeSuffix: 101
+  std: 9007
+  misc: 

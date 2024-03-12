@@ -1,0 +1,109 @@
+metadata:
+  name: Family Tennis
+  altName: ファミリーテニス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-20 05:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1816
+  - 3197
+  - 3198
+  - 3199
+  - 3322
+  additionalImages: 
+slug: family-tennis
+releaseInfo:
+  catalogId: NAM-FT-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 11, 1987
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1816')"
+    filename: /images/175/7a30045725c138428c780f45096562cb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1816')"
+    filename: /images/175/480cc4b84478e90cb5f4d42f44551cdc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT FT PRG
+  size: 64 KB
+  crc32: 481608A9
+  x: 5
+- type: CHR0
+  label: NAMCOT FT CHR
+  size: 64 KB
+  crc32: FF1297D8
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: A49253C6
+  x: 5
+pcbProperties:
+  name: 3414
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3414<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eed748bf5efbd8e5845541e6895b4cd3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3414<br>Submitted by: bootgod<br>Linked from profile 1589')"
+    filename: /images/175/10a0918320637301a3124af2d68b6155.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8747 - 8807 (5)
+  estFirstRun: November 1987
+  pcbClass: NAMCOT-3414
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118
+detailedChipInfo:
+- designation: P
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: KX
+  std: 8747
+  misc: 
+- designation: C
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: KX
+  std: 8747
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 7
+  dateCodeSuffix: ''
+  std: 8745
+  misc: 

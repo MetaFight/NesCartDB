@@ -1,0 +1,123 @@
+metadata:
+  name: Pro Sport Hockey
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 02:56:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4290
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-S5-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd7e8c1136c4274466ae11482745c219.jpg
+slug: pro-sport-hockey
+releaseInfo:
+  catalogId: NES-S5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1993
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-S5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa4681db3a1d58c68502d4eb1adc4ad5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3259504fb62eaeda725f17da3ff8f50f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-S5-0 PRG
+  size: 128 KB
+  crc32: 8CE4875E
+  x: 1
+- type: CHR0
+  label: NES-S5-0 CHR
+  size: 128 KB
+  crc32: 07731C55
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 41F9E0AA
+  x: 1
+pcbProperties:
+  name: NES-TLSROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLSROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eec45f72ed761cf22e4474c32dedf7ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLSROM-01<br>Submitted by: Kinopio<br>Linked from profile 4424')"
+    filename: /images/175/ca9edf1fb4297830947da40e2edaa846.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9339
+  estFirstRun: September 1993
+  pcbClass: NES-TLSROM
+  inesMapper: 118
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6741
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3KC
+  dateCodeSuffix: 41
+  std: 9339
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0198
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3KB
+  dateCodeSuffix: 42
+  std: 9339
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9317
+  dateCodeSuffix: 1 CB
+  std: 9317
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9314
+  dateCodeSuffix: 1 B
+  std: 9314
+  misc: 

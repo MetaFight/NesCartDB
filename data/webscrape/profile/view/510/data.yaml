@@ -1,0 +1,141 @@
+metadata:
+  name: Dr. Mario
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-15 05:44:00
+  moreProfiles:
+  - 174
+  - 289
+  - 510
+  - 511
+  - 516
+  - 2855
+  - 1135
+  - 1400
+  - 4689
+  - 4731
+  relatedProfiles:
+  - 1945
+  - 1494
+  - 2465
+  - 1899
+  - 4687
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VU USA<br>Submitted by: bootgod<br>Linked from profile 516')"
+    filename: /images/175/a194fd6cf04beaa5543ac9b3d99761d1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VU USA<br>Submitted by: bootgod<br>Linked from profile 516')"
+    filename: /images/175/745268973ceb56ca05ecfc5762d40627.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-VU-USA<br>Submitted by: bootgod<br>Linked from profile 516')"
+    filename: /images/175/c22520345714d707d41fdeb86da074a7.jpg
+slug: dr-mario
+releaseInfo:
+  catalogId: NES-VU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VU-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 174')"
+    filename: /images/175/012b3f328d527556eb40c2be8e8984e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 289')"
+    filename: /images/175/21360a3ed7d3b803335f162e0a91fadc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VU-0 PRG
+  size: 32 KB
+  crc32: CB02A930
+  x: 12
+- type: CHR0
+  label: NES-VU-0 CHR
+  size: 32 KB
+  crc32: 064D4AB3
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 198C2F41
+  x: 12
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bb84032dd2904e5b10b0b78567bf7484.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9032 - 9118 (6)
+  estFirstRun: August 1990
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2894
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0GM
+  dateCodeSuffix: 42
+  std: 9028
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2895
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0GC
+  dateCodeSuffix: 1R
+  std: 9027
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9034
+  dateCodeSuffix: 7 BA
+  std: 9034
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9036
+  dateCodeSuffix: 3 TA
+  std: 9036
+  misc: 

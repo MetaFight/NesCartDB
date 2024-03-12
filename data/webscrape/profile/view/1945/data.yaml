@@ -1,0 +1,79 @@
+metadata:
+  name: Dr. Mario
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 11:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1494
+  - 2465
+  - 1899
+  - 174
+  - 4687
+  additionalImages: 
+slug: dr-mario
+releaseInfo:
+  catalogId: NES-VU-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: June 27, 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VU-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/bdf14d5eeff779787afc1b5dee56596c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VU-0 PRG
+  size: 32 KB
+  crc32: 6A80DE01
+  x: 4
+- type: CHR0
+  label: NES-VU-0 CHR
+  size: 32 KB
+  crc32: 064D4AB3
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9735D267
+  x: 4
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

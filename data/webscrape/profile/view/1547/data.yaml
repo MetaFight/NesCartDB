@@ -1,0 +1,116 @@
+metadata:
+  name: 'Urusei Yatsura: Lum no Wedding Bell'
+  altName: うる星やつら　ラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-09 03:15:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: urusei-yatsura-lum-no-wedding-bell
+releaseInfo:
+  catalogId: JF-10
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 23, 1986
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Light Orange
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-10
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3c3bd34b2d2284ac73b17608a2ea2091.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ea850db4bd192bc2246a4d976048aa0.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: E63F7D0B
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 6D23E641
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 0DA5E32E
+  x: 1
+pcbProperties:
+  name: JF-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c60a8c0a818dbfb9abf380c1f4fe9c7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/68bfd23653fd3114a57b72464087ca8e.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8640
+  estFirstRun: October 1986
+  pcbClass: JALECO-JF-10
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: OKI
+  partNumber: M38256
+  partNumberSubDetail: BX
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6X
+  dateCodeSuffix: 06
+  std: 8640
+  misc: 
+- designation: CH
+  maker: OKI
+  partNumber: M38256
+  partNumberSubDetail: BY
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6X
+  dateCodeSuffix: 06
+  std: 8640
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 611
+  dateCodeSuffix: 100
+  std: 8611
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC74P
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 638
+  dateCodeSuffix: 1A0
+  std: 8638
+  misc: 

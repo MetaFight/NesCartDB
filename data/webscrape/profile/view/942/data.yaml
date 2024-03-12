@@ -1,0 +1,120 @@
+metadata:
+  name: Thunder & Lightning
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 03:17:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: thunder-lightning
+releaseInfo:
+  catalogId: NES-4T-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Romstar
+  developer: Visco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/84fb59c696f4d8673203ed451264dfa5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/34cbac9980dd70008dd1f6eceaccb2c8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4T-0 PRG
+  size: 128 KB
+  crc32: 7BF67199
+  x: 1
+- type: CHR0
+  label: NES-4T-0 CHR
+  size: 32 KB
+  crc32: A491139B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: D80B44BC
+  x: 1
+pcbProperties:
+  name: NES-GNROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-GNROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42034f9e5b765030d1f1358669939f47.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-GNROM-05<br>Submitted by: Kinopio<br>Linked from profile 2066')"
+    filename: /images/175/c6f0da3ad9300ae8280ebf0cfd87028d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9044
+  estFirstRun: November 1990
+  pcbClass: NES-GNROM
+  inesMapper: 66
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 81
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: E
+  std: 9043
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 9A
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: B
+  std: 9044
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9042
+  dateCodeSuffix: 5 BB
+  std: 9042
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 034
+  dateCodeSuffix: EN
+  std: 9034
+  misc: 

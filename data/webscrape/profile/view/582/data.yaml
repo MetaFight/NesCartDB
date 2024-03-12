@@ -1,0 +1,121 @@
+metadata:
+  name: Batman Returns
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 03:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2064
+  additionalImages: 
+slug: batman-returns
+releaseInfo:
+  catalogId: NES-BX-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1993
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BX-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6e0539856917b2c10ed3fb0e17af84ad.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8dba4516ae66ae824b8bc541e483e6c4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-BX-0 PRG
+  size: 128 KB
+  crc32: 6AF5F21B
+  x: 1
+- type: CHR0
+  label: NES-BX-0 CHR
+  size: 256 KB
+  crc32: 25AD186C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: C247A23D
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc1f869f1364ab86053d75392f706329.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9307
+  estFirstRun: February 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NQW
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 326
+  dateCodeSuffix: 53
+  std: 9307
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN232001
+  partNumberSubDetail: NQX
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 329
+  dateCodeSuffix: 50
+  std: 9307
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9216
+  dateCodeSuffix: 3 BB
+  std: 9216
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9245
+  dateCodeSuffix: EP013
+  std: 9245
+  misc: 

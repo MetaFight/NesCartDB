@@ -1,0 +1,112 @@
+metadata:
+  name: Fighting Golf
+  altName: ファイティングゴルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-13 17:10:00
+  moreProfiles:
+  - 3506
+  - 3507
+  - 3691
+  - 3718
+  relatedProfiles:
+  - 2534
+  - 470
+  additionalImages: 
+slug: fighting-golf
+releaseInfo:
+  catalogId: SFX-FI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 24, 1988
+  publisher: SNK
+  developer: SNK
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime Green
+  formFactor: Small
+  frontLabelId: SFX-FI
+  backLabelId/Desc: 860410
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3506')"
+    filename: /images/175/051163c4c3d3ef3add7951aec35f4b21.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFX-FI-0 PRG
+  size: 128 KB
+  crc32: 12C90991
+  x: 4
+- type: CHR0
+  label: SFX-FI-0 CHR
+  size: 128 KB
+  crc32: 4D3C6798
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8308FED7
+  x: 4
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b8dd7a61ac4376902331a318ae087d23.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8809 - 8814 (4)
+  estFirstRun: March 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 36
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8809
+  dateCodeSuffix: E
+  std: 8809
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NXR
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8
+  dateCodeSuffix: 51
+  std: 8808
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8746
+  dateCodeSuffix: A
+  std: 8746
+  misc: 

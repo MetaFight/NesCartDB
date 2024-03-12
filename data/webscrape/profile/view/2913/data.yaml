@@ -1,0 +1,81 @@
+metadata:
+  name: Super Mario Bros. 3
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 06:39:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1288
+  - 1616
+  - 1872
+  - 1487
+  - 2435
+  - 1897
+  - 5
+  additionalImages: 
+slug: super-mario-bros-3
+releaseInfo:
+  catalogId: NES-UM-GBR
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: August 29, 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UM-GBR
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4723')"
+    filename: /images/175/403594fc30f3818bdc3a66554c0aedfa.jpg
+romDetails:
+- type: PRG0
+  label: PAL-UM-0 PRG
+  size: 256 KB
+  crc32: 80CD1919
+  x: 11
+- type: CHR0
+  label: PAL-UM-0 CHR
+  size: 128 KB
+  crc32: 7970A157
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 1ED5C801
+  x: 12
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3B
+detailedChipInfo: []

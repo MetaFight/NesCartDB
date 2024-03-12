@@ -1,0 +1,112 @@
+metadata:
+  name: Famista '90
+  altName: ファミスタ’９０
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-06 01:06:00
+  moreProfiles:
+  - 1602
+  - 2659
+  - 1830
+  - 3254
+  - 3255
+  - 3256
+  - 3257
+  - 3258
+  relatedProfiles: []
+  additionalImages: 
+slug: famista-90
+releaseInfo:
+  catalogId: NAM-F90-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 19, 1989
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1602')"
+    filename: /images/175/ac0b9a5918af5a52e55adc8aebf75b53.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1602')"
+    filename: /images/175/c6b086780d9ac8adb9d7526c15d84f86.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT F90 PRG
+  size: 128 KB
+  crc32: 429FD177
+  x: 8
+- type: CHR0
+  label: NAMCOT F90 CHR
+  size: 128 KB
+  crc32: 11AEABDB
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0C1792DA
+  x: 8
+pcbProperties:
+  name: 110F0
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>110F0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d4ceff6a05d8b1732831b656aeb1acaa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>110F0<br>Submitted by: bootgod<br>Linked from profile 2303')"
+    filename: /images/175/5570a0f387ef18170790c8aa2f385566.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8946 - 8952 (8)
+  estFirstRun: November 1989
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: P
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 6550
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L2
+  dateCodeSuffix: 71
+  std: 8946
+  misc: 
+- designation: C
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 6551
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L1
+  dateCodeSuffix: 74
+  std: 8945
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 163
+  partNumberSubDetail: 
+  type: Namcot 163
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 8842
+  dateCodeSuffix: Z42
+  std: 8842
+  misc: 

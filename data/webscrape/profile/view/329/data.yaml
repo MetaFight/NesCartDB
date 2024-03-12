@@ -1,0 +1,132 @@
+metadata:
+  name: Track & Field II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-20 06:14:00
+  moreProfiles:
+  - 242
+  - 329
+  - 2762
+  relatedProfiles:
+  - 1944
+  - 1661
+  - 2423
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 242')"
+    filename: /images/175/666366cd3ec1844ea512457e56b03f0f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 242')"
+    filename: /images/175/5003edd53acd7e51e31b9f627cdc40e7.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-F2-USA-1<br>Submitted by: bootgod<br>Linked from profile 242')"
+    filename: /images/175/00e76e4750a9d88a5c06849e8e5f6093.jpg
+slug: track-field-ii
+releaseInfo:
+  catalogId: NES-F2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-F2-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 242')"
+    filename: /images/175/00864cfe237602eb2f47ee86192f1ff8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/493885ffdd6f009dd14d5db6899cf51b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-F2-0 PRG
+  size: 128 KB
+  crc32: 4C25D4F5
+  x: 2
+- type: CHR0
+  label: NES-F2-0 CHR
+  size: 128 KB
+  crc32: 8F0A4755
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 09C083B7
+  x: 2
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3d1576e8ffc43164b0ad03f1b3b28b30.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8909 - 8953 (3)
+  estFirstRun: March 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 39
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8907
+  dateCodeSuffix: D
+  std: 8907
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 3L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8909
+  dateCodeSuffix: D
+  std: 8909
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8909
+  dateCodeSuffix: 3 AA
+  std: 8909
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8909
+  dateCodeSuffix: 3 A
+  std: 8909
+  misc: 

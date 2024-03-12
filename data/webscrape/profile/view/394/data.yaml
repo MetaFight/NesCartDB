@@ -1,0 +1,123 @@
+metadata:
+  name: Snoopy's Silly Sports Spectacular!
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-27 05:09:00
+  moreProfiles:
+  - 394
+  - 1438
+  relatedProfiles:
+  - 3729
+  additionalImages: 
+slug: snoopys-silly-sports-spectacular
+releaseInfo:
+  catalogId: NES-OP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OP-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1438')"
+    filename: /images/175/ea359c72dba55da573b278a72cc87ada.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1438')"
+    filename: /images/175/3043a3d64159500db75c9a927573f560.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-OP-0 PRG
+  size: 128 KB
+  crc32: D383DC94
+  x: 2
+- type: CHR0
+  label: NES-OP-0 CHR
+  size: 128 KB
+  crc32: A3745835
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A8923256
+  x: 2
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2a13f1927463bd6d1fe9d81219ce164f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9016 - 9016 (2)
+  estFirstRun: April 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5407
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0DC
+  dateCodeSuffix: 7B
+  std: 9014
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: D5
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9016
+  dateCodeSuffix: E
+  std: 9016
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9008
+  dateCodeSuffix: 3 CA
+  std: 9008
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9011
+  dateCodeSuffix: 3 AA
+  std: 9011
+  misc: 

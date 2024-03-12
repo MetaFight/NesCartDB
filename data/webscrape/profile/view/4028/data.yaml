@@ -1,0 +1,119 @@
+metadata:
+  name: Family BASIC v3.0
+  altName: ファミリーベーシックＶ３
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 02:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3810
+  - 4622
+  additionalImages: 
+slug: family-basic-v30
+releaseInfo:
+  catalogId: HVC-VT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 21, 1985
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: Family Keyboard,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Maroon
+  formFactor: Family Basic
+  frontLabelId: Not Present
+  backLabelId/Desc: 840315
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ec6aa81ec340233e611cda9a4c232b3c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1db5dc2afb8d9efd8b9481865ffe9de5.jpg
+romDetails:
+- type: PRG0
+  label: HVC-VT-0W
+  size: 32 KB
+  crc32: 3AAEED3F
+  x: 1
+- type: CHR0
+  label: HVC-FB1-0 C
+  size: 8 KB
+  crc32: 11848B93
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: B2530AFC
+  x: 1
+pcbProperties:
+  name: VT-N-256-41
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>VT-N-256-41<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa745d27962994af8a4fc21a6f4c189d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>VT-N-256-41<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ef4ddbe7ec20fcfff14d627797faf461.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8502
+  estFirstRun: January 1985
+  pcbClass: HVC-FAMILYBASIC
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: Yes
+  wram: 4 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx20
+detailedChipInfo:
+- designation: IC1 WORKING RAM 32K
+  maker: Toshiba
+  partNumber: TC5533P-B
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 4 KB
+  package: DIP-28
+  dateCodePrefix: 8417
+  dateCodeSuffix: ADA
+  std: 8417
+  misc: 
+- designation: IC2 PROGRAM ROM-W 256K
+  maker: Toshiba
+  partNumber: TC53257P
+  partNumberSubDetail: 1613
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8502
+  dateCodeSuffix: ABA
+  std: 8502
+  misc: 
+- designation: IC3 LS20
+  maker: Texas Instruments
+  partNumber: SN74LS20N
+  partNumberSubDetail: 
+  type: 74-20 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 419
+  dateCodeSuffix: BJ
+  std: 8419
+  misc: 
+- designation: IC4 CHARACTER ROM-C 64K
+  maker: OKI
+  partNumber: M3864
+  partNumberSubDetail: 31
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4Z
+  dateCodeSuffix: 01
+  std: 8449
+  misc: 

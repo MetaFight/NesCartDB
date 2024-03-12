@@ -1,0 +1,139 @@
+metadata:
+  name: Thomas The Tank Engine & Friends
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-23 01:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: thomas-the-tank-engine-friends
+releaseInfo:
+  catalogId: UNR-65-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: THQ
+  developer: Software Creations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/5f3ccd108a30ef7d2b8cd8d26385819e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: T*HQ INC. THOMAS NES VER 0.4 PRG 3539
+  size: 128 KB
+  crc32: EE93A07A
+  x: 1
+- type: CHR0
+  label: T*HQ INC. THOMAS NES VER 0.4 CHR 70DE
+  size: 128 KB
+  crc32: 851D7DB8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E46AEE21
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3C
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U10
+  maker: Toshiba
+  partNumber: 74HC139AP
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U7 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U8 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,125 @@
+metadata:
+  name: WCW World Championship Wrestling
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-28 01:16:00
+  moreProfiles:
+  - 404
+  - 1321
+  relatedProfiles:
+  - 3547
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-S9-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2a4d8787276df38aad4f77a421bdff0.jpg
+slug: wcw-world-championship-wrestling
+releaseInfo:
+  catalogId: NES-S9-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: FCI
+  developer: Nichibutsu
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-S9-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d0fad784ac8b0e34403708910d069e1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56d2491ac2912b9d2172890fe7d103a8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-S9-0 PRG
+  size: 128 KB
+  crc32: 44BB1665
+  x: 2
+- type: CHR0
+  label: NES-S9-0 CHR
+  size: 128 KB
+  crc32: 47458336
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5EA7D410
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5663888452f98090b400f02f5aaecf60.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9037
+  estFirstRun: September 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1853
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0JJ
+  dateCodeSuffix: X3
+  std: 9037
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0052
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0JB
+  dateCodeSuffix: 71
+  std: 9035
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 037
+  dateCodeSuffix: C
+  std: 9037
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9017
+  dateCodeSuffix: KP054
+  std: 9017
+  misc: 

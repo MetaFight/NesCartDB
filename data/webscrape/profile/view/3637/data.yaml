@@ -1,0 +1,107 @@
+metadata:
+  name: 'Family Quiz: 4-nin wa Rival'
+  altName: ファミリークイズ ４人はライバル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 04:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: family-quiz-4-nin-wa-rival
+releaseInfo:
+  catalogId: ATH-FQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 16, 1988
+  publisher: Athena
+  developer: Athena
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: ATH-FQ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/88a2814e0fabb12f7839ae909f51b8ec.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ATH-FQ-0 PRG
+  size: 128 KB
+  crc32: 07910BF9
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8839
+  estFirstRun: September 1988
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0243
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8J4
+  dateCodeSuffix: A1
+  std: 8839
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8836
+  dateCodeSuffix: B5
+  std: 8836
+  misc: 
+- designation: U3 HC161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8828
+  dateCodeSuffix: H
+  std: 8828
+  misc: 
+- designation: U4 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8815
+  dateCodeSuffix: H
+  std: 8815
+  misc: 

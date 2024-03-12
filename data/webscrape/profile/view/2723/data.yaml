@@ -1,0 +1,109 @@
+metadata:
+  name: 'Doraemon: Gigazombie no Gyakushuu'
+  altName: ドラえもん　ギガゾンビの逆襲
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 21:29:00
+  moreProfiles:
+  - 1690
+  - 2723
+  relatedProfiles: []
+  additionalImages: 
+slug: doraemon-gigazombie-no-gyakushuu
+releaseInfo:
+  catalogId: EPO-E5
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 14, 1990
+  publisher: Epoch
+  developer: Sakata SAS
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Spring Green
+  formFactor: Small
+  frontLabelId: EPO-E5
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1690')"
+    filename: /images/175/8b3de6cb1c0cea8d7ad0da5400f703af.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: EPO-E5-0 PRG
+  size: 256 KB
+  crc32: D7215873
+  x: 2
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9031 - 9104 (2)
+  estFirstRun: August 1990
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 0S
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9104
+  dateCodeSuffix: D
+  std: 9104
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9031
+  dateCodeSuffix: HCK
+  std: 9031
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9103
+  dateCodeSuffix: 5 TA
+  std: 9103
+  misc: 
+- designation: U4 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9031
+  dateCodeSuffix: HCK
+  std: 9031
+  misc: 

@@ -1,0 +1,96 @@
+metadata:
+  name: Pac-Man
+  altName: パックマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 04:17:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1592
+  - 1809
+  - 3325
+  - 4708
+  additionalImages: 
+slug: pac-man
+releaseInfo:
+  catalogId: NAM-NPM-4500-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 2, 1984
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 02
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4a1026a6ccdf565100eaa81bc143cdba.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/218a97e50a6577af81e803c35ec9e168.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT PM PRG
+  size: 16 KB
+  crc32: BB1B591B
+  x: 2
+- type: CHR0
+  label: NAMCOT PM CHR
+  size: 8 KB
+  crc32: 49ABEEE6
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 3E95BA25
+  x: 2
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/05422e0c7d79e07dc9162a419235b01c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8442 - 9122 (4)
+  estFirstRun: October 1984
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 107P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8442
+  dateCodeSuffix: 06
+  std: 8442
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 181P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8443
+  dateCodeSuffix: 00
+  std: 8443
+  misc: 

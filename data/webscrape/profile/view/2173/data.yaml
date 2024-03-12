@@ -1,0 +1,98 @@
+metadata:
+  name: Lunar Ball
+  altName: ルナーボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 05:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4386
+  - 4550
+  - 683
+  additionalImages: 
+slug: lunar-ball
+releaseInfo:
+  catalogId: PNF-LB (R49V5902)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 5, 1985
+  publisher: Pony Canyon
+  developer: Compile
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: PNF-LB
+  secondaryId: R49V5902
+  backLabelId/Desc: 850610
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c05498b6b1fd1cf37a8d2deb71a5add.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-LB-0 PRG
+  size: 16 KB
+  crc32: CD8233EF
+  x: 1
+- type: CHR0
+  label: PNF-LB-0 CHR
+  size: 8 KB
+  crc32: 13FDAD72
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 2F55BE88
+  x: 1
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3cbdff9a00d16ac224f71ce1ce732a45.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 3450')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8546
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613128P
+  partNumberSubDetail: M79
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 5L1
+  dateCodeSuffix: ''
+  std: 8545
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 33
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8546
+  dateCodeSuffix: E
+  std: 8546
+  misc: 

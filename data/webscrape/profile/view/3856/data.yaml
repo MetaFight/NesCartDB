@@ -1,0 +1,104 @@
+metadata:
+  name: Pyokotan no Dai Meiro
+  altName: ぴょこたんの大迷路
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 07:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: pyokotan-no-dai-meiro
+releaseInfo:
+  catalogId: SUN-PYK-4980
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 19, 1993
+  publisher: Sunsoft
+  developer: Japan System Supply
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b8e2d7114a1d22ce4c62cae81d20d8cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1543')"
+    filename: /images/175/1d12161ff991b0be73d0eade3d38fd39.jpg
+romDetails:
+- type: PRG0
+  label: PYK-PRG
+  size: 128 KB
+  crc32: BD7B1CD2
+  x: 1
+- type: CHR0
+  label: PYK-CHR
+  size: 128 KB
+  crc32: 0033D1CF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4339865C
+  x: 1
+pcbProperties:
+  name: PYK-E301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>PYK-E301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42a6bf297816b83d5549e23352611ac2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>PYK-E301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e3931ffd2e539be4add25df504ffe47.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9309
+  estFirstRun: March 1993
+  pcbClass: SUNSOFT-FME-7
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FME-7
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9308
+  dateCodeSuffix: EY002
+  std: 9308
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9309
+  dateCodeSuffix: EY700
+  std: 9309
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9231
+  dateCodeSuffix: AA
+  std: 9231
+  misc: 

@@ -1,0 +1,92 @@
+metadata:
+  name: Warpman
+  altName: ワープマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 02:01:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: warpman
+releaseInfo:
+  catalogId: NAM-NWM-4500-08
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 12, 1985
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e29d1ae67018f3a0691a6ccd51b08d48.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4c34f6a38e4553670b4d30e35709602.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f96951c60c2b70d20fa2af0508001e1.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: E1A2E5B5
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 10086CAA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 64BBCB77
+  x: 1
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14ddc404a5f1bd3da6b3f3e3884cafa4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8516
+  estFirstRun: April 1985
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Fujitsu
+  partNumber: MBM27128-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8516
+  dateCodeSuffix: V81
+  std: 8516
+  misc: 
+- designation: CH
+  maker: Fujitsu
+  partNumber: MBM2764-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8515
+  dateCodeSuffix: W70
+  std: 8515
+  misc: AB

@@ -1,0 +1,97 @@
+metadata:
+  name: Zunou Senkan Galg
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-13 17:25:00
+  moreProfiles:
+  - 1727
+  - 3511
+  - 3512
+  relatedProfiles: []
+  additionalImages: 
+slug: zunou-senkan-galg
+releaseInfo:
+  catalogId: DBF-GA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 14, 1985
+  publisher: dB-SOFT
+  developer: dB-SOFT
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: dBF-GA
+  backLabelId/Desc: 850610
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1727')"
+    filename: /images/175/f1cb3609fdf27d55ffd9316550ed8b4b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: dBF-GA-0 PRG
+  size: 32 KB
+  crc32: 190439B9
+  x: 3
+- type: CHR0
+  label: dBF-GA-0 CHR
+  size: 8 KB
+  crc32: 476D5A1C
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: EC0517C4
+  x: 3
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/18154ddf693ff069f28397786c268e11.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8547 - 8549 (3)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 19
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8545
+  dateCodeSuffix: D
+  std: 8545
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 41
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8548
+  dateCodeSuffix: E
+  std: 8548
+  misc: 

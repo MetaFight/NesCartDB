@@ -1,0 +1,119 @@
+metadata:
+  name: Mr. Gimmick
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-24 02:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2695
+  - 2105
+  additionalImages: 
+slug: mr-gimmick
+releaseInfo:
+  catalogId: NES-G8-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/0782c50d0b581f07aab3c141b69fab90.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: DF496FDF
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: F5A3935D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: A713DD30
+  x: 2
+pcbProperties:
+  name: NES-BTR
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-BTR<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/82568d6eca4b12d262494f8cf7975fb2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  pcbClass: NES-BTR
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: FME-7
+detailedChipInfo:
+- designation: PRG
+  maker: ST Micro
+  partNumber: M27C2001-15F1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9136
+  dateCodeSuffix: 8
+  std: 9136
+  misc: 
+- designation: CHR
+  maker: ST Micro
+  partNumber: M27C1001-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9134
+  dateCodeSuffix: A
+  std: 9134
+  misc: 
+- designation: FME-7
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9128
+  dateCodeSuffix: T
+  std: 9128
+  misc: 

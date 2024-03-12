@@ -1,0 +1,106 @@
+metadata:
+  name: Road Fighter
+  altName: ロードファイター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-25 02:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1567
+  - 2629
+  - 3039
+  additionalImages: 
+slug: road-fighter
+releaseInfo:
+  catalogId: KON-RC801
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 11, 1985
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC801
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1567')"
+    filename: /images/175/0808d26f269b25280674d55653f50b69.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31e1465cc4aa25e198336ab280401505.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F2A99DB1
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 889F0424
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 7EE625EB
+  x: 3
+pcbProperties:
+  name: 641-1-1
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>641-1-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d710de53435f47f292fd6a1ee7dd62e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>641-1-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbdcecd449b9da4b70ac3c76a00f0b30.jpg
+  pcbProducer: Konami
+  manufacturer: GI
+  mfgRange: 8520 - 8523 (3)
+  estFirstRun: May 1985
+  pcbClass: KONAMI-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: General Instrument
+  partNumber: RC801J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8521
+  dateCodeSuffix: CDA
+  std: 8521
+  misc: COB641192-1-3
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

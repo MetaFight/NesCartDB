@@ -1,0 +1,129 @@
+metadata:
+  name: F-15 City War
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-02 04:28:00
+  moreProfiles:
+  - 965
+  - 1375
+  relatedProfiles: []
+  additionalImages: 
+slug: f-15-city-war
+releaseInfo:
+  catalogId: AVE-FC
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Idea-Tek
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a1f7f6c50f2152f3935fe1e5e0357c61.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/061c3adde5788cf951769ab184702d60.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1269')"
+    filename: /images/175/818454343a4135a12b4bad8f20ea4f94.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 50322DFD
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: E9721551
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 88A6B192
+  x: 1
+pcbProperties:
+  name: NINA-03 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e8deb2b20f6d1c9664747b1868ae3dc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ba39c04386d4d07c727a8aab1d5c872c.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9034 - 9151 (2)
+  estFirstRun: August 1990
+  pcbClass: AVE-NINA-03
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: ST Micro
+  partNumber: M27256F1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9021
+  dateCodeSuffix: 8
+  std: 9021
+  misc: 
+- designation: U2
+  maker: ST Micro
+  partNumber: M27256F1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9021
+  dateCodeSuffix: 8
+  std: 9021
+  misc: 
+- designation: U3
+  maker: Fujitsu
+  partNumber: MB74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9006
+  dateCodeSuffix: F25
+  std: 9006
+  misc: 
+- designation: U4
+  maker: Panasonic
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .8D9
+  dateCodeSuffix: ''
+  std: 8851
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9034
+  dateCodeSuffix: ''
+  std: 9034
+  misc: 

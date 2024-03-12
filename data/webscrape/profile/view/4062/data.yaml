@@ -1,0 +1,109 @@
+metadata:
+  name: Law of the West
+  altName: ロウ・オブ・ザ・ウエスト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:44:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: law-of-the-west
+releaseInfo:
+  catalogId: PNF-LW (R53V5907)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 6, 1987
+  publisher: Pony Canyon
+  developer: Accolade
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Brown
+  formFactor: Small
+  frontLabelId: PNF-LW
+  secondaryId: R53V5907
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/182a83208b083f81175cbc9ddcff21b8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-LW-0 PRG
+  size: 128 KB
+  crc32: AE128FAC
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8708
+  estFirstRun: February 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 34
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8708
+  dateCodeSuffix: D
+  std: 8708
+  misc: 
+- designation: CHR RAM
+  maker: Hitachi
+  partNumber: 64KS-NI
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8649
+  dateCodeSuffix: ''
+  std: 8649
+  misc: U0522YY0
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8649
+  dateCodeSuffix: BA
+  std: 8649
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8645
+  dateCodeSuffix: H
+  std: 8645
+  misc: 

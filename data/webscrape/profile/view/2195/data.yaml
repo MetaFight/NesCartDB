@@ -1,0 +1,106 @@
+metadata:
+  name: Kiteretsu Daihyakka
+  altName: キテレツ大百科
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 04:36:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kiteretsu-daihyakka
+releaseInfo:
+  catalogId: EPO-KT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 23, 1990
+  publisher: Epoch
+  developer: Epoch
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: EPO-KT
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2ef9238558008d4b31a1639b31a98afc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: EPO-KT-0 PRG
+  size: 128 KB
+  crc32: CBD413A9
+  x: 1
+- type: CHR0
+  label: EPO-KT-0 CHR
+  size: 128 KB
+  crc32: 6E0DC667
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DB479677
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebcac5cc735d636a48c6c7264ae92d75.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8952
+  estFirstRun: December 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5383
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9M4
+  dateCodeSuffix: 72
+  std: 8952
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: B6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8951
+  dateCodeSuffix: D
+  std: 8951
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8952
+  dateCodeSuffix: 5 AA
+  std: 8952
+  misc: 

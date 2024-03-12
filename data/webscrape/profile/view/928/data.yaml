@@ -1,0 +1,120 @@
+metadata:
+  name: Street Cop
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 00:54:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: street-cop
+releaseInfo:
+  catalogId: NES-EC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: NES Controller,Power Pad
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EC-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e11a11a2bdf1db09d0b1a8673f27c44d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/60b1ab7f9ccaf96bbff1e214667f562d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EC-0 PRG
+  size: 128 KB
+  crc32: 987DCDA3
+  x: 1
+- type: CHR0
+  label: NES-EC-0 CHR
+  size: 128 KB
+  crc32: D189C808
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 61D86167
+  x: 1
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c3ecf1ce845525922cdc3342ff34390.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8921
+  estFirstRun: May 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B1
+detailedChipInfo:
+- designation: 
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NWM
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 959
+  dateCodeSuffix: 53
+  std: 8920
+  misc: 
+- designation: CHR-ROM
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NWN
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 956
+  dateCodeSuffix: 52
+  std: 8920
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8919
+  dateCodeSuffix: 7 BA
+  std: 8919
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B1-H
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8921
+  dateCodeSuffix: T
+  std: 8921
+  misc: 

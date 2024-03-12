@@ -1,0 +1,125 @@
+metadata:
+  name: 'T&C Surf Designs: Wood and Water Rage'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-30 02:26:00
+  moreProfiles:
+  - 115
+  - 451
+  - 819
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-TN-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ef8d5419ac57dd747220f6b824a4bb28.jpg
+slug: tc-surf-designs-wood-and-water-rage
+releaseInfo:
+  catalogId: NES-TN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1988
+  publisher: LJN
+  developer: Shimada Kikaku
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TN-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 115')"
+    filename: /images/175/b05d426fa3937f4101ff6f4444a57636.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5c6943bbed59c1ac966039993b5e120f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-TN-0 PRG
+  size: 32 KB
+  crc32: 947F0728
+  x: 4
+- type: CHR0
+  label: NES-TN-0 CHR
+  size: 32 KB
+  crc32: 476B5554
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: D3BFF72E
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7288bfaeafe5ebb6a33502d188bf204c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8824 - 8829 (2)
+  estFirstRun: June 1988
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: AJ
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8824
+  dateCodeSuffix: B
+  std: 8824
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: AL
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8824
+  dateCodeSuffix: B
+  std: 8824
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8823
+  dateCodeSuffix: 3 C
+  std: 8823
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 813
+  dateCodeSuffix: J
+  std: 8813
+  misc: 

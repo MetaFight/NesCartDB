@@ -1,0 +1,121 @@
+metadata:
+  name: Mega Man 2
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 23:39:00
+  moreProfiles:
+  - 47
+  - 2868
+  - 3054
+  - 890
+  - 2867
+  relatedProfiles:
+  - 1417
+  - 2654
+  - 1917
+  - 3481
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-XR-USA<br>Submitted by: bootgod<br>Linked from profile 47')"
+    filename: /images/175/da6aa347a2004f442dca0d09540699c4.jpg
+slug: mega-man-2
+releaseInfo:
+  catalogId: NES-XR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XR-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 47')"
+    filename: /images/175/638710f92c75e8b607ffdc0feaa7c93b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 47')"
+    filename: /images/175/2e87d5e1112f5e2e0a7e4613a8788ec0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-XR-0 PRG
+  size: 256 KB
+  crc32: 0FCFC04D
+  x: 5
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934 - 9012 (4)
+  estFirstRun: August 1989
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 39
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8932
+  dateCodeSuffix: D
+  std: 8932
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Hitachi
+  partNumber: HM6264ALSP-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: ''
+  std: 8922
+  misc: 04027993
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8929
+  dateCodeSuffix: 3 A
+  std: 8929
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8934
+  dateCodeSuffix: 5 CA
+  std: 8934
+  misc: 

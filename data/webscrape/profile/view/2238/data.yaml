@@ -1,0 +1,108 @@
+metadata:
+  name: Shogun
+  altName: 将軍
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 03:34:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: shogun
+releaseInfo:
+  catalogId: HCT-HD/001
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 27, 1988
+  publisher: Hect
+  developer: Hect
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Grey
+  formFactor: Small
+  frontLabelId: HCT-HD
+  secondaryId: 001
+  backLabelId/Desc: 880304
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aafac6f0832a8b60addf40c40c1bbda7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HCT-HD-0 PRG
+  size: 128 KB
+  crc32: 44B060DA
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8819
+  estFirstRun: May 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 62
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: D
+  std: 8819
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: B5
+  std: 8814
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8818
+  dateCodeSuffix: A
+  std: 8818
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: 1 DA
+  std: 8819
+  misc: 

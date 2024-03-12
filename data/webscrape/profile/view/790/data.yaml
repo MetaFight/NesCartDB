@@ -1,0 +1,70 @@
+metadata:
+  name: Trojan
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 03:07:00
+  moreProfiles:
+  - 400
+  - 790
+  - 1354
+  relatedProfiles:
+  - 2488
+  - 2231
+  additionalImages: 
+slug: trojan
+releaseInfo:
+  catalogId: NES-TJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1987
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TJ-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 400')"
+    filename: /images/175/724c086eae4c0cec05c98aad3282ec99.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 400')"
+    filename: /images/175/4af48e67df077e052e3a6e976fdd1888.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TJ-0 PRG
+  size: 128 KB
+  crc32: FC3E5C86
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8722 - 8739 (2)
+  estFirstRun: June 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

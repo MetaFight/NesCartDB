@@ -1,0 +1,107 @@
+metadata:
+  name: Hyper Sports
+  altName: ハイパースポーツ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-03 19:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1781
+  - 1782
+  - 3069
+  - 3761
+  additionalImages: 
+slug: hyper-sports
+releaseInfo:
+  catalogId: KON-RC806
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 27, 1985
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Konami HyperShot,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC806
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 3069')"
+    filename: /images/175/ee20041dff403e7984c0d007de8a5869.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3069')"
+    filename: /images/175/b8fc9515e4c922a9c62112e82ca8edfc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: BA5C8A54
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 51025F6B
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 6AE762AE
+  x: 1
+pcbProperties:
+  name: 641-1-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>641-1-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/739dab0b012f004970067694640a500d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>641-1-2<br>Submitted by: bootgod<br>Linked from profile 1781')"
+    filename: /images/175/16977902b5e013bcc836249d164cab57.jpg
+  pcbProducer: Konami
+  manufacturer: GI
+  mfgRange: 8529 - 8530 (4)
+  estFirstRun: July 1985
+  pcbClass: KONAMI-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: General Instrument
+  partNumber: RC806J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8530
+  dateCodeSuffix: CDA
+  std: 8530
+  misc: COB641192-2-2
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

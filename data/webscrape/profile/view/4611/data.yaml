@@ -1,0 +1,118 @@
+metadata:
+  name: The Adventures of Dr. Franken
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-15 20:10:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-adventures-of-dr-franken
+releaseInfo:
+  catalogId: UNR-D7-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Elite
+  developer: Motivetime
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ADV OF FRANKEN NES RN0036
+  size: 128 KB
+  crc32: 3B0F4DB2
+  x: 1
+pcbProperties:
+  name: NES-UNEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-UNEPROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: IC3 LS161
+  maker: National Semiconductor
+  partNumber: MM / MC74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9042
+  dateCodeSuffix: P
+  std: 9042
+  misc: 
+- designation: IC5 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8923
+  dateCodeSuffix: 1 BA
+  std: 8923
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8844
+  dateCodeSuffix: ''
+  std: 8844
+  misc: 00002SS0
+- designation: 
+  maker: Sony
+  partNumber: CXK5864APS-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: LS32
+  maker: National Semiconductor
+  partNumber: MM / MC74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9006
+  dateCodeSuffix: P
+  std: 9006
+  misc: 

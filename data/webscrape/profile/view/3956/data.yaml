@@ -1,0 +1,107 @@
+metadata:
+  name: Kyuukyoku Harikiri Koushien
+  altName: 究極ハリキリ甲子園
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 05:03:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kyuukyoku-harikiri-koushien
+releaseInfo:
+  catalogId: TFC-KHK-6900-42
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 19, 1992
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-KHK-6900
+  secondaryId: G7000115A
+  backLabelId/Desc: G7000002A
+  sequence#: 42
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80281575840d7974c21c92669a3aa994.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1554')"
+    filename: /images/175/47e7f669b9a9acb7f4c1065d7a8af808.jpg
+romDetails:
+- type: PRG0
+  label: D23-01
+  size: 128 KB
+  crc32: 265167E1
+  x: 1
+- type: CHR0
+  label: D23-02
+  size: 256 KB
+  crc32: 63CA0132
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 8CA72D80
+  x: 1
+pcbProperties:
+  name: J9100231A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100231A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0084ded700ff1aa47c1c9abe66192a0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100231A<br>Submitted by: bootgod<br>Linked from profile 3989')"
+    filename: /images/175/706841ff164eeb0fcdf8b5e5f8591285.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9206
+  estFirstRun: February 1992
+  pcbClass: TAITO-X1-017
+  inesMapper: 82
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-017
+detailedChipInfo:
+- designation: U1
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9205
+  dateCodeSuffix: KY003
+  std: 9205
+  misc: 
+- designation: U2
+  maker: Hitachi
+  partNumber: HN62302BP
+  partNumberSubDetail: Y21
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 2B1
+  dateCodeSuffix: ''
+  std: 9206
+  misc: 
+- designation: U3
+  maker: NEC
+  partNumber: X1-017
+  partNumberSubDetail: 
+  type: Taito X1-017
+  typeSubDetail: 
+  package: DIP-64
+  dateCodePrefix: 9123
+  dateCodeSuffix: KX
+  std: 9123
+  misc: 

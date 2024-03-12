@@ -1,0 +1,122 @@
+metadata:
+  name: 'SD Gundam Gaiden: Knight Gundam Monogatari'
+  altName: ＳＤガンダ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 00:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1746
+  - 2249
+  - 3079
+  - 3080
+  - 3081
+  - 3082
+  - 3083
+  additionalImages: 
+slug: sd-gundam-gaiden-knight-gundam-monogatari
+releaseInfo:
+  catalogId: BA-KGD
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 11, 1990
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2249')"
+    filename: /images/175/79bbca4742024ac28df20bd2c23a67fa.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1746')"
+    filename: /images/175/9856ee1ada15dd55850ca1f2ca09de9c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/ba2cc5408003eaede63130f26fb0713c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 90 KNIGHT-GUNDAM PRG
+  size: 256 KB
+  crc32: 146FB9C3
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 9E066029
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: E170404C
+  x: 5
+pcbProperties:
+  name: B50EEP
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>B50EEP<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ab0ca13252b3b9f8d1da5103ba587e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>B50EEP<br>Submitted by: bootgod<br>Linked from profile 1746')"
+    filename: /images/175/3a25c0707b27145ca9a7c2bd36de1210.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9026 - 9042 (7)
+  estFirstRun: June 1990
+  pcbClass: BANDAI-LZ93D50+24C01
+  inesMapper: 159
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 24C01, FCG-3
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9025
+  dateCodeSuffix: D
+  std: 9025
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S13
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9026
+  dateCodeSuffix: EX703
+  std: 9026
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D50
+  partNumberSubDetail: 
+  type: Bandai FCG-3
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 9016
+  dateCodeSuffix: 5 T
+  std: 9016
+  misc: 
+- designation: 
+  maker: Xicor
+  partNumber: X24C01P
+  partNumberSubDetail: 
+  type: Serial EEPROM
+  typeSubDetail: 1 kb
+  package: DIP-8
+  dateCodePrefix: 012
+  dateCodeSuffix: ES
+  std: 9012
+  misc: 

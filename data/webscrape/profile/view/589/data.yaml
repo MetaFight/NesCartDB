@@ -1,0 +1,120 @@
+metadata:
+  name: 'Frankenstein: The Monster Returns'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 04:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: frankenstein-the-monster-returns
+releaseInfo:
+  catalogId: NES-2F-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1991
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2F-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c86afc95a9110128507d29e4ce5640c9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e821fc1deba817fa1c214b9a9b9ec898.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-2F-0 PRG
+  size: 128 KB
+  crc32: 8776C0C2
+  x: 1
+- type: CHR0
+  label: NES-2F-0 CHR
+  size: 128 KB
+  crc32: 21E35704
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E943EC4D
+  x: 1
+pcbProperties:
+  name: NES-SLRROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLRROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c2c038c1ac459a1e605302d5da2bbf3b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLRROM-01<br>Submitted by: Kinopio<br>Linked from profile 2496')"
+    filename: /images/175/0b514b57a136d9cdffabfb3a9b099769.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9124
+  estFirstRun: June 1991
+  pcbClass: NES-SLRROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S77
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9124
+  dateCodeSuffix: EX012
+  std: 9124
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R44
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9124
+  dateCodeSuffix: HY702
+  std: 9124
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9044
+  dateCodeSuffix: 7 AB
+  std: 9044
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9048
+  dateCodeSuffix: B3085
+  std: 9048
+  misc: 

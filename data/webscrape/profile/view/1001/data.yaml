@@ -1,0 +1,80 @@
+metadata:
+  name: Platoon
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-08-14 03:29:00
+  moreProfiles:
+  - 162
+  - 1001
+  - 1373
+  relatedProfiles: []
+  additionalImages: 
+slug: platoon
+releaseInfo:
+  catalogId: NES-PU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Sunsoft
+  developer: Ocean
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PU-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 08
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 162')"
+    filename: /images/175/e30f97020f406809b330e7cfb6053e70.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1373')"
+    filename: /images/175/d316e2e79d96916a74e81b790fce600f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-PU-1 PRG
+  size: 128 KB
+  crc32: C85C83D0
+  x: 2
+- type: CHR0
+  label: NES-PU-0 CHR
+  size: 128 KB
+  crc32: 689DF57D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 695515A2
+  x: 2
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8904 - 8919 (2)
+  estFirstRun: January 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo: []

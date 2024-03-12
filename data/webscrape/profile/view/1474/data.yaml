@@ -1,0 +1,100 @@
+metadata:
+  name: Urban Champion
+  altName: アーバンチャンピオン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 04:02:00
+  moreProfiles:
+  - 1474
+  - 2749
+  - 2336
+  relatedProfiles:
+  - 2386
+  - 986
+  - 440
+  additionalImages: 
+slug: urban-champion
+releaseInfo:
+  catalogId: HVC-UC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 14, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: HVC-UC
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1cda853b2648923d291355c6344cac14.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-UC-0 PRG
+  size: 16 KB
+  crc32: D31E4238
+  x: 7
+- type: CHR0
+  label: HVC-UC-0 CHR
+  size: 8 KB
+  crc32: 8777CEF2
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 656D4265
+  x: 7
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3db312f21988fee83378a61aa42fcb62.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8448 - 8448 (2)
+  estFirstRun: December 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: OKI
+  partNumber: M38128A
+  partNumberSubDetail: C4
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 4Z
+  dateCodeSuffix: 05
+  std: 8448
+  misc: 
+- designation: CHR
+  maker: OKI
+  partNumber: M3864
+  partNumberSubDetail: C4
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4Z
+  dateCodeSuffix: 09
+  std: 8448
+  misc: 

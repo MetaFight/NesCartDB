@@ -1,0 +1,191 @@
+metadata:
+  name: Action 52
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 21:06:00
+  moreProfiles:
+  - 1161
+  - 1271
+  - 2927
+  - 4573
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7cd2ca8bf6607615d5d60bca1e4b3e13.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6e9d9bf057dfd70d4c8b9fd422ab3c4d.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47c477a605358f2caf6515ba17d51cff.jpg
+slug: action-52
+releaseInfo:
+  catalogId: ACT-52
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Active Enterprises
+  developer: Active Enterprises
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Clear
+  formFactor: Original
+  embossedText: Active Enterprises, LTD. U.S. Pat. Pend. Made in U.S.A.
+  frontLabelDesc: Clear Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23bf8ccaca2a9d43725f70e4372cb5a1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e4ac53f5f1ff223ab1ca648e60a07286.jpg
+romDetails:
+- type: PRG0
+  label: ATI-02 ACTION 52
+  size: 512 KB
+  crc32: 64E40C10
+  x: 2
+- type: PRG1
+  label: ATI-03 ACTION 52
+  size: 512 KB
+  crc32: 69FDC534
+  x: 2
+- type: PRG2
+  label: ATI-04 ACTION 52
+  size: 512 KB
+  crc32: 7E43E9E1
+  x: 2
+- type: CHR0
+  label: ATI-01 ACTION 52
+  size: 512 KB
+  crc32: 596442EC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 2048 KB
+  crc32: 0C222495
+  x: 1
+pcbProperties:
+  name: 023-N507
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9146 - 9224 (3)
+  estFirstRun: November 1991
+  pcbClass: MLT-ACTION52
+  inesMapper: 228
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 4520, 74xx273, 74xx273, PAL16L8, PAL16L8
+detailedChipInfo:
+- designation: U1
+  maker: Harris
+  partNumber: CD74HC273E
+  partNumberSubDetail: 
+  type: 74-273 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9128
+  dateCodeSuffix: H
+  std: 9128
+  misc: 
+- designation: U2
+  maker: Harris
+  partNumber: CD74HC273E
+  partNumberSubDetail: 
+  type: 74-273 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9128
+  dateCodeSuffix: H
+  std: 9128
+  misc: 
+- designation: U3
+  maker: Texas Instruments
+  partNumber: TIBPAL16L8-25CN
+  partNumberSubDetail: 
+  type: PAL16
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 136
+  dateCodeSuffix: 724
+  std: 9136
+  misc: U3 100B
+- designation: U4
+  maker: Texas Instruments
+  partNumber: TIBPAL16L8-25CN
+  partNumberSubDetail: 
+  type: PAL16
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 131
+  dateCodeSuffix: 529
+  std: 9131
+  misc: U4 116D
+- designation: U5
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5341
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: D
+  std: 9146
+  misc: 
+- designation: U6
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5341
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: D
+  std: 9146
+  misc: 
+- designation: U7
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5341
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: D
+  std: 9146
+  misc: 
+- designation: U8
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5341
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: D
+  std: 9146
+  misc: 
+- designation: U9
+  maker: Harris
+  partNumber: CD4520BE
+  partNumberSubDetail: 
+  type: 4520
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9051
+  dateCodeSuffix: G
+  std: 9051
+  misc: 

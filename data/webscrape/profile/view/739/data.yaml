@@ -1,0 +1,137 @@
+metadata:
+  name: Star Wars
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 22:28:00
+  moreProfiles:
+  - 739
+  - 4637
+  relatedProfiles:
+  - 1994
+  - 2538
+  - 1947
+  additionalImages: 
+slug: star-wars
+releaseInfo:
+  catalogId: NES-7V-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1991
+  publisher: JVC
+  developer: LucasFilm Games
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7V-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/325fafb8e1ee2036289d05b421d714c2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/542adbccb4f8be3bfe370427e74338f3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-7V-0 PRG
+  size: 128 KB
+  crc32: B00B4EB8
+  x: 1
+- type: CHR0
+  label: NES-7V-0 CHR
+  size: 128 KB
+  crc32: 4FD41AC1
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C1C3636B
+  x: 1
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/60b15ad0de4a4bbaa274c04ee0e9f6ff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9141
+  estFirstRun: October 1991
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NRD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1
+  dateCodeSuffix: 53
+  std: 9138
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NRE
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1
+  dateCodeSuffix: 52
+  std: 9141
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9049
+  dateCodeSuffix: 1 BB
+  std: 9049
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9112
+  dateCodeSuffix: EP066
+  std: 9112
+  misc: 
+- designation: U5 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 134
+  dateCodeSuffix: N
+  std: 9134
+  misc: 

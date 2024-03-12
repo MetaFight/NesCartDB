@@ -1,0 +1,118 @@
+metadata:
+  name: Makaimura
+  altName: 魔界村
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-19 04:31:00
+  moreProfiles:
+  - 1648
+  - 2745
+  - 2322
+  - 3513
+  - 3514
+  - 3515
+  - 3516
+  relatedProfiles:
+  - 2443
+  - 1914
+  - 4
+  additionalImages: 
+slug: makaimura
+releaseInfo:
+  catalogId: CAP-MK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 13, 1986
+  publisher: Capcom
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CAP-MK
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1648')"
+    filename: /images/175/65e5a5f3d1c4da221b0d135b2664e360.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-MK-0 PRG
+  size: 128 KB
+  crc32: BF3635CF
+  x: 7
+pcbProperties:
+  name: HVC-UNROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8619 - 8632 (7)
+  estFirstRun: May 1986
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0200
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 6E1
+  dateCodeSuffix: E7
+  std: 8619
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: D4364C-20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8551
+  dateCodeSuffix: A3012
+  std: 8551
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 64C
+  dateCodeSuffix: 5
+  std: 8617
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8610
+  dateCodeSuffix: H
+  std: 8610
+  misc: 

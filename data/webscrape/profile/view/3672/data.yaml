@@ -1,0 +1,104 @@
+metadata:
+  name: Hydlide Special
+  altName: ハイドライドスペシャル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 02:35:00
+  moreProfiles:
+  - 1643
+  - 2317
+  - 3425
+  - 3426
+  - 3427
+  - 3428
+  - 3429
+  - 3672
+  relatedProfiles:
+  - 758
+  additionalImages: 
+slug: hydlide-special
+releaseInfo:
+  catalogId: TFS-HS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 18, 1986
+  publisher: Toemiland
+  developer: T & E Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Off White
+  formFactor: Small
+  frontLabelId: TFS-HS
+  secondaryId: FS-2002G
+  backLabelId/Desc: 850610
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1643')"
+    filename: /images/175/9aaba37ccba4b87c5a8e5a9cd94c1c21.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFS-HS-0 PRG
+  size: 32 KB
+  crc32: 497E9336
+  x: 8
+- type: CHR0
+  label: TFS-HS-0 CHR
+  size: 8 KB
+  crc32: 4216123F
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 8575A0CB
+  x: 8
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f2a3d3fb16a88e71996d00daf7e32594.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8608 - 8614 (8)
+  estFirstRun: February 1986
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Toshiba
+  partNumber: TC53257P
+  partNumberSubDetail: 1617
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8608
+  dateCodeSuffix: EBI
+  std: 8608
+  misc: 
+- designation: CHR
+  maker: Toshiba
+  partNumber: TMM2365P
+  partNumberSubDetail: 1616
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8610
+  dateCodeSuffix: ACA
+  std: 8610
+  misc: 

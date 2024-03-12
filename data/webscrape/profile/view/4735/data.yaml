@@ -1,0 +1,111 @@
+metadata:
+  name: Shockwave
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2016-12-28 05:27:00
+  moreProfiles:
+  - 548
+  - 4735
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/a91485555ca9eef390397bb1cd260007.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/a803f184317e30600d9fc649c8c847e6.jpg
+slug: shockwave
+releaseInfo:
+  catalogId: AGCI-SW
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AGCI
+  developer: AGCI
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AGCI
+  color: Grey
+  formFactor: Deep Grip
+  embossedText: AGCI Patent Pending
+  frontLabelId: 700456
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/0e4404d5efd41c944d95c9743311195a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/b1b2800d22755f95b4366409987bcc85.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/5539622a8cf01ceae1f2f6fe314cc5ef.jpg
+romDetails:
+- type: PRG0
+  label: SHOCKWAVEPRG
+  size: 32 KB
+  crc32: 6CF4D165
+  x: 2
+- type: CHR0
+  label: SHOCKWAVECHR
+  size: 32 KB
+  crc32: 70870A2D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C73B82FC
+  x: 2
+pcbProperties:
+  name: 47516
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>47516<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d3c9edac11aad5f347b6e89acb44e202.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>47516<br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/f3c9268d590aacf4f44b433184141509.jpg
+  pcbProducer: AGCI
+  manufacturer: Key Tronic
+  mfgRange: 9043 - 9043 (2)
+  estFirstRun: October 1990
+  pcbClass: AGCI-47516
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: RAF
+  std: 9043
+  misc: 
+- designation: U2
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: PWF
+  std: 9043
+  misc: 
+- designation: U3
+  maker: Signetics
+  partNumber: AGCI#4
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9031
+  dateCodeSuffix: VD 47554
+  std: 9031
+  misc: FHK4502

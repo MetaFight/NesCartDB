@@ -1,0 +1,82 @@
+metadata:
+  name: Disney's Chip 'n Dale Rescue Rangers
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 02:49:00
+  moreProfiles:
+  - 7
+  - 2836
+  - 787
+  - 1196
+  relatedProfiles:
+  - 1913
+  - 2425
+  - 2009
+  additionalImages: 
+slug: disneys-chip-n-dale-rescue-rangers
+releaseInfo:
+  catalogId: NES-RU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RU-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 7')"
+    filename: /images/175/47cc4cec6ac39d056fdf23e7b118c926.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1196')"
+    filename: /images/175/65626ffe599cfcd7db0ad33ca4a13672.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-RU-0 PRG
+  size: 128 KB
+  crc32: 02931525
+  x: 5
+- type: CHR0
+  label: NES-RU-0 CHR
+  size: 128 KB
+  crc32: 218D4224
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8BF29CB6
+  x: 5
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9020 - 9026 (3)
+  estFirstRun: May 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

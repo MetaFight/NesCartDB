@@ -1,0 +1,111 @@
+metadata:
+  name: Bomberman
+  altName: ボンバーマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 06:28:00
+  moreProfiles:
+  - 1495
+  - 1713
+  - 3357
+  - 3450
+  - 3659
+  relatedProfiles:
+  - 834
+  additionalImages: 
+slug: bomberman
+releaseInfo:
+  catalogId: HFC-BM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 19, 1985
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HFC-BM
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac7114ca19f8b72c118b973cf46aa333.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 9684657F
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A775822E
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: F2FC8212
+  x: 5
+pcbProperties:
+  name: 9011-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/651f08b8974f2b378bfc4cbe10db1129.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fb0f27f98153da273c21f54120d1c639.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8548 - 8552 (3)
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GBM
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 18478 18450
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

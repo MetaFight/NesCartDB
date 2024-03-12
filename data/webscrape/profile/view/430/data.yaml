@@ -1,0 +1,123 @@
+metadata:
+  name: 'Zen: Intergalactic Ninja'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 21:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4380
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-ZN-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/82532103d3beb69c7976a5733af89b8f.jpg
+slug: zen-intergalactic-ninja
+releaseInfo:
+  catalogId: NES-ZN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 7, 1993
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZN-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ae6c6ab069b275529ef8a12d65886df.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0b6a53dfc53911647cda4baa8a20b551.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZN-0 PRG
+  size: 128 KB
+  crc32: 58A407BB
+  x: 1
+- type: CHR0
+  label: NES-ZN-0 CHR
+  size: 128 KB
+  crc32: 589EBFDC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D8578BFD
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd924a395559d618132820b6d7ab37a0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9306
+  estFirstRun: February 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: GZ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9306
+  dateCodeSuffix: E
+  std: 9306
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: A0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9306
+  dateCodeSuffix: D
+  std: 9306
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9252
+  dateCodeSuffix: 1 CB
+  std: 9252
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9250
+  dateCodeSuffix: 1 A
+  std: 9250
+  misc: 

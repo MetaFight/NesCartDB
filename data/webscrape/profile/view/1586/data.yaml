@@ -1,0 +1,115 @@
+metadata:
+  name: 'Genpei Touma Den: Computer Boardgame'
+  altName: 源平討魔伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-19 18:30:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: genpei-touma-den-computer-boardgame
+releaseInfo:
+  catalogId: NAM-GT-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 21, 1988
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/552c284ed9c95cf3e83ac281f3b48b70.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebdb4873bb8b1650871178f71b254bfe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/854ce534066fc4686b2a8f3e7db48643.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 13EC1C90
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 643E7D7B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: C372399B
+  x: 1
+pcbProperties:
+  name: LROG043-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG043-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6027e53d1929f7f843bca1cdb6b89b28.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG043-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/301dcc8e0d9f5bc215dc55a496612a1d.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8838
+  estFirstRun: September 1988
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG043
+  partNumberSubDetail: GT
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8838
+  dateCodeSuffix: 7
+  std: 8838
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

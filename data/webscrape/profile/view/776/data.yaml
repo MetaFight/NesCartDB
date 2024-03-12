@@ -1,0 +1,79 @@
+metadata:
+  name: Tag Team Wrestling
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-13 02:08:00
+  moreProfiles:
+  - 214
+  - 456
+  - 776
+  relatedProfiles:
+  - 1587
+  additionalImages: 
+slug: tag-team-wrestling
+releaseInfo:
+  catalogId: NES-TT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1986
+  publisher: Data East
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TT-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 214')"
+    filename: /images/175/f700e758d371f33c1b6fec5a3c4b1fe3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 214')"
+    filename: /images/175/885ce135fc8fe050a8cebc6473284b83.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TT-0 PRG
+  size: 32 KB
+  crc32: 77DAFD89
+  x: 3
+- type: CHR0
+  label: NES-TT-0 CHR
+  size: 8 KB
+  crc32: D911390D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: BF250AF2
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8711 - 8943 (2)
+  estFirstRun: March 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo: []

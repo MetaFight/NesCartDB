@@ -1,0 +1,118 @@
+metadata:
+  name: Mahjong
+  altName: 麻雀
+  variant: (Revision B)
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 04:21:00
+  moreProfiles:
+  - 1466
+  - 1679
+  - 1687
+  - 3358
+  - 3359
+  - 3360
+  - 3361
+  - 3362
+  - 3670
+  - 3971
+  - 4004
+  - 4751
+  relatedProfiles: []
+  additionalImages: 
+slug: mahjong
+releaseInfo:
+  catalogId: HVC-MJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 27, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Green
+  formFactor: Small
+  frontLabelId: HVC-MJ
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  revision: B
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ede2cd5a0b94210b6e7bf7211ee00bd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F86D8D8A
+  x: 11
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 6BB45576
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 23D91BC6
+  x: 10
+pcbProperties:
+  name: 2I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/974b6923184a56c563f8f814641e7d30.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2I<br>Submitted by: bootgod<br>Linked from profile 3404')"
+    filename: /images/175/f339357587de5ee2f7493a861c9b992e.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8352 - 8431 (2)
+  estFirstRun: December 1983
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-MJ
+  partNumberSubDetail: A
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 48
+  dateCodeSuffix: 05
+  std: 8431
+  misc: 2H-24
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

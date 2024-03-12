@@ -1,0 +1,108 @@
+metadata:
+  name: Stack-Up
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-07-24 04:23:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1641
+  - 1080
+  additionalImages: 
+slug: stack-up
+releaseInfo:
+  catalogId: NES-BL-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller,R. O. B.
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: FRA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-BL-0 PRG
+  size: 32 KB
+  crc32: 4EE735C1
+  x: 3
+- type: CHR0
+  label: HVC-BL-0 CHR
+  size: 8 KB
+  crc32: 41F4B527
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: DF67DAA1
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a39238ca644236443aa4d2968d7e129e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-03<br>Submitted by: Kinopio<br>Linked from profile 2055')"
+    filename: /images/175/6d26509249f161184d69d98ece2cba53.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8716
+  estFirstRun: April 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613256P
+  partNumberSubDetail: CH2
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5H1
+  dateCodeSuffix: ''
+  std: 8532
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 14
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8529
+  dateCodeSuffix: D
+  std: 8529
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8716
+  dateCodeSuffix: A
+  std: 8716
+  misc: 

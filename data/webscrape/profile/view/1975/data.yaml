@@ -1,0 +1,129 @@
+metadata:
+  name: Kid Icarus
+  altName: 
+  variant: (Revision A)
+  submittedBy: piteta
+  submittedOn: 2007-08-04 14:57:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2382
+  - 1414
+  - 310
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-KI-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/a5c153ccab74d8e48c8c844938651f55.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-KI-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/a4c5fd2f85e6cb8224dec66978e345ec.jpg
+slug: kid-icarus
+releaseInfo:
+  catalogId: NES-KI-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: May 30, 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KI-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 28
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f8fe12a3cfbebd6193c8ae44eafc057f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: NES-KI-1 PRG
+  size: 128 KB
+  crc32: D67FD6A6
+  x: 2
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9127
+  estFirstRun: July 1991
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5356
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1GF
+  dateCodeSuffix: 45
+  std: 9127
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9122
+  dateCodeSuffix: KT75
+  std: 9122
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9124
+  dateCodeSuffix: C
+  std: 9124
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9122
+  dateCodeSuffix: 1 AA
+  std: 9122
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9123
+  dateCodeSuffix: KT78
+  std: 9123
+  misc: 

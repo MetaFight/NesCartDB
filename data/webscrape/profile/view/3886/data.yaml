@@ -1,0 +1,107 @@
+metadata:
+  name: Bikkuri Nekketsu Shin Kiroku! Harukanaru Kin Medal
+  altName: びっくり熱血新記録！はるかなる金メダル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 02:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 414
+  additionalImages: 
+slug: bikkuri-nekketsu-shin-kiroku-harukanaru-kin-medal
+releaseInfo:
+  catalogId: TJC-NK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 26, 1992
+  publisher: Technos
+  developer: Technos
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-NK
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4537b84dce98a9202b66777ce9be8ed3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TJC-NK-0 PRG
+  size: 128 KB
+  crc32: 67A0D115
+  x: 1
+- type: CHR0
+  label: TJC-NK-0 CHR
+  size: 128 KB
+  crc32: 9F098332
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4E99CEA4
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/72a272b0233ef6efb752a1ec3c00d4bb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9219
+  estFirstRun: May 1992
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: B1
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: E
+  std: 9219
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 1H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9218
+  dateCodeSuffix: D
+  std: 9218
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9207
+  dateCodeSuffix: EP017
+  std: 9207
+  misc: 

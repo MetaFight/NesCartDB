@@ -1,0 +1,109 @@
+metadata:
+  name: 'Hokuto no Ken 3: Shinseiki Souzou: Seiken Retsuden'
+  altName: 北斗の拳３ 新世紀創
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-06 05:44:00
+  moreProfiles:
+  - 1676
+  - 3764
+  relatedProfiles: []
+  additionalImages: 
+slug: hokuto-no-ken-3-shinseiki-souzou-seiken-retsuden
+releaseInfo:
+  catalogId: TDF-K3
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 19, 1989
+  publisher: Toei Animation
+  developer: Shouei System
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TDF-K3
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1676')"
+    filename: /images/175/22edd9d87c1937ecde887b8f510845ce.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TDF-K3-0 PRG
+  size: 256 KB
+  crc32: 771CE357
+  x: 2
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8932 - 8937 (2)
+  estFirstRun: August 1989
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8933
+  dateCodeSuffix: PY
+  std: 8933
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: M5
+  std: 8934
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8937
+  dateCodeSuffix: 1 A
+  std: 8937
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8936
+  dateCodeSuffix: 5 Y
+  std: 8936
+  misc: 

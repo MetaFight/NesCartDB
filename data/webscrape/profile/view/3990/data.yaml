@@ -1,0 +1,112 @@
+metadata:
+  name: Golf Grand Slam
+  altName: ゴルフグランドスラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 21:59:00
+  moreProfiles: []
+  relatedProfiles:
+  - 537
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/22f480088063cff32dd357817198c731.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af7754dcae5af58c8fdd98796b5ffb2d.jpg
+slug: golf-grand-slam
+releaseInfo:
+  catalogId: HCT-7G/009
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 31, 1991
+  publisher: Hect
+  developer: TOSE Software
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Grey
+  formFactor: Small
+  frontLabelId: HCT-7G
+  secondaryId: 009
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa0c99abe9d6522c7105c8384ee775a1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HCT-7G-0 PRG
+  size: 128 KB
+  crc32: 7876E439
+  x: 1
+- type: CHR0
+  label: HCT-7G-0 CHR
+  size: 128 KB
+  crc32: E384A2F3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3F0C8136
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4f36da3bfb438b527a384bce02a82b0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9052
+  estFirstRun: December 1990
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S54
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9051
+  dateCodeSuffix: E9018
+  std: 9051
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R22
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9051
+  dateCodeSuffix: EY012
+  std: 9051
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9052
+  dateCodeSuffix: 1 AA
+  std: 9052
+  misc: 

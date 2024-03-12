@@ -1,0 +1,106 @@
+metadata:
+  name: Babel no Tou
+  altName: バベルの塔
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-18 05:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1583
+  - 3200
+  additionalImages: 
+slug: babel-no-tou
+releaseInfo:
+  catalogId: NAM-NBL-3900-16
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 18, 1986
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 16
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a69d3c9e1dbba7dab63731746ce41f2e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9539da4b6355ee90202b1785409289c8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1701ddaf2ce22123f1b94f6c63075899.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTBLPR
+  size: 32 KB
+  crc32: 899A0067
+  x: 2
+- type: CHR0
+  label: NAMCOTBLCH
+  size: 32 KB
+  crc32: 134FC0C6
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 8AF25130
+  x: 2
+pcbProperties:
+  name: 3401
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3401<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fe21d2702386b50d8b617547f2e7d7c9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3401<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/725b2805fc20679b4d1d27e851d0f896.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8626 - 8627 (2)
+  estFirstRun: June 1986
+  pcbClass: NAMCOT-3401
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: MB83256
+  partNumberSubDetail: 701 RA
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8626
+  dateCodeSuffix: Z30
+  std: 8626
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: MB83256
+  partNumberSubDetail: 702 RA
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8625
+  dateCodeSuffix: Z12
+  std: 8625
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8618
+  dateCodeSuffix: B
+  std: 8618
+  misc: 

@@ -1,0 +1,139 @@
+metadata:
+  name: Baseball Stars II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-20 01:07:00
+  moreProfiles:
+  - 543
+  - 2567
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-9R USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f62d04b64e2fe4dfabe4918e0f237e3.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-9R USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dc4cf5117c6bc673e4bbbfd03bb9c85c.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-9R-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7880dc6fb3595c47fe7ace19b62a4968.jpg
+slug: baseball-stars-ii
+releaseInfo:
+  catalogId: NES-9R-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1992
+  publisher: Romstar
+  developer: Pixel
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-9R-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/362219a20ab2e9d27171b437c95595c4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b7500a947781ec781ab78a6bb8af267c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-9R-0 PRG
+  size: 256 KB
+  crc32: E84F40E5
+  x: 2
+- type: CHR0
+  label: NES-9R-0 CHR
+  size: 128 KB
+  crc32: 1A3EA032
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 18A9F0D9
+  x: 2
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/733b656c6eca03da8da62aad1497406a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9218 - 9218 (2)
+  estFirstRun: May 1992
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP232048E
+  partNumberSubDetail: 0075
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 2EB
+  dateCodeSuffix: 73
+  std: 9218
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0162
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2EC
+  dateCodeSuffix: 42
+  std: 9218
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9216
+  dateCodeSuffix: 7 CB
+  std: 9216
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 1 AB
+  std: 9204
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9213
+  dateCodeSuffix: KT02
+  std: 9213
+  misc: 

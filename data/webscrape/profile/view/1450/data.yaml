@@ -1,0 +1,112 @@
+metadata:
+  name: Donkey Kong
+  altName: ドンキーコング
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 00:58:00
+  moreProfiles:
+  - 1450
+  - 2321
+  - 3394
+  - 3545
+  - 3667
+  relatedProfiles:
+  - 1839
+  - 1091
+  additionalImages: 
+slug: donkey-kong
+releaseInfo:
+  catalogId: HVC-DK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HVC-DK
+  backLabelId/Desc: 830901
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb610400f662790854f61b6615c73575.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F56A5B10
+  x: 7
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A21D7C2E
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 6F97C721
+  x: 7
+pcbProperties:
+  name: 9011-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d75d8dbb97a5d81f2a4a1dbefb96495.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-01<br>Submitted by: bootgod<br>Linked from profile 3390')"
+    filename: /images/175/6283e33265f348ce07d4808f77cb92e5.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8407 - 8426 (2)
+  estFirstRun: February 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: DK
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 223583
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

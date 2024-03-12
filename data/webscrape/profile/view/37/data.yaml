@@ -1,0 +1,124 @@
+metadata:
+  name: Disney's Chip 'n Dale Rescue Rangers 2
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-01 04:06:00
+  moreProfiles:
+  - 37
+  - 4632
+  relatedProfiles:
+  - 4475
+  - 4349
+  additionalImages: 
+slug: disneys-chip-n-dale-rescue-rangers-2
+releaseInfo:
+  catalogId: NES-DV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1994
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DV-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/307963d3ae3740cedd3019a3b6190bf2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/96a32545815daacb41b07726b3d72c91.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-DV-0 PRG
+  size: 128 KB
+  crc32: 2F97D456
+  x: 1
+- type: CHR0
+  label: NES-DV-0 CHR
+  size: 128 KB
+  crc32: A0C30578
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FC5783A7
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ce0166c6ab71b67284ba16d93ba941b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9348
+  estFirstRun: December 1993
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6745
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3MC
+  dateCodeSuffix: 41
+  std: 9348
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0199
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3MB
+  dateCodeSuffix: 42
+  std: 9348
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9317
+  dateCodeSuffix: 3 CB
+  std: 9317
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9244
+  dateCodeSuffix: 1 A 170
+  std: 9244
+  misc: 

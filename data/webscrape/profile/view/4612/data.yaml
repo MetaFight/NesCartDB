@@ -1,0 +1,118 @@
+metadata:
+  name: 'Bashi Bazook: Morphoid Masher'
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-15 20:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3966
+  additionalImages: 
+slug: bashi-bazook-morphoid-masher
+releaseInfo:
+  catalogId: UNR-14-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Jaleco
+  developer: Atlus
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/89b7de436a09769525635a114916a381.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/1a64097266b080cf1123b31848fc076f.jpg
+romDetails:
+- type: PRG0
+  label: DAN USA PRG
+  size: 128 KB
+  crc32: C478AFD6
+  x: 1
+- type: CHR0
+  label: DAN USA CHR
+  size: 128 KB
+  crc32: A04D270D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7C7A0A73
+  x: 1
+pcbProperties:
+  name: NES-SKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/9901ef68b4d54b0963196562b967a0c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 4623')"
+    filename: /images/175/125e843dbf8707b6c3d904feb8b125c8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SKEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8820
+  dateCodeSuffix: ''
+  std: 8820
+  misc: 00002SS0
+- designation: IC3 CHR
+  maker: Mitsubishi
+  partNumber: M5M27C100K-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8817
+  dateCodeSuffix: A
+  std: 8817
+  misc: 
+- designation: IC8 319X
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8812
+  dateCodeSuffix: A
+  std: 8812
+  misc: 

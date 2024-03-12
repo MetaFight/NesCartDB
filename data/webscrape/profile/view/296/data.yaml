@@ -1,0 +1,126 @@
+metadata:
+  name: Robo Warrior
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-02 21:05:00
+  moreProfiles:
+  - 71
+  - 296
+  - 2834
+  relatedProfiles:
+  - 2367
+  - 1696
+  additionalImages: 
+slug: robo-warrior
+releaseInfo:
+  catalogId: NES-RR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Jaleco
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RR-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bc9fd5f0512d249db81573232f86bbc8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/59a39ca79747effa7c9045ab492178b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RR-0 PRG
+  size: 128 KB
+  crc32: 810B7AB9
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8850 - 8934 (3)
+  estFirstRun: December 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1804
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8M3
+  dateCodeSuffix: E6
+  std: 8851
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8K
+  dateCodeSuffix: 16
+  std: 8844
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8851
+  dateCodeSuffix: 3 B
+  std: 8851
+  misc: 
+- designation: LS161N
+  maker: Phillips
+  partNumber: 74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8841
+  dateCodeSuffix: KB
+  std: 8841
+  misc: 1586Q05
+- designation: LS32
+  maker: Phillips
+  partNumber: 74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8829
+  dateCodeSuffix: KB
+  std: 8829
+  misc: KFH2013

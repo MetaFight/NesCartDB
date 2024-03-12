@@ -1,0 +1,113 @@
+metadata:
+  name: Sqoon
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-19 20:59:00
+  moreProfiles:
+  - 521
+  - 2771
+  relatedProfiles:
+  - 1754
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-SQ-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2440f674aab34170641532b5b4b4bf22.jpg
+slug: sqoon
+releaseInfo:
+  catalogId: NES-SQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Irem
+  developer: Home Data
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SQ-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/df5eea64837e41af350cfc9a924d9122.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5a9c62926f27633ea70580c2d4c8cdfe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-SQ-0 PRG
+  size: 32 KB
+  crc32: 1808061A
+  x: 2
+- type: CHR0
+  label: NES-SQ-0 CHR
+  size: 8 KB
+  crc32: 467148ED
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 44F34172
+  x: 2
+pcbProperties:
+  name: NES-NROM-256-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a66551e2fc4dd65a2f6c1ac95d3691ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-03<br>Submitted by: Kinopio<br>Linked from profile 2055')"
+    filename: /images/175/6d26509249f161184d69d98ece2cba53.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8733 - 8733 (2)
+  estFirstRun: August 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2022
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7H2
+  dateCodeSuffix: A0
+  std: 8733
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2020
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7H1
+  dateCodeSuffix: 52
+  std: 8732
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8727
+  dateCodeSuffix: A
+  std: 8727
+  misc: 

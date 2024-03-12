@@ -1,0 +1,72 @@
+metadata:
+  name: Gun.Smoke
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-08-16 19:47:00
+  moreProfiles:
+  - 832
+  - 2765
+  - 1007
+  - 1407
+  relatedProfiles:
+  - 1415
+  - 4485
+  additionalImages: 
+slug: gunsmoke
+releaseInfo:
+  catalogId: NES-GK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1988
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GK-USA[-1]
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 832')"
+    filename: /images/175/52b9592ba78c149f54fd491866f5c0f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-GK-0 PRG
+  size: 128 KB
+  crc32: A8784932
+  x: 4
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8806 - 8846 (3)
+  estFirstRun: February 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

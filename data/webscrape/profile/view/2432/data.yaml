@@ -1,0 +1,114 @@
+metadata:
+  name: Excitebike
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-04 02:35:00
+  moreProfiles:
+  - 2056
+  - 2432
+  - 2439
+  relatedProfiles:
+  - 2149
+  - 1467
+  - 1960
+  - 18
+  additionalImages: 
+slug: excitebike
+releaseInfo:
+  catalogId: NES-EB-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: February 8, 1989
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-EB-0 PRG
+  size: 16 KB
+  crc32: 0B5667E9
+  x: 5
+- type: CHR0
+  label: HVC-EB-0 CHR
+  size: 8 KB
+  crc32: E5F72401
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 8A0C7337
+  x: 5
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d01f6fd786000c49c285594242fafa98.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/426f5194612074daf16b16312399659e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8628 - 8917 (3)
+  estFirstRun: July 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0562
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6G1
+  dateCodeSuffix: 12
+  std: 8628
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 67
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8627
+  dateCodeSuffix: E
+  std: 8627
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8628
+  dateCodeSuffix: A
+  std: 8628
+  misc: 

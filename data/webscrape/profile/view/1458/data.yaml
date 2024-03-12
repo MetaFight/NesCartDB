@@ -1,0 +1,116 @@
+metadata:
+  name: Spartan X
+  altName: スパルタンＸ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 02:04:00
+  moreProfiles:
+  - 1458
+  - 1645
+  - 2339
+  - 3622
+  - 3623
+  - 3704
+  relatedProfiles:
+  - 2455
+  - 4474
+  - 1912
+  - 4548
+  - 4549
+  - 245
+  additionalImages: 
+slug: spartan-x
+releaseInfo:
+  catalogId: HVC-SX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 21, 1985
+  publisher: Nintendo
+  developer: Irem
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Purple
+  formFactor: Small
+  frontLabelId: HVC-SX
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f21d16ede92fc554e5b6a99e3092cffe.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 36D5482B
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 92453ECA
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 6058C65D
+  x: 6
+pcbProperties:
+  name: 9011-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f2a5b90f4f14cbf9b03339bd5fd5cd27.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/368603c7c521ccf6ccb6069756bc0a7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8525 - 8605 (4)
+  estFirstRun: June 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ISX
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 226714
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

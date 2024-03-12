@@ -1,0 +1,130 @@
+metadata:
+  name: Hayauchi Super Igo
+  altName: 早打ちスーパー囲碁
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 02:54:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ab9f3f025e6509200ebe69f445c64da.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3701d2dc5148c1daee2e33977988a242.jpg
+slug: hayauchi-super-igo
+releaseInfo:
+  catalogId: NAM-X79-5900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 3, 1989
+  publisher: Namco
+  developer: Home Data
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/870b1fca7bc461ca68e6241cae3bd39e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d789fd2ec9c0c515b9935a3ac580b41e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a79c5b4409338fb43ccaafca9e7a5c8c.jpg
+romDetails:
+- type: PRG0
+  label: X79F01
+  size: 32 KB
+  crc32: 18F5BFDC
+  x: 1
+- type: CHR0
+  label: X79F02
+  size: 32 KB
+  crc32: BDC34B2B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: FA7E02FA
+  x: 1
+pcbProperties:
+  name: UNK-NAMCOT-X79
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-NAMCOT-X79<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/998848f1b8d911c244dea6927d5c7937.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-NAMCOT-X79<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ec13fa411361f0375862d674a64fd0ee.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8908
+  estFirstRun: February 1989
+  pcbClass: NAMCOT-CNROM+WRAM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx10, 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2355
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8907
+  dateCodeSuffix: B
+  std: 8907
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2355
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: B
+  std: 8908
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5216D-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: DIP-24
+  dateCodePrefix: 8906
+  dateCodeSuffix: 1 AA
+  std: 8906
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8837
+  dateCodeSuffix: CA
+  std: 8837
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC10
+  partNumberSubDetail: 
+  type: 74-10 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 91D
+  dateCodeSuffix: 7
+  std: 8904
+  misc: 

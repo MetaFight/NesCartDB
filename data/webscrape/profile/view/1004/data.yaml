@@ -1,0 +1,81 @@
+metadata:
+  name: Willow
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-08-16 19:17:00
+  moreProfiles:
+  - 1004
+  - 1024
+  relatedProfiles:
+  - 1870
+  - 3879
+  - 1859
+  - 2628
+  additionalImages: 
+slug: willow
+releaseInfo:
+  catalogId: NES-WI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WI-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1024')"
+    filename: /images/175/022ae603a56b9fa8c9989755e77ba7cd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/d6b9e7e359082d8bb7621f1ded30c730.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-WI-0 PRG
+  size: 128 KB
+  crc32: 90A33263
+  x: 2
+- type: CHR0
+  label: NES-WI-0 CHR
+  size: 128 KB
+  crc32: 30EA1A32
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 103E7E7F
+  x: 2
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9014
+  estFirstRun: April 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

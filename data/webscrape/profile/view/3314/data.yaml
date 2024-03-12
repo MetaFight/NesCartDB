@@ -1,0 +1,119 @@
+metadata:
+  name: Gradius II
+  altName: グラディウスII
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 07:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1565
+  - 2630
+  - 2650
+  - 3314
+  additionalImages: 
+slug: gradius-ii
+releaseInfo:
+  catalogId: KON-RC832
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 16, 1988
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC832
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1565')"
+    filename: /images/175/f5510a137043f1b8480d72d48f892085.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1565')"
+    filename: /images/175/afc154f8d0f5bab0cb33e2bc795def61.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC832J0P
+  size: 128 KB
+  crc32: C71D4CE7
+  x: 4
+- type: CHR0
+  label: RC832J0C
+  size: 128 KB
+  crc32: 537B6F6A
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5ADBF660
+  x: 4
+pcbProperties:
+  name: 351406
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351406<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29a8c4441751311a7ca2c65902b18426.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351406<br>Submitted by: bootgod<br>Linked from profile 1565')"
+    filename: /images/175/314843651fac8c32d3b5e4509ec472e9.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8848 - 8919 (4)
+  estFirstRun: December 1988
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 25
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8904
+  dateCodeSuffix: EX
+  std: 8904
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8904
+  dateCodeSuffix: EX
+  std: 8904
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8416A-15-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: SDIP-24
+  dateCodePrefix: 8841
+  dateCodeSuffix: KT57
+  std: 8841
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 052784 VRC IV
+  partNumberSubDetail: 
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8848
+  dateCodeSuffix: Z14
+  std: 8848
+  misc: 

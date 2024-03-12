@@ -1,0 +1,121 @@
+metadata:
+  name: 'The Flintstones:  The Surprise at Dinosaur Peak!'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-06 01:58:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1295
+  additionalImages: 
+slug: the-flintstones-the-surprise-at-dinosaur-peak
+releaseInfo:
+  catalogId: NES-FT-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: February 24, 1994
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FT-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3e51dd8cced1c6a03cea455b3a57ad36.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ee0a9e579b7c46042a8f5bb2d8257047.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-FT-0 PRG
+  size: 128 KB
+  crc32: 01256406
+  x: 1
+- type: CHR0
+  label: PAL-FT-0 CHR
+  size: 256 KB
+  crc32: EAFA94EA
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 4B750880
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/944990651a6918a775d93b6ef6ea049b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9352
+  estFirstRun: December 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1E
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9352
+  dateCodeSuffix: E
+  std: 9352
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 1E
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9352
+  dateCodeSuffix: E
+  std: 9352
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9211
+  dateCodeSuffix: A
+  std: 9211
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9316
+  dateCodeSuffix: 3 A
+  std: 9316
+  misc: 

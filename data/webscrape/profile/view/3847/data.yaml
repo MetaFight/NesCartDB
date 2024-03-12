@@ -1,0 +1,127 @@
+metadata:
+  name: Image Fight
+  altName: イメージファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 03:43:00
+  moreProfiles: []
+  relatedProfiles:
+  - 426
+  additionalImages: 
+slug: image-fight
+releaseInfo:
+  catalogId: IF-14
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 16, 1990
+  publisher: Irem
+  developer: Irem
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Black
+  formFactor: New Style
+  frontLabelId: IF-14
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1d71c8803e89c9ff70b49fa585e4a372.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/664e4c8823251d82da962ef70355ae7a.jpg
+romDetails:
+- type: PRG0
+  label: IF-14 PRG
+  size: 128 KB
+  crc32: 726EDB66
+  x: 1
+- type: CHR0
+  label: IF-14 CHR
+  size: 128 KB
+  crc32: 57961A3B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D2038FC5
+  x: 1
+pcbProperties:
+  name: FC-00-015
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-015<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f12ac30b3cf1f77d2b48aeb03198182c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-015<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/83912cacae5c0a305932bec71ddbc710.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8944
+  estFirstRun: November 1989
+  pcbClass: IREM-G101
+  inesMapper: 32
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx10, G-101
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: E
+  std: 8943
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: E
+  std: 8944
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: G-101
+  partNumberSubDetail: 
+  type: Irem G-101
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 940
+  dateCodeSuffix: 101
+  std: 8940
+  misc: 
+- designation: 
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9J
+  dateCodeSuffix: 12Y
+  std: 8940
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC10N
+  partNumberSubDetail: 
+  type: 74-10 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8931
+  dateCodeSuffix: JJAI
+  std: 8931
+  misc: 

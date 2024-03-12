@@ -1,0 +1,128 @@
+metadata:
+  name: 'Sangokushi: Chuugen no Hasha'
+  altName: 三國志　中原の覇者
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 03:59:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1818
+  - 3318
+  additionalImages: 
+slug: sangokushi-chuugen-no-hasha
+releaseInfo:
+  catalogId: NAM-ST-6900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 29, 1988
+  publisher: Namco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1818')"
+    filename: /images/175/02af5a4aeb10c89dd9f38803992f667f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1818')"
+    filename: /images/175/9dfb57003079787849ee19ce8f9a3477.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B78970D2
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 492DB38B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E64B8975
+  x: 2
+pcbProperties:
+  name: 60-15
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-15<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/54c3a6d6065e22e743e7e453c7a6e481.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-15<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/69664fa437d7555626274a30d79e4bc9.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8823 - 8824 (2)
+  estFirstRun: June 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: ST
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 824
+  dateCodeSuffix: K08
+  std: 8824
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

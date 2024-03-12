@@ -1,0 +1,108 @@
+metadata:
+  name: 'Daiva: Imperial of Nirsartia'
+  altName: ディーヴァ ナーサティアの玉座
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 01:50:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: daiva-imperial-of-nirsartia
+releaseInfo:
+  catalogId: TFS-DV
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 5, 1986
+  publisher: Toemiland
+  developer: T & E Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Grey
+  formFactor: Small
+  frontLabelId: TFS-DV
+  secondaryId: FS-2004G
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/304f2ff708b69237dda5039b6311ba36.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFS-DV-0 PRG
+  size: 128 KB
+  crc32: 721B5217
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8644
+  estFirstRun: November 1986
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Toshiba
+  partNumber: TC531000BP
+  partNumberSubDetail: 1618
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8644
+  dateCodeSuffix: EBI
+  std: 8644
+  misc: 
+- designation: CHR RAM
+  maker: Toshiba
+  partNumber: TC5565APL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8641
+  dateCodeSuffix: HBK
+  std: 8641
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8624
+  dateCodeSuffix: H
+  std: 8624
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8642
+  dateCodeSuffix: H
+  std: 8642
+  misc: 

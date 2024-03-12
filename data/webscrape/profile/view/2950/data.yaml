@@ -1,0 +1,144 @@
+metadata:
+  name: Magician
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2009-01-02 03:56:00
+  moreProfiles:
+  - 1272
+  - 2865
+  - 2950
+  relatedProfiles: []
+  additionalImages: 
+slug: magician
+releaseInfo:
+  catalogId: NES-XD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Taxan
+  developer: Eurocom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/a5f9e7f93dbdad10df6c3427bd7ede8e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/b8a88b9dbe7a4a98081bce16e7f014fc.jpg
+romDetails:
+- type: PRG0
+  label: P
+  size: 128 KB
+  crc32: 3829A3C2
+  x: 1
+- type: CHR0
+  label: C
+  size: 128 KB
+  crc32: FA7529B0
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B7D69A6D
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/ccf68605c86cad45fbbcf502bbc51cba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/f089f309566b489086cd9dd493eb7a92.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049 - 9049 (2)
+  estFirstRun: December 1990
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3A
+detailedChipInfo:
+- designation: U10
+  maker: Texas Instruments
+  partNumber: SN74LS139N
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9027
+  dateCodeSuffix: X
+  std: 9027
+  misc: 
+- designation: U4 PRG-ROM
+  maker: Mitsubishi
+  partNumber: M5M27C100K-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 921
+  dateCodeSuffix: 154
+  std: 8921
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Mitsubishi
+  partNumber: M5M27C100K-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 921
+  dateCodeSuffix: 154
+  std: 8921
+  misc: 
+- designation: U7 W-RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9012
+  dateCodeSuffix: 3 DB
+  std: 9012
+  misc: 
+- designation: U8 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8908
+  dateCodeSuffix: KP
+  std: 8908
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8933
+  dateCodeSuffix: 5 AA
+  std: 8933
+  misc: 

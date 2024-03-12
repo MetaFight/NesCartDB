@@ -1,0 +1,121 @@
+metadata:
+  name: Sanma no Mei Tantei
+  altName: さんまの名探偵 改
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-20 05:38:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1585
+  - 2665
+  - 2296
+  - 3195
+  - 3196
+  - 3329
+  additionalImages: 
+slug: sanma-no-mei-tantei
+releaseInfo:
+  catalogId: NAM-SM-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 2, 1987
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/60307302f0666db007320799fa7e7c5a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/f83f02e57c59fbb410af6368d9a19735.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 61F96440
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 37E3C6FA
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: F41ADD60
+  x: 6
+pcbProperties:
+  name: 026-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>026-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b605f4c8b94fadb31f5120a6f2a559cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>026-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/497e1b714b78f9002c81b255a78c8649.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8711 - 8712 (6)
+  estFirstRun: March 1987
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG026
+  partNumberSubDetail: SM
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8712
+  dateCodeSuffix: 2
+  std: 8712
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

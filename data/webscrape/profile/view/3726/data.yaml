@@ -1,0 +1,96 @@
+metadata:
+  name: Hogan's Alley
+  altName: ホーガンズアレイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 06:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1841
+  - 307
+  additionalImages: 
+slug: hogans-alley
+releaseInfo:
+  catalogId: HVC-HA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 12, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Violet
+  formFactor: Small
+  frontLabelId: HVC-HA
+  backLabelId/Desc: 831018
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b51d3e5fb94707b237d934582428663.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-HA-0 PRG
+  size: 16 KB
+  crc32: 8963AE6E
+  x: 6
+- type: CHR0
+  label: HVC-HA-0 CHR
+  size: 8 KB
+  crc32: 5DF42FC4
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FF24D794
+  x: 5
+pcbProperties:
+  name: HVC-SROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/06fe88959cb1e05f02f63ae9cbd715b9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 3475')"
+    filename: /images/175/46bcb180c2db2e50f46db969489ab1b7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8434
+  estFirstRun: August 1984
+  pcbClass: HVC-SROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1227
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 430
+  dateCodeSuffix: VA 3805
+  std: 8430
+  misc: RP23128 0315
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: T6
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 48C
+  dateCodeSuffix: 5
+  std: 8434
+  misc: 

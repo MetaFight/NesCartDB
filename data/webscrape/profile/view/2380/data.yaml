@@ -1,0 +1,113 @@
+metadata:
+  name: Pinball
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2007-12-29 22:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2092
+  - 4373
+  - 1459
+  - 1911
+  - 17
+  additionalImages: 
+slug: pinball
+releaseInfo:
+  catalogId: NES-PN-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: August 29, 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/a325035c640a571ab3da88c4b7152ab1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/6b08e0aebf2d15aead150883b29c6d5c.jpg
+romDetails:
+- type: PRG0
+  label: HVC-PN-0 PRG
+  size: 16 KB
+  crc32: 91D33E3C
+  x: 12
+- type: CHR0
+  label: HVC-PN-0 CHR
+  size: 8 KB
+  crc32: F2A53B3D
+  x: 18
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 035DC2E9
+  x: 12
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-01<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/d14371318dd8d8233cd243bd660a335b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 2359')"
+    filename: /images/175/e01688d9f95c56e49846a555c056012d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8639
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0308
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6H5
+  dateCodeSuffix: 15
+  std: 8636
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D70
+  partNumberSubDetail: 0047
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6J3
+  dateCodeSuffix: 18
+  std: 8638
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8639
+  dateCodeSuffix: AC
+  std: 8639
+  misc: 

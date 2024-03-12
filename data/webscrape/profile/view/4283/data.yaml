@@ -1,0 +1,97 @@
+metadata:
+  name: 'RockMan 6: Shijou Saidai no Tatakai!!'
+  altName: ロックマン６ 史上最大の戦い！！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 02:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 891
+  additionalImages: 
+slug: rockman-6-shijou-saidai-no-tatakai
+releaseInfo:
+  catalogId: CAP-6V
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 5, 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: CAP-6V
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c14960d1bb8e12a7968176084d616fd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4602')"
+    filename: /images/175/634a8c9d5b94e849af06bd5d4dace571.jpg
+romDetails:
+- type: PRG0
+  label: CAP-6V-0 PRG
+  size: 512 KB
+  crc32: 2D664D99
+  x: 1
+pcbProperties:
+  name: HVC-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9348
+  estFirstRun: December 1993
+  pcbClass: HVC-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013ACZ
+  partNumberSubDetail: W71
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9348
+  dateCodeSuffix: ED110
+  std: 9348
+  misc: 
+- designation: U2 CHR-RAM
+  maker: LSI Logic
+  partNumber: LH5268AF-10TLL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 346
+  dateCodeSuffix: D
+  std: 9346
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9346
+  dateCodeSuffix: EX015
+  std: 9346
+  misc: 

@@ -1,0 +1,82 @@
+metadata:
+  name: The Legend of Zelda
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-13 01:52:00
+  moreProfiles:
+  - 173
+  - 468
+  - 490
+  - 654
+  - 772
+  - 856
+  - 872
+  - 1013
+  - 1277
+  - 1332
+  relatedProfiles:
+  - 1434
+  - 2126
+  - 4270
+  - 1420
+  - 3948
+  - 1921
+  additionalImages: 
+slug: the-legend-of-zelda
+releaseInfo:
+  catalogId: NES-ZL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Gold (Battery)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/fe33f0bf697c0fbfd921d52915d7296f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 872')"
+    filename: /images/175/fc70dcad65a263501ac483104c2a7e5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4396')"
+    filename: /images/175/1bf183f8cbc10a815bb21436c2034394.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZL-0 PRG
+  size: 128 KB
+  crc32: 3FE272FB
+  x: 4
+pcbProperties:
+  name: NES-SNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8723 - 9229 (7)
+  estFirstRun: June 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: MMC1A
+detailedChipInfo: []

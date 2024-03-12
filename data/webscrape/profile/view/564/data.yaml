@@ -1,0 +1,81 @@
+metadata:
+  name: Boulder Dash
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 00:27:00
+  moreProfiles:
+  - 564
+  - 2864
+  relatedProfiles:
+  - 4472
+  - 3814
+  - 1901
+  additionalImages: 
+slug: boulder-dash
+releaseInfo:
+  catalogId: NES-XB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: JVC
+  developer: First Star Software
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XB-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2864')"
+    filename: /images/175/d2fe68d9dc5408acb100d5df33f68b8a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2864')"
+    filename: /images/175/55f8b07bb0a8314436ff9f1289051b4d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-XB-0 PRG
+  size: 32 KB
+  crc32: 62DFC064
+  x: 3
+- type: CHR0
+  label: NES-XB-0 CHR
+  size: 32 KB
+  crc32: ACFD0E95
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: A8F4D99E
+  x: 3
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9017
+  estFirstRun: April 1990
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

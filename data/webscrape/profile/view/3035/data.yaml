@@ -1,0 +1,108 @@
+metadata:
+  name: 'Saiyuuki World 2: Tenjoukai no Majin'
+  altName: 西遊記ワールド2　天上界の魔神
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-22 00:21:00
+  moreProfiles:
+  - 2288
+  - 3035
+  relatedProfiles:
+  - 937
+  additionalImages: 
+slug: saiyuuki-world-2-tenjoukai-no-majin
+releaseInfo:
+  catalogId: JF-31
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 7, 1990
+  publisher: Jaleco
+  developer: Jaleco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-31
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f43e8f38589d81bede699d7e5cb8782.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3d960e61135000d6aa541ec6d65d2055.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B092FA3E
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 25BB8F71
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 75B3EB37
+  x: 2
+pcbProperties:
+  name: JF-24A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1ea079b3082ddb98d5f1712cb6863332.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 2288')"
+    filename: /images/175/efad5326850045481d8ccde9ecfa1fa5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9043 - 9044 (2)
+  estFirstRun: October 1990
+  pcbClass: JALECO-JF-24
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: P1
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9044
+  dateCodeSuffix: E
+  std: 9044
+  misc: 
+- designation: IC2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: P0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9044
+  dateCodeSuffix: E
+  std: 9044
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 041
+  dateCodeSuffix: 149
+  std: 9041
+  misc: 

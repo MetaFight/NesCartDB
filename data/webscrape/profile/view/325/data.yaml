@@ -1,0 +1,116 @@
+metadata:
+  name: Alien Syndrome
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-03 03:28:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: alien-syndrome
+releaseInfo:
+  catalogId: TGN-009-AS
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Sega
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4c9fb728cfec750d8811b223e2f3176.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335009-1011 ASPRG
+  size: 128 KB
+  crc32: 560E44B9
+  x: 1
+- type: CHR0
+  label: 335009-1012 ASCHR
+  size: 128 KB
+  crc32: 6E74311F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CBF4366F
+  x: 1
+pcbProperties:
+  name: 800037 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800037 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a878fd79d3d4dfa1799d3104c5d322fd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800037 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5e7c50d0ecb8da56c10ddc989bd589b.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8943
+  estFirstRun: October 1989
+  pcbClass: TENGEN-800037
+  inesMapper: 158
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006, 74xx32
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: 337006
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8932
+  dateCodeSuffix: F836193A
+  std: 8932
+  misc: NCR0381301
+- designation: LS32
+  maker: Motorola
+  partNumber: SN74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8936
+  dateCodeSuffix: FFND
+  std: 8936
+  misc: 

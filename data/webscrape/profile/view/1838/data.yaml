@@ -1,0 +1,115 @@
+metadata:
+  name: Bubble Bath Babes
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-24 04:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1045
+  additionalImages: 
+slug: bubble-bath-babes
+releaseInfo:
+  catalogId: PAN-BB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Panesian
+  developer: C & E
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 71547D94
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 7505B144
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 68AFEF5F
+  x: 1
+pcbProperties:
+  name: A-08-C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>A-08-C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9226172abdaefc6deb2b17200a856896.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>A-08-C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/77c0b003c044ad2597e6303184c5b046.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9126
+  estFirstRun: June 1991
+  pcbClass: AVE-74*161
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 27256
+  maker: Intel
+  partNumber: D27256-1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 751
+  dateCodeSuffix: U
+  std: 8751
+  misc: 
+- designation: 27512
+  maker: Texas Instruments
+  partNumber: TMS27C512JL
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: ALDP
+  std: 8844
+  misc: 
+- designation: NINA
+  maker: Macronix
+  partNumber: 
+  partNumberSubDetail: MX8018-0002-A
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 74161
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9126
+  dateCodeSuffix: ''
+  std: 9126
+  misc: 

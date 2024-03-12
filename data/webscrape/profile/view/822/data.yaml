@@ -1,0 +1,69 @@
+metadata:
+  name: Cobra Triangle
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-05-16 02:56:00
+  moreProfiles:
+  - 822
+  - 828
+  relatedProfiles:
+  - 2469
+  - 2582
+  additionalImages: 
+slug: cobra-triangle
+releaseInfo:
+  catalogId: NES-CU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1989
+  publisher: Nintendo
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CU-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/58fa10bab4e094b3ec6eb9f5eb9242c0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 828')"
+    filename: /images/175/ed88a4f4cdfa5556348cd73ff33dab61.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-CU-0 PRG
+  size: 128 KB
+  crc32: C8AD4F32
+  x: 2
+pcbProperties:
+  name: NES-ANROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8921
+  estFirstRun: May 1989
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo: []

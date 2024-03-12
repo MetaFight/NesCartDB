@@ -1,0 +1,127 @@
+metadata:
+  name: 'Uchuusen: Cosmo Carrier'
+  altName: 宇宙船コスモキャリア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 22:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: uchuusen-cosmo-carrier
+releaseInfo:
+  catalogId: JF-16
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 6, 1987
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Blue
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-16
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eeb897f73548c51ab41c5aa270737d1b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5acf7827b2a2dc2ab5e3c9e9eafcec65.jpg
+romDetails:
+- type: PRG0
+  label: JF-16 PRG
+  size: 128 KB
+  crc32: 42392440
+  x: 1
+- type: CHR0
+  label: JF-16 CHR
+  size: 128 KB
+  crc32: CFFEE642
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3D1C3137
+  x: 1
+pcbProperties:
+  name: JF-16
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-16<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/61be1325442a4f96887b75bd1544d259.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-16<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ff6054a373d3016cb4abba9fb9b3026c.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8748
+  estFirstRun: December 1987
+  pcbClass: JALECO-JF-16
+  inesMapper: 78
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8748
+  dateCodeSuffix: E
+  std: 8748
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8744
+  dateCodeSuffix: E
+  std: 8744
+  misc: 
+- designation: 
+  maker: JRC
+  partNumber: 74HC32D
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 710
+  dateCodeSuffix: 2
+  std: 8710
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 729
+  dateCodeSuffix: 1A1
+  std: 8729
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 729
+  dateCodeSuffix: 1A1
+  std: 8729
+  misc: 

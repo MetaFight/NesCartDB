@@ -1,0 +1,137 @@
+metadata:
+  name: Double Dribble
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2007-07-31 04:33:00
+  moreProfiles:
+  - 463
+  - 612
+  - 642
+  - 871
+  - 1245
+  - 1309
+  - 1866
+  relatedProfiles:
+  - 2638
+  - 4321
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-DW USA<br>Submitted by: bootgod<br>Linked from profile 871')"
+    filename: /images/175/17054301adebf7b9eb4cc74b01f1dfee.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-DW USA<br>Submitted by: bootgod<br>Linked from profile 871')"
+    filename: /images/175/d4026bcfc3016dce4f61e49a43fd22e1.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-DW-USA<br>Submitted by: polarz<br>Linked from profile 612')"
+    filename: /images/175/60a52509a50e949b6540ede723e56896.jpg
+slug: double-dribble
+releaseInfo:
+  catalogId: NES-DW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DW-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 463')"
+    filename: /images/175/8324fb8a7179bb5f29b7966c858745ae.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 871')"
+    filename: /images/175/a137fd41f4bddee9e4a21f6c4ae9e271.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4741')"
+    filename: /images/175/ad00db9923d49b428ee0df399cfd4c81.jpg
+romDetails:
+- type: PRG0
+  label: 040010-005
+  size: 128 KB
+  crc32: D0E96F6B
+  x: 5
+pcbProperties:
+  name: 351298
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8738 - 8932 (5)
+  estFirstRun: September 1987
+  pcbClass: KONAMI-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 6500
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9G1
+  dateCodeSuffix: 74
+  std: 8927
+  misc: 
+- designation: 
+  maker: Seiko-Epson
+  partNumber: SRM2064C15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 94
+  dateCodeSuffix: F
+  std: 8913
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8932
+  dateCodeSuffix: 5 AA
+  std: 8932
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC161C
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8839
+  dateCodeSuffix: J7
+  std: 8839
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8644
+  dateCodeSuffix: C7
+  std: 8644
+  misc: 

@@ -1,0 +1,96 @@
+metadata:
+  name: Balloon Fight
+  altName: バルーンファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 02:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2456
+  - 1075
+  additionalImages: 
+slug: balloon-fight
+releaseInfo:
+  catalogId: HVC-BF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 22, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-BF
+  backLabelId/Desc: 831018
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d9340eff2dd5ce06ef0743b4a51a996f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-BF-0 PRG
+  size: 16 KB
+  crc32: 575ED2FE
+  x: 1
+- type: CHR0
+  label: HVC-BF-0 CHR
+  size: 8 KB
+  crc32: C642A1DF
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 2B462010
+  x: 1
+pcbProperties:
+  name: HVC-RROM-05S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb260eab6c3eb1153e87a1d0382f4712.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a23d61f999642614290b7592dbb4ef3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8507
+  estFirstRun: February 1985
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Yamaha
+  partNumber: YM2211
+  partNumberSubDetail: 22846
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 51 14
+  dateCodeSuffix: 83 C
+  std: 8503
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0068
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 52B
+  dateCodeSuffix: 5
+  std: 8507
+  misc: 

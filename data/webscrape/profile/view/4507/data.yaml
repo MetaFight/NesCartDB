@@ -1,0 +1,113 @@
+metadata:
+  name: Chuugoku Senseijutsu
+  altName: 中国
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 03:35:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3aee41c7af19b25c87772bea1753fabc.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3172ac2dcdaeef2d8e3e90de9258aed9.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/33e325eb2025fa5e6de2d1f8a89ed2d1.jpg
+slug: chuugoku-senseijutsu
+releaseInfo:
+  catalogId: SAN-CQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 29, 1988
+  publisher: Jaleco
+  developer: Aicom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: SAN-CQ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/309f8d1c2bfd5bdf50a37e4d95852dd6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: SAN-CQ-0 PRG
+  size: 128 KB
+  crc32: F64CB545
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8846
+  estFirstRun: November 1988
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5300
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8L2
+  dateCodeSuffix: E4
+  std: 8846
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: D4364C-12L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8612
+  dateCodeSuffix: A3009
+  std: 8612
+  misc: 
+- designation: U3 HC161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8C2
+  dateCodeSuffix: T
+  std: 8811
+  misc: 
+- designation: U4 HC32
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8D1
+  dateCodeSuffix: T
+  std: 8814
+  misc: 

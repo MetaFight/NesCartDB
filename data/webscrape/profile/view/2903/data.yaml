@@ -1,0 +1,77 @@
+metadata:
+  name: The Addams Family
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 04:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2362
+  - 1978
+  - 586
+  additionalImages: 
+slug: the-addams-family
+releaseInfo:
+  catalogId: NES-6Z-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Ocean
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6Z-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4743')"
+    filename: /images/175/c9d47ebdc2990bb39cb5d01eeed2fe8c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-6Z-0 PRG
+  size: 128 KB
+  crc32: 0FA94D88
+  x: 4
+- type: CHR0
+  label: NES-6Z-0 CHR
+  size: 128 KB
+  crc32: EEA879FA
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BF700470
+  x: 4
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

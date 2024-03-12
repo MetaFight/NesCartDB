@@ -1,0 +1,111 @@
+metadata:
+  name: Master Chu and the Drunkard Hu
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 18:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>MU-81009<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6243fed00328a69a733e477ff89266ca.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>MU-81009<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27edcba531ab9d119e37b295be1b5590.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/61925260fae4f86c8d1e3a5d4e8424d0.jpg
+slug: master-chu-and-the-drunkard-hu
+releaseInfo:
+  catalogId: CDR-MU-81009
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Color Dreams
+  developer: Sachen / Joy Van
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Grey Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/76cb459cb3867e328e2aff2f1aad66b7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a5bae2ecbd7594217d9645f4237fa661.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 1A2D3B17
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 5CFF196B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3C7E38F5
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae1f0c7caa4bc935e70689f9e69b5cd2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9001
+  estFirstRun: January 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: KJ
+  std: 8944
+  misc: 2298414
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9001
+  dateCodeSuffix: KJ
+  std: 9001
+  misc: 2299R08
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

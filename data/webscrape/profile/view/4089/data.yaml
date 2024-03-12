@@ -1,0 +1,116 @@
+metadata:
+  name: 'Oeka Kids: Anpanman to Oekaki Shiyou!!'
+  altName: おえかキッズ アンパンマンとおえかきしよう!!
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 04:36:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: oeka-kids-anpanman-to-oekaki-shiyou
+releaseInfo:
+  catalogId: BA-OEKA1
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 25, 1990
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Oeka Kids Tablet
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Red
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7135e9a375579dba00a1e98e2d65d911.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/437edc9d39127a0d4d61cbbb7ec2e729.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/69c920aed17c1cccd6549618d0b2b16a.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI'90 OEKAKIDS-1
+  size: 128 KB
+  crc32: 9D048EA4
+  x: 1
+pcbProperties:
+  name: UNK-BANDAI-OEKAKIDS
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9035
+  estFirstRun: September 1990
+  pcbClass: BANDAI-74*161/02/74
+  inesMapper: 96
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 32 KB
+  cicType: None
+  hardware: 74xx02, 74xx161, 74xx74
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9034
+  dateCodeSuffix: E
+  std: 9034
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D43256AC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9012
+  dateCodeSuffix: AU017
+  std: 9012
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9011
+  dateCodeSuffix: JJAT
+  std: 9011
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC02P
+  partNumberSubDetail: 
+  type: 74-02 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 0H2
+  dateCodeSuffix: 5
+  std: 9033
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC74P
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 0H4
+  dateCodeSuffix: 5
+  std: 9035
+  misc: 

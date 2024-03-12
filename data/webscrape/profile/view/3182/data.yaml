@@ -1,0 +1,121 @@
+metadata:
+  name: Family Jockey
+  altName: ファミリージョッキー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-20 00:56:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1588
+  - 1793
+  - 3180
+  - 3181
+  - 3182
+  - 3183
+  additionalImages: 
+slug: family-jockey
+releaseInfo:
+  catalogId: NAM-FJ-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 24, 1987
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1588')"
+    filename: /images/175/aa0f8efd6dd72727a331a1c04291c8b7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1588')"
+    filename: /images/175/7b9f8dd07cddc8dfd98cfc5aef3265a2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: AC75F8CD
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 14416358
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3719A26D
+  x: 6
+pcbProperties:
+  name: 027-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>027-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02cd6dbdd37236752923caab7370e12d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>027-00<br>Submitted by: bootgod<br>Linked from profile 1793')"
+    filename: /images/175/7e24d126ad271f507d36cacd5270555e.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8713 - 8724 (6)
+  estFirstRun: March 1987
+  pcbClass: NAMCOT-3407
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG027
+  partNumberSubDetail: FJ
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8717
+  dateCodeSuffix: 1
+  std: 8717
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

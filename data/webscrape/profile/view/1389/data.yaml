@@ -1,0 +1,132 @@
+metadata:
+  name: Deathbots
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-11 03:27:00
+  moreProfiles:
+  - 962
+  - 1389
+  - 1447
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1447')"
+    filename: /images/175/1d0d46a9e172a5e0a852b99cbbc04403.jpg
+slug: deathbots
+releaseInfo:
+  catalogId: AVE-DB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Odyssey Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a80dc3c9efa9ac17b5de5ffec9f7fe8b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f560504172f8e1e08edd79179f2fe63.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: DECC-PGM
+  size: 64 KB
+  crc32: 8B781D39
+  x: 2
+- type: CHR0
+  label: 81C0-CHR
+  size: 64 KB
+  crc32: 391C465A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: BEE54426
+  x: 2
+pcbProperties:
+  name: MB-91?H?
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MB-91?H?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/437a4de456ba53f1ec5ab3147fe342e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MB-91?H?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2ca36959b4520162311a49dedac9e627.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9134 - 9240 (3)
+  estFirstRun: August 1991
+  pcbClass: AVE-MB-91
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: AMI
+  partNumber: MX23512
+  partNumberSubDetail: 1012
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9133
+  dateCodeSuffix: MAA
+  std: 9133
+  misc: 
+- designation: U2
+  maker: AMI
+  partNumber: MX23512
+  partNumberSubDetail: 1011
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9134
+  dateCodeSuffix: MAB
+  std: 9134
+  misc: 
+- designation: U3
+  maker: Matsushita
+  partNumber: 74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .164
+  dateCodeSuffix: N_
+  std: 9124
+  misc: 
+- designation: U4
+  maker: Mitsubishi
+  partNumber: M74LS175P
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 805
+  dateCodeSuffix: 4K3
+  std: 8805
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9123
+  dateCodeSuffix: ''
+  std: 9123
+  misc: 

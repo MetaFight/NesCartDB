@@ -1,0 +1,79 @@
+metadata:
+  name: Adventures of Dino Riki
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:15:00
+  moreProfiles:
+  - 342
+  - 1125
+  - 1315
+  relatedProfiles:
+  - 2168
+  additionalImages: 
+slug: adventures-of-dino-riki
+releaseInfo:
+  catalogId: NES-SG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SG-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 342')"
+    filename: /images/175/c49bf123a77088e138746fd6bf4edd54.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 342')"
+    filename: /images/175/7fbcb94ec29238743140111db70dcc0d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-SG-0 PRG
+  size: 32 KB
+  crc32: 6F605522
+  x: 3
+- type: CHR0
+  label: NES-SG-0 CHR
+  size: 32 KB
+  crc32: 5AF94710
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9BDE3267
+  x: 3
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8929
+  estFirstRun: July 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

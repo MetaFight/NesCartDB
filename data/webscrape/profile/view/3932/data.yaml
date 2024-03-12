@@ -1,0 +1,106 @@
+metadata:
+  name: Astro Robo SASA
+  altName: アストロロボ・ササ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:10:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: astro-robo-sasa
+releaseInfo:
+  catalogId: HSP-01
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 9, 1985
+  publisher: ASCII
+  developer: Mass Tael
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: HSP-01
+  backLabelId/Desc: 850610
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/06123296049eb3a4ca349d740d22742e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: C6ACCEEA
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 3D4B2A68
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 2DC05A6F
+  x: 1
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8cf490f7575f3b40e83bf6b5b86d34d5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3376')"
+    filename: /images/175/a9cbe6ee6c764c7058c51f0924fd3029.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8531
+  estFirstRun: August 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HSP-01
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 58
+  dateCodeSuffix: 04
+  std: 8531
+  misc: 0H-99
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

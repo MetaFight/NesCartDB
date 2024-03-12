@@ -1,0 +1,122 @@
+metadata:
+  name: Guerrilla War
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-17 04:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3550
+  - 228
+  additionalImages: 
+slug: guerrilla-war
+releaseInfo:
+  catalogId: NES-GW-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1989
+  publisher: SNK
+  developer: SNK
+  players: 2
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GW-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/25f13401cbf2fc5e96449461c0d5ef07.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/389fc5f262831aceea57c2474adbb22d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4367')"
+    filename: /images/175/af14a7e9f42101b30e26d2aec5df323c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-GW-0 PRG
+  size: 128 KB
+  crc32: AECDBE24
+  x: 1
+- type: CHR0
+  label: NES-GW-0 CHR
+  size: 128 KB
+  crc32: DE1B8EA3
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 622E054A
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b91359aee8ffddfc53dfe8dc3d6fcde6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9150
+  estFirstRun: December 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W39
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9149
+  dateCodeSuffix: K9004
+  std: 9149
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W24
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9150
+  dateCodeSuffix: KY700
+  std: 9150
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9149
+  dateCodeSuffix: A
+  std: 9149
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9104
+  dateCodeSuffix: 5 AA
+  std: 9104
+  misc: 

@@ -1,0 +1,144 @@
+metadata:
+  name: Teenage Mutant Ninja Turtles
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-01 17:59:00
+  moreProfiles:
+  - 8
+  - 9
+  - 501
+  - 2845
+  - 331
+  - 2843
+  - 558
+  - 817
+  - 2846
+  - 1137
+  - 2842
+  - 1246
+  - 3060
+  relatedProfiles:
+  - 2033
+  - 4408
+  - 4563
+  - 4761
+  - 2396
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-U2-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/49bc29b28562218b98361a4dbd20950a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-U2-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebd4ac01af3616f57cb4f727940c0961.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-U2-USA<br>Submitted by: bootgod<br>Linked from profile 8')"
+    filename: /images/175/460f00cb422faa8003b0f08d4766a238.jpg
+slug: teenage-mutant-ninja-turtles
+releaseInfo:
+  catalogId: NES-U2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Ultra Games
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U2-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 558')"
+    filename: /images/175/c7cfb5f666ae986422903e5682884098.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 9')"
+    filename: /images/175/4031fee91851e81ce6c08f0b24a51475.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-U2-0 PRG
+  size: 128 KB
+  crc32: 0CCD28D5
+  x: 13
+- type: CHR0
+  label: NES-U2-0 CHR
+  size: 128 KB
+  crc32: 91F01F53
+  x: 13
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EE921D8E
+  x: 13
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1694afdb8c4acfe9e62765e460d490d0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8923 - 9036 (11)
+  estFirstRun: June 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5324
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9F1
+  dateCodeSuffix: 73
+  std: 8923
+  misc: 
+- designation: CHR-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8920
+  dateCodeSuffix: EY
+  std: 8920
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8917
+  dateCodeSuffix: 7 BA
+  std: 8917
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8923
+  dateCodeSuffix: 3 A
+  std: 8923
+  misc: 

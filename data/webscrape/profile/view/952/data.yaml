@@ -1,0 +1,129 @@
+metadata:
+  name: Amagon
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 04:24:00
+  moreProfiles:
+  - 952
+  - 2812
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-M5-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35b042a8376519f62a067dcc0251da59.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-M5-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/72638ea9b1a4e5c8336f7db518ce7b7f.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-M5-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/edaba81451a4fb9e18e68f91fc2f2aa2.jpg
+slug: amagon
+releaseInfo:
+  catalogId: NES-M5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1989
+  publisher: Sammy
+  developer: Aicom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-M5-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d8142a8b7fdd7cc9a6c86fedb34d7d9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/54ff902791f5979ac8e0e90b52af1517.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-M5-0 PRG
+  size: 128 KB
+  crc32: E2B43A68
+  x: 2
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8911 - 8911 (2)
+  estFirstRun: March 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9C1
+  dateCodeSuffix: E9
+  std: 8910
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5264D4
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8909
+  dateCodeSuffix: 3 Y
+  std: 8909
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8911
+  dateCodeSuffix: 1 AA
+  std: 8911
+  misc: 
+- designation: LS161N
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: H34
+  dateCodeSuffix: ''
+  std: 8834
+  misc: 
+- designation: LS32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: H12
+  dateCodeSuffix: ''
+  std: 8812
+  misc: 

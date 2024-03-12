@@ -1,0 +1,94 @@
+metadata:
+  name: Binary Land
+  altName: バイナリィランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 22:16:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: binary-land
+releaseInfo:
+  catalogId: HFC-BI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 19, 1985
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Pink
+  formFactor: Small
+  frontLabelId: HFC-BI
+  backLabelId/Desc: 850610
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/78dafed89ed7913ffacc89d3024a656f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-BI-0 PRG
+  size: 16 KB
+  crc32: 0C5C353A
+  x: 1
+- type: CHR0
+  label: HFC-BI-0 CHR
+  size: 8 KB
+  crc32: DC79323C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: F5F435B1
+  x: 1
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/13417e750f1ca0ceea2cf4c8dba234ad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 3450')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8549
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 14
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8549
+  dateCodeSuffix: D
+  std: 8549
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 46
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8549
+  dateCodeSuffix: E
+  std: 8549
+  misc: 

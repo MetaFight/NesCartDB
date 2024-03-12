@@ -1,0 +1,126 @@
+metadata:
+  name: 'Little Nemo: The Dream Master'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 06:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1898
+  - 1672
+  - 2533
+  - 4251
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-LN-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7bf59b4f659ff9f66564834afadd0dd0.jpg
+slug: little-nemo-the-dream-master
+releaseInfo:
+  catalogId: NES-LN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LN-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca6c3b6a553b643f36f15633b2e4a8e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7692916a9ced91b4f338548c0c0d1ea1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LN-0 PRG
+  size: 128 KB
+  crc32: 3E840B56
+  x: 1
+- type: CHR0
+  label: NES-LN-0 CHR
+  size: 128 KB
+  crc32: 5D275587
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5B4B6056
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f7f1830463c7605f5dea48881ec4b361.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9033
+  estFirstRun: August 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5480
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0HM
+  dateCodeSuffix: 7A
+  std: 9033
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0089
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0HM
+  dateCodeSuffix: 71
+  std: 9033
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9033
+  dateCodeSuffix: 7 AA
+  std: 9033
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9032
+  dateCodeSuffix: 5 DA
+  std: 9032
+  misc: 

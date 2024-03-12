@@ -1,0 +1,118 @@
+metadata:
+  name: 'Ys III: Wanderers from Ys'
+  altName: イースⅢ　ワンダラーズフロ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-01 04:40:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ys-iii-wanderers-from-ys
+releaseInfo:
+  catalogId: VFR-Q8-12
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 27, 1991
+  publisher: Victor
+  developer: Nihon Falcom
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: VFR-Q8-12
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6819ec7e1c76a97c4e9fe051b573329.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: VFR-Q8-0 PRG
+  size: 256 KB
+  crc32: 3B0FB600
+  x: 1
+- type: CHR0
+  label: VFR-Q8-0 CHR
+  size: 128 KB
+  crc32: FD7E7E58
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 37B62D04
+  x: 1
+pcbProperties:
+  name: HVC-TKSROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKSROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5145efc22d131082c9188432c7c6b4b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKSROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a283b6633f13c2d7f447cfccbf8739e7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9132
+  estFirstRun: August 1991
+  pcbClass: HVC-TKSROM
+  inesMapper: 118
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W19
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9132
+  dateCodeSuffix: EP703
+  std: 9132
+  misc: 
+- designation: U2 CHR-ROM
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R51
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9131
+  dateCodeSuffix: EY003
+  std: 9131
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: KP052
+  std: 9102
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9132
+  dateCodeSuffix: DC
+  std: 9132
+  misc: 

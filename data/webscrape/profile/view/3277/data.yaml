@@ -1,0 +1,142 @@
+metadata:
+  name: 'Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken'
+  altName: 西村京太郎ミステリー ブルートレイン殺人事件
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-15 23:58:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: nishimura-kyoutarou-mystery-blue-train-satsujin-jiken
+releaseInfo:
+  catalogId: IF-11
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 20, 1989
+  publisher: Irem
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Black
+  formFactor: Original wo/ LED
+  frontLabelId: IF-11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2105e169c148e860333da2676c78f97e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8d5e6b44d7d64cb0ea391ffd53451353.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab0bfa9544781b39ecfbe438a7cc22ef.jpg
+romDetails:
+- type: PRG0
+  label: IF-11 P
+  size: 128 KB
+  crc32: 0C187747
+  x: 1
+- type: CHR0
+  label: IF-11 C0
+  size: 128 KB
+  crc32: A47A33B3
+  x: 1
+- type: CHR1
+  label: IF-11 C1
+  size: 128 KB
+  crc32: 483B5B4C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: A851CAE9
+  x: 1
+pcbProperties:
+  name: BLUE TRAIN
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8851
+  estFirstRun: December 1988
+  pcbClass: IREM-FCG-1
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx08, 74xx139, FCG-1
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 21
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8851
+  dateCodeSuffix: D
+  std: 8851
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8851
+  dateCodeSuffix: D
+  std: 8851
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 23
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8851
+  dateCodeSuffix: D
+  std: 8851
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D36
+  partNumberSubDetail: 
+  type: Bandai FCG-1
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8838
+  dateCodeSuffix: 1 A
+  std: 8838
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8L4
+  dateCodeSuffix: T
+  std: 8848
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC08P
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8K1
+  dateCodeSuffix: T
+  std: 8840
+  misc: 

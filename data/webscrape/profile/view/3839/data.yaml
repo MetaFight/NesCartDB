@@ -1,0 +1,126 @@
+metadata:
+  name: King of Kings
+  altName: キング オブ キングス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 02:12:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: king-of-kings
+releaseInfo:
+  catalogId: NAM-KK-5900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 9, 1988
+  publisher: Namco
+  developer: Atlus
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a3c860e79a39659d61071cdffa86d6ec.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0b51eaf6b43f279de575e2fe78a9e098.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5103e2f7e71f63b47cf224cbfab4f640.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 1DD6619B
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: D3F4B947
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 369DA42D
+  x: 1
+pcbProperties:
+  name: 60-16
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-16<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/699e1849b784afaf66afac1e72f08786.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-16<br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/b530f95d691962f4822add9187ffa73f.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8842
+  estFirstRun: October 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: KK
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 842
+  dateCodeSuffix: K00
+  std: 8842
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

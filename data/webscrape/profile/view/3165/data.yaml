@@ -1,0 +1,96 @@
+metadata:
+  name: Space Invaders
+  altName: スペースインベーダー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 01:39:00
+  moreProfiles:
+  - 1759
+  - 3165
+  relatedProfiles: []
+  additionalImages: 
+slug: space-invaders
+releaseInfo:
+  catalogId: TFC-SI-4500-01
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 17, 1985
+  publisher: Taito
+  developer: Taito
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 2 / 3 Screws
+  frontLabelId: Not Present
+  sequence#: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6fbc1e3f90408e32e435de24ec9d148d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 50920B03
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A1C6A8F4
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D9C093B1
+  x: 2
+pcbProperties:
+  name: FC007
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC007<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/73d76e507046870a085fe48e4b01cafe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC007<br>Submitted by: bootgod<br>Linked from profile 1759')"
+    filename: /images/175/00801348d053ca16f220868acc8e31a3.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8822 - 8851 (2)
+  estFirstRun: June 1988
+  pcbClass: TAITO-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: OKI
+  partNumber: M27128AZB
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 84
+  dateCodeSuffix: 3068
+  std: 8813
+  misc: 43
+- designation: CH
+  maker: Sharp
+  partNumber: LH5764-25
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8851
+  dateCodeSuffix: 1 D
+  std: 8851
+  misc: 

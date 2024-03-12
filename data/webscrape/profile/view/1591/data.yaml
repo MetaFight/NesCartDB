@@ -1,0 +1,114 @@
+metadata:
+  name: Pro Yakyuu Family Stadium
+  altName: プロ野球ファミリースタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-19 19:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1591
+  - 2660
+  - 1801
+  - 2301
+  - 3237
+  - 3238
+  - 3239
+  - 3240
+  - 3241
+  - 3332
+  additionalImages: 
+slug: pro-yakyuu-family-stadium
+releaseInfo:
+  catalogId: NAM-FS-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 10, 1986
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c1f50303b8d6389686de311ef683c92.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ef4dbab3727394a440c62e403dae8ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e7075d2ab495685de7806d2886e214e2.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTFSPR
+  size: 64 KB
+  crc32: 18C0623B
+  x: 10
+- type: CHR0
+  label: NAMCOT FS CHR
+  size: 32 KB
+  crc32: 9688A5BA
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: DCDF06DE
+  x: 10
+pcbProperties:
+  name: 3413
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3413<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bce1280fbd136515c386847fe9793641.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3413<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/155f1a34bca082127a953eccaca0d022.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8648 - 8716 (10)
+  estFirstRun: December 1986
+  pcbClass: NAMCOT-3413
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: MB83512-15
+  partNumberSubDetail: 207 BK
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8647
+  dateCodeSuffix: E25
+  std: 8647
+  misc: 
+- designation: C
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: S5
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8648
+  dateCodeSuffix: D
+  std: 8648
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 108
+  partNumberSubDetail: 
+  type: Namcot 108
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8640
+  dateCodeSuffix: Z36
+  std: 8640
+  misc: 

@@ -1,0 +1,129 @@
+metadata:
+  name: Airwolf
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-02-28 20:13:00
+  moreProfiles:
+  - 2094
+  - 2548
+  - 4428
+  relatedProfiles:
+  - 2133
+  - 101
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-AF-EEC<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4b9c0af0b4693fa224ba18cc7819b81b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-AF-EEC<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/5e2a7d4a383b963461a4d31c59f301ff.jpg
+slug: airwolf
+releaseInfo:
+  catalogId: NES-AF-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: December 6, 1990
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AF-EEC
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2094')"
+    filename: /images/175/fd49d59055f957bb5acd7d187cdb7991.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/a939316e5bfc09f997834e5109eb6c20.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AF-0 PRG
+  size: 32 KB
+  crc32: F71A9931
+  x: 4
+- type: CHR0
+  label: PAL-AF-0 CHR
+  size: 128 KB
+  crc32: 7EAF3BB1
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 4D345422
+  x: 4
+pcbProperties:
+  name: NES-SHROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SHROM-05<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7c48909fd3c38c128d08a22fcb14cbf6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SHROM-05<br>Submitted by: Kinopio<br>Linked from profile 2094')"
+    filename: /images/175/4d4c82490180c84ef13a5a0ca7bd6823.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9017 - 9049 (3)
+  estFirstRun: April 1990
+  pcbClass: NES-SHROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 5Y
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9017
+  dateCodeSuffix: B
+  std: 9017
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: H2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9014
+  dateCodeSuffix: E
+  std: 9014
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: A
+  std: 9017
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9017
+  dateCodeSuffix: 3 AA
+  std: 9017
+  misc: 

@@ -1,0 +1,126 @@
+metadata:
+  name: To The Earth
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-18 01:15:00
+  moreProfiles:
+  - 190
+  - 2875
+  relatedProfiles:
+  - 1851
+  - 2041
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-ZE-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a62560815a4f781483f17f3aa26b3626.jpg
+slug: to-the-earth
+releaseInfo:
+  catalogId: NES-ZE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1989
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZE-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ce4e6244cf44b8e1d20acc2f134d0fb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8516087b2201903379330f2a7110d5d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZE-0 PRG
+  size: 32 KB
+  crc32: 163E86C0
+  x: 2
+- type: CHR0
+  label: NES-ZE-0 CHR
+  size: 32 KB
+  crc32: 9426179D
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: DE8FD935
+  x: 2
+pcbProperties:
+  name: NES-TEROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TEROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/279f69588c44127093f2c5a5d803d51d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TEROM-02<br>Submitted by: Kinopio<br>Linked from profile 1851')"
+    filename: /images/175/6d8d6491251909b462ce34dd61faaf46.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8936 - 8938 (2)
+  estFirstRun: September 1989
+  pcbClass: NES-TEROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2831
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9H4
+  dateCodeSuffix: 23
+  std: 8935
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2832
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9H1
+  dateCodeSuffix: 57
+  std: 8932
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8938
+  dateCodeSuffix: 1 BA
+  std: 8938
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8929
+  dateCodeSuffix: EP
+  std: 8929
+  misc: 

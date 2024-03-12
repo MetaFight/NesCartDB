@@ -1,0 +1,119 @@
+metadata:
+  name: Karnov
+  altName: カルノフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-20 01:19:00
+  moreProfiles:
+  - 3188
+  - 3189
+  relatedProfiles:
+  - 672
+  additionalImages: 
+slug: karnov
+releaseInfo:
+  catalogId: NAM-KA-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 18, 1987
+  publisher: Namco
+  developer: Data East
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3188')"
+    filename: /images/175/b98c8f38b5e486b87b40cd19f758d2d5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 198237C5
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: BF232D8E
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 267E592F
+  x: 2
+pcbProperties:
+  name: LROG037-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG037-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c77dc1d949dbbabf4daa966829a04cf9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG037-00<br>Submitted by: bootgod<br>Linked from profile 1795')"
+    filename: /images/175/fc1c5dec7e9b7db0758e87b0e874ccc2.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8749 - 8749 (2)
+  estFirstRun: December 1987
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG037
+  partNumberSubDetail: KA
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8749
+  dateCodeSuffix: 4
+  std: 8749
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,106 @@
+metadata:
+  name: Airwolf
+  altName: エアーウルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 04:36:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: airwolf
+releaseInfo:
+  catalogId: KYG-AX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 24, 1988
+  publisher: Kyugo Boueki
+  developer: Shimada Kikaku
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: KYG-AX
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a91d0c31c43518f5c89d470b48c8f56.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: KYG-AX-0 PRG
+  size: 128 KB
+  crc32: 5CB41FED
+  x: 1
+- type: CHR0
+  label: KYG-AX-0 CHR
+  size: 128 KB
+  crc32: 69CE0950
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FB8A9B80
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f6401eceb8ddf329b0880d32c0dc0ca7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8850
+  estFirstRun: December 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1801
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8M2
+  dateCodeSuffix: A6
+  std: 8850
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 2D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8849
+  dateCodeSuffix: D
+  std: 8849
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8849
+  dateCodeSuffix: 1 A
+  std: 8849
+  misc: 

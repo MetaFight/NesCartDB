@@ -1,0 +1,68 @@
+metadata:
+  name: Skate Boy
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-23 13:08:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: skate-boy
+releaseInfo:
+  catalogId: CN-18
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: January 1, 1992
+  publisher: Gluk Video
+  developer: MegaSoft
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2cb850a413a32b70bac7c4f118dc0c7b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 01207EDC
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: F594AE7B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 757EFB63
+  x: 2
+pcbProperties:
+  name: N715061
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  pcbClass: NTDEC-N715061
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+detailedChipInfo: []

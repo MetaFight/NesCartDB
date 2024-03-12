@@ -1,0 +1,122 @@
+metadata:
+  name: 'Mezase Top Pro: Green ni Kakeru Yume'
+  altName: めざせ！トッププロ グリーンに賭ける夢
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 03:24:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/88ec35595ff08b4c830928f10bc051ee.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7044e043627e91cd03d7a0043c9605e.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/936bf5305fc5095891fbacae632351f2.jpg
+slug: mezase-top-pro-green-ni-kakeru-yume
+releaseInfo:
+  catalogId: JF-41
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 5, 1993
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-41
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/63e6df9a4825cece99f5c7b533ae216e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/08c4d57112a0734e3766dbddad92d31d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 6701A19F
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 482E9EFF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 3691C120
+  x: 1
+pcbProperties:
+  name: JF-40
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-40<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9816bb374847e2e38968e640083b500c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-40<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41fbbc8851b3434c8406b8cdda30abbb.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9307
+  estFirstRun: February 1993
+  pcbClass: JALECO-JF-40
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C2001ECZ
+  partNumberSubDetail: W35
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9306
+  dateCodeSuffix: XD004
+  std: 9306
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1000EBCZ
+  partNumberSubDetail: W03
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9307
+  dateCodeSuffix: EY001
+  std: 9307
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 148
+  dateCodeSuffix: 184
+  std: 9148
+  misc: 
+- designation: IC4
+  maker: Sanyo
+  partNumber: LC3664BL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 2L
+  dateCodeSuffix: D0
+  std: 9249
+  misc: 

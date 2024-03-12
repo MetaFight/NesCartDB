@@ -1,0 +1,108 @@
+metadata:
+  name: Dough Boy
+  altName: ダウ・ボーイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 04:05:00
+  moreProfiles:
+  - 2162
+  - 3674
+  relatedProfiles: []
+  additionalImages: 
+slug: dough-boy
+releaseInfo:
+  catalogId: KSC-DB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 11, 1985
+  publisher: Kemco
+  developer: Synapse Software
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-DB
+  backLabelId/Desc: 850610
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6a49302ecbe1bb6fd724904e56a5812.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 48DC9540
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: DDF4F626
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: F760F1CB
+  x: 2
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/257efe01a3728b60f59134084a0488e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3376')"
+    filename: /images/175/a9cbe6ee6c764c7058c51f0924fd3029.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8544 - 8545 (2)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: KSC-DB
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Y
+  dateCodeSuffix: 09
+  std: 8544
+  misc: 0H-H7
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

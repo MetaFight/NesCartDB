@@ -1,0 +1,130 @@
+metadata:
+  name: TwinBee
+  altName: ツインビー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 06:06:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1771
+  - 2271
+  - 3043
+  - 3044
+  additionalImages: 
+slug: twinbee
+releaseInfo:
+  catalogId: KON-RC807
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 4, 1986
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC807
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1771')"
+    filename: /images/175/df827501457c593a2f70ee596d4f02d0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1771')"
+    filename: /images/175/30a0c36e34a8a207c7726e63d5f4bc5e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 932A077A
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: EBF022EB
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 985B1D05
+  x: 4
+pcbProperties:
+  name: MF4034
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MF4034<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8f8a6c68f2547020aae2e3b23d429d34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MF4034<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0cd7495210a7a6366e552714aeb50a8c.jpg
+  pcbProducer: Konami
+  manufacturer: Mitsubishi
+  mfgRange: 8531 - 8550 (4)
+  estFirstRun: August 1985
+  pcbClass: KONAMI-74*139/74
+  inesMapper: 87
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PCB
+  maker: Mitsubishi
+  partNumber: RC807J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 58
+  dateCodeSuffix: 14
+  std: 8531
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74139
+  type: 74-139 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP7474
+  type: 74-74 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

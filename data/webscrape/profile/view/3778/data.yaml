@@ -1,0 +1,107 @@
+metadata:
+  name: Arabian Dream Scheherazade
+  altName: アラビアンドリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 22:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 142
+  additionalImages: 
+slug: arabian-dream-scheherazade
+releaseInfo:
+  catalogId: CBF-AS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 3, 1987
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: CBF-AS
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c9a6e20bb15d4b0b08b0075fb00152bd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CBF-AS-0 PRG
+  size: 128 KB
+  crc32: A3D59F62
+  x: 1
+- type: CHR0
+  label: CBF-AS-0 CHR
+  size: 128 KB
+  crc32: 2749E765
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 074EC424
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a2120194e1dd1e1c536421053ae46de6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/75930c9980350e512d04bba9b523eac8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8734
+  estFirstRun: August 1987
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 0H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8734
+  dateCodeSuffix: E
+  std: 8734
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 21
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8734
+  dateCodeSuffix: D
+  std: 8734
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8734
+  dateCodeSuffix: A
+  std: 8734
+  misc: 

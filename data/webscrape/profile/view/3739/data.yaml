@@ -1,0 +1,121 @@
+metadata:
+  name: Burai Fighter
+  altName: ブライファイター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 20:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2063
+  - 1900
+  - 415
+  additionalImages: 
+slug: burai-fighter
+releaseInfo:
+  catalogId: DTF-5F (32)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 20, 1990
+  publisher: Taito
+  developer: KID
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Sienna
+  formFactor: Small
+  frontLabelId: DTF-5F
+  secondaryId: 32
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c120c59505e7a9a710240afaa2b434f7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 3F5A4DD0
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: AE759E48
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: E9176129
+  x: 1
+pcbProperties:
+  name: UNK-HVC-TEROM
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-HVC-TEROM<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/637fd2759f25711afa56d014d60aba37.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-HVC-TEROM<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51b0ff3f8e0a595ae04cdb70541a6ab9.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9012
+  estFirstRun: March 1990
+  pcbClass: HVC-TEROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: K5F
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: A
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9012
+  dateCodeSuffix: KP029
+  std: 9012
+  misc: 

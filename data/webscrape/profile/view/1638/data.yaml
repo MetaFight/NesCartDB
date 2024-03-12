@@ -1,0 +1,114 @@
+metadata:
+  name: Mario Bros.
+  altName: マリオブラザーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 02:44:00
+  moreProfiles:
+  - 1491
+  - 1638
+  - 1646
+  - 3717
+  relatedProfiles:
+  - 2375
+  - 2358
+  - 1990
+  - 2137
+  - 1099
+  additionalImages: 
+slug: mario-bros
+releaseInfo:
+  catalogId: HVC-MA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 9, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: HVC-MA
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1491')"
+    filename: /images/175/659c7df538c32481369b13c32af70d74.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 75F6A9F3
+  x: 9
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 10F77435
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: C4C3949A
+  x: 9
+pcbProperties:
+  name: UNK-HVC-MA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-HVC-MA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/64c950eb14d745c428ca4bc66f54a958.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-HVC-MA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d66cc956e5ed1dc10cf153471169ae5d.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8344 - 8528 (4)
+  estFirstRun: November 1983
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-MA
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 3Y
+  dateCodeSuffix: 53
+  std: 8344
+  misc: 2V-23
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

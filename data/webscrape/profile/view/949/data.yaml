@@ -1,0 +1,131 @@
+metadata:
+  name: Side Pocket
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 04:06:00
+  moreProfiles:
+  - 949
+  - 2822
+  relatedProfiles:
+  - 3201
+  - 2101
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PK-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/19fb1b2ea59d12cc05f776a3d50202f5.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PK-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7b2eaf3cec5b86b5fa7a4f8e86b833e.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-PK-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6e14ef514428d1ec55a3ba346bc100e8.jpg
+slug: side-pocket
+releaseInfo:
+  catalogId: NES-PK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1987
+  publisher: Data East
+  developer: Data East
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PK-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f0e7dc9ade10b2b3039ba754267c984.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d3db8bd0cf9a5c5978b58d8dd71c5065.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-PK-0 PRG
+  size: 128 KB
+  crc32: DC4DA5D4
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9135 - 9135 (2)
+  estFirstRun: September 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W06
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: K9703
+  std: 9135
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9128
+  dateCodeSuffix: KT18
+  std: 9128
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 102
+  dateCodeSuffix: C
+  std: 9102
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 131
+  dateCodeSuffix: EN
+  std: 9131
+  misc: 
+- designation: U5 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 107
+  dateCodeSuffix: GR
+  std: 9107
+  misc: 

@@ -1,0 +1,106 @@
+metadata:
+  name: Ikki
+  altName: いっき
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-15 22:49:00
+  moreProfiles:
+  - 3138
+  - 3139
+  - 3271
+  relatedProfiles: []
+  additionalImages: 
+slug: ikki
+releaseInfo:
+  catalogId: SUN-RIK-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 28, 1985
+  publisher: Sunsoft
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3138')"
+    filename: /images/175/a81db41f0933daf091d983f1a64e7626.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1542')"
+    filename: /images/175/457384bdb2a847860b3e12aed612ee2b.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 8CF1AAE2
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 41C327D5
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 821FEB7A
+  x: 3
+pcbProperties:
+  name: 57-A1
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>57-A1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dc338e75147c354fca3748e10f87667e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>57-A1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6242f13b1eff4629ace9ee240827a1cb.jpg
+  pcbProducer: Sunsoft
+  manufacturer: OKI
+  mfgRange: 8541 - 8603 (3)
+  estFirstRun: October 1985
+  pcbClass: SUNSOFT-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: 
+  partNumberSubDetail: SS03
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Z
+  dateCodeSuffix: 02
+  std: 8548
+  misc: 5H-R7
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

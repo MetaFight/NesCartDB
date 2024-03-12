@@ -1,0 +1,113 @@
+metadata:
+  name: 'RockMan 5: Blues no Wana!?'
+  altName: ロックマン５ ブルースの
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 02:35:00
+  moreProfiles:
+  - 3632
+  - 3712
+  - 4281
+  relatedProfiles:
+  - 990
+  - 1419
+  - 2110
+  - 1114
+  additionalImages: 
+slug: rockman-5-blues-no-wana
+releaseInfo:
+  catalogId: CAP-5V
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 4, 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Medium Sea Green
+  formFactor: Small
+  frontLabelId: CAP-5V
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2eaf43b63cbbe17aceebb4a26dda3027.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-5V-0 PRG
+  size: 256 KB
+  crc32: 05CF9EB0
+  x: 3
+- type: CHR0
+  label: CAP-5V-0 CHR
+  size: 256 KB
+  crc32: 482C358D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: FDDF2135
+  x: 3
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23a14ecffe80f15768316f9e892ce3ad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9244 - 9244 (3)
+  estFirstRun: November 1992
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 4D
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9244
+  dateCodeSuffix: D
+  std: 9244
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 4J
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9244
+  dateCodeSuffix: D
+  std: 9244
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9216
+  dateCodeSuffix: 5 A
+  std: 9216
+  misc: 

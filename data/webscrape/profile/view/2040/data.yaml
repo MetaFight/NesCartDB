@@ -1,0 +1,128 @@
+metadata:
+  name: Blades of Steel
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 23:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4187
+  - 2477
+  - 278
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VS-FRG<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2f2b68a79350a351223bdccdb1c7710e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VS-FRG<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4742d7916cfe7d6d259ed416bd59e5c2.jpg
+slug: blades-of-steel
+releaseInfo:
+  catalogId: NES-VS-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: November 23, 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VS-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/dd8d53c90b1300e01c5d3b4ad5f1daf8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VS-0 PRG
+  size: 128 KB
+  crc32: C0EDEDD0
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9127
+  estFirstRun: July 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5470
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1DM
+  dateCodeSuffix: 40
+  std: 9115
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sanyo
+  partNumber: LC3564PL-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 12
+  dateCodeSuffix: 045
+  std: 9105
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9127
+  dateCodeSuffix: A
+  std: 9127
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 037
+  dateCodeSuffix: EN
+  std: 9037
+  misc: 
+- designation: U5 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9031
+  dateCodeSuffix: H
+  std: 9031
+  misc: 

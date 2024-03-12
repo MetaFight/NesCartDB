@@ -1,0 +1,132 @@
+metadata:
+  name: 'Tiny Toon Adventures: Cartoon Workshop'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-19 23:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2345
+  additionalImages: 
+slug: tiny-toon-adventures-cartoon-workshop
+releaseInfo:
+  catalogId: NES-CW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1992
+  publisher: Konami
+  developer: Novotrade
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CW-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2c52d9c9deec6c5c3ceaadf2636520f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ea11e22f9fa4f168c1d6bef2c2f19b9d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-CW-0 PRG
+  size: 128 KB
+  crc32: E0FE0A18
+  x: 1
+- type: CHR0
+  label: NES-CW-0 CHR
+  size: 128 KB
+  crc32: F2160E9D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9E6092A4
+  x: 1
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a7840ddf28791ebcaddd456afb63182.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9245
+  estFirstRun: November 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6710
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2LC
+  dateCodeSuffix: 43
+  std: 9245
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0174
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2LC
+  dateCodeSuffix: 43
+  std: 9245
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9236
+  dateCodeSuffix: 5 BB
+  std: 9236
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9207
+  dateCodeSuffix: EP055
+  std: 9207
+  misc: 
+- designation: U5 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: EJ
+  std: 9219
+  misc: 

@@ -1,0 +1,124 @@
+metadata:
+  name: 'Flying Dragon: The Secret Scroll'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-03 23:20:00
+  moreProfiles:
+  - 917
+  - 1122
+  relatedProfiles:
+  - 1719
+  additionalImages: 
+slug: flying-dragon-the-secret-scroll
+releaseInfo:
+  catalogId: NES-HR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1989
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HR-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1122')"
+    filename: /images/175/6c7981e3de967cd9d56330c41fc471cb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ddbc1f775fe16942851056aaf0c5c563.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HR-0 PRG
+  size: 128 KB
+  crc32: F1FED9B8
+  x: 2
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8920 - 8947 (2)
+  estFirstRun: May 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8920
+  dateCodeSuffix: Z05
+  std: 8920
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9E
+  dateCodeSuffix: 04
+  std: 8918
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8912
+  dateCodeSuffix: 1 AA
+  std: 8912
+  misc: 
+- designation: LS161N
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8916
+  dateCodeSuffix: H
+  std: 8916
+  misc: 
+- designation: LS32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 920
+  dateCodeSuffix: J
+  std: 8920
+  misc: 

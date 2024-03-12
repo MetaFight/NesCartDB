@@ -1,0 +1,108 @@
+metadata:
+  name: 'Chou Jinrou Senki: Warwolf'
+  altName: 超人狼戦記ウォーウルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1842
+  - 402
+  additionalImages: 
+slug: chou-jinrou-senki-warwolf
+releaseInfo:
+  catalogId: TFC-W8
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 28, 1991
+  publisher: Takara
+  developer: Sakata SAS
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: TFC-W8
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/68c7be82b4f154f5b54b521c7cad0abc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4606')"
+    filename: /images/175/7409cac45e90630c48c7b200477cdb84.jpg
+romDetails:
+- type: PRG0
+  label: TFC-W8-0 PRG
+  size: 128 KB
+  crc32: D7A97B38
+  x: 1
+- type: CHR0
+  label: TFC-W8-0 CHR
+  size: 128 KB
+  crc32: B8546D2B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 85E0090B
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4c35066e5fe40f0306073b7a981e9d6a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9121
+  estFirstRun: May 1991
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9119
+  dateCodeSuffix: K9700
+  std: 9119
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9119
+  dateCodeSuffix: EY700
+  std: 9119
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9121
+  dateCodeSuffix: 1 DB
+  std: 9121
+  misc: 

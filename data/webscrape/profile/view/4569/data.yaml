@@ -1,0 +1,134 @@
+metadata:
+  name: Where's Waldo?
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-07 04:58:00
+  moreProfiles:
+  - 924
+  - 1128
+  - 4569
+  relatedProfiles: []
+  additionalImages: 
+slug: wheres-waldo
+releaseInfo:
+  catalogId: NES-6W-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1991
+  publisher: THQ
+  developer: Bethesda Softworks
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6W-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 924')"
+    filename: /images/175/63bbf7b9118780008aa55d4ebf12ed31.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 924')"
+    filename: /images/175/3c50068e33e0d28a57c230482734db91.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-6W-0 PRG
+  size: 128 KB
+  crc32: 2735AF2E
+  x: 2
+- type: CHR0
+  label: NES-6W-0 CHR
+  size: 128 KB
+  crc32: 8D5038BF
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C3463A3D
+  x: 2
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/876e2a8680ccaad0f4e7164b6421da27.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9132 - 9204 (2)
+  estFirstRun: August 1991
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 0B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9131
+  dateCodeSuffix: E
+  std: 9131
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 54
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9132
+  dateCodeSuffix: E
+  std: 9132
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 101
+  dateCodeSuffix: C
+  std: 9101
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9051
+  dateCodeSuffix: KP021
+  std: 9051
+  misc: 
+- designation: U5 W-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9127
+  dateCodeSuffix: HCK
+  std: 9127
+  misc: 

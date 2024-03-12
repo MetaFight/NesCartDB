@@ -1,0 +1,119 @@
+metadata:
+  name: 'Deja Vu: Akumu wa Hotouni Yatte Raita'
+  altName: ディジャブ　悪魔は本当にやって来た
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 01:33:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1821
+  - 682
+  additionalImages: 
+slug: deja-vu-akumu-wa-hotouni-yatte-raita
+releaseInfo:
+  catalogId: KSC-DG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 22, 1988
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-DG
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92f06a3782c9f3f26a0a6ed2d3b88300.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-DG-0 PRG
+  size: 128 KB
+  crc32: D4042702
+  x: 1
+- type: CHR0
+  label: KSC-DG-0 CHR
+  size: 256 KB
+  crc32: 8F0B2365
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: F053AC5F
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1401ed316a88e6578488a1d8cf789725.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-01<br>Submitted by: bootgod<br>Linked from profile 3553')"
+    filename: /images/175/f7b3daf5e4db0352755edf3e45f1039d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8846
+  estFirstRun: November 1988
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: JB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: D
+  std: 8844
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 24
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8846
+  dateCodeSuffix: D
+  std: 8846
+  misc: 
+- designation: U3 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8841
+  dateCodeSuffix: 3 Y
+  std: 8841
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8840
+  dateCodeSuffix: KP
+  std: 8840
+  misc: 

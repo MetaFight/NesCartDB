@@ -1,0 +1,110 @@
+metadata:
+  name: 'Captain Tsubasa II: Super Striker'
+  altName: キャプテン翼Ⅱ　スーパーストライカー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-16 04:30:00
+  moreProfiles:
+  - 2221
+  - 3579
+  - 3699
+  - 4584
+  relatedProfiles: []
+  additionalImages: 
+slug: captain-tsubasa-ii-super-striker
+releaseInfo:
+  catalogId: TCF-T6
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 20, 1990
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange-Red
+  formFactor: Small
+  frontLabelId: TCF-T6
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/013e6a0b5cdc2b0b336a77ba6645e575.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-T6-0 PRG
+  size: 256 KB
+  crc32: 2EB08777
+  x: 3
+- type: CHR0
+  label: TCF-T6-0 CHR
+  size: 128 KB
+  crc32: C38AEF75
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 31B44C65
+  x: 4
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a40648947e238104e21d1dd52c93442.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9021 - 9109 (4)
+  estFirstRun: May 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 94
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9042
+  dateCodeSuffix: D
+  std: 9042
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: J4
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9041
+  dateCodeSuffix: D
+  std: 9041
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9026
+  dateCodeSuffix: KP074
+  std: 9026
+  misc: 

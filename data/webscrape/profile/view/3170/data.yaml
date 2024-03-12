@@ -1,0 +1,122 @@
+metadata:
+  name: Sangokushi
+  altName: 三國志
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 17:18:00
+  moreProfiles:
+  - 3170
+  - 3171
+  - 3172
+  relatedProfiles:
+  - 730
+  additionalImages: 
+slug: sangokushi
+releaseInfo:
+  catalogId: KOE-IS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 30, 1988
+  publisher: Koei
+  developer: Koei
+  players: 8
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Nintendo Logo
+  frontLabelId: KOE-IS
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8f2f4dde099377856a39e662233ad404.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KOE-IS-0 PRG
+  size: 256 KB
+  crc32: ABBF7217
+  x: 1
+pcbProperties:
+  name: HVC-SOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8847 - 8949 (3)
+  estFirstRun: November 1988
+  pcbClass: HVC-SOROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8847
+  dateCodeSuffix: D
+  std: 8847
+  misc: 
+- designation: U2 W-RAM
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8841
+  dateCodeSuffix: MU619
+  std: 8841
+  misc: 
+- designation: U3
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8842
+  dateCodeSuffix: 1 Y
+  std: 8842
+  misc: 
+- designation: U4 CHR
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8841
+  dateCodeSuffix: MU619
+  std: 8841
+  misc: 
+- designation: U5 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8834
+  dateCodeSuffix: 7 A
+  std: 8834
+  misc: 

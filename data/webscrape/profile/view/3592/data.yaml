@@ -1,0 +1,109 @@
+metadata:
+  name: Spy vs. Spy
+  altName: スパイＶＳスパイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 01:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2497
+  - 588
+  additionalImages: 
+slug: spy-vs-spy
+releaseInfo:
+  catalogId: KSC-SP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 26, 1986
+  publisher: Kemco
+  developer: First Star Software
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-SP
+  backLabelId/Desc: 850610
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d2eb0d2a8779b746d515fed2cee210f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-SP-0 PRG
+  size: 32 KB
+  crc32: B36457C7
+  x: 1
+- type: CHR0
+  label: KSC-SP-0 CHR
+  size: 8 KB
+  crc32: 883790C8
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: CF0C9D97
+  x: 1
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f51c6bd6cf61c251e15104e1f1a5c0d5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8614
+  estFirstRun: April 1986
+  pcbClass: HVC-CNROM+SECURITY
+  inesMapper: 185
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 34
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8614
+  dateCodeSuffix: D
+  std: 8614
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 54
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8614
+  dateCodeSuffix: E
+  std: 8614
+  misc: 
+- designation: LS161
+  maker: Fujitsu
+  partNumber: MB74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8047
+  dateCodeSuffix: M34
+  std: 8047
+  misc: 

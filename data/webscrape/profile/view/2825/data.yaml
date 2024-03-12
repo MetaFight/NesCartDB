@@ -1,0 +1,130 @@
+metadata:
+  name: Pro Wrestling
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 01:26:00
+  moreProfiles:
+  - 330
+  - 633
+  - 650
+  - 778
+  - 2825
+  - 1380
+  relatedProfiles:
+  - 2531
+  - 978
+  - 4252
+  additionalImages: 
+slug: pro-wrestling
+releaseInfo:
+  catalogId: NES-PW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1987
+  publisher: Nintendo
+  developer: Human Entertainment
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1380')"
+    filename: /images/175/95e088a1f7e13437048e885c473fdb2f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8cf9035af7e19cc1181290847659a9f1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-PW-1 PRG
+  size: 128 KB
+  crc32: 64B710D2
+  x: 6
+pcbProperties:
+  name: NES-UN-ROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8652 - 8814 (4)
+  estFirstRun: December 1986
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 42
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8743
+  dateCodeSuffix: D
+  std: 8743
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5164D3
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8743
+  dateCodeSuffix: 1 D
+  std: 8743
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 
+- designation: LS161N
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8729
+  dateCodeSuffix: CA
+  std: 8729
+  misc: 
+- designation: LS32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 736
+  dateCodeSuffix: J
+  std: 8736
+  misc: 

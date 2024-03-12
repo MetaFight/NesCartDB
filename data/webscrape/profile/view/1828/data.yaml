@@ -1,0 +1,126 @@
+metadata:
+  name: 'Namco Mahjong III: Mahjong Tengoku'
+  altName: ナムコット麻雀Ⅲ マージャン天国
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-08 22:04:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: namco-mahjong-iii-mahjong-tengoku
+releaseInfo:
+  catalogId: NAM-NM3-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 8, 1991
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2775b90deb965d5683c17d1aacdf0cef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7fe2de1d81467912ca77627536984545.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: A505D342
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: B878CA3F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 91AC514E
+  x: 1
+pcbProperties:
+  name: 60-24
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-24<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02b3a013a9ae433ee0d1c52b8c1415d2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-24<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00bc6cc719f2e2d006cdcc0cbc7b20a5.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9105
+  estFirstRun: February 1991
+  pcbClass: NAMCOT-3433
+  inesMapper: 88
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108, 74xx32
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: NM3
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 105
+  dateCodeSuffix: K02
+  std: 9105
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP108
+  type: Namcot 108
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP7432
+  type: 74-32 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

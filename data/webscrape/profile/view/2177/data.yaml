@@ -1,0 +1,97 @@
+metadata:
+  name: Salad no Kuni no Tomato Hime
+  altName: サラダの国のトマト姫
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 06:04:00
+  moreProfiles: []
+  relatedProfiles:
+  - 882
+  additionalImages: 
+slug: salad-no-kuni-no-tomato-hime
+releaseInfo:
+  catalogId: HFC-RT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 27, 1988
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Green
+  formFactor: Small
+  frontLabelId: HFC-RT
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac32201a634688f6652e33c90ed45760.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-RT-0 PRG
+  size: 256 KB
+  crc32: 016C93D8
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8818
+  estFirstRun: May 1988
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8816
+  dateCodeSuffix: EY
+  std: 8816
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5264D4
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: 1 Y
+  std: 8814
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8818
+  dateCodeSuffix: A
+  std: 8818
+  misc: 

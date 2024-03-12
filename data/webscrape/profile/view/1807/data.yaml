@@ -1,0 +1,98 @@
+metadata:
+  name: The Tower of Druaga
+  altName: ドルアーガの塔
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 01:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1577
+  - 1807
+  - 2299
+  - 3178
+  - 3179
+  - 4578
+  additionalImages: 
+slug: the-tower-of-druaga
+releaseInfo:
+  catalogId: NAM-NTD-4900-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 6, 1985
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e31a60f36e04ac32cffd0b2a001f93b2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e879790024f165769d5966cf95cb40d1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e67ec2f9e32f1b5b6c62d9d62f38fcf.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: AF6E8571
+  x: 5
+- type: CHR0
+  label: NAMCOT TD CHR
+  size: 8 KB
+  crc32: 6DC7E8EA
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: EB764567
+  x: 5
+pcbProperties:
+  name: 3305
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3305<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/644cfb7b120accb35a061aaa559a8ab5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3305<br>Submitted by: bootgod<br>Linked from profile 1577')"
+    filename: /images/175/3d02a9bf10fa8a47857965e1e8638949.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8528 - 8618 (6)
+  estFirstRun: July 1985
+  pcbClass: NAMCOT-3305
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Fujitsu
+  partNumber: MBM27256-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: R34
+  std: 8528
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 13
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: D
+  std: 8528
+  misc: 

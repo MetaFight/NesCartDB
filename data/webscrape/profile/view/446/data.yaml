@@ -1,0 +1,107 @@
+metadata:
+  name: Klax
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-30 00:22:00
+  moreProfiles:
+  - 324
+  - 446
+  relatedProfiles:
+  - 3883
+  additionalImages: 
+slug: klax
+releaseInfo:
+  catalogId: TGN-019-KX
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f8fc1cdb27d60f53508ead9017b02fa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335019-1011 KXPRG
+  size: 64 KB
+  crc32: 4DC910FD
+  x: 2
+- type: CHR0
+  label: 335019-1012 KXCHR
+  size: 64 KB
+  crc32: 57116591
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 93F3A490
+  x: 2
+pcbProperties:
+  name: 800032 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bac2814c77b6264f31db8ed3bab61d70.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 323')"
+    filename: /images/175/3067f9631a297e88bc7dbb264c92fbee.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9026 - 9044 (2)
+  estFirstRun: June 1990
+  pcbClass: TENGEN-800032
+  inesMapper: 64
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006
+detailedChipInfo:
+- designation: PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9026
+  dateCodeSuffix: KEF
+  std: 9026
+  misc: 
+- designation: CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9024
+  dateCodeSuffix: AJF
+  std: 9024
+  misc: 
+- designation: RAMBO 1
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8933
+  dateCodeSuffix: F836177S
+  std: 8933
+  misc: NCR0381301

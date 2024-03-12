@@ -1,0 +1,112 @@
+metadata:
+  name: 'Valkyrie no Bouken: Toki no Kagi Densetsu'
+  altName: ワルキューレの冒険 時の鍵伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-18 06:01:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1584
+  - 2667
+  - 2302
+  - 3190
+  - 3191
+  - 3192
+  - 3193
+  - 3194
+  additionalImages: 
+slug: valkyrie-no-bouken-toki-no-kagi-densetsu
+releaseInfo:
+  catalogId: NAM-NWB-3900-17
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 1, 1986
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 17
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a68bbedb13958abfc63a5e6537cc3b09.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/52c3bf63bccb28f1c8a79ad58641b19e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af3182fcb41f11bd3e6583f30d954f75.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT WB PRG
+  size: 32 KB
+  crc32: 7C7AB58E
+  x: 8
+- type: CHR0
+  label: NAMCOT WB CHR
+  size: 32 KB
+  crc32: E7193A27
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C6ADD8C5
+  x: 8
+pcbProperties:
+  name: 3407
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3407<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa18177efc9aa917e3c70a17e805c3cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3407<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eda8fcc1faa709e2a3ad4ae11b5092fc.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8627 - 8628 (8)
+  estFirstRun: July 1986
+  pcbClass: NAMCOT-3407
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PR
+  maker: Sony
+  partNumber: ''
+  partNumberSubDetail: CXK38256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6G
+  dateCodeSuffix: 07
+  std: 8627
+  misc: 
+- designation: CH
+  maker: Sony
+  partNumber: ''
+  partNumberSubDetail: CXK38256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6G
+  dateCodeSuffix: 04
+  std: 8627
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8618
+  dateCodeSuffix: B
+  std: 8618
+  misc: 

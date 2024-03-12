@@ -1,0 +1,76 @@
+metadata:
+  name: Ikari Warriors
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-25 05:58:00
+  moreProfiles:
+  - 304
+  - 338
+  - 849
+  - 887
+  - 1141
+  - 1187
+  - 2942
+  relatedProfiles:
+  - 2507
+  - 4020
+  additionalImages: 
+slug: ikari-warriors
+releaseInfo:
+  catalogId: NES-IW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1987
+  publisher: SNK
+  developer: SNK
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IW-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 304')"
+    filename: /images/175/d7894d87a89d284cec616a6bae684296.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 304')"
+    filename: /images/175/890740e2fe7d8fcfc25f6d90aa6d025f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-IW-0 PRG
+  size: 128 KB
+  crc32: 655EFEED
+  x: 2
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8721 - 8747 (4)
+  estFirstRun: May 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

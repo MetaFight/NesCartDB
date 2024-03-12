@@ -1,0 +1,109 @@
+metadata:
+  name: Urban Champion
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-07-24 03:39:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2386
+  - 1474
+  - 440
+  additionalImages: 
+slug: urban-champion
+releaseInfo:
+  catalogId: NES-UC-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: FRA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-UC-0 PRG
+  size: 16 KB
+  crc32: D31E4238
+  x: 7
+- type: CHR0
+  label: HVC-UC-0 CHR
+  size: 8 KB
+  crc32: 8777CEF2
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 656D4265
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/33aa55d17c56a8514d8685642b8ceeba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8730
+  estFirstRun: July 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0324
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7G2
+  dateCodeSuffix: 42
+  std: 8729
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2002
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7G3
+  dateCodeSuffix: 12
+  std: 8730
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8728
+  dateCodeSuffix: A
+  std: 8728
+  misc: 

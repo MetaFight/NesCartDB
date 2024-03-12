@@ -1,0 +1,106 @@
+metadata:
+  name: 'Astro Fang: Super Machine'
+  altName: アストロファング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-16 04:35:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: astro-fang-super-machine
+releaseInfo:
+  catalogId: WAV-E1-01
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 26, 1990
+  publisher: A Wave
+  developer: Soft Machine
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: WAV-E1-01
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b310b10241cec78e3e39b2275d329d36.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: WAV-E1-0 PRG
+  size: 128 KB
+  crc32: C701A262
+  x: 1
+- type: CHR0
+  label: WAV-E1-0 CHR
+  size: 128 KB
+  crc32: 93D787AC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E949EF8A
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/10a6c0a45417b83b0e496960eba34f03.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5486
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0JC
+  dateCodeSuffix: 73
+  std: 9036
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0092
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0HM
+  dateCodeSuffix: 71
+  std: 9033
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9034
+  dateCodeSuffix: KX046
+  std: 9034
+  misc: 

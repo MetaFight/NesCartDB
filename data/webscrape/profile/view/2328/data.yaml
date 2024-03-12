@@ -1,0 +1,114 @@
+metadata:
+  name: Popeye
+  altName: ポパイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 23:11:00
+  moreProfiles:
+  - 1392
+  - 2328
+  - 3411
+  - 3589
+  - 3697
+  - 4748
+  relatedProfiles:
+  - 2499
+  - 980
+  - 2539
+  - 622
+  additionalImages: 
+slug: popeye
+releaseInfo:
+  catalogId: HVC-PP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime Green
+  formFactor: Small
+  frontLabelId: HVC-PP
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1392')"
+    filename: /images/175/32a748672c2893908157556625e0d32c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F1FFD9F8
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A5FD8D98
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5581E835
+  x: 5
+pcbProperties:
+  name: 9011-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b2d78ff6a8eaa0914eeb570ac685e6a9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 1466')"
+    filename: /images/175/f541a0b8788c607e451c3b9b684bbf41.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8429 - 8429 (2)
+  estFirstRun: July 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: OPP
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 303649
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

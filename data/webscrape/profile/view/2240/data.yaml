@@ -1,0 +1,109 @@
+metadata:
+  name: Super Momotarou Dentetsu
+  altName: スーパー桃太郎電鉄
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 03:41:00
+  moreProfiles:
+  - 2240
+  - 3655
+  relatedProfiles: []
+  additionalImages: 
+slug: super-momotarou-dentetsu
+releaseInfo:
+  catalogId: HFC-3X
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 20, 1992
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Hot Pink
+  formFactor: Small
+  frontLabelId: HFC-3X
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9b232228e5ec2850ebcccdfe727a7593.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-3X-0 PRG
+  size: 256 KB
+  crc32: 09FFDF45
+  x: 2
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9204 - 9205 (2)
+  estFirstRun: January 1992
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 61
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9204
+  dateCodeSuffix: D
+  std: 9204
+  misc: 
+- designation: U2 CHR
+  maker: Sanyo
+  partNumber: LC3564QL-10N
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 1B
+  dateCodeSuffix: 626
+  std: 9144
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9202
+  dateCodeSuffix: B3010
+  std: 9202
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9205
+  dateCodeSuffix: 5E031
+  std: 9205
+  misc: 

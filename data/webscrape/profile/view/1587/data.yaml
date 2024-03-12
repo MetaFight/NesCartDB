@@ -1,0 +1,99 @@
+metadata:
+  name: Tag Team Pro-Wrestling
+  altName: タッグチー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-19 18:43:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1587
+  - 2662
+  - 1800
+  - 3227
+  - 3228
+  - 3334
+  additionalImages: 
+slug: tag-team-pro-wrestling
+releaseInfo:
+  catalogId: NAM-NPW-4900-13
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 2, 1986
+  publisher: Namco
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 13
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3368b14290abb294dec210d29ca4c952.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a5ae7e191ab2e5ebf0f51699657b796c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3880c54c960a7857013add16effd41d2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: EDD7479A
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: C8C6AEC3
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 32FA246F
+  x: 6
+pcbProperties:
+  name: 3311
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3311<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ec2d34b3b7f4e963bf6ad1b656f1d8be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3311<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/54abc7e0f842666d69977765c21c28a9.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8550 - 8610 (6)
+  estFirstRun: December 1985
+  pcbClass: NAMCOT-3311
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Toshiba
+  partNumber: TMM24256AP
+  partNumberSubDetail: 3021
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8610
+  dateCodeSuffix: ACA
+  std: 8610
+  misc: 
+- designation: CH
+  maker: Toshiba
+  partNumber: TMM2464AP
+  partNumberSubDetail: 1021
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8610
+  dateCodeSuffix: EEI
+  std: 8610
+  misc: 

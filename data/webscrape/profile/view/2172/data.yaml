@@ -1,0 +1,107 @@
+metadata:
+  name: Nuts & Milk
+  altName: ナッツ＆ミルク
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 05:09:00
+  moreProfiles:
+  - 2172
+  - 3420
+  - 3669
+  relatedProfiles: []
+  additionalImages: 
+slug: nuts-milk
+releaseInfo:
+  catalogId: HFC-NM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 28, 1984
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: HFC-NM
+  backLabelId/Desc: Black Text
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3669')"
+    filename: /images/175/c6c5a218f921466377c9e9937e73eb77.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 6C1390B4
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: AD96D84A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 739A1027
+  x: 3
+pcbProperties:
+  name: 9011-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1b6f0fbc51f4be03449e26ba4cbfdf81.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 1466')"
+    filename: /images/175/f541a0b8788c607e451c3b9b684bbf41.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8444
+  estFirstRun: November 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ONM
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 880560
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

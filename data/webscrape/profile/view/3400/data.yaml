@@ -1,0 +1,117 @@
+metadata:
+  name: Hirake! Ponkikki
+  altName: ひらけ！ポンキッキ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 22:35:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hirake-ponkikki
+releaseInfo:
+  catalogId: TFC-PK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 17, 1992
+  publisher: Takara
+  developer: Takara
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: TFC-PK
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/70ec29fc7c860fca835aaf350159c227.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 772513F4
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: CB04A0DE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 64BD6CDB
+  x: 1
+pcbProperties:
+  name: SE-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f4cd4110bdf1f73c7ed1809888cbb038.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/772ee726769902dea5337b5ee1a3ee95.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9202
+  estFirstRun: January 1992
+  pcbClass: HVC-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: LPK
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: G
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9202
+  dateCodeSuffix: 5 A
+  std: 9202
+  misc: 

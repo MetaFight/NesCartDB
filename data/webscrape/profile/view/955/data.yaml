@@ -1,0 +1,115 @@
+metadata:
+  name: Toobin'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 05:15:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: toobin
+releaseInfo:
+  catalogId: TGN-015-TB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4eebd3ecf90e008903d6849cfbb762b4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335015-1011 TBPRG
+  size: 128 KB
+  crc32: 05D70600
+  x: 1
+- type: CHR0
+  label: 335015-1012 TBCHR
+  size: 64 KB
+  crc32: BFA3394B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 5800BE2D
+  x: 1
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ab6055dabcbf4c7741f510e9771a33e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 322')"
+    filename: /images/175/61422c6d305e1b3b4200a2448d86752b.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8950
+  estFirstRun: December 1989
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8950
+  dateCodeSuffix: ''
+  std: 8950
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8950
+  dateCodeSuffix: ''
+  std: 8950
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8946
+  dateCodeSuffix: ILEA
+  std: 8946
+  misc: 
+- designation: MIMIC 1
+  maker: Motorola
+  partNumber: 337001-001
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: ZKZKAB
+  std: 8922
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: 4-nin Uchi Mahjong
+  altName: ４人打ち麻雀
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 05:28:00
+  moreProfiles:
+  - 1479
+  - 1656
+  - 3369
+  - 3370
+  - 3371
+  - 3372
+  - 3373
+  - 3374
+  - 3676
+  - 4736
+  relatedProfiles: []
+  additionalImages: 
+slug: 4-nin-uchi-mahjong
+releaseInfo:
+  catalogId: HVC-FJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 2, 1984
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Medium Sea Green
+  formFactor: Small
+  frontLabelId: HVC-FJ
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/17f09cb41947892581df864f3c55b6f3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 49546B4D
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 425CC61F
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D91104F1
+  x: 3
+pcbProperties:
+  name: 2A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e287b0798e0b19881ece8b0e4a4e72f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2A<br>Submitted by: bootgod<br>Linked from profile 3369')"
+    filename: /images/175/43faf6a49b068e94aeae426820697916.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8505 - 8618 (3)
+  estFirstRun: February 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-FJ
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 52
+  dateCodeSuffix: 12
+  std: 8505
+  misc: 2H-B7
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,124 @@
+metadata:
+  name: Adventures of Dino Riki
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-22 01:57:00
+  moreProfiles:
+  - 342
+  - 1125
+  - 1315
+  relatedProfiles:
+  - 2168
+  additionalImages: 
+slug: adventures-of-dino-riki
+releaseInfo:
+  catalogId: NES-SG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SG-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c49bf123a77088e138746fd6bf4edd54.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7fbcb94ec29238743140111db70dcc0d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-SG-0 PRG
+  size: 32 KB
+  crc32: 6F605522
+  x: 3
+- type: CHR0
+  label: NES-SG-0 CHR
+  size: 32 KB
+  crc32: 5AF94710
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9BDE3267
+  x: 3
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5846d64c9663c879da4a42bab8131058.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-06<br>Submitted by: Kinopio<br>Linked from profile 2416')"
+    filename: /images/175/6526643e34551950de7631f5d758442f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8929
+  estFirstRun: July 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2823
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9G3
+  dateCodeSuffix: 20
+  std: 8929
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2824
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9G3
+  dateCodeSuffix: 17
+  std: 8929
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8929
+  dateCodeSuffix: 7 BA
+  std: 8929
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: I12
+  dateCodeSuffix: ''
+  std: 8912
+  misc: 

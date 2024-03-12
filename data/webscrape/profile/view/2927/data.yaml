@@ -1,0 +1,86 @@
+metadata:
+  name: Action 52
+  altName: 
+  variant: (Revision A)
+  submittedBy: crade
+  submittedOn: 2008-11-22 04:34:00
+  moreProfiles:
+  - 1161
+  - 1271
+  - 2927
+  - 4573
+  relatedProfiles: []
+  additionalImages: 
+slug: action-52
+releaseInfo:
+  catalogId: ACT-52
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Active Enterprises
+  developer: Active Enterprises
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Clear
+  formFactor: Original
+  embossedText: Active Enterprises, LTD. U.S. Pat. Pend. Made in U.S.A.
+  frontLabelDesc: Clear Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1271')"
+    filename: /images/175/60344d5b65a2dae92f4ce76ed26a3fe5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1271')"
+    filename: /images/175/e051456b7091ba58870dbab6ee31847c.jpg
+romDetails:
+- type: PRG0
+  label: ACTION52 PGM-A
+  size: 512 KB
+  crc32: A51212FD
+  x: 3
+- type: PRG1
+  label: ACTION52 PGM-B
+  size: 512 KB
+  crc32: 476D0B72
+  x: 3
+- type: PRG2
+  label: ACTION52 PGM-C
+  size: 512 KB
+  crc32: 2568DBA6
+  x: 3
+- type: CHR0
+  label: ACTION52 CHR-A
+  size: 512 KB
+  crc32: 596442EC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 2048 KB
+  crc32: 51C0B27E
+  x: 3
+pcbProperties:
+  name: 023-N507 REV. A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9146 - 9224 (3)
+  estFirstRun: November 1991
+  pcbClass: MLT-ACTION52
+  inesMapper: 228
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx273, 74xx273, GAL16V8S, PIC16C54
+detailedChipInfo: []

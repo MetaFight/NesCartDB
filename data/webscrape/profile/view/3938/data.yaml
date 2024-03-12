@@ -1,0 +1,108 @@
+metadata:
+  name: Shufflepuck Cafe
+  altName: シャッフルパックカフェ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: shufflepuck-cafe
+releaseInfo:
+  catalogId: PHF-XP (R62V10002)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 21, 1990
+  publisher: Pony Canyon
+  developer: Brøderbund
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Magenta
+  formFactor: Small
+  frontLabelId: PHF-XP
+  secondaryId: R62V10002
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f5e3d9d77dd7fc48a50a360ec273ba7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PHF-XP-0 PRG
+  size: 128 KB
+  crc32: 917D9262
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9034
+  estFirstRun: August 1990
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5484
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0HM
+  dateCodeSuffix: 42
+  std: 9033
+  misc: 
+- designation: U2 CHR RAM
+  maker: LSI Logic
+  partNumber: LH5160F-10TL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 034
+  dateCodeSuffix: D
+  std: 9034
+  misc: 
+- designation: U3 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9027
+  dateCodeSuffix: Hnn
+  std: 9027
+  misc: 664850T
+- designation: U4 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9022
+  dateCodeSuffix: Hnn
+  std: 9022
+  misc: 668570T

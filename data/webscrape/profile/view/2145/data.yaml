@@ -1,0 +1,118 @@
+metadata:
+  name: Marble Madness
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-05 17:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 206
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-MV-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/60edfaa1055d5e69e28a95b5e6724d4b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MV-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ef34c6d88d019f605b1733c578490be0.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-MV-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0d2603f2892dcf8518d157e896cd77dd.jpg
+slug: marble-madness
+releaseInfo:
+  catalogId: NES-MV-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: August 29, 1991
+  publisher: Milton Bradley
+  developer: Tengen
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MV-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/61db620b8ed6354b583548edce06c491.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4ff448ac21713b07ec5abc3588a0cabb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MV-0 PRG
+  size: 128 KB
+  crc32: 51BF28AF
+  x: 1
+pcbProperties:
+  name: NES-AMROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9136
+  estFirstRun: September 1991
+  pcbClass: NES-AMROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 2Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: E
+  std: 9135
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9049
+  dateCodeSuffix: MD
+  std: 9049
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9136
+  dateCodeSuffix: A
+  std: 9136
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 133
+  dateCodeSuffix: ER
+  std: 9133
+  misc: 

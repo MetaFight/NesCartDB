@@ -1,0 +1,115 @@
+metadata:
+  name: 'Mito Koumon II: Sekai Manyuu Ki'
+  altName: 水戸黄門Ⅱ 世界漫遊記
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 07:24:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mito-koumon-ii-sekai-manyuu-ki
+releaseInfo:
+  catalogId: SUN-MKII-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 11, 1988
+  publisher: Sunsoft
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c43eee51a4e4f9e168ae5f5ccfce2cad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2fe6331b1bdc4af1ded7b5702f3acad9.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 371E771C
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: B5B0B704
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CA24A1A2
+  x: 1
+pcbProperties:
+  name: LROG080-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG080-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f95610ee36e6b8ddb32e043c657874d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG080-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7b7ede91e311f23746786b1b0a8eb17f.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Sharp
+  mfgRange: 8830
+  estFirstRun: July 1988
+  pcbClass: SUNSOFT-3
+  inesMapper: 67
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-3
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG080
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8830
+  dateCodeSuffix: 6
+  std: 8830
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EPSS-3
+  type: Sunsoft-3
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

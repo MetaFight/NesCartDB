@@ -1,0 +1,110 @@
+metadata:
+  name: Mighty Bomb Jack
+  altName: マイティボンジャック
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 00:54:00
+  moreProfiles:
+  - 1261
+  - 4055
+  relatedProfiles:
+  - 2143
+  - 202
+  additionalImages: 
+slug: mighty-bomb-jack
+releaseInfo:
+  catalogId: TCF-MB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 24, 1986
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: TCF-MB
+  backLabelId/Desc: 850610
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c3cad3cb1ec040a13c3e413810f3463f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-MB-0 PRG
+  size: 32 KB
+  crc32: AA755715
+  x: 2
+- type: CHR0
+  label: TCF-MB-0 CHR
+  size: 8 KB
+  crc32: 5425A4D0
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 9C521240
+  x: 2
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fab3548c7bc2f12b354085120ef7fee0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8614 - 8615 (2)
+  estFirstRun: April 1986
+  pcbClass: HVC-CNROM+SECURITY
+  inesMapper: 185
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 35
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8614
+  dateCodeSuffix: D
+  std: 8614
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 55
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8614
+  dateCodeSuffix: E
+  std: 8614
+  misc: 
+- designation: LS161
+  maker: Fujitsu
+  partNumber: MB74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8423
+  dateCodeSuffix: M05
+  std: 8423
+  misc: 

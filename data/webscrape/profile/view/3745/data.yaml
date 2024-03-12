@@ -1,0 +1,108 @@
+metadata:
+  name: Mighty Final Fight
+  altName: マイティファイナルファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 21:01:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2070
+  - 1005
+  additionalImages: 
+slug: mighty-final-fight
+releaseInfo:
+  catalogId: CAP-SD
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 11, 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: CAP-SD
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c6e85e84860d4fcf2d6ab344ba6f715.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4599')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: CAP-SD-0 PRG
+  size: 128 KB
+  crc32: 9B74E080
+  x: 1
+- type: CHR0
+  label: CAP-SD-0 CHR
+  size: 128 KB
+  crc32: 8BEE0B63
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2B160BF0
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f5aa64be3b79a896ded865295e97f70f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9314
+  estFirstRun: April 1993
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6724
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3DC
+  dateCodeSuffix: 44
+  std: 9314
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0185
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3DC
+  dateCodeSuffix: 40
+  std: 9314
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9311
+  dateCodeSuffix: 5 A
+  std: 9311
+  misc: 

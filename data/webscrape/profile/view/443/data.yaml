@@ -1,0 +1,117 @@
+metadata:
+  name: Captain SkyHawk
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 23:08:00
+  moreProfiles:
+  - 204
+  - 443
+  relatedProfiles:
+  - 2065
+  - 2012
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-YW-USA *<br>Submitted by: bootgod<br>Linked from profile 204')"
+    filename: /images/175/33fefc77a0b1bdef8c791916beda241b.jpg
+slug: captain-skyhawk
+releaseInfo:
+  catalogId: NES-YW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Milton Bradley
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YW-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 204')"
+    filename: /images/175/6bd48bd8e313f7914b000ec87ff577b8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 204')"
+    filename: /images/175/e88d27212a688bedf2cc292e2cc384f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YW-1 PRG
+  size: 128 KB
+  crc32: EFD26E37
+  x: 1
+pcbProperties:
+  name: NES-AMROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9016 - 9026 (2)
+  estFirstRun: April 1990
+  pcbClass: NES-AMROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Hitachi
+  partNumber: HN62321EP
+  partNumberSubDetail: Y26
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0F1
+  dateCodeSuffix: ''
+  std: 9023
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9021
+  dateCodeSuffix: KT03
+  std: 9021
+  misc: L
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9026
+  dateCodeSuffix: 1 AA
+  std: 9026
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: ''
+  std: 9017
+  misc: 

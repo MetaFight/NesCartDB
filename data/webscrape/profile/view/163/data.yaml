@@ -1,0 +1,125 @@
+metadata:
+  name: Xenophobe
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-09 01:11:00
+  moreProfiles:
+  - 163
+  - 444
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>* NES-XE-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/040e4975be26622bfbd046ea8f7cb340.jpg
+slug: xenophobe
+releaseInfo:
+  catalogId: NES-XE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Sunsoft
+  developer: Midway
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XE-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4364da9c0896de2029797a89611526f2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd5a9378cd82deedd831375dbb658bfe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: SUNSOFT-XEN PRG
+  size: 128 KB
+  crc32: 9ECA0941
+  x: 2
+- type: CHR0
+  label: NES-XE-0 CHR
+  size: 32 KB
+  crc32: AA00B5FA
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 711896B8
+  x: 2
+pcbProperties:
+  name: NES-SFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1c37aca48f08a90f6006d629f928131d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8847 - 8848 (2)
+  estFirstRun: November 1988
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG ROM
+  maker: Toshiba
+  partNumber: 4881
+  partNumberSubDetail: H903
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8839
+  dateCodeSuffix: ECI
+  std: 8839
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2094
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8L3
+  dateCodeSuffix: E2
+  std: 8847
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8834
+  dateCodeSuffix: 5 A
+  std: 8834
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8847
+  dateCodeSuffix: 7 B
+  std: 8847
+  misc: 

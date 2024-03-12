@@ -1,0 +1,106 @@
+metadata:
+  name: 'Ultraman Club 2: Kaettekita Ultraman Club'
+  altName: ウルトラマン倶楽部２ 帰ってきたウルトラマン倶楽部
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 04:42:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ultraman-club-2-kaettekita-ultraman-club
+releaseInfo:
+  catalogId: SHI-UU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 7, 1990
+  publisher: Yutaka
+  developer: Interlink
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lawn Green
+  formFactor: Small
+  frontLabelId: SHI-UU
+  backLabelId/Desc: SHI-UU
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/66bdc9e9a4aa9cbf2ea43e929aae5913.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-UU-0 PRG
+  size: 128 KB
+  crc32: A52A8119
+  x: 1
+- type: CHR0
+  label: SHI-UU-0 CHR
+  size: 128 KB
+  crc32: 43E008C3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7980C4F7
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/15d6a6d0991327000e90a9b2758c0f97.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9006
+  estFirstRun: February 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5411
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0A3
+  dateCodeSuffix: 72
+  std: 9003
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: H0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9006
+  dateCodeSuffix: D
+  std: 9006
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9005
+  dateCodeSuffix: KP012
+  std: 9005
+  misc: 

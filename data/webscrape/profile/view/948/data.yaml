@@ -1,0 +1,124 @@
+metadata:
+  name: Rollerblade Racer
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 03:52:00
+  moreProfiles:
+  - 948
+  - 1440
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1440')"
+    filename: /images/175/e0a56db779c7485d25622b1b19a48f4b.jpg
+slug: rollerblade-racer
+releaseInfo:
+  catalogId: NES-R6-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 1993
+  publisher: Hi Tech Expressions
+  developer: Radiance Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Hi Tech Expressions
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Hi Tech Expressions Licensed by Nintendo Made in U.S.A.
+  frontLabelId: Not Present
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: ODRY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6fca6ddae80425b80c971f4fbfb300fc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1440')"
+    filename: /images/175/18f0ac5cdc2fa2da648f67b4758987b8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-R6-USA PRG
+  size: 128 KB
+  crc32: 20574509
+  x: 2
+- type: CHR0
+  label: NES-R6-USA CHR
+  size: 128 KB
+  crc32: FDC64E50
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2370C0A9
+  x: 2
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/66f56125d334bc98fcd7a43cc02a9551.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 661')"
+    filename: /images/175/8327ac9b64b61c483a5dbc99f043c41a.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9249 - 9249 (2)
+  estFirstRun: December 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9249
+  dateCodeSuffix: TUN
+  std: 9249
+  misc: 
+- designation: U2 CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9249
+  dateCodeSuffix: TNN
+  std: 9249
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: 1 BB
+  std: 9234
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9239
+  dateCodeSuffix: KVB63
+  std: 9239
+  misc: 

@@ -1,0 +1,122 @@
+metadata:
+  name: Family Mahjong
+  altName: ファミリーマージャン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 21:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1795
+  - 2298
+  - 3214
+  - 3215
+  - 3216
+  - 3217
+  - 3320
+  additionalImages: 
+slug: family-mahjong
+releaseInfo:
+  catalogId: NAM-FM-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 11, 1987
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 3215')"
+    filename: /images/175/1ffa6c5f0066e98a364cd911b32b1acc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2298')"
+    filename: /images/175/fa3c6e9d36362d45b4ca2f3065519643.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f22f8c85641128ce2301e1ed980fd1b1.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B43BF74E
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 237825CF
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: F5CEEF8F
+  x: 1
+pcbProperties:
+  name: LROG037-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG037-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/83fc8293a904f4e518147d345bc3b9d0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG037-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc1c5dec7e9b7db0758e87b0e874ccc2.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8731 - 8826 (7)
+  estFirstRun: August 1987
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG031A
+  partNumberSubDetail: FM
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8826
+  dateCodeSuffix: 7
+  std: 8826
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

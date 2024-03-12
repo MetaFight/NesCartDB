@@ -1,0 +1,77 @@
+metadata:
+  name: Bill Elliott's NASCAR Challenge
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 06:10:00
+  moreProfiles:
+  - 646
+  - 2778
+  relatedProfiles: []
+  additionalImages: 
+slug: bill-elliotts-nascar-challenge
+releaseInfo:
+  catalogId: NES-EV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1991
+  publisher: Konami
+  developer: Distinctive Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EV-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2778')"
+    filename: /images/175/bbf6283c4079b05b9b8226ab00155e52.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2778')"
+    filename: /images/175/c6f7a327bc361142b2e8279b5ad82387.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-EV-0 PRG
+  size: 128 KB
+  crc32: 7062F3FA
+  x: 2
+- type: CHR0
+  label: NES-EV-0 CHR
+  size: 256 KB
+  crc32: 15B6EB07
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 847D672D
+  x: 2
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9111
+  estFirstRun: March 1991
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

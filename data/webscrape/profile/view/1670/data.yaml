@@ -1,0 +1,120 @@
+metadata:
+  name: B-Wings
+  altName: Ｂ‐ワイング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 03:20:00
+  moreProfiles:
+  - 1264
+  - 1670
+  - 2319
+  relatedProfiles: []
+  additionalImages: 
+slug: b-wings
+releaseInfo:
+  catalogId: DFC-BW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 3, 1986
+  publisher: Data East
+  developer: Data East
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: DFC-BW
+  backLabelId/Desc: DFC-BW
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1264')"
+    filename: /images/175/397279d10a723edfaab16b7fca10fba8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 725D5CC4
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 456DF683
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 74F0A89F
+  x: 3
+pcbProperties:
+  name: 1A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>1A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f13480697f6b7e9caae5f7ac59507fa4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>1A<br>Submitted by: bootgod<br>Linked from profile 2319')"
+    filename: /images/175/8d4a5c363915e909df85833f243d24ef.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8618 - 8619 (3)
+  estFirstRun: May 1986
+  pcbClass: HVC-CNROM+SECURITY
+  inesMapper: 185
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: DFC-BW
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 65
+  dateCodeSuffix: 05
+  std: 8618
+  misc: 9V-AC
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 64C
+  dateCodeSuffix: 5
+  std: 8617
+  misc: 

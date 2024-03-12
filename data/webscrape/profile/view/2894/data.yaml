@@ -1,0 +1,78 @@
+metadata:
+  name: Clash At Demonhead
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-20 10:19:00
+  moreProfiles:
+  - 201
+  - 2894
+  relatedProfiles: []
+  additionalImages: 
+slug: clash-at-demonhead
+releaseInfo:
+  catalogId: NES-B6-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Vic Tokai
+  developer: Vic Tokai
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-B6-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 201')"
+    filename: /images/175/a2e56195cdf3acbae5ef0e08c250f286.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 201')"
+    filename: /images/175/ff175463f36b785bfcf8c2c3fd54caa3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-B6-0 PRG
+  size: 128 KB
+  crc32: 2FA2DF5F
+  x: 2
+- type: CHR0
+  label: NES-B6-0 CHR
+  size: 128 KB
+  crc32: FA8AEF06
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 82AFA828
+  x: 2
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8951
+  estFirstRun: December 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

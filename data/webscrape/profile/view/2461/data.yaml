@@ -1,0 +1,123 @@
+metadata:
+  name: 'Tiny Toon Adventures 2: Trouble in Wackyland'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-06 02:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2029
+  - 3834
+  - 530
+  additionalImages: 
+slug: tiny-toon-adventures-2-trouble-in-wackyland
+releaseInfo:
+  catalogId: NES-T2-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: January 27, 1994
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-T2-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/192a389a06693d74a7d3480f027a405d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a44420372ba43b94eded67f75aef91be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-T2-0 PRG
+  size: 128 KB
+  crc32: EBF177BE
+  x: 2
+- type: CHR0
+  label: PAL-T2-0 CHR
+  size: 128 KB
+  crc32: 04E8A340
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C32E9672
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ad2a0db469ea2737f44c63c45aae6d6c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9344
+  estFirstRun: November 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6734
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3LC
+  dateCodeSuffix: 46
+  std: 9344
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0192
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3LB
+  dateCodeSuffix: 10
+  std: 9344
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9214
+  dateCodeSuffix: C
+  std: 9214
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9317
+  dateCodeSuffix: 1 A
+  std: 9317
+  misc: 

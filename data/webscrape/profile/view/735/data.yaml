@@ -1,0 +1,105 @@
+metadata:
+  name: Raid 2020
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 04:40:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: raid-2020
+releaseInfo:
+  catalogId: CDR-RD-81003
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b921eaa154048d888837bfabf1b1a9f7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/851dece0ec0738875a041b4003b47e90.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 8B5C74DB
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 421ADB54
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 61253D1C
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a65aaa750318d8dc2540b6fc420b10a5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9001
+  estFirstRun: January 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Texas Instruments
+  partNumber: TMS27PC512NL
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8948
+  dateCodeSuffix: ALDP
+  std: 8948
+  misc: 
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9001
+  dateCodeSuffix: KJ
+  std: 9001
+  misc: 229AA11
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

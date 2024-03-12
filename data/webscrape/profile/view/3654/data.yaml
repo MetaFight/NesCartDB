@@ -1,0 +1,108 @@
+metadata:
+  name: Exed Exes
+  altName: エグゼド　エグゼス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 01:11:00
+  moreProfiles:
+  - 2175
+  - 3654
+  relatedProfiles: []
+  additionalImages: 
+slug: exed-exes
+releaseInfo:
+  catalogId: GTS-EE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1985
+  publisher: Tokuma Shoten
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: GTS-EE
+  backLabelId/Desc: 850610
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2175')"
+    filename: /images/175/fd772aa08d979bee14a8e2a11e120adc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 7B82400F
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: B0DB8096
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: C05A365B
+  x: 2
+pcbProperties:
+  name: 3E
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3E<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0d71c245fd34b52465002eff5c92abfb.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8549
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: GTS-EE
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Z
+  dateCodeSuffix: 057
+  std: 8549
+  misc: 0V-J4
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

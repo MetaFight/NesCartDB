@@ -1,0 +1,98 @@
+metadata:
+  name: Star Force
+  altName: スターフォース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 03:59:00
+  moreProfiles:
+  - 1473
+  - 3665
+  relatedProfiles:
+  - 1853
+  - 344
+  additionalImages: 
+slug: star-force
+releaseInfo:
+  catalogId: HFC-SF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 25, 1985
+  publisher: Hudson Soft
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Blue
+  formFactor: Small
+  frontLabelId: HFC-SF
+  backLabelId/Desc: Black Text
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dc94cae999827e7c4e287e77103c238f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-SF-0 PRG
+  size: 16 KB
+  crc32: FD7DD2B0
+  x: 2
+- type: CHR0
+  label: HVC-SF-0 CHR
+  size: 8 KB
+  crc32: B6128566
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: C67865A2
+  x: 2
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ebb10cba3fe4845917647d50ec30bff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 3450')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8522 - 8522 (2)
+  estFirstRun: June 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C128
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8521
+  dateCodeSuffix: K7
+  std: 8521
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 05
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8522
+  dateCodeSuffix: D
+  std: 8522
+  misc: 

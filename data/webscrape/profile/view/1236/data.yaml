@@ -1,0 +1,113 @@
+metadata:
+  name: P'radikus Conflict
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-11 03:40:00
+  moreProfiles:
+  - 1236
+  - 2588
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>PT-81017<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/005bedac6ae4b2717dc8aa97f28d9450.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>PT-81017<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8d7fa2fd3004d785739008fe3123fc50.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38d663f1dad620b621c317dcfee83bcb.jpg
+slug: pradikus-conflict
+releaseInfo:
+  catalogId: CDR-PT-81017
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ea27dc60202c32463b6e07d185e076f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/851dece0ec0738875a041b4003b47e90.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 0FD5AEEB
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 57CAA133
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 42749A95
+  x: 2
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a8ff3ed19a18266b4a8d9f71e73212d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9016 - 9016 (2)
+  estFirstRun: April 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Texas Instruments
+  partNumber: TMS27PC512NL
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8948
+  dateCodeSuffix: ALDP
+  std: 8948
+  misc: 
+- designation: U2
+  maker: Intel
+  partNumber: D27512-200V05
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 016
+  dateCodeSuffix: U
+  std: 9016
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

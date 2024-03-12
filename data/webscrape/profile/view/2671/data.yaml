@@ -1,0 +1,117 @@
+metadata:
+  name: 'Dragon Buster II: Yami no Fuuin'
+  altName: ??????????????
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 04:26:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1796
+  - 2671
+  additionalImages: 
+slug: dragon-buster-ii-yami-no-fuuin
+releaseInfo:
+  catalogId: NAM-DBII-5200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 27, 1989
+  publisher: Namco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1796')"
+    filename: /images/175/4744e41e0726892aeff302776058d190.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1796')"
+    filename: /images/175/8ac81b52986c39bc97dbce2c4aae31bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 33BD809C
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 63ACA7CC
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: D7AA0B6D
+  x: 2
+pcbProperties:
+  name: LROG048-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG048-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d51119467181bf31d9aa7c6b34be1cff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG048-00<br>Submitted by: bootgod<br>Linked from profile 1791')"
+    filename: /images/175/628034be79e6c2733ac07e85e770047a.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8913 - 8917 (2)
+  estFirstRun: March 1989
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG054
+  partNumberSubDetail: DBII
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8913
+  dateCodeSuffix: 7
+  std: 8913
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

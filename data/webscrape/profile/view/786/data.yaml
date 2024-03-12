@@ -1,0 +1,81 @@
+metadata:
+  name: Gradius
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 02:37:00
+  moreProfiles:
+  - 257
+  - 786
+  - 1353
+  relatedProfiles:
+  - 1993
+  - 4443
+  - 1569
+  additionalImages: 
+slug: gradius
+releaseInfo:
+  catalogId: NES-GR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1986
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GR-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 257')"
+    filename: /images/175/1d9c17dc2058c36930ecd1ac1f4eafac.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 257')"
+    filename: /images/175/b92a86eb8e27601123d243af61d245e7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-GR-0 PRG
+  size: 32 KB
+  crc32: 2FB0FF59
+  x: 4
+- type: CHR0
+  label: NES-GR-0 CHR
+  size: 32 KB
+  crc32: 0DDDD32E
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 350D835E
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8719 - 8931 (2)
+  estFirstRun: May 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+  hardware: 74xx161
+detailedChipInfo: []

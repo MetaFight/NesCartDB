@@ -1,0 +1,119 @@
+metadata:
+  name: Bakushou!! Jinsei Gekijou
+  altName: 爆笑！！人生劇
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-13 07:02:00
+  moreProfiles:
+  - 1555
+  - 3302
+  relatedProfiles: []
+  additionalImages: 
+slug: bakushou-jinsei-gekijou
+releaseInfo:
+  catalogId: TFC-BZG-5900-23
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 17, 1989
+  publisher: Taito
+  developer: Taito
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-BZG-5900
+  backLabelId/Desc: G7000002A
+  sequence#: 23
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/95dfca60b1d54f3a816ac56b2e530cd3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebb4206c4af448b6c9b885ae4338b94c.jpg
+romDetails:
+- type: PRG0
+  label: B71-01
+  size: 256 KB
+  crc32: ECDBAFA4
+  x: 2
+- type: CHR0
+  label: B71-02
+  size: 128 KB
+  crc32: F33EE273
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: ADF606F6
+  x: 2
+pcbProperties:
+  name: J9100181A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100181A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f26c79ef865fb0f87c5f09ee95024442.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100181A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbb1af038c92134c588845ccf1008afd.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9119 - 9119 (2)
+  estFirstRun: May 1991
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx245, TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9119
+  dateCodeSuffix: HY
+  std: 9119
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9119
+  dateCodeSuffix: K9728
+  std: 9119
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8825
+  dateCodeSuffix: KY
+  std: 8825
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS245N
+  partNumberSubDetail: 
+  type: 74-245 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8808
+  dateCodeSuffix: J
+  std: 8808
+  misc: 

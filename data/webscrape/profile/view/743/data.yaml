@@ -1,0 +1,129 @@
+metadata:
+  name: The Hunt for Red October
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 22:54:00
+  moreProfiles:
+  - 635
+  - 2781
+  - 743
+  - 827
+  relatedProfiles:
+  - 4416
+  - 4444
+  - 4445
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-7H-USA<br>Submitted by: bootgod<br>Linked from profile 827')"
+    filename: /images/175/7f4ddca25fba08573dcc0082dbddc9e8.jpg
+slug: the-hunt-for-red-october
+releaseInfo:
+  catalogId: NES-7H-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1991
+  publisher: Hi Tech Expressions
+  developer: Beam Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7H-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f785595b0de2bd495b020ea3665f907.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14198f8fb799160913b522a9ea6feca4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-7H-0 PRG
+  size: 128 KB
+  crc32: 07DBD082
+  x: 2
+- type: CHR0
+  label: NES-7H-0 CHR
+  size: 128 KB
+  crc32: 8C874F74
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 03F899CD
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1113d0a18bc587bb1b05ccfdb936f9e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9050 - 9119 (3)
+  estFirstRun: December 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NTT
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0D0
+  dateCodeSuffix: B3
+  std: 9050
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NTU
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0D3
+  dateCodeSuffix: 52
+  std: 9050
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 047
+  dateCodeSuffix: C
+  std: 9047
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9048
+  dateCodeSuffix: 5 DB
+  std: 9048
+  misc: 

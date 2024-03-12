@@ -1,0 +1,93 @@
+metadata:
+  name: Teenage Mutant Ninja Turtles
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-26 23:31:00
+  moreProfiles:
+  - 8
+  - 9
+  - 501
+  - 2845
+  - 331
+  - 2843
+  - 558
+  - 817
+  - 2846
+  - 1137
+  - 2842
+  - 1246
+  - 3060
+  relatedProfiles:
+  - 2033
+  - 4408
+  - 4563
+  - 4761
+  - 2396
+  additionalImages: 
+slug: teenage-mutant-ninja-turtles
+releaseInfo:
+  catalogId: NES-U2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Ultra Games
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U2-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7cfb5f666ae986422903e5682884098.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1137')"
+    filename: /images/175/2bdeb18abb503b9c41a68ae29d48e4cd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-U2-0 PRG
+  size: 128 KB
+  crc32: 0CCD28D5
+  x: 13
+- type: CHR0
+  label: NES-U2-0 CHR
+  size: 128 KB
+  crc32: 91F01F53
+  x: 13
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EE921D8E
+  x: 13
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8923 - 9036 (11)
+  estFirstRun: June 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

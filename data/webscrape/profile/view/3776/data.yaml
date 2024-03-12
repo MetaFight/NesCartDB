@@ -1,0 +1,108 @@
+metadata:
+  name: Ghostbusters
+  altName: ゴーストバスターズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 21:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 362
+  additionalImages: 
+slug: ghostbusters
+releaseInfo:
+  catalogId: GTS-GB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 22, 1986
+  publisher: Tokuma Shoten
+  developer: Activision
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: GTS-GB
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a8d18e866df9d6b8045aec7bb7ecd10.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: GTS-GB-0 PRG
+  size: 32 KB
+  crc32: 6E4C0641
+  x: 1
+- type: CHR0
+  label: GTS-GB-0 CHR
+  size: 32 KB
+  crc32: DC6D8B34
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 4057C51B
+  x: 1
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37c9f10f93d04e3752f635e87ce75ad1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 2690')"
+    filename: /images/175/2bc135e3bceee088043829b169c499b1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8636
+  estFirstRun: September 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 70
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8636
+  dateCodeSuffix: D
+  std: 8636
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 69
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8636
+  dateCodeSuffix: D
+  std: 8636
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 66B
+  dateCodeSuffix: 7
+  std: 8624
+  misc: 

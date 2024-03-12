@@ -1,0 +1,124 @@
+metadata:
+  name: NES Open Tournament Golf
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 04:12:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1895
+  - 1464
+  - 1846
+  additionalImages: 
+slug: nes-open-tournament-golf
+releaseInfo:
+  catalogId: NES-UG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UG-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f902f77e5f7b0c8b6843a1116636f300.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0bf5721dfaa8aca93f95a2db556bd32.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-UG-0 PRG
+  size: 256 KB
+  crc32: F6B9799C
+  x: 2
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9130
+  estFirstRun: July 1991
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T96
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9130
+  dateCodeSuffix: PY006
+  std: 9130
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9129
+  dateCodeSuffix: DC
+  std: 9129
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 103
+  dateCodeSuffix: C
+  std: 9103
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9121
+  dateCodeSuffix: 3 AA
+  std: 9121
+  misc: 
+- designation: U5 W-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9129
+  dateCodeSuffix: DC
+  std: 9129
+  misc: 

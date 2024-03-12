@@ -1,0 +1,106 @@
+metadata:
+  name: Uchuu Keibitai SDF
+  altName: 宇宙警備隊ＳＤＦ
+  variant: 
+  submittedBy: jpx72
+  submittedOn: 2012-03-06 04:21:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: uchuu-keibitai-sdf
+releaseInfo:
+  catalogId: HAL-UI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 7, 1990
+  publisher: HAL Laboratory
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: HAL-UI
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/3029c13b55435d7658884c24aaf01615.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/15e4c337a135a7e62be81acc322b1e82.jpg
+romDetails:
+- type: PRG0
+  label: HAL-UI-0 PRG
+  size: 128 KB
+  crc32: D979C8B7
+  x: 0
+- type: CHR0
+  label: HAL-UI-0 CHR
+  size: 128 KB
+  crc32: 8734D65D
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BB7F829A
+  x: 0
+pcbProperties:
+  name: HVC-ELROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-ELROM-01<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/1c37c675bd2e23338fb5c1b357b3b397.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-ELROM-01<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/77c6ef396d0387be6d04ccdf3a7b3293.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9028
+  estFirstRun: July 1990
+  pcbClass: HVC-ELROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 1000
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0GF
+  dateCodeSuffix: 43
+  std: 9028
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 1001
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0GF
+  dateCodeSuffix: 41
+  std: 9028
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9005
+  dateCodeSuffix: AA048
+  std: 9005
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: Hyakki Yagyou
+  altName: 百鬼夜行
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 02:30:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hyakki-yagyou
+releaseInfo:
+  catalogId: USE-HG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 23, 1989
+  publisher: Use
+  developer: Use
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: USE-HG
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ed069ae1c096138b030932b3b1835ac.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: USE-HG-0 PRG
+  size: 128 KB
+  crc32: 1E2F89C8
+  x: 1
+- type: CHR0
+  label: USE-HG-0 CHR
+  size: 128 KB
+  crc32: 02DA5432
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DC1E07D2
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb194ebad832967aaa4aae885a5fb338.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8904
+  estFirstRun: January 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 49
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8904
+  dateCodeSuffix: D
+  std: 8904
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8904
+  dateCodeSuffix: 3 Y
+  std: 8904
+  misc: 
+- designation: U3 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 3Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8904
+  dateCodeSuffix: D
+  std: 8904
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8904
+  dateCodeSuffix: 1 A
+  std: 8904
+  misc: 

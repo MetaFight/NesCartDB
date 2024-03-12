@@ -1,0 +1,115 @@
+metadata:
+  name: Mega Man 6
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-09 05:32:00
+  moreProfiles:
+  - 891
+  - 1073
+  - 2763
+  - 2764
+  relatedProfiles:
+  - 4283
+  additionalImages: 
+slug: mega-man-6
+releaseInfo:
+  catalogId: NES-G6-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1994
+  publisher: Nintendo
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-G6-USA-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af075afb1c7de9a1d71c123913f2f9dc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/504bafdb32a96128b4f3ab9b4da5a930.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-G6-0 PRG
+  size: 512 KB
+  crc32: 988798A8
+  x: 4
+pcbProperties:
+  name: NES-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9402 - 9404 (3)
+  estFirstRun: January 1994
+  pcbClass: NES-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB834000
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9402
+  dateCodeSuffix: T07
+  std: 9402
+  misc: 
+- designation: U2 CHR
+  maker: Sony
+  partNumber: CXK5864BPX-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 338
+  dateCodeSuffix: B08X
+  std: 9338
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9343
+  dateCodeSuffix: 1 BB
+  std: 9343
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9345
+  dateCodeSuffix: EX006
+  std: 9345
+  misc: 

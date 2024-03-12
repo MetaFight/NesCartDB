@@ -1,0 +1,123 @@
+metadata:
+  name: Whomp 'Em
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-03 02:54:00
+  moreProfiles:
+  - 937
+  - 2553
+  relatedProfiles:
+  - 2288
+  additionalImages: 
+slug: whomp-em
+releaseInfo:
+  catalogId: NES-4W-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1991
+  publisher: Jaleco
+  developer: Jaleco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4W-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 937')"
+    filename: /images/175/6382520dbf87c6a62f2aa663f21f518d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 937')"
+    filename: /images/175/944e63671c77217cf40c1cd2e54cf8cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4W-0 PRG
+  size: 128 KB
+  crc32: 68A8CF73
+  x: 2
+- type: CHR0
+  label: NES-4W-0 CHR
+  size: 128 KB
+  crc32: D143A5A5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6FD5A271
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e0b3f06825da561ab76c5293a7395c92.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9106 - 9106 (2)
+  estFirstRun: February 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1861
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1BJ
+  dateCodeSuffix: XD
+  std: 9106
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0126
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1BD
+  dateCodeSuffix: 41
+  std: 9106
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9048
+  dateCodeSuffix: 3 BB
+  std: 9048
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: 1 DB
+  std: 9102
+  misc: 

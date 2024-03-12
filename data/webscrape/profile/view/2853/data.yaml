@@ -1,0 +1,131 @@
+metadata:
+  name: RoadBlasters
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-22 06:23:00
+  moreProfiles:
+  - 419
+  - 1065
+  - 2853
+  relatedProfiles:
+  - 4422
+  - 4719
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VE-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7f5f3df11ce421015255397163e9eaf1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VE-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/062e29444d40cae00d4998d960ed44cb.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-VE-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b7e8056ec6e493e4f7fab963187ade6.jpg
+slug: roadblasters
+releaseInfo:
+  catalogId: NES-VE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Mindscape
+  developer: Tengen
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VE-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/700039b07c0bd89be840afff66f7300c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ea516b2abb671b5bd37cbaf2cda6d9f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-VE-0 PRG
+  size: 128 KB
+  crc32: 3AB1E983
+  x: 3
+- type: CHR0
+  label: NES-VE-0 CHR
+  size: 128 KB
+  crc32: D19B16FC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8ADA3497
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2b9c4e040c78fd4efde0cc8c1ab0ca75.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9017 (2)
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R61
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9016
+  dateCodeSuffix: EX028
+  std: 9016
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T66
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9016
+  dateCodeSuffix: EY017
+  std: 9016
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: 1 CA
+  std: 9017
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8951
+  dateCodeSuffix: B3058
+  std: 8951
+  misc: 

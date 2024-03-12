@@ -1,0 +1,115 @@
+metadata:
+  name: Wrecking Crew
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-31 10:07:00
+  moreProfiles:
+  - 267
+  - 309
+  - 848
+  relatedProfiles:
+  - 2379
+  - 2442
+  - 1478
+  - 1976
+  additionalImages: 
+slug: wrecking-crew
+releaseInfo:
+  catalogId: NES-WR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 848')"
+    filename: /images/175/08a1a2979c784dc21836ad5347de3ee3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/505a579896547fd33ac18175ab78ffb7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-WR-0 PRG
+  size: 32 KB
+  crc32: 4328B273
+  x: 8
+- type: CHR0
+  label: HVC-WR-0 CHR
+  size: 8 KB
+  crc32: 23F0B9FD
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 9B506A48
+  x: 8
+pcbProperties:
+  name: NES-NROM-256-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80355e86f951079ca8fbb01bf44e79a0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8639 - 8929 (3)
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 06
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8638
+  dateCodeSuffix: E
+  std: 8638
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 08
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8637
+  dateCodeSuffix: E
+  std: 8637
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8639
+  dateCodeSuffix: AC
+  std: 8639
+  misc: 

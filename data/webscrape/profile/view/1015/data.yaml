@@ -1,0 +1,78 @@
+metadata:
+  name: Bible Adventures
+  altName: 
+  variant: (Version 1.3)
+  submittedBy: polarz
+  submittedOn: 2006-09-03 04:16:00
+  moreProfiles:
+  - 958
+  - 1015
+  - 1157
+  - 1364
+  - 2117
+  - 4773
+  relatedProfiles: []
+  additionalImages: 
+slug: bible-adventures
+releaseInfo:
+  catalogId: WT-BC-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Embossed Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 958')"
+    filename: /images/175/6f57aaa8fdd27369a443f88dcb4407e0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 958')"
+    filename: /images/175/99483cfeab9e41e4f25867420819206b.jpg
+romDetails:
+- type: PRG0
+  label: BR-003 PRG 512K 1.3
+  size: 64 KB
+  crc32: 9B8E02C0
+  x: 1
+- type: CHR0
+  label: BR-003 VID 512K 1.3
+  size: 64 KB
+  crc32: B0A8C32A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 73140EEF
+  x: 1
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9018 - 9407 (4)
+  estFirstRun: May 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo: []

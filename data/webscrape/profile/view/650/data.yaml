@@ -1,0 +1,75 @@
+metadata:
+  name: Pro Wrestling
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-03-12 07:19:00
+  moreProfiles:
+  - 330
+  - 633
+  - 650
+  - 778
+  - 2825
+  - 1380
+  relatedProfiles:
+  - 2531
+  - 978
+  - 4252
+  additionalImages: 
+slug: pro-wrestling
+releaseInfo:
+  catalogId: NES-PW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1987
+  publisher: Nintendo
+  developer: Human Entertainment
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1380')"
+    filename: /images/175/95e088a1f7e13437048e885c473fdb2f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2825')"
+    filename: /images/175/8cf9035af7e19cc1181290847659a9f1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-PW-1 PRG
+  size: 128 KB
+  crc32: 64B710D2
+  x: 6
+pcbProperties:
+  name: NES-UN-ROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8652 - 8814 (4)
+  estFirstRun: December 1986
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

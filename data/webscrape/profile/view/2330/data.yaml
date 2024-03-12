@@ -1,0 +1,128 @@
+metadata:
+  name: Tetris
+  altName: テトリス
+  variant: (Revision B)
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 23:20:00
+  moreProfiles:
+  - 1497
+  - 1710
+  - 1711
+  - 2330
+  - 3346
+  - 3347
+  - 3348
+  - 3448
+  - 3449
+  - 3702
+  relatedProfiles: []
+  additionalImages: 
+slug: tetris
+releaseInfo:
+  catalogId: BPS-T0
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 22, 1988
+  publisher: Bullet-Proof Software
+  developer: Bullet-Proof Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BPS-T0
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  revision: B
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/bbd098bcdcd9b37f6f439e1f404d6822.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 77117299
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: A4896EEF
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 5C5A1AB8
+  x: 6
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f9124450245bc4fd1398e79211f8bf27.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8926 - 9043 (10)
+  estFirstRun: June 1989
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 3JTT
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: I4
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: ''
+  std: 9039
+  misc: 

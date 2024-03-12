@@ -1,0 +1,113 @@
+metadata:
+  name: President no Sentaku
+  altName: プレジデントの選択
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 03:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a06033b150c0083cdc943fbd130934d9.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b539cc6c841bfc2e1a0845a37abcaefd.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6cca62f517f72258c1a5f4e56ed3b27e.jpg
+slug: president-no-sentaku
+releaseInfo:
+  catalogId: GAM-B3-06
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 2, 1990
+  publisher: HOT?B
+  developer: Another
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime Green
+  formFactor: Small
+  frontLabelId: GAM-B3-06
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/974aa306b8e5125a66202e880f0c5490.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: GAM-B3-0 PRG
+  size: 256 KB
+  crc32: 4640EBE0
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004
+  estFirstRun: January 1990
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T46
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8950
+  dateCodeSuffix: PY715
+  std: 8950
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9002
+  dateCodeSuffix: M5
+  std: 9002
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9004
+  dateCodeSuffix: 3 AA
+  std: 9004
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 017
+  dateCodeSuffix: 51
+  std: 9003
+  misc: 

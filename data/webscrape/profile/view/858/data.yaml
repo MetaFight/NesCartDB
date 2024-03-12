@@ -1,0 +1,111 @@
+metadata:
+  name: Lode Runner
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 23:11:00
+  moreProfiles:
+  - 300
+  - 858
+  relatedProfiles:
+  - 1460
+  additionalImages: 
+slug: lode-runner
+releaseInfo:
+  catalogId: NES-LO-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Br?derbund
+  developer: Hudson Soft
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LO-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56e879ce91f3fcb8418b7a697651baa5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/786ebfd2632409a4b81fd7cfb5fb5eb7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-LO-0 PRG
+  size: 16 KB
+  crc32: EC3001C7
+  x: 3
+- type: CHR0
+  label: NES-LO-0 CHR
+  size: 8 KB
+  crc32: E8C6C127
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: AF5676DE
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b6f100ad11f77d12e1bcb3a26a82d99d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8729 - 8739 (2)
+  estFirstRun: July 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 54
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: E
+  std: 8739
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 56
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: E
+  std: 8739
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8737
+  dateCodeSuffix: C
+  std: 8737
+  misc: 

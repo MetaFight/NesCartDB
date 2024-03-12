@@ -1,0 +1,116 @@
+metadata:
+  name: 4-nin Uchi Mahjong
+  altName: ４人打ち麻雀
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 08:10:00
+  moreProfiles:
+  - 1479
+  - 1656
+  - 3369
+  - 3370
+  - 3371
+  - 3372
+  - 3373
+  - 3374
+  - 3676
+  - 4736
+  relatedProfiles: []
+  additionalImages: 
+slug: 4-nin-uchi-mahjong
+releaseInfo:
+  catalogId: HVC-FJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 2, 1984
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Medium Sea Green
+  formFactor: Small
+  frontLabelId: HVC-FJ
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 17
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1479')"
+    filename: /images/175/76dbbf29ca63fa75f45a025220005a5c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 3ED8C6B5
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 425CC61F
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 84BE00E9
+  x: 6
+pcbProperties:
+  name: 9011-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd67240b3035ef98406ce1557a875e84.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 1495')"
+    filename: /images/175/fb0f27f98153da273c21f54120d1c639.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8505 - 8618 (3)
+  estFirstRun: February 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GAFJ
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 13825 08451
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

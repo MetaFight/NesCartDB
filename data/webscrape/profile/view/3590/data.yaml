@@ -1,0 +1,107 @@
+metadata:
+  name: Dragon Fighter
+  altName: ドラゴンファイター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 00:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 670
+  additionalImages: 
+slug: dragon-fighter
+releaseInfo:
+  catalogId: TCC-1D
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 10, 1990
+  publisher: Towa Chiki
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TCC-1D
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cec4119020453ae5e54277877c91414a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TCC-1D-0 PRG
+  size: 128 KB
+  crc32: 0C4B76EC
+  x: 1
+- type: CHR0
+  label: TCC-1D-0 CHR
+  size: 128 KB
+  crc32: 2195AB85
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4B0DACCE
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c85434fe8603f2f52ee60a43d087e409.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023
+  estFirstRun: June 1990
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5462
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0FC
+  dateCodeSuffix: 41
+  std: 9022
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0080
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0FB
+  dateCodeSuffix: 41
+  std: 9022
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9023
+  dateCodeSuffix: 5 AA
+  std: 9023
+  misc: 

@@ -1,0 +1,137 @@
+metadata:
+  name: 'Mission: Impossible'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-04 06:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 989
+  - 4403
+  - 2506
+  - 4496
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-U4-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/db616ad54660cba4c4aa3f54d5926e54.jpg
+slug: mission-impossible
+releaseInfo:
+  catalogId: NES-U4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Ultra Games
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e8ab96338dc4147f8a7a7560fd718683.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/99fc83ebce4617c3a05a7e3940e26e0a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: RD029N02P
+  size: 128 KB
+  crc32: 96D3F955
+  x: 3
+- type: CHR0
+  label: RD029N02C
+  size: 128 KB
+  crc32: AEF0DFFD
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E3C5BB3D
+  x: 1
+pcbProperties:
+  name: 352026
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352026<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ad0a12f79087ed40681e02fc65051cd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9029
+  estFirstRun: July 1990
+  pcbClass: KONAMI-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC3B
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: D
+  std: 9029
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9028
+  dateCodeSuffix: EX043
+  std: 9028
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9027
+  dateCodeSuffix: 5 CA
+  std: 9027
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9029
+  dateCodeSuffix: KP022
+  std: 9029
+  misc: 
+- designation: 
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9027
+  dateCodeSuffix: Hnn
+  std: 9027
+  misc: 669520T

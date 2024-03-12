@@ -1,0 +1,120 @@
+metadata:
+  name: Lunar Pool
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 23:21:00
+  moreProfiles:
+  - 683
+  - 1367
+  - 1379
+  relatedProfiles:
+  - 4386
+  - 2173
+  - 4550
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6150d06e8ec0096e1c3996396c852b89.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38759f6dd2b74f947a40c879c01ed74a.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-LP-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/94b87e2ff57d8a0876cb4b8c95df06a8.jpg
+slug: lunar-pool
+releaseInfo:
+  catalogId: NES-LP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1987
+  publisher: FCI
+  developer: Compile
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LP-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e0d2762d0b6170cbbbb913e9dcc57e22.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a25361f68d198b1f3d4487943d0ea35.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-LP-0 PRG
+  size: 16 KB
+  crc32: 9BA20DAD
+  x: 3
+- type: CHR0
+  label: NES-LP-0 CHR
+  size: 8 KB
+  crc32: A139062A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 988B446D
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ac6e7e076d987fe8955bc500fdefcdd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8739 - 9149 (3)
+  estFirstRun: September 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 66
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: E
+  std: 8739
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 86
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: B
+  std: 8739
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8736
+  dateCodeSuffix: C
+  std: 8736
+  misc: 

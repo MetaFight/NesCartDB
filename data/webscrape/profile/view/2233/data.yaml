@@ -1,0 +1,119 @@
+metadata:
+  name: Satomi Hakkenden
+  altName: 里見八犬伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 03:00:00
+  moreProfiles:
+  - 2233
+  - 3504
+  relatedProfiles: []
+  additionalImages: 
+slug: satomi-hakkenden
+releaseInfo:
+  catalogId: SFX-S8
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 20, 1989
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: SFX-S8
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6f89c5234b8e1fad95d6f745889d6d0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFX-S8-0 PRG
+  size: 128 KB
+  crc32: 2B6D2447
+  x: 2
+- type: CHR0
+  label: SFX-S8-0 CHR
+  size: 128 KB
+  crc32: 424DD568
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4C0E8BBB
+  x: 2
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a48a624c8c199d8543dda3e027f76fa2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8852 - 8853 (2)
+  estFirstRun: December 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 20
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8853
+  dateCodeSuffix: D
+  std: 8853
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8852
+  dateCodeSuffix: 5 Y
+  std: 8852
+  misc: 
+- designation: U3 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 2Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8853
+  dateCodeSuffix: D
+  std: 8853
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8852
+  dateCodeSuffix: 1 A
+  std: 8852
+  misc: 

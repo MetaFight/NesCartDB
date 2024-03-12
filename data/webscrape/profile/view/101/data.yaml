@@ -1,0 +1,133 @@
+metadata:
+  name: Airwolf
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-08 23:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2094
+  - 2133
+  additionalImages: 
+slug: airwolf
+releaseInfo:
+  catalogId: NES-AF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AF-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2081f847a0cfc48e0181cf6f369ca5df.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1088c71f7407375ac92ca12447fdccf5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-AF-0 PRG
+  size: 32 KB
+  crc32: AA174BC6
+  x: 2
+- type: CHR0
+  label: NES-AF-0 CHR
+  size: 128 KB
+  crc32: BCC72636
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 489EF6A2
+  x: 2
+pcbProperties:
+  name: NES-SH1ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SH1ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b959286ffbbe777218d7b8524f867f93.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8943
+  estFirstRun: October 1989
+  pcbClass: NES-SH1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 0S
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8942
+  dateCodeSuffix: B
+  std: 8942
+  misc: 
+- designation: U2 CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8935
+  dateCodeSuffix: MUF
+  std: 8935
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: 5 BA
+  std: 8942
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8943
+  dateCodeSuffix: 5 AA
+  std: 8943
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: I10
+  dateCodeSuffix: ''
+  std: 8910
+  misc: 

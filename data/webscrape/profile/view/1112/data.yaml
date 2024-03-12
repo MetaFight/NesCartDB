@@ -1,0 +1,122 @@
+metadata:
+  name: Race America, Alex DeMeo's
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-13 03:54:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4471
+  - 4044
+  additionalImages: 
+slug: race-america-alex-demeos
+releaseInfo:
+  catalogId: NES-RB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1992
+  publisher: Absolute
+  developer: Imagineering
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RB-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/78c24bdcfec198c199c5dc9d9e08c481.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fec9325389d08387d996611a333353e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RB-0 PRG
+  size: 128 KB
+  crc32: D6D9DE37
+  x: 1
+- type: CHR0
+  label: NES-RB-0 CHR
+  size: 128 KB
+  crc32: 6699D025
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A8B0DA56
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35af4376d91ca3d1c84ce9cf61aa6f53.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9214
+  estFirstRun: April 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: A9
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9214
+  dateCodeSuffix: E
+  std: 9214
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 1B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9213
+  dateCodeSuffix: D
+  std: 9213
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 201
+  dateCodeSuffix: C
+  std: 9201
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9214
+  dateCodeSuffix: 1 A 170
+  std: 9214
+  misc: 

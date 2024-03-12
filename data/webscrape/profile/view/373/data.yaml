@@ -1,0 +1,118 @@
+metadata:
+  name: Road Runner
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-26 02:47:00
+  moreProfiles:
+  - 373
+  - 4239
+  - 4590
+  relatedProfiles: []
+  additionalImages: 
+slug: road-runner
+releaseInfo:
+  catalogId: TGN-008-RR
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Tengen
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7f12ef109caaf018a0dde76950ea4050.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335008-1011 RRPRG
+  size: 64 KB
+  crc32: C16897D2
+  x: 2
+- type: CHR0
+  label: 335008-1012 RRCHR
+  size: 128 KB
+  crc32: D2117B17
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: B19A55DD
+  x: 2
+pcbProperties:
+  name: 800032 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f1eedab9104b33bf799bd16ee6cd336a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f796102860a9db73eaef836212e90f5.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8944 - 8946 (2)
+  estFirstRun: November 1989
+  pcbClass: TENGEN-800032
+  inesMapper: 64
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006, 74xx32
+detailedChipInfo:
+- designation: PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: LBF
+  std: 8944
+  misc: 
+- designation: CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: JCF
+  std: 8943
+  misc: 
+- designation: RAMBO 1
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8934
+  dateCodeSuffix: F836243N
+  std: 8934
+  misc: NCR0381301
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8934
+  dateCodeSuffix: KKCT
+  std: 8934
+  misc: 

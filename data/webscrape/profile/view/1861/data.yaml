@@ -1,0 +1,76 @@
+metadata:
+  name: Rygar
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2007-07-31 03:14:00
+  moreProfiles:
+  - 284
+  - 746
+  - 769
+  - 1293
+  - 1861
+  relatedProfiles:
+  - 2491
+  - 4696
+  - 3580
+  - 4041
+  additionalImages: 
+slug: rygar
+releaseInfo:
+  catalogId: NES-RY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RY-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 746')"
+    filename: /images/175/0c27cbef1fe3b1f50f167d6d07eb938e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 746')"
+    filename: /images/175/dd8ec3168f139681c543777778f62181.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RY-1 PRG
+  size: 128 KB
+  crc32: 37C474D5
+  x: 5
+pcbProperties:
+  name: NES-UN-ROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8722 - 8841 (3)
+  estFirstRun: June 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

@@ -1,0 +1,69 @@
+metadata:
+  name: Commando
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-13 02:04:00
+  moreProfiles:
+  - 478
+  - 775
+  - 1208
+  relatedProfiles:
+  - 2180
+  additionalImages: 
+slug: commando
+releaseInfo:
+  catalogId: NES-CO-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1986
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CO-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 478')"
+    filename: /images/175/166db8b8b02b40307caa02b6ecd19a73.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/14afbe0182ee0a6e1139672fba5f6c5f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-CO-0 PRG
+  size: 128 KB
+  crc32: 82BE4724
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8734 - 8747 (2)
+  estFirstRun: August 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

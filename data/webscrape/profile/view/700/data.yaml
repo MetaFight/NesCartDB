@@ -1,0 +1,123 @@
+metadata:
+  name: "The Bard's Tale:  Tales of the Unknown"
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 03:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3997
+  additionalImages: 
+slug: the-bards-tale-tales-of-the-unknown
+releaseInfo:
+  catalogId: NES-ET-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1991
+  publisher: FCI
+  developer: Interplay
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ET-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/508fc5c049b164b75bb5eefa4c04592c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2a5d4c8d2c3ffde99befc6f30b3fe49e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-ET-0 PRG
+  size: 128 KB
+  crc32: 9B821A83
+  x: 1
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9139
+  estFirstRun: September 1991
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 3D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9139
+  dateCodeSuffix: E
+  std: 9139
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264BLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9129
+  dateCodeSuffix: KT90
+  std: 9129
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9139
+  dateCodeSuffix: 3 BB
+  std: 9139
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9121
+  dateCodeSuffix: 5 AA
+  std: 9121
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: KT89
+  std: 9135
+  misc: 

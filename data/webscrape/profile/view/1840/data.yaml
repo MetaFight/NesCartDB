@@ -1,0 +1,114 @@
+metadata:
+  name: Donkey Kong Jr.
+  altName: 
+  variant: (Revision A)
+  submittedBy: Kinopio
+  submittedOn: 2007-07-29 02:17:00
+  moreProfiles:
+  - 1840
+  - 2700
+  - 4463
+  relatedProfiles:
+  - 1391
+  - 912
+  additionalImages: 
+slug: donkey-kong-jr
+releaseInfo:
+  catalogId: NES-JR-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: June 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: FRG
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b45d7b3a85825597b645e65ac7fbcee0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a0fc650ebb744592ea4fbdd908eeef01.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2057')"
+    filename: /images/175/c95adb7e02173738ba713de4ad5b5ac3.jpg
+romDetails:
+- type: PRG0
+  label: HVC-JR-1 PRG
+  size: 16 KB
+  crc32: CF6C88B6
+  x: 10
+- type: CHR0
+  label: HVC-JR-0 CHR
+  size: 8 KB
+  crc32: 852778AB
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 4864C304
+  x: 10
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/03f548a04784f1469b4095e5c81869e7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8713 - 8747 (3)
+  estFirstRun: March 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0042
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7J4
+  dateCodeSuffix: 19
+  std: 8740
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2006
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7K1
+  dateCodeSuffix: 12
+  std: 8741
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8747
+  dateCodeSuffix: A
+  std: 8747
+  misc: 

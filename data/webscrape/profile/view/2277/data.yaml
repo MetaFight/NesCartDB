@@ -1,0 +1,106 @@
+metadata:
+  name: Hyper Olympic
+  altName: ハイパーオリンピック
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 06:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2277
+  - 3038
+  - 3308
+  additionalImages: 
+slug: hyper-olympic
+releaseInfo:
+  catalogId: KON-RC800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 21, 1985
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Konami HyperShot,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC800
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/922c091efc2e47dd0d526544884c7aa5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c62b80331244f6816c4a2c5508a7f40.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: FF6621CE
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A0AC7CFC
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 980BE936
+  x: 4
+pcbProperties:
+  name: MF4002
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MF4002<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/730c36146bbd4ad681c896f128836495.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MF4002<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f36239a55bad519b4108c8222e6bf62.jpg
+  pcbProducer: Konami
+  manufacturer: Mitsubishi
+  mfgRange: 8523 - 8536 (3)
+  estFirstRun: June 1985
+  pcbClass: KONAMI-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: Mitsubishi
+  partNumber: RC800J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 536
+  dateCodeSuffix: 6
+  std: 8536
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

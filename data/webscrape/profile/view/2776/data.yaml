@@ -1,0 +1,133 @@
+metadata:
+  name: Double Dragon
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 22:33:00
+  moreProfiles:
+  - 22
+  - 252
+  - 636
+  - 842
+  - 2776
+  relatedProfiles:
+  - 3862
+  - 1941
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 252')"
+    filename: /images/175/928c444198d3a7003870d2057031ae7d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 252')"
+    filename: /images/175/1f7efee4ce028b74e33676df6aaf2820.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-WD-USA<br>Submitted by: bootgod<br>Linked from profile 252')"
+    filename: /images/175/a01ce249bed4d7cf1780858197d007c7.jpg
+slug: double-dragon
+releaseInfo:
+  catalogId: NES-WD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1988
+  publisher: Tradewest
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WD-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 22')"
+    filename: /images/175/7f66911ef823fcda958e20f5f567a96c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 252')"
+    filename: /images/175/e1ccb8ddbb37370b3dc2c519df93d04c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WD-0 PRG
+  size: 128 KB
+  crc32: 79149EBF
+  x: 5
+- type: CHR0
+  label: NES-WD-0 CHR
+  size: 128 KB
+  crc32: 5EBE0FD0
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0F1CC048
+  x: 5
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90108d82dbd28de8670644b6a5ea9fd7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8821 - 9003 (4)
+  estFirstRun: May 1988
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8817
+  dateCodeSuffix: Z30
+  std: 8817
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 55
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8821
+  dateCodeSuffix: D
+  std: 8821
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8812
+  dateCodeSuffix: A
+  std: 8812
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8819
+  dateCodeSuffix: A
+  std: 8819
+  misc: 

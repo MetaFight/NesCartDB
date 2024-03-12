@@ -1,0 +1,111 @@
+metadata:
+  name: 'Argos no Senshi: Hachamecha Daishingeki'
+  altName: アルゴスの戦士 はちゃめちゃ大進撃
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-21 23:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2491
+  - 4696
+  - 4041
+  - 284
+  additionalImages: 
+slug: argos-no-senshi-hachamecha-daishingeki
+releaseInfo:
+  catalogId: TCF-AH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 17, 1987
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Slate Blue
+  formFactor: Small
+  frontLabelId: TCF-AH
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/811c0a2c49b8318afdb860a2e57f46c8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-AH-0 PRG
+  size: 128 KB
+  crc32: E1B260DA
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8712
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8712
+  dateCodeSuffix: KX
+  std: 8712
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8711
+  dateCodeSuffix: MX
+  std: 8711
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8649
+  dateCodeSuffix: AA
+  std: 8649
+  misc: 
+- designation: LS32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8647
+  dateCodeSuffix: C7
+  std: 8647
+  misc: 

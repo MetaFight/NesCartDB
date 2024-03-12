@@ -1,0 +1,118 @@
+metadata:
+  name: Taito Chase H.Q.
+  altName: タイトーチェイスＨ．Ｑ．
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: taito-chase-hq
+releaseInfo:
+  catalogId: DTF-H9 (28)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 8, 1989
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Tan
+  formFactor: Small
+  frontLabelId: DTF-H9
+  secondaryId: 28
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d2ba5cc6c1c762732f8c2da72aea0676.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DTF-H9-0 PRG
+  size: 128 KB
+  crc32: ECFD3C69
+  x: 1
+- type: CHR0
+  label: DTF-H9-0 CHR
+  size: 128 KB
+  crc32: B74308DE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 99D38676
+  x: 1
+pcbProperties:
+  name: HVC-TL1ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TL1ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/252d56a392b26b3dbcbba889adf2424d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8938
+  estFirstRun: September 1989
+  pcbClass: HVC-TL1ROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: Z03
+  std: 8934
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: Z05
+  std: 8934
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8938
+  dateCodeSuffix: EP
+  std: 8938
+  misc: 
+- designation: U4 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8935
+  dateCodeSuffix: HnS
+  std: 8935
+  misc: 651510T

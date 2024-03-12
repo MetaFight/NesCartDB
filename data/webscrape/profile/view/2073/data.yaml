@@ -1,0 +1,126 @@
+metadata:
+  name: Dragon's Lair
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-14 20:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2483
+  - 603
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-L9-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/cfa003c0e4ff01d927873f8583ea4307.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-L9-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/5733eb37e2700dcd6b6abee0e3c8f490.jpg
+slug: dragons-lair
+releaseInfo:
+  catalogId: NES-L9-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: September 6, 1991
+  publisher: Elite
+  developer: Motivetime
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-L9-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/21f1b217d90f6718530b3a3bc8703183.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-L9-0 PRG
+  size: 128 KB
+  crc32: 32F85838
+  x: 4
+- type: CHR0
+  label: PAL-L9-0 CHR
+  size: 128 KB
+  crc32: EDF7F42D
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F919795D
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c0d6fea877fe9ceb4b88c3ab0dbbdda2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9137
+  estFirstRun: September 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 2L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: E
+  std: 9136
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 65
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9137
+  dateCodeSuffix: E
+  std: 9137
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9136
+  dateCodeSuffix: C
+  std: 9136
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9137
+  dateCodeSuffix: 3 AB
+  std: 9137
+  misc: 

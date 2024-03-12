@@ -1,0 +1,117 @@
+metadata:
+  name: 'Ninja Jajamaru: Ginga Daisakusen'
+  altName: 忍者じゃじゃ丸 銀河大作戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-29 06:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4636
+  additionalImages: 
+slug: ninja-jajamaru-ginga-daisakusen
+releaseInfo:
+  catalogId: JF-32
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 29, 1991
+  publisher: Jaleco
+  developer: Jaleco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-32
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37da98a835decc1685fd54c88d91ca76.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/45342e2aff35678291376a69ba1ce426.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 92EDAC5E
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 7BBCE0B9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 06F9C714
+  x: 1
+pcbProperties:
+  name: JF-25
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-25<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/052772160e20d1c44a603ed9301c31ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-25<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/537460ff4178ae850f49640b3858a15f.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9111
+  estFirstRun: March 1991
+  pcbClass: JALECO-JF-25
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S68
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: EX005
+  std: 9111
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: EX701
+  std: 9111
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 109
+  dateCodeSuffix: 172
+  std: 9109
+  misc: 
+- designation: IC5
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9036
+  dateCodeSuffix: J7
+  std: 9036
+  misc: 

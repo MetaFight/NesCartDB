@@ -1,0 +1,108 @@
+metadata:
+  name: 'Flipull: An Exciting Cube Game'
+  altName: フリップル
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2013-02-10 22:00:00
+  moreProfiles:
+  - 3960
+  - 4681
+  - 4682
+  relatedProfiles: []
+  additionalImages: 
+slug: flipull-an-exciting-cube-game
+releaseInfo:
+  catalogId: TFC-FP-3900-29
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 15, 1989
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: Yellow Version
+  sequence#: 29
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/48baf84f396406f9e9574ce025365ddf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1767')"
+    filename: /images/175/1112d7394b18819d0547189d4929f6cd.jpg
+romDetails:
+- type: PRG0
+  label: C14-02
+  size: 32 KB
+  crc32: 3DE19B75
+  x: 1
+- type: CHR0
+  label: C14-01
+  size: 32 KB
+  crc32: E90ED472
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 69FEECB2
+  x: 1
+pcbProperties:
+  name: J9100189A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100189A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/730bc22f439ba95e35a5bf389ade31f3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100189A<br>Submitted by: bootgod<br>Linked from profile 3960')"
+    filename: /images/175/21514013dc1be4d2a1fd32e519caa31b.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8939 - 8941 (3)
+  estFirstRun: September 1989
+  pcbClass: TAITO-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: IC1
+  maker: Texas Instruments
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 937
+  dateCodeSuffix: CS
+  std: 8937
+  misc: 
+- designation: IC2
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: KX707
+  std: 8941
+  misc: 
+- designation: IC3
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8938
+  dateCodeSuffix: KX714
+  std: 8938
+  misc: 

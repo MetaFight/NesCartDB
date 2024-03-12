@@ -1,0 +1,116 @@
+metadata:
+  name: 'Jajamaru Gekimaden: Maboroshi no Kinmajou'
+  altName: じゃじゃ丸撃魔伝 幻の金魔城
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-22 00:52:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: jajamaru-gekimaden-maboroshi-no-kinmajou
+releaseInfo:
+  catalogId: JF-27
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: May 29, 1990
+  publisher: Jaleco
+  developer: Jaleco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-27
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0f5bffe4bf62d6f293218047c4eb219.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8986402bf1c51151634bf7fbd6d80926.jpg
+romDetails:
+- type: PRG0
+  label: JF-27 PRG
+  size: 128 KB
+  crc32: 424EC0A6
+  x: 1
+- type: CHR0
+  label: JF-27 CHR
+  size: 128 KB
+  crc32: 4CDD2416
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0F1BABE7
+  x: 1
+pcbProperties:
+  name: JF-27B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-27B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6e5535df654db0ac1f205be22e35394b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-27B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51da1e6d07e6c667452e6996d44bfc65.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9017
+  estFirstRun: April 1990
+  pcbClass: JALECO-JF-27
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9017
+  dateCodeSuffix: E
+  std: 9017
+  misc: 
+- designation: IC2 CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9017
+  dateCodeSuffix: D
+  std: 9017
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 004
+  dateCodeSuffix: 368
+  std: 9004
+  misc: 
+- designation: IC4 WRAM
+  maker: Seiko Instruments
+  partNumber: S2564RL-100
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9016
+  dateCodeSuffix: G04
+  std: 9016
+  misc: 

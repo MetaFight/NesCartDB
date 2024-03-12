@@ -1,0 +1,137 @@
+metadata:
+  name: Air Fortress
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-30 01:59:00
+  moreProfiles:
+  - 80
+  - 449
+  relatedProfiles:
+  - 4426
+  - 4325
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-AI-USA<br>Submitted by: bootgod<br>Linked from profile 80')"
+    filename: /images/175/9f384c09778a3212a835afa8bcadaa1b.jpg
+slug: air-fortress
+releaseInfo:
+  catalogId: NES-AI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AI-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 80')"
+    filename: /images/175/eae183473694df1fd2f6974fb4adbf97.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 80')"
+    filename: /images/175/7162b479d0a3031af88100fe76f0728f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-AI-0 PRG
+  size: 128 KB
+  crc32: FBAAB554
+  x: 2
+- type: CHR0
+  label: NES-AI-0 CHR
+  size: 32 KB
+  crc32: 3EEBD9C5
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 35C41CD4
+  x: 2
+pcbProperties:
+  name: NES-SJROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SJROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0da419dac3a6703191f26f8d73d0360c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934 - 8948 (2)
+  estFirstRun: August 1989
+  pcbClass: NES-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5335
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9G3
+  dateCodeSuffix: 79
+  std: 8929
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2818
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9G2
+  dateCodeSuffix: 10
+  std: 8928
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8934
+  dateCodeSuffix: 3 BA
+  std: 8934
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8934
+  dateCodeSuffix: 5 A
+  std: 8934
+  misc: 
+- designation: U5 W-RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: 5 DB
+  std: 8924
+  misc: 

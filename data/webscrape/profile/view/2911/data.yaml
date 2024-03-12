@@ -1,0 +1,65 @@
+metadata:
+  name: Astérix
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 06:17:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1932
+  additionalImages: 
+slug: asterix
+releaseInfo:
+  catalogId: NES-AX-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1993
+  publisher: Infogrames
+  developer: Bit Managers
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AX-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-EAI-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/9099aad791188a5e8e4cb91492a79e04.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AX-0 PRG
+  size: 128 KB
+  crc32: ED77B453
+  x: 2
+pcbProperties:
+  name: NES-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3197A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

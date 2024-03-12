@@ -1,0 +1,119 @@
+metadata:
+  name: Adan y Eva
+  altName: Adam & Eve
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-23 14:45:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/31fa1b6c9de83b2a7d94004d8bd885e8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9b72b85d439e8f4597fc629fd56393c1.jpg
+slug: adan-y-eva
+releaseInfo:
+  catalogId: CN-12
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: January 1, 1991
+  publisher: Gluk Video
+  developer: MegaSoft
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/3e8004021b964fde6a653961b81ba654.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 626238F8
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 0A7307D9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 637BA508
+  x: 1
+pcbProperties:
+  name: N715062
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N715062<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/fb88978e0b170d3c76a97e9340d2c5e4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9311
+  estFirstRun: March 1993
+  pcbClass: NTDEC-N715062
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1
+  maker: Intel
+  partNumber: D27C256-200V10
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 038
+  dateCodeSuffix: U
+  std: 9038
+  misc: 
+- designation: U2
+  maker: Intel
+  partNumber: D27C256-200V10
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 028
+  dateCodeSuffix: U
+  std: 9028
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9311
+  dateCodeSuffix: ''
+  std: 9311
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: KC5373B-010
+  partNumberSubDetail: 
+  type: NTDEC CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

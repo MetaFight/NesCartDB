@@ -1,0 +1,114 @@
+metadata:
+  name: Heavy Barrel
+  altName: ヘビーバレル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 11:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 213
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b13d542c5c9d3cc84bbb955a67ad4da.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ae8b773cfada350343908f607699b80.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b44409a35cf22ae139a3b58896efa27f.jpg
+slug: heavy-barrel
+releaseInfo:
+  catalogId: DFC-XH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 2, 1990
+  publisher: Data East
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: DFC-XH
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31a6478e2c4a29d6abeaf91a89b98572.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: DFC-XH-0 PRG
+  size: 128 KB
+  crc32: F1081B1B
+  x: 1
+- type: CHR0
+  label: DFC-XH-0 CHR
+  size: 128 KB
+  crc32: 08A505E8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2BCF2132
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b15fa7950677f4eb3de626117ce7c7bb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002
+  estFirstRun: January 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R66
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8950
+  dateCodeSuffix: EX712
+  std: 8950
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T74
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8952
+  dateCodeSuffix: EY715
+  std: 8952
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9002
+  dateCodeSuffix: 1 T
+  std: 9002
+  misc: 

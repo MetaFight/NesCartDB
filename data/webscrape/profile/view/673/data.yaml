@@ -1,0 +1,122 @@
+metadata:
+  name: Wall Street Kid
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 04:26:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4076
+  additionalImages: 
+slug: wall-street-kid
+releaseInfo:
+  catalogId: NES-ZM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Sofel
+  developer: Sofel
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8b4eb795ae350d3e016fb39f4ed641f2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac0cdbd58b875a364dedc396c9c85d8c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZM-0 PRG
+  size: 128 KB
+  crc32: B6661BDA
+  x: 1
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023
+  estFirstRun: June 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5451
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0FF
+  dateCodeSuffix: 7A
+  std: 9023
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 017
+  dateCodeSuffix: B
+  std: 9017
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: 3 CA
+  std: 9017
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 011
+  dateCodeSuffix: EN
+  std: 9011
+  misc: 
+- designation: U5 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9001
+  dateCodeSuffix: HnS
+  std: 9001
+  misc: 663270T

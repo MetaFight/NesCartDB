@@ -1,0 +1,107 @@
+metadata:
+  name: 'Kidou Senshi Z Gundam: Hot Scramble'
+  altName: 機動戦士Ｚガンダ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-23 06:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2251
+  - 3124
+  - 3295
+  additionalImages: 
+slug: kidou-senshi-z-gundam-hot-scramble
+releaseInfo:
+  catalogId: BA-ZG
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 28, 1986
+  publisher: Bandai
+  developer: Game Studio
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ce9b965baab4255dfb9dfa77d9ec939.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/000b816642a554094b9d3f6722aa8735.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/17eb55693e56965b09db65ca7aebaf40.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 86 ZG P
+  size: 128 KB
+  crc32: A4EE65AC
+  x: 3
+- type: CHR0
+  label: BANDAI 86 ZG C
+  size: 32 KB
+  crc32: E2E400B7
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: CE07194F
+  x: 3
+pcbProperties:
+  name: BA-ZG
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-ZG<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8d7670bf02f5bee648312451e0e60107.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-ZG<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/648508ec4597e58e56fece3eae3ca1d6.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8632 - 8632 (3)
+  estFirstRun: August 1986
+  pcbClass: BANDAI-GNROM
+  inesMapper: 66
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 202P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 632
+  dateCodeSuffix: 10X
+  std: 8632
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 154P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 619
+  dateCodeSuffix: 111
+  std: 8619
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 67B
+  dateCodeSuffix: 7
+  std: 8629
+  misc: 

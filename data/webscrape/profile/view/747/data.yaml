@@ -1,0 +1,127 @@
+metadata:
+  name: Krusty's Fun House
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-12 00:08:00
+  moreProfiles:
+  - 747
+  - 3059
+  relatedProfiles:
+  - 4400
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-KF-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b7ab493bd2fc2ba82fc8c2a82b467d51.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-KF-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9df8d3819fda7430ac81073e61750e99.jpg
+slug: krustys-fun-house
+releaseInfo:
+  catalogId: NES-KF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1992
+  publisher: Acclaim
+  developer: Audiogenic Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8b316f8e67d39e74cde27ac5c3e0a33c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a63b7b84b29741bf20fb61c2c3537d8b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-KF-0 PRG
+  size: 256 KB
+  crc32: 026A41EE
+  x: 2
+- type: CHR0
+  label: NES-KF-0 CHR
+  size: 128 KB
+  crc32: FCE8E0EA
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: A0DF4B8F
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6582109e3c4edeb5bd928cf6967c0426.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9233 - 9250 (2)
+  estFirstRun: August 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W70
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9250
+  dateCodeSuffix: XD001
+  std: 9250
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: T04
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9249
+  dateCodeSuffix: EY002
+  std: 9249
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9236
+  dateCodeSuffix: 1 BB
+  std: 9236
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9248
+  dateCodeSuffix: 3 B
+  std: 9248
+  misc: 

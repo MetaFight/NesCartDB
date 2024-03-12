@@ -1,0 +1,103 @@
+metadata:
+  name: Mario Bros.
+  altName: マリオブラザーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 04:00:00
+  moreProfiles:
+  - 1491
+  - 1638
+  - 1646
+  - 3717
+  relatedProfiles:
+  - 2375
+  - 2358
+  - 1990
+  - 2137
+  - 1099
+  additionalImages: 
+slug: mario-bros
+releaseInfo:
+  catalogId: HVC-MA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 9, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: HVC-MA
+  backLabelId/Desc: 831018
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1bed604050e69888a83616aaf73f678b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-MA-0 PRG
+  size: 16 KB
+  crc32: 75F6A9F3
+  x: 9
+- type: CHR0
+  label: HVC-MA-0 CHR
+  size: 8 KB
+  crc32: 10F77435
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: C4C3949A
+  x: 9
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/695d857567e68d7be982853c919d049f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 3450')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8344 - 8528 (4)
+  estFirstRun: November 1983
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613128P
+  partNumberSubDetail: D36
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 5G1
+  dateCodeSuffix: ''
+  std: 8527
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 11
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: D
+  std: 8528
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: Heisei Tensai Bakabon
+  altName: 平成天才バカボン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 04:07:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: heisei-tensai-bakabon
+releaseInfo:
+  catalogId: NAM-FTB-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 6, 1991
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fe47328f9d821b7ea831c4736e6a9403.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/21677247d3d108d16eb981c82749d25e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: DA8B5993
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: B70946F7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 81B7F1A8
+  x: 1
+pcbProperties:
+  name: 60-19
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-19<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47389de6d77721bbdcaf264a67ff734b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-19<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bf55667563233d15e5ab2fb76b51998d.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9143
+  estFirstRun: October 1991
+  pcbClass: NAMCOT-175
+  inesMapper: 210
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 175
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FTB
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 143
+  dateCodeSuffix: K03
+  std: 9143
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP175
+  type: Namcot 175
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

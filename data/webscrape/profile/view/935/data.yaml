@@ -1,0 +1,126 @@
+metadata:
+  name: Athletic World
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 02:32:00
+  moreProfiles:
+  - 602
+  - 935
+  - 1356
+  relatedProfiles:
+  - 2415
+  - 2915
+  - 1738
+  additionalImages: 
+slug: athletic-world
+releaseInfo:
+  catalogId: NES-AW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Power Pad
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AW-USA-1
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c819dcf79304bfcc8e102287f4e3c82e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a5254bdbadd0f71af899f205b51815a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-AW-0 PRG
+  size: 32 KB
+  crc32: BC5F6C94
+  x: 3
+- type: CHR0
+  label: NES-AW-0 CHR
+  size: 32 KB
+  crc32: 51BF1FC5
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 1771EA8F
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c2ff097c0f6727ef8d46cb139497e353.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8717 - 8908 (2)
+  estFirstRun: April 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2006
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9B3
+  dateCodeSuffix: 54
+  std: 8908
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2007
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9B3
+  dateCodeSuffix: 16
+  std: 8908
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8907
+  dateCodeSuffix: 7 AA
+  std: 8907
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 844
+  dateCodeSuffix: EN
+  std: 8844
+  misc: 

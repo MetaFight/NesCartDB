@@ -1,0 +1,135 @@
+metadata:
+  name: Metal Gear
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-07-19 05:43:00
+  moreProfiles:
+  - 1429
+  - 1836
+  - 4129
+  - 2130
+  - 4333
+  - 4334
+  relatedProfiles:
+  - 4088
+  - 79
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-ME-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b4dd997aa1398adb4cdfd195d1e118c4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-ME-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/70b077ed937a5e3a72497ee9fa226b7b.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-ME-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6d2067ca5e47e23830827a7afbe1ba91.jpg
+slug: metal-gear
+releaseInfo:
+  catalogId: NES-ME-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: December 13, 1989
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ME-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6e95ca1bcbef0c8095189d424ae5d252.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/04b18c3bb63bbf4a665320784ff14b71.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-ME-0 PRG
+  size: 128 KB
+  crc32: 84C4A12E
+  x: 5
+pcbProperties:
+  name: NES-UNROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8941 - 9037 (6)
+  estFirstRun: October 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5348
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9J3
+  dateCodeSuffix: 71
+  std: 8938
+  misc: 
+- designation: U2 CHR RAM
+  maker: Hitachi
+  partNumber: HM6264LP-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: ''
+  std: 8926
+  misc: U0727990 E
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8941
+  dateCodeSuffix: A
+  std: 8941
+  misc: 
+- designation: U4 HC161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8927
+  dateCodeSuffix: H
+  std: 8927
+  misc: 
+- designation: U5 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8922
+  dateCodeSuffix: HnS
+  std: 8922
+  misc: 643810T

@@ -1,0 +1,96 @@
+metadata:
+  name: Zippy Race
+  altName: ジッピーレース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 01:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2257
+  - 3127
+  - 3128
+  - 3860
+  additionalImages: 
+slug: zippy-race
+releaseInfo:
+  catalogId: IF-01
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 18, 1985
+  publisher: Irem
+  developer: Irem
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original w/ LED
+  frontLabelId: IF-01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2b0398a19c188daa747f331b99dfb98e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2dbfd19a3b9fca70a25598f3645836a1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f11547520fa51786ec9cfc12e6bc0701.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: E16BB5FE
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 45ABD80E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E492D45A
+  x: 4
+pcbProperties:
+  name: IREM-01-V
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>IREM-01-V<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9cb5ff8b944c5eca96229b81411e0dee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>IREM-01-V<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad3a73256ef4fca44b3ceecc8d5958c2.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8517 - 8936 (4)
+  estFirstRun: April 1985
+  pcbClass: IREM-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5L27128K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 517
+  dateCodeSuffix: 129
+  std: 8517
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5L2764K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 511
+  dateCodeSuffix: 12U
+  std: 8511
+  misc: 

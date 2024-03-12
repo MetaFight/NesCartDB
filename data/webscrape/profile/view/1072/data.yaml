@@ -1,0 +1,79 @@
+metadata:
+  name: Sesame Street 123
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-09 01:03:00
+  moreProfiles:
+  - 471
+  - 1072
+  - 1333
+  - 2889
+  relatedProfiles: []
+  additionalImages: 
+slug: sesame-street-123
+releaseInfo:
+  catalogId: NES-H3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1989
+  publisher: Hi Tech Expressions
+  developer: Zippo Games
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-H3-USA-1
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 471')"
+    filename: /images/175/a88b7ef2002506871ff4691bd554ed07.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-H3-0 PRG
+  size: 32 KB
+  crc32: 0847C623
+  x: 4
+- type: CHR0
+  label: NES-H3-0 CHR
+  size: 32 KB
+  crc32: 0E03CD95
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 339437F6
+  x: 4
+pcbProperties:
+  name: NES-SEROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8910 - 9009 (2)
+  estFirstRun: March 1989
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo: []

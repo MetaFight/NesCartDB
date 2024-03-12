@@ -1,0 +1,127 @@
+metadata:
+  name: Silkworm
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-25 00:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-LK USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b289b586e883f4822ae7c9dd1e1f8490.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-LK USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/368e00b3f8d6dc4351e52ca78a4db99d.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-LK-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/49ef0a84814de2023b3c6d0a9c024d04.jpg
+slug: silkworm
+releaseInfo:
+  catalogId: NES-LK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Sammy
+  developer: Tecmo
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LK-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa254f0b84dd0bc7aa261071f89fd4f1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/91d776cf072212c52f2162ba87282e4d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LK-0 PRG
+  size: 128 KB
+  crc32: 327946E3
+  x: 1
+- type: CHR0
+  label: NES-LK-0 CHR
+  size: 128 KB
+  crc32: B7000942
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E74A91BB
+  x: 1
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9a3b2f5e4b81dc4cc2a2c3ea1e67cb1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9011
+  estFirstRun: March 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5429
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0CB
+  dateCodeSuffix: 74
+  std: 9009
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0062
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0CB
+  dateCodeSuffix: 74
+  std: 9009
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9011
+  dateCodeSuffix: 3 BA
+  std: 9011
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9009
+  dateCodeSuffix: 3 AA
+  std: 9009
+  misc: 

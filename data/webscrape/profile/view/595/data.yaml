@@ -1,0 +1,114 @@
+metadata:
+  name: Battle Chess
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 05:01:00
+  moreProfiles:
+  - 395
+  - 595
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-C6-USA *<br>Submitted by: bootgod<br>Linked from profile 395')"
+    filename: /images/175/7449dee5555dcdaf008ab34044a06520.jpg
+slug: battle-chess
+releaseInfo:
+  catalogId: NES-C6-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1990
+  publisher: Data East
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-C6-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 395')"
+    filename: /images/175/8c530ce023f202395f8e0146ff60b77c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 395')"
+    filename: /images/175/04eaae7847203218cf5023d90355bb82.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-C6-0 PRG
+  size: 256 KB
+  crc32: 2C2DDFB4
+  x: 2
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9021 - 9027 (2)
+  estFirstRun: May 1990
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 97
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9019
+  dateCodeSuffix: D
+  std: 9019
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5160-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9021
+  dateCodeSuffix: 3 DA
+  std: 9021
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8951
+  dateCodeSuffix: B3043
+  std: 8951
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9016
+  dateCodeSuffix: 5 CA
+  std: 9016
+  misc: 

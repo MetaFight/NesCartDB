@@ -1,0 +1,86 @@
+metadata:
+  name: "Castlevania II: Simon's Quest"
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2008-08-02 23:04:00
+  moreProfiles:
+  - 2004
+  - 2351
+  - 2412
+  - 2790
+  - 4218
+  - 4219
+  - 4220
+  - 4269
+  relatedProfiles:
+  - 4693
+  - 61
+  additionalImages: 
+slug: castlevania-ii-simons-quest
+releaseInfo:
+  catalogId: NES-QU-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: April 27, 1990
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QU-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2412')"
+    filename: /images/175/fc64364a5fbbe864828bde2224b8a997.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/6e86213ad52d4a16fba0062f7efa1132.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-QU-0 PRG
+  size: 128 KB
+  crc32: 72DDBD39
+  x: 7
+- type: CHR0
+  label: PAL-QU-0 CHR
+  size: 128 KB
+  crc32: 1AFB99EB
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D6F7383E
+  x: 7
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9003 - 9101 (7)
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

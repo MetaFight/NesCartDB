@@ -1,0 +1,113 @@
+metadata:
+  name: Elevator Action
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-01 06:38:00
+  moreProfiles:
+  - 98
+  - 134
+  - 1401
+  relatedProfiles:
+  - 3166
+  additionalImages: 
+slug: elevator-action
+releaseInfo:
+  catalogId: NES-EA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1987
+  publisher: Taito
+  developer: Taito
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EA-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d46bfd343a3bb632eee8478c6de3de05.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/20af5badbf748a1ebcaff838a11abc3d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EA-0 PRG
+  size: 32 KB
+  crc32: 0F6C01E3
+  x: 3
+- type: CHR0
+  label: NES-EA-0 CHR
+  size: 8 KB
+  crc32: D61F3210
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 2AC87283
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e6c56e4d2877f2550a81226152961c56.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8728 - 8830 (3)
+  estFirstRun: July 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2015
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8G2
+  dateCodeSuffix: A1
+  std: 8828
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2013
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8G4
+  dateCodeSuffix: 22
+  std: 8830
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8827
+  dateCodeSuffix: 5 AA
+  std: 8827
+  misc: 

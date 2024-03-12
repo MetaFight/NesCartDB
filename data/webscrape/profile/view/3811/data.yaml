@@ -1,0 +1,108 @@
+metadata:
+  name: Cosmic Epsilon
+  altName: コズミックイプシロン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 04:29:00
+  moreProfiles:
+  - 2235
+  - 3811
+  relatedProfiles: []
+  additionalImages: 
+slug: cosmic-epsilon
+releaseInfo:
+  catalogId: ASM-EO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 24, 1989
+  publisher: Asmik
+  developer: Home Data
+  players: 1
+  peripherals: 3-D Glasses,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: ASM-EO
+  backLabelId/Desc: 870921
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e54b825c73e77bd07f89153c0a8e0d8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ASM-EO-0 PRG
+  size: 128 KB
+  crc32: AB4AC985
+  x: 2
+- type: CHR0
+  label: ASM-EO-0 CHR
+  size: 256 KB
+  crc32: 2360540C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: DC75732F
+  x: 2
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3cd5759aea5146386b159d1cb9fdb965.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8939 - 8941 (2)
+  estFirstRun: September 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: L1
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: E
+  std: 8941
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 77
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8941
+  dateCodeSuffix: D
+  std: 8941
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8936
+  dateCodeSuffix: EP
+  std: 8936
+  misc: 

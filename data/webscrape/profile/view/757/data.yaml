@@ -1,0 +1,110 @@
+metadata:
+  name: Win, Lose or Draw
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-12 23:43:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: win-lose-or-draw
+releaseInfo:
+  catalogId: NES-IL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Hi Tech Expressions
+  developer: Rocket Science Productions
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IL-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d7339728d997de9cd075666106310de.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2edb31b481505fd56f628ba2320eb257.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-IL-0 PRG
+  size: 128 KB
+  crc32: F74DFC91
+  x: 1
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9017
+  estFirstRun: April 1990
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J504
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9009
+  dateCodeSuffix: EAI
+  std: 9009
+  misc: 
+- designation: U2 CHR RAM
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9012
+  dateCodeSuffix: KT23
+  std: 9012
+  misc: L
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9015
+  dateCodeSuffix: B3086
+  std: 9015
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: 3 AA
+  std: 9017
+  misc: 

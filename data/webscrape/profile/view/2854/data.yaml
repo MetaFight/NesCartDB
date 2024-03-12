@@ -1,0 +1,115 @@
+metadata:
+  name: 'Ikari Warriors II: Victory Road'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 17:01:00
+  moreProfiles:
+  - 184
+  - 2854
+  - 1171
+  - 2943
+  relatedProfiles: []
+  additionalImages: 
+slug: ikari-warriors-ii-victory-road
+releaseInfo:
+  catalogId: NES-VR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1988
+  publisher: SNK
+  developer: SNK
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VR-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1171')"
+    filename: /images/175/3a1f866ba84abe764293260d7f606f56.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 184')"
+    filename: /images/175/cee0d6a1effa816a6e1be4d67b221968.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VR-0 PRG
+  size: 256 KB
+  crc32: 4F467410
+  x: 4
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8814 - 8814 (2)
+  estFirstRun: April 1988
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 14
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8814
+  dateCodeSuffix: D
+  std: 8814
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8B
+  dateCodeSuffix: 30
+  std: 8805
+  misc: 
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8814
+  dateCodeSuffix: A
+  std: 8814
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8749
+  dateCodeSuffix: C
+  std: 8749
+  misc: 

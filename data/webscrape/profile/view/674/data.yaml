@@ -1,0 +1,123 @@
+metadata:
+  name: Cobra Command
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 04:57:00
+  moreProfiles:
+  - 674
+  - 2579
+  relatedProfiles:
+  - 2220
+  additionalImages: 
+slug: cobra-command
+releaseInfo:
+  catalogId: NES-CN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: Data East
+  developer: Data East
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CN-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d3d23fd9170253c59c8bf67e6561c31f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5696ad4e8fa691ca0fb3b51a885214ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-CN-0 PRG
+  size: 128 KB
+  crc32: 94CCBBBC
+  x: 2
+- type: CHR0
+  label: NES-CN-0 CHR
+  size: 128 KB
+  crc32: 4B026840
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2D75C7A9
+  x: 2
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1b363323253a0380b9268fe7e7d8b06.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8842 - 8843 (2)
+  estFirstRun: October 1988
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: HH
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8842
+  dateCodeSuffix: E
+  std: 8842
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 0L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8842
+  dateCodeSuffix: D
+  std: 8842
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8842
+  dateCodeSuffix: 1 AA
+  std: 8842
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8842
+  dateCodeSuffix: 3 A
+  std: 8842
+  misc: 

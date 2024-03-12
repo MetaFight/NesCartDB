@@ -1,0 +1,107 @@
+metadata:
+  name: 'Famicom Jump II: Saikyou no 7 Nin'
+  altName: ファミコンジャンプⅡ 最強の７人
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 16:41:00
+  moreProfiles:
+  - 1734
+  - 3280
+  relatedProfiles: []
+  additionalImages: 
+slug: famicom-jump-ii-saikyou-no-7-nin
+releaseInfo:
+  catalogId: BA-FJ2
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 2, 1991
+  publisher: Bandai
+  developer: Chunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebcf226364d1e656a1b5a6405e45083d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42efaad1a422a9eea57e98ce6fcbc47c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI'91 JUMP-2
+  size: 512 KB
+  crc32: 3F15D20D
+  x: 2
+pcbProperties:
+  name: BA-JUMP2
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9149 - 9149 (2)
+  estFirstRun: December 1991
+  pcbClass: BANDAI-JUMP2
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: FCG-3
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5341
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9149
+  dateCodeSuffix: D
+  std: 9149
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 040
+  dateCodeSuffix: B
+  std: 9040
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 040
+  dateCodeSuffix: B
+  std: 9040
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D50
+  partNumberSubDetail: 
+  type: Bandai FCG-3
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 9124
+  dateCodeSuffix: 3 A
+  std: 9124
+  misc: 

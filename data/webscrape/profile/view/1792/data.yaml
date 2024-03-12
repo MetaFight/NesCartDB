@@ -1,0 +1,115 @@
+metadata:
+  name: Wagyan Land
+  altName: ワギャンランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 20:59:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: wagyan-land
+releaseInfo:
+  catalogId: NAM-WL-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 9, 1989
+  publisher: Namco
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6fda83972f5a92ecd20024374bacc82d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23a64226ae3b4ccf56c7cff8ad06bc76.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B097F651
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 51296780
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 2A01F9D1
+  x: 1
+pcbProperties:
+  name: LROG048-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG048-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/30a76c7554873a2eee29c684f4e65727.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG048-00<br>Submitted by: bootgod<br>Linked from profile 1791')"
+    filename: /images/175/628034be79e6c2733ac07e85e770047a.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8903
+  estFirstRun: January 1989
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG049
+  partNumberSubDetail: WL
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8903
+  dateCodeSuffix: 3
+  std: 8903
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: 'Karakuri Kengouden: Musashi Road: Karakuribito Hashiru!'
+  altName: からくり剣豪伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 21:14:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: karakuri-kengouden-musashi-road-karakuribito-hashiru
+releaseInfo:
+  catalogId: SHI-98
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 5, 1991
+  publisher: Yutaka
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Sea Green
+  formFactor: Small
+  frontLabelId: SHI-98
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a697d6c5b93783f6cc34f1532a29a28.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-98-0 PRG
+  size: 128 KB
+  crc32: 1170392A
+  x: 1
+- type: CHR0
+  label: SHI-98-0 CHR
+  size: 128 KB
+  crc32: 0475DA0B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9D9A4A26
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f057ffe8312e78dff5567f70d05270c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9134
+  estFirstRun: August 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W31
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9134
+  dateCodeSuffix: K9718
+  std: 9134
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W19
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9134
+  dateCodeSuffix: KP708
+  std: 9134
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9112
+  dateCodeSuffix: KP021
+  std: 9112
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9134
+  dateCodeSuffix: DC
+  std: 9134
+  misc: 

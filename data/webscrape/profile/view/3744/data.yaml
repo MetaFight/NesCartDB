@@ -1,0 +1,107 @@
+metadata:
+  name: 'Nishimura Kyoutarou Mystery: Super Express Satsujin Jiken'
+  altName: 西村京太郎ミステリー スーパーエクスプレス殺人事件
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 20:53:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: nishimura-kyoutarou-mystery-super-express-satsujin-jiken
+releaseInfo:
+  catalogId: TIX-Z4 (IF-17)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 2, 1990
+  publisher: Irem
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: TIX-Z4
+  secondaryId: IF-17
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6a106d5331383ee0de0258f6bbf173f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: TIX-Z4-0 PRG
+  size: 128 KB
+  crc32: 775B8ED9
+  x: 1
+- type: CHR0
+  label: TIX-Z4-0 CHR
+  size: 128 KB
+  crc32: E9774007
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F56135C0
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8075b5b10ff4379285d70becfd7315e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8951
+  estFirstRun: December 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5396
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9M3
+  dateCodeSuffix: A1
+  std: 8951
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: BB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8951
+  dateCodeSuffix: D
+  std: 8951
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8950
+  dateCodeSuffix: KP009
+  std: 8950
+  misc: 

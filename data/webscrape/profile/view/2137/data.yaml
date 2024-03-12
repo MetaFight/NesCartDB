@@ -1,0 +1,119 @@
+metadata:
+  name: Mario Bros. (Classic Series)
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-03 04:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2375
+  - 2358
+  - 1990
+  - 1491
+  - 1099
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-MC-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e889edac517825fbe1ccc5ce1be7bb66.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MC-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c4db15ba221638768dc996f42b930923.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-MC-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b97ba52cf2bd36bcc2fae5d0b38ad576.jpg
+slug: mario-bros-classic-series
+releaseInfo:
+  catalogId: NES-MC-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: April 13, 1993
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MC-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/31ea4917a409bbfd9bc0b8cef4e64224.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/01eedbcacde7cfd1daed9975a9bdba1e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MC-0 PRG
+  size: 32 KB
+  crc32: 48E0A7A5
+  x: 1
+- type: CHR0
+  label: PAL-MC-0 CHR
+  size: 8 KB
+  crc32: E2348E9F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: A1C0DA00
+  x: 1
+pcbProperties:
+  name: NES-NROM-256-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/57ae75cd87b67da33fea28ab177bd711.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/800bad63ca289a3d982af86beae5306a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9315
+  estFirstRun: April 1993
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3244
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 3DM
+  dateCodeSuffix: 11
+  std: 9315
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2038
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 3DM
+  dateCodeSuffix: 11
+  std: 9315
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 

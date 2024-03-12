@@ -1,0 +1,117 @@
+metadata:
+  name: Erika to Satoru no Yume Bouken
+  altName: えりかとさとるの夢冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 04:08:00
+  moreProfiles:
+  - 1813
+  - 3203
+  relatedProfiles: []
+  additionalImages: 
+slug: erika-to-satoru-no-yume-bouken
+releaseInfo:
+  catalogId: NAM-YB-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 27, 1988
+  publisher: Namco
+  developer: Atlus
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca152c80af892ca6e9c5da3fabc2fa34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d3f67d33b11da40aa0f524bd90c08e0c.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 5F162195
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: B268DC01
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EF7996BF
+  x: 2
+pcbProperties:
+  name: 60-14
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-14<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/438f69bea751120a015ddfbe5c80d70e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-14<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/44232b874bdcd6488aebf4be0c8a0d9e.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8832 - 8833 (2)
+  estFirstRun: August 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: YB
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 832
+  dateCodeSuffix: K03
+  std: 8832
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

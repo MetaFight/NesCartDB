@@ -1,0 +1,84 @@
+metadata:
+  name: Shadowgate
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-19 04:35:00
+  moreProfiles:
+  - 208
+  - 809
+  - 2374
+  relatedProfiles:
+  - 2144
+  - 1959
+  - 4666
+  - 4375
+  - 1815
+  additionalImages: 
+slug: shadowgate
+releaseInfo:
+  catalogId: NES-3S-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3S-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 208')"
+    filename: /images/175/03a590d3046bf1a6cce1cbfc54db2e20.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-3S-0 PRG
+  size: 128 KB
+  crc32: 591364C9
+  x: 4
+- type: CHR0
+  label: NES-3S-0 CHR
+  size: 128 KB
+  crc32: 05414DD9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6A1F628A
+  x: 4
+pcbProperties:
+  name: NES-TKROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8952 - 9002 (2)
+  estFirstRun: December 1989
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

@@ -1,0 +1,107 @@
+metadata:
+  name: Paris-Dakar Rally Special
+  altName: パリ・ダカール ラリー スペシャル
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2012-03-06 04:39:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: paris-dakar-rally-special
+releaseInfo:
+  catalogId: CBS-PD
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 1, 1988
+  publisher: CBS / Sony Group
+  developer: ISCO
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Green
+  formFactor: Small
+  frontLabelId: CBS-PD
+  secondaryId: 53FR-2
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/c4166ad5ebad323d7a8c6c341003622b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/f775f1b719184821380c55f37ec206fc.jpg
+romDetails:
+- type: PRG0
+  label: CBS-PD-0 PRG
+  size: 128 KB
+  crc32: E30552DB
+  x: 0
+- type: CHR0
+  label: CBS-PD-0 CHR
+  size: 32 KB
+  crc32: D0630F77
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 5F6E8A07
+  x: 0
+pcbProperties:
+  name: HVC-GNROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-GNROM-02<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/333c75e436a4d32be4ef6bba44db771e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-GNROM-02<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/dc4f74ec5c15c125eb5dd4fe82797b0c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8801
+  estFirstRun: January 1988
+  pcbClass: HVC-GNROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8753
+  dateCodeSuffix: EX
+  std: 8753
+  misc: 
+- designation: CHR ROM
+  maker: OKI
+  partNumber: M38256A
+  partNumberSubDetail: 46
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 81
+  dateCodeSuffix: 2011
+  std: 8801
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8747
+  dateCodeSuffix: H
+  std: 8747
+  misc: 

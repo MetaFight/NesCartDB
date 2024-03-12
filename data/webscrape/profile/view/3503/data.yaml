@@ -1,0 +1,99 @@
+metadata:
+  name: Lode Runner
+  altName: ロードランナー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-12 01:25:00
+  moreProfiles:
+  - 1460
+  - 2217
+  - 3502
+  - 3503
+  relatedProfiles:
+  - 300
+  additionalImages: 
+slug: lode-runner
+releaseInfo:
+  catalogId: HFC-LR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 31, 1984
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: HFC-LR
+  backLabelId/Desc: Black Text
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2217')"
+    filename: /images/175/460e547a57ad6cea440dec610b3c481d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-LR-0 PRG
+  size: 16 KB
+  crc32: 85534474
+  x: 4
+- type: CHR0
+  label: HVC-LR-0 CHR
+  size: 8 KB
+  crc32: E8C6C127
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 0A3FC393
+  x: 4
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9e57bc3c2a3df6f57d181cfc6be2912f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8445 - 8451 (4)
+  estFirstRun: November 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 129P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8451
+  dateCodeSuffix: 04
+  std: 8451
+  misc: 
+- designation: CHR
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 192P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8449
+  dateCodeSuffix: 0C
+  std: 8449
+  misc: 

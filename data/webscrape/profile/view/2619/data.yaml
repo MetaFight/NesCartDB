@@ -1,0 +1,119 @@
+metadata:
+  name: 'Dragon Ball: Dai Maou Fukkatsu'
+  altName: ドラゴンボール　大魔王復活
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-23 05:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1534
+  - 1750
+  - 2619
+  - 3123
+  additionalImages: 
+slug: dragon-ball-dai-maou-fukkatsu
+releaseInfo:
+  catalogId: BA-DB2
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 12, 1988
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/b47d6db2bb8c0ec90705b0ff705ce95f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/d5980c18c731c1253203cde5cf6f06f9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/ba2cc5408003eaede63130f26fb0713c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 88 DB2-PRG
+  size: 128 KB
+  crc32: 7FB799FD
+  x: 4
+- type: CHR0
+  label: DB-2-CHR
+  size: 128 KB
+  crc32: 5FE39059
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 33B899C9
+  x: 4
+pcbProperties:
+  name: DORAGON2B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DORAGON2B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/75f51cc24e526301f3d0afdcc7ebdaff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>DORAGON2B<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/a67831a7fa56b691f39c1c22a6ac19a8.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8831 - 8833 (4)
+  estFirstRun: August 1988
+  pcbClass: BANDAI-FCG-1
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx08, FCG-1
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 9H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8831
+  dateCodeSuffix: D
+  std: 8831
+  misc: 
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1157
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8G2
+  dateCodeSuffix: B7
+  std: 8828
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D36
+  partNumberSubDetail: 
+  type: Bandai FCG-1
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8829
+  dateCodeSuffix: 5 A
+  std: 8829
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HC08
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: H29
+  dateCodeSuffix: ''
+  std: 8829
+  misc: 

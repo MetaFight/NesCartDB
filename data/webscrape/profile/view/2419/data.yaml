@@ -1,0 +1,108 @@
+metadata:
+  name: Devil World
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-25 18:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2159
+  additionalImages: 
+slug: devil-world
+releaseInfo:
+  catalogId: NES-DD-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: July 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3c57f22abc9fc11f51055d2129c5f613.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2733e4071c993e47db374cd05f39b1e1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-DD-0 PRG
+  size: 16 KB
+  crc32: 60CB6FF6
+  x: 1
+- type: CHR0
+  label: HVC-DD-0 CHR
+  size: 8 KB
+  crc32: 3A9AA7A1
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 0C783F0C
+  x: 1
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/62caaaf734d71041f38ba7d1d3b8827d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8745
+  estFirstRun: November 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0565
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7K5
+  dateCodeSuffix: 50
+  std: 8745
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2010
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7K5
+  dateCodeSuffix: 11
+  std: 8745
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 

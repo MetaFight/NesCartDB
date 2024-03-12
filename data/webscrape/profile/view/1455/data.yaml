@@ -1,0 +1,115 @@
+metadata:
+  name: Tennis
+  altName: テニス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 01:20:00
+  moreProfiles:
+  - 1455
+  - 1665
+  - 2218
+  - 3417
+  - 3418
+  - 3618
+  - 3666
+  relatedProfiles:
+  - 1562
+  - 1973
+  - 568
+  additionalImages: 
+slug: tennis
+releaseInfo:
+  catalogId: HVC-TE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 14, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Purple
+  formFactor: Small
+  frontLabelId: HVC-TE
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/197c27615eab23a8c6c911f97b2f2c80.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 8B2E3E81
+  x: 11
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 3A34C45B
+  x: 16
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D4D9E21A
+  x: 11
+pcbProperties:
+  name: 2I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ecb4934f5ddc5161162ac0171a3d731.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2I<br>Submitted by: bootgod<br>Linked from profile 3404')"
+    filename: /images/175/f339357587de5ee2f7493a861c9b992e.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8413 - 8640 (6)
+  estFirstRun: March 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-TE
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 4X
+  dateCodeSuffix: 03
+  std: 8440
+  misc: 2V-37
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

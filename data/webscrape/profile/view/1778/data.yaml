@@ -1,0 +1,94 @@
+metadata:
+  name: Yie Ar Kung Fu
+  altName: イーアルカンフー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-03 18:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1778
+  - 2272
+  additionalImages: 
+slug: yie-ar-kung-fu
+releaseInfo:
+  catalogId: KON-RC802
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 22, 1985
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC802
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8fdbecaf0b895c1b9457896c70175d2b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ed6e1ad83c0d645149d78919caf1e7c2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: 802J4P
+  size: 16 KB
+  crc32: E26A660D
+  x: 1
+- type: CHR0
+  label: 802J1C
+  size: 8 KB
+  crc32: FD4872FC
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 86CEFC12
+  x: 1
+pcbProperties:
+  name: 450068A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>450068A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/def0f16c45d736df1ed29473fcb79122.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>450068A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf9eec8b961e2b4c7465c2d40ac301ea.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8450 - 8516 (2)
+  estFirstRun: December 1984
+  pcbClass: KONAMI-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1
+  maker: Mitsubishi
+  partNumber: M5L27128K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8447
+  dateCodeSuffix: N4
+  std: 8447
+  misc: 
+- designation: IC2
+  maker: Mitsubishi
+  partNumber: M5L2764K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8450
+  dateCodeSuffix: B9
+  std: 8450
+  misc: 

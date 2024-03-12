@@ -1,0 +1,119 @@
+metadata:
+  name: BurgerTime
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-11 03:13:00
+  moreProfiles:
+  - 708
+  - 1385
+  - 1404
+  relatedProfiles:
+  - 3235
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-BR USA<br>Submitted by: bootgod<br>Linked from profile 1404')"
+    filename: /images/175/68c1cd3ff4f5f13b4201845fd4560f06.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-BR USA<br>Submitted by: bootgod<br>Linked from profile 1404')"
+    filename: /images/175/ab390ff8cf02b067737b81277c2a43d0.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-BR-USA *<br>Submitted by: bootgod<br>Linked from profile 1404')"
+    filename: /images/175/c754fa8542480471815e685e1947a0f5.jpg
+slug: burgertime
+releaseInfo:
+  catalogId: NES-BR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1987
+  publisher: Data East
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BR-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/312e8b8d772835b9bfec9a8e5a496aaf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d5618fbabb89bc0bd768c015c71ac9de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-BR-0 PRG
+  size: 16 KB
+  crc32: 2B2D47F1
+  x: 3
+- type: CHR0
+  label: NES-BR-0 CHR
+  size: 8 KB
+  crc32: 6268215D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: DAF9D7E3
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a128ec6aa6bdd8621594e293715420e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-02<br>Submitted by: Kinopio<br>Linked from profile 2081')"
+    filename: /images/175/0305ffa8c4a19f1430c29bfe62e1c116.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8723 - 9023 (3)
+  estFirstRun: June 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8723
+  dateCodeSuffix: E
+  std: 8723
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 43
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8723
+  dateCodeSuffix: E
+  std: 8723
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8723
+  dateCodeSuffix: C
+  std: 8723
+  misc: 

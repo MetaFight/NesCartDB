@@ -1,0 +1,119 @@
+metadata:
+  name: Quarth
+  altName: クォース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 22:49:00
+  moreProfiles:
+  - 2204
+  - 3405
+  relatedProfiles: []
+  additionalImages: 
+slug: quarth
+releaseInfo:
+  catalogId: KDS-H7
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 13, 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-H7
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2204')"
+    filename: /images/175/711d1c06288078deb8d8e49fbf9dfe59.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 89C80B65
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: BD160290
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9A808C3B
+  x: 2
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2b7dc774e91508b83bddeb2f991138e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8951 - 8951 (2)
+  estFirstRun: December 1989
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: JH7
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: M
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8951
+  dateCodeSuffix: ''
+  std: 8951
+  misc: 

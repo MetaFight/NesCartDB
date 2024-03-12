@@ -1,0 +1,114 @@
+metadata:
+  name: Ice Hockey
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-06 16:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2508
+  - 3
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-HY-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/1274d789c91d48dccadd1cf634d04947.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-HY-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0bb7f88e6aedc03d2ce5579fbe89baac.jpg
+slug: ice-hockey
+releaseInfo:
+  catalogId: NES-HY-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: September 1, 1986
+  publisher: Nintendo
+  developer: Pax Softnica
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HY-ESP
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/522ceb17918441b7b9da90059dbe914e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-HY-0 PRG
+  size: 32 KB
+  crc32: CCCC1034
+  x: 4
+- type: CHR0
+  label: NES-HY-0 CHR
+  size: 8 KB
+  crc32: F10FC90A
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 92924548
+  x: 4
+pcbProperties:
+  name: NES-NROM-256-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4dce574c84fa8e568409df73f6945dd9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 2085')"
+    filename: /images/175/0d3a9b1ae281e5f609ede1702de6034b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9021
+  estFirstRun: May 1990
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2043
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0EB
+  dateCodeSuffix: 12
+  std: 9018
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2021
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0EL
+  dateCodeSuffix: 14
+  std: 9019
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9021
+  dateCodeSuffix: A
+  std: 9021
+  misc: 

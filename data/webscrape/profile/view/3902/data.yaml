@@ -1,0 +1,107 @@
+metadata:
+  name: 'Hikari no Senshi Photon: The Ultimate Game on Planet Earth'
+  altName: 光の戦士 フォトン 惑星ゾルディアスの戦い
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 03:51:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hikari-no-senshi-photon-the-ultimate-game-on-planet-earth
+releaseInfo:
+  catalogId: TFC-PH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 28, 1987
+  publisher: Takara
+  developer: Takara
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Steel Blue
+  formFactor: Small
+  frontLabelId: TFC-PH
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb8b34c46f040836717aebc4ef46b001.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFC-PH-0 PRG
+  size: 128 KB
+  crc32: 51BD8336
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8731
+  estFirstRun: August 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 90
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8731
+  dateCodeSuffix: E
+  std: 8731
+  misc: 
+- designation: CHR RAM
+  maker: Toshiba
+  partNumber: TC5565APL-12L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8707
+  dateCodeSuffix: ABA
+  std: 8707
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8726
+  dateCodeSuffix: CA
+  std: 8726
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7?
+  dateCodeSuffix: ''
+  std: 8726
+  misc: 

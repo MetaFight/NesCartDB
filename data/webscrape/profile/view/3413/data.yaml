@@ -1,0 +1,106 @@
+metadata:
+  name: Onyanko Town
+  altName: おにゃんこTOWN
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 23:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: onyanko-town
+releaseInfo:
+  catalogId: PNF-OT (R49V5901)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1985
+  publisher: Pony Canyon
+  developer: Micronics / Khaos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: PNF-OT
+  secondaryId: R49V5901
+  backLabelId/Desc: 850610
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1141db7d6832ac6af8c69327f75338bd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 003A1BD1
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 0CE493B2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 270EAED5
+  x: 1
+pcbProperties:
+  name: 3A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/591bb14b52da1e9a8a8466e0115ee08b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3A<br>Submitted by: bootgod<br>Linked from profile 3377')"
+    filename: /images/175/1348f8e12425cc850ed1ea2d4a22a353.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8544
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: PNF-OT
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Y
+  dateCodeSuffix: 11
+  std: 8544
+  misc: 0H-H2
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

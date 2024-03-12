@@ -1,0 +1,82 @@
+metadata:
+  name: "A David Crane's Boy and His Blob:  Trouble on Blobolonia"
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-13 01:57:00
+  moreProfiles:
+  - 197
+  - 773
+  relatedProfiles:
+  - 4419
+  - 2401
+  - 2131
+  - 4048
+  - 4491
+  additionalImages: 
+slug: a-david-cranes-boy-and-his-blob-trouble-on-blobolonia
+releaseInfo:
+  catalogId: NES-B5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Absolute
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-B5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 197')"
+    filename: /images/175/21230afd45f0bb4fb69b37bdd267eafe.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-B5-0 PRG
+  size: 128 KB
+  crc32: AD50E497
+  x: 10
+- type: CHR0
+  label: NES-B5-0 CHR
+  size: 128 KB
+  crc32: F6F97D80
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4D1AC58C
+  x: 2
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8953
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

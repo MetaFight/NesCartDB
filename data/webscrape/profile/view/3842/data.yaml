@@ -1,0 +1,115 @@
+metadata:
+  name: Mindseeker
+  altName: マインドシーカー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 02:34:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mindseeker
+releaseInfo:
+  catalogId: NAM-MS-6500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 18, 1989
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32db07f883ec0ba2a073f7df6e8f4e84.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/372d637363bb62741b1751649c9cdab2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: AF15338F
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: ABEB7736
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: ACE56F39
+  x: 1
+pcbProperties:
+  name: 60-16
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-16<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4171a6e097953681c498eb0edb71f716.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-16<br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/b530f95d691962f4822add9187ffa73f.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8910
+  estFirstRun: March 1989
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: MS
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 910
+  dateCodeSuffix: K09
+  std: 8910
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

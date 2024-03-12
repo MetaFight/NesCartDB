@@ -1,0 +1,110 @@
+metadata:
+  name: 'Super Chinese 2: Dragon Kid'
+  altName: スーパーチャイニーズ２ ドラゴンキッド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 02:33:00
+  moreProfiles:
+  - 2192
+  - 3671
+  relatedProfiles:
+  - 2405
+  - 436
+  additionalImages: 
+slug: super-chinese-2-dragon-kid
+releaseInfo:
+  catalogId: CBF-C2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 26, 1989
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: CBF-C2
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2192')"
+    filename: /images/175/34c2518f56f723641be8cc2235c8807e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CBF-C2-0 PRG
+  size: 128 KB
+  crc32: 47A57FC3
+  x: 2
+- type: CHR0
+  label: CBF-C2-0 CHR
+  size: 128 KB
+  crc32: 0659DA91
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 26BFED27
+  x: 2
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e1cacc1968f4a8ba438b59b3976d2d86.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 3554')"
+    filename: /images/175/e47f7cbfef953cb325053380b2a37efe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8914 - 8918 (2)
+  estFirstRun: April 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5317
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9C2
+  dateCodeSuffix: E1
+  std: 8911
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 4S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8914
+  dateCodeSuffix: E
+  std: 8914
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8907
+  dateCodeSuffix: KP
+  std: 8907
+  misc: 

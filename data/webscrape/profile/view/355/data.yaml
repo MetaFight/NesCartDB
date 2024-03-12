@@ -1,0 +1,97 @@
+metadata:
+  name: The Fantastic Adventures of Dizzy
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-22 18:54:00
+  moreProfiles: []
+  relatedProfiles:
+  - 554
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/53c400a5a1d162cabebb434d13cd95e5.jpg
+slug: the-fantastic-adventures-of-dizzy
+releaseInfo:
+  catalogId: CAM-DZ
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: April 1991
+  publisher: Camerica
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Gold
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5966bf642935ddd36e614ae1c37860ec.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1225')"
+    filename: /images/175/5b6e8d7ad57ac6a14f4122371f9bc95a.jpg
+romDetails:
+- type: PRG0
+  label: COBIC 7404-DZ
+  size: 256 KB
+  crc32: 38FBCC85
+  x: 1
+pcbProperties:
+  name: BIC-48
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9142
+  estFirstRun: October 1991
+  pcbClass: CAMERICA-BF9093
+  inesMapper: 71
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9093
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9093
+  partNumberSubDetail: 
+  type: Camerica BF9093
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9142
+  dateCodeSuffix: T
+  std: 9142
+  misc: 
+- designation: U2
+  maker: Hyundai
+  partNumber: ''
+  partNumberSubDetail: HY232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 140
+  dateCodeSuffix: CJIKDSA
+  std: 9140
+  misc: 
+- designation: U3
+  maker: Hyundai
+  partNumber: HM6265L-90
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9105
+  dateCodeSuffix: A
+  std: 9105
+  misc: 

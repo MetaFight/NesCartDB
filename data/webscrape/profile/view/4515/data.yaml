@@ -1,0 +1,126 @@
+metadata:
+  name: Advanced Dungeons & Dragons Pool of Radiance
+  altName: ＡＤ＆Ｄ プール オブ レイディアンス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 04:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1155
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4804744f0db24d3eac44e31d7d879ea1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/78e9512618bd4b9c76881ef720994ba3.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c70e90fccdd8d6f75516041276e167a.jpg
+slug: advanced-dungeons-dragons-pool-of-radiance
+releaseInfo:
+  catalogId: PNF-QA (R98V5938)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 28, 1991
+  publisher: Pony Canyon
+  developer: Strategic Simulations
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: PNF-QA
+  secondaryId: R98V5938
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4bf2126ec83d296190fa43790eea5108.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-QA-0 PRG
+  size: 512 KB
+  crc32: A6819195
+  x: 1
+- type: CHR0
+  label: PNF-QA-0 CHR
+  size: 128 KB
+  crc32: A750F6D9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 640 KB
+  crc32: CA730971
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc6a915900185583bee1680c95182d69.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9121
+  estFirstRun: May 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534J
+  partNumberSubDetail: 20
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9119
+  dateCodeSuffix: D
+  std: 9119
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 32
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9119
+  dateCodeSuffix: E
+  std: 9119
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9121
+  dateCodeSuffix: 3 DB
+  std: 9121
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264P-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9049
+  dateCodeSuffix: D
+  std: 9049
+  misc: 

@@ -1,0 +1,120 @@
+metadata:
+  name: 'Break Time: The National Pool Tour'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 06:35:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: break-time-the-national-pool-tour
+releaseInfo:
+  catalogId: NES-BZ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1993
+  publisher: FCI
+  developer: Opera House
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BZ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eeb828e07832692cb377391500adebf3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a78552efcf25759ed7465404d6f715ff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-BZ-0 PRG
+  size: 128 KB
+  crc32: 50059012
+  x: 1
+- type: CHR0
+  label: NES-BZ-0 CHR
+  size: 32 KB
+  crc32: F0314DEF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 5F0BCE2A
+  x: 1
+pcbProperties:
+  name: NES-SFROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ec0b1d33e15b0b569f1c51373a6c726.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SFROM-04<br>Submitted by: Kinopio<br>Linked from profile 2051')"
+    filename: /images/175/37c1aab3864e49e8ff0adb4e6a59b36b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9251
+  estFirstRun: December 1992
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: GM
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9251
+  dateCodeSuffix: E
+  std: 9251
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2355
+  partNumberSubDetail: 68
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9251
+  dateCodeSuffix: B
+  std: 9251
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: 7 BB
+  std: 9234
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9244
+  dateCodeSuffix: 3 A 170
+  std: 9244
+  misc: 

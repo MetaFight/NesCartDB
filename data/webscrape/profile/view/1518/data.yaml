@@ -1,0 +1,119 @@
+metadata:
+  name: Famicom Meijin Sen
+  altName: ファミコン名人戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 19:12:00
+  moreProfiles:
+  - 1518
+  - 3706
+  relatedProfiles: []
+  additionalImages: 
+slug: famicom-meijin-sen
+releaseInfo:
+  catalogId: SFX-MQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 2, 1988
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: SFX-MQ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4f4359a3f26829ee17eec6777b63d6ad.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFX-MQ-0 PRG
+  size: 128 KB
+  crc32: 740C8108
+  x: 1
+- type: CHR0
+  label: SFX-MQ-0 CHR
+  size: 128 KB
+  crc32: 59720FED
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9CFA55E7
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a36fbd26a6a3ecf869c574bcea368ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8849 - 9109 (2)
+  estFirstRun: December 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 8D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8848
+  dateCodeSuffix: E
+  std: 8848
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8849
+  dateCodeSuffix: 1 Y
+  std: 8849
+  misc: 
+- designation: U3 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 68
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8849
+  dateCodeSuffix: D
+  std: 8849
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8822
+  dateCodeSuffix: 1 A
+  std: 8822
+  misc: 

@@ -1,0 +1,94 @@
+metadata:
+  name: Geimos
+  altName: ゲイモス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 23:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: geimos
+releaseInfo:
+  catalogId: HSP-02
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 28, 1985
+  publisher: ASCII
+  developer: Micronics / Khaos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: HSP-02
+  backLabelId/Desc: 850610
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bf375a67902e3cffa5f9263d20166a4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-02-0 PRG
+  size: 32 KB
+  crc32: 3C5A512B
+  x: 1
+- type: CHR0
+  label: HSP-02-0 CHR
+  size: 8 KB
+  crc32: 8E757FB5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 1DBD1D2B
+  x: 1
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/910f94cc09a55477c1c1aad1e3bbaa01.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8532
+  estFirstRun: August 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613256P
+  partNumberSubDetail: CK4
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5H1
+  dateCodeSuffix: ''
+  std: 8532
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 19
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8532
+  dateCodeSuffix: D
+  std: 8532
+  misc: 

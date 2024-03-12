@@ -1,0 +1,134 @@
+metadata:
+  name: Demon Sword
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 21:16:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1762
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-DO-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9069a758c9c1cdbc95928a61ede5655f.jpg
+slug: demon-sword
+releaseInfo:
+  catalogId: NES-DO-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Taito
+  developer: TOSE Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DO-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0297c3beb9664bbcdaba80693ff50ff9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2d474815dd5cf6f364c9020ed5e332de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DO-0 PRG
+  size: 128 KB
+  crc32: 9DF89BE5
+  x: 1
+- type: CHR0
+  label: NES-DO-0 CHR
+  size: 128 KB
+  crc32: BBFAFFC5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4681691A
+  x: 1
+pcbProperties:
+  name: NES-SL1ROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SL1ROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ecbc1761ce8f5a015b52194e99ae316.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9003
+  estFirstRun: January 1990
+  pcbClass: NES-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: EX835
+  std: 8943
+  misc: C13-01
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: KX714
+  std: 8944
+  misc: C13-02
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8956
+  dateCodeSuffix: 3 CA
+  std: 9003
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8949
+  dateCodeSuffix: 5 AA
+  std: 8949
+  misc: 
+- designation: U5 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8944
+  dateCodeSuffix: H
+  std: 8944
+  misc: 

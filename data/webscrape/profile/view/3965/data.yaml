@@ -1,0 +1,116 @@
+metadata:
+  name: Youkai Club
+  altName: 妖怪倶楽部
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 06:51:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: youkai-club
+releaseInfo:
+  catalogId: JF-12
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: May 19, 1987
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b6be5d438a73e06ca8f3ce9df0e86620.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/11bb0725ed968cba0f30aff3367b89de.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 5A4026C8
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: E78F301D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 6BC65D7E
+  x: 1
+pcbProperties:
+  name: JF-11
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-11<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab3f282044a4829e89147215c38f46f1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-11<br>Submitted by: bootgod<br>Linked from profile 1548')"
+    filename: /images/175/21e36bd53fb63fc561adc5e2427ec1d6.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8717
+  estFirstRun: April 1987
+  pcbClass: JALECO-JF-11
+  inesMapper: 140
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx174
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 236P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 717
+  dateCodeSuffix: 103
+  std: 8717
+  misc: 
+- designation: CH
+  maker: Sony
+  partNumber: CXK38256
+  partNumberSubDetail: 040C
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7D
+  dateCodeSuffix: 06
+  std: 8714
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 7B1
+  dateCodeSuffix: T
+  std: 8706
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC174P
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 651
+  dateCodeSuffix: 1A1
+  std: 8651
+  misc: 

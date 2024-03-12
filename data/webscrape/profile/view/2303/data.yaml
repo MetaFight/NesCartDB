@@ -1,0 +1,108 @@
+metadata:
+  name: Dragon Ninja
+  altName: ドラゴンニンジャ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 06:15:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4469
+  - 2655
+  - 413
+  additionalImages: 
+slug: dragon-ninja
+releaseInfo:
+  catalogId: NAM-DN-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 14, 1989
+  publisher: Namco
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/090e8364284a5ff893c0c05ad51e8e7a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ca488f08ba19514ad6fd5f0c31342cf.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTDNPR
+  size: 128 KB
+  crc32: FBA98643
+  x: 1
+- type: CHR0
+  label: NAMCOTDNCH
+  size: 128 KB
+  crc32: 1C4518A4
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2A7D3ADF
+  x: 1
+pcbProperties:
+  name: 110F0
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>110F0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ede8e3b91863fa9c158c0d9a9fc7738.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>110F0<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5570a0f387ef18170790c8aa2f385566.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8923
+  estFirstRun: June 1989
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: P
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: E
+  std: 8923
+  misc: 
+- designation: C
+  maker: Ricoh
+  partNumber: RP231026E
+  partNumberSubDetail: 5802
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9E3
+  dateCodeSuffix: A4
+  std: 8920
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 163
+  partNumberSubDetail: 
+  type: Namcot 163
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 8830
+  dateCodeSuffix: Z04
+  std: 8830
+  misc: 

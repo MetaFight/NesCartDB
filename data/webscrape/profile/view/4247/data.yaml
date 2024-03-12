@@ -1,0 +1,116 @@
+metadata:
+  name: La Guerra Del Golfo
+  altName: War In The Gulf
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2010-10-29 20:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4248
+  additionalImages: 
+slug: la-guerra-del-golfo
+releaseInfo:
+  catalogId: CN-07
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Gluk Video
+  developer: MegaSoft
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: CN-07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/78dab2d444f421c7af614f0ac397f58f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: ND961-P
+  size: 128 KB
+  crc32: A586AD54
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 3AC3BDDD
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 638DBC52
+  x: 2
+pcbProperties:
+  name: H2527
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>H2527<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/22a8fe407d669c62cbe77ac10ed5a5a6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>H2527<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/526418ada9ceb2568940675e34a40c59.jpg
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9210
+  estFirstRun: March 1992
+  pcbClass: NTDEC-TC-112
+  inesMapper: 193
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+  hardware: TC-112
+detailedChipInfo:
+- designation: U1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8952
+  dateCodeSuffix: ''
+  std: 8952
+  misc: 00002SS0
+- designation: U4
+  maker: __Unknown
+  partNumber: TC-112
+  partNumberSubDetail: 
+  type: NTDEC TC-112
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9210
+  dateCodeSuffix: T
+  std: 9210
+  misc: 
+- designation: U5
+  maker: __Unknown
+  partNumber: KC5373B-010
+  partNumberSubDetail: 
+  type: NTDEC CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

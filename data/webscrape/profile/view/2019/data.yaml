@@ -1,0 +1,118 @@
+metadata:
+  name: Battletoads
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 21:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4522
+  - 3924
+  - 1612
+  - 23
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-8T-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/43e70cd56363580fc2bfda5ea9c0fe37.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-8T-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d8b491fd3b46e77da1cda87fa6d5ec39.jpg
+slug: battletoads
+releaseInfo:
+  catalogId: NES-8T-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: February 18, 1993
+  publisher: Tradewest
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8T-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/277aff62706c12a8b1eb618d46a22ee6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-8T-0 PRG
+  size: 256 KB
+  crc32: 524A5A32
+  x: 4
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9334
+  estFirstRun: August 1993
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W46
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9230
+  dateCodeSuffix: XY702
+  std: 9230
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9334
+  dateCodeSuffix: EJ
+  std: 9334
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9231
+  dateCodeSuffix: C
+  std: 9231
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 209
+  dateCodeSuffix: ER
+  std: 9209
+  misc: 

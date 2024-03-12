@@ -1,0 +1,106 @@
+metadata:
+  name: The Golf '92
+  altName: ザ・ゴルフ'92
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-golf-92
+releaseInfo:
+  catalogId: GOI-OO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 3, 1992
+  publisher: GO 1
+  developer: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: GOI-OO
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8b3fbbc3de435fe4ecd6b06e6a741b6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: GOI-OO-0 PRG
+  size: 128 KB
+  crc32: 1C309D0A
+  x: 1
+- type: CHR0
+  label: GOI-OO-0 CHR
+  size: 128 KB
+  crc32: C21C9D30
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 139B15BA
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f50306d4afda4485ce1b198a222f3537.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9219
+  estFirstRun: May 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: B4
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: E
+  std: 9219
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 1L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9219
+  dateCodeSuffix: D
+  std: 9219
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9214
+  dateCodeSuffix: 3 A 170
+  std: 9214
+  misc: 

@@ -1,0 +1,128 @@
+metadata:
+  name: Mouryou Senki Madara
+  altName: 魍魎戦記マダラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-09 21:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1784
+  - 3070
+  additionalImages: 
+slug: mouryou-senki-madara
+releaseInfo:
+  catalogId: KON-RC846
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 30, 1990
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Large
+  frontLabelId: RC846
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1784')"
+    filename: /images/175/5329444608911fa4b3d075bc5b3a8bd0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1784')"
+    filename: /images/175/2008c3da35dce6adc269eac67d0bb04c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3134')"
+    filename: /images/175/fd5c54cf4fffb55ec98835e28606be1c.jpg
+romDetails:
+- type: PRG0
+  label: RC846J0.1P
+  size: 256 KB
+  crc32: 836CC1AB
+  x: 2
+- type: CHR0
+  label: RC846J0.1C
+  size: 256 KB
+  crc32: 8F895BD9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: E1383DEB
+  x: 2
+pcbProperties:
+  name: 351949A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351949A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0bf7d42832a544d8cf9dea829848aeb5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351949A<br>Submitted by: bootgod<br>Linked from profile 1784')"
+    filename: /images/175/c9ae8339773ea0a5b8dd49cf9df2977e.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9006 - 9007 (2)
+  estFirstRun: February 1990
+  pcbClass: KONAMI-VRC-6
+  inesMapper: 26
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MM1026, VRC6
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9006
+  dateCodeSuffix: R05
+  std: 9006
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9006
+  dateCodeSuffix: R05
+  std: 9006
+  misc: 
+- designation: 
+  maker: Sony
+  partNumber: CXK5864BSP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 02
+  dateCodeSuffix: 07E
+  std: 9005
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: 053329 VRC VI
+  partNumberSubDetail: 
+  type: Konami VRC VI
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9003
+  dateCodeSuffix: EAI
+  std: 9003
+  misc: 1105-0039
+- designation: 
+  maker: Mitsumi
+  partNumber: 1026B
+  partNumberSubDetail: 
+  type: MM1026
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9L
+  dateCodeSuffix: 7
+  std: 8948
+  misc: 

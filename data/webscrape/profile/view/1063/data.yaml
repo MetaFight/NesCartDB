@@ -1,0 +1,80 @@
+metadata:
+  name: Bump 'n' Jump
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-08 23:50:00
+  moreProfiles:
+  - 401
+  - 2576
+  - 1063
+  relatedProfiles:
+  - 2160
+  additionalImages: 
+slug: bump-n-jump
+releaseInfo:
+  catalogId: NES-BP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Vic Tokai
+  developer: Data East
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BP-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 401')"
+    filename: /images/175/e5253a1ce5d8e914f4cf20a4d6053121.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-BP-0 PRG
+  size: 32 KB
+  crc32: 8B56FAEB
+  x: 3
+- type: CHR0
+  label: NES-BP-0 CHR
+  size: 32 KB
+  crc32: 3A34AA35
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: A0A095C4
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844 - 8846 (2)
+  estFirstRun: November 1988
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

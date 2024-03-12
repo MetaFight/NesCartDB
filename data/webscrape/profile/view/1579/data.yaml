@@ -1,0 +1,106 @@
+metadata:
+  name: Super Chinese
+  altName: スーパーチャイニーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-18 04:47:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1579
+  - 3337
+  additionalImages: 
+slug: super-chinese
+releaseInfo:
+  catalogId: NAM-NSC-4900-15
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 20, 1986
+  publisher: Namco
+  developer: Culture Brain
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 15
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 3337')"
+    filename: /images/175/2c57ff5d22932fe9a9b3a0404e6850e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a21c1a927b552baa8dbdc8d7b0b5395.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/844b2d7cfd90909426bfabe38d5c1b5e.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT SC PRG
+  size: 32 KB
+  crc32: 51C7C66A
+  x: 2
+- type: CHR0
+  label: NAMCOT SC CHR
+  size: 16 KB
+  crc32: F85AC7E5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 711C2B0E
+  x: 2
+pcbProperties:
+  name: 3407
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3407<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2e7b5e70376c0448388e4908f93cf7e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3407<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6e05fecd9857e44bb6f912872c727c51.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8619 - 8619 (2)
+  estFirstRun: May 1986
+  pcbClass: NAMCOT-3407
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: R0
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8619
+  dateCodeSuffix: D
+  std: 8619
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: R0
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8619
+  dateCodeSuffix: E
+  std: 8619
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 108
+  partNumberSubDetail: 
+  type: Namcot 108
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8608
+  dateCodeSuffix: Z04
+  std: 8608
+  misc: 

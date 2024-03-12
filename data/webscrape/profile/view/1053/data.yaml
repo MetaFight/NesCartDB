@@ -1,0 +1,143 @@
+metadata:
+  name: L'Empereur
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-22 03:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4293
+  additionalImages: 
+slug: lempereur
+releaseInfo:
+  catalogId: NES-QV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1991
+  publisher: Koei
+  developer: Koei
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QV-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2b4c56d64b551ea7765e026ab7c9ea0f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/146e8578cca0630e1aa76b4289d11136.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-QV-0 PRG
+  size: 256 KB
+  crc32: 2F50BD38
+  x: 1
+- type: CHR0
+  label: NES-QV-0 CHR
+  size: 128 KB
+  crc32: B2599DB4
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 9C18762B
+  x: 1
+pcbProperties:
+  name: NES-ETROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/678698de7a1a460c733a092e8f23d3ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c931953e41702b38db8fa8526cf5d868.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9142
+  estFirstRun: October 1991
+  pcbClass: NES-ETROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W35
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9142
+  dateCodeSuffix: EY701
+  std: 9142
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W37
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9142
+  dateCodeSuffix: KY009
+  std: 9142
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9122
+  dateCodeSuffix: AA019
+  std: 9122
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9141
+  dateCodeSuffix: DC
+  std: 9141
+  misc: 
+- designation: U5 W-RAM-1
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9141
+  dateCodeSuffix: DC
+  std: 9141
+  misc: 
+- designation: U6 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 

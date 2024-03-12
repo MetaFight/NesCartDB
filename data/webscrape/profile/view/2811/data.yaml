@@ -1,0 +1,125 @@
+metadata:
+  name: 'Golgo 13: The Mafat Conspiracy'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 23:29:00
+  moreProfiles:
+  - 659
+  - 2811
+  relatedProfiles:
+  - 4295
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-M4-USA *<br>Submitted by: bootgod<br>Linked from profile 659')"
+    filename: /images/175/2b5bd3b9277a284e68adada0b97a5791.jpg
+slug: golgo-13-the-mafat-conspiracy
+releaseInfo:
+  catalogId: NES-M4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Vic Tokai
+  developer: Aicom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-M4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 659')"
+    filename: /images/175/08ebbbaf176ff752236003a6ae486292.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 659')"
+    filename: /images/175/edb0624f2826d295e6f553f20445cbfd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-M4-0 PRG
+  size: 128 KB
+  crc32: 05DE5AFD
+  x: 2
+- type: CHR0
+  label: NES-M4-0 CHR
+  size: 128 KB
+  crc32: 68CA71F9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8A043CD6
+  x: 2
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ee68befa61e2a73ac33df70b05c30bae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9016 - 9016 (2)
+  estFirstRun: April 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: R96
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9016
+  dateCodeSuffix: EX022
+  std: 9016
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T91
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9016
+  dateCodeSuffix: EY718
+  std: 9016
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: 5 BA
+  std: 9014
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9015
+  dateCodeSuffix: KX021
+  std: 9015
+  misc: 

@@ -1,0 +1,96 @@
+metadata:
+  name: Pac-Land
+  altName: パックランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 21:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1799
+  - 3176
+  - 3177
+  - 3319
+  additionalImages: 
+slug: pac-land
+releaseInfo:
+  catalogId: NAM-NPL-4500-10
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 21, 1985
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 10
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2abda2b90d704f0797aad37c5fcd8cae.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29dd5c87e15a8fff62dfb64ba2b847ec.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f86ff190616dadd77bc2356093be873.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT PL PRG
+  size: 32 KB
+  crc32: 6E53EAA9
+  x: 4
+- type: CHR0
+  label: NAMCOT PL CHR
+  size: 8 KB
+  crc32: 80AE65C2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 89D42098
+  x: 4
+pcbProperties:
+  name: 3305
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3305<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/05e8f7bd4a9d9d3d5f72d6625f608e98.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3305<br>Submitted by: bootgod<br>Linked from profile 1577')"
+    filename: /images/175/3d02a9bf10fa8a47857965e1e8638949.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8540 - 8544 (4)
+  estFirstRun: October 1985
+  pcbClass: NAMCOT-3305
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 13
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8544
+  dateCodeSuffix: E
+  std: 8544
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 31
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8544
+  dateCodeSuffix: D
+  std: 8544
+  misc: 

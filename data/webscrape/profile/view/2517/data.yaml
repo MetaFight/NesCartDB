@@ -1,0 +1,118 @@
+metadata:
+  name: Soccer
+  altName: 
+  variant: (Revision A)
+  submittedBy: Kinopio
+  submittedOn: 2008-02-24 05:55:00
+  moreProfiles:
+  - 2498
+  - 2517
+  - 2701
+  - 3631
+  relatedProfiles:
+  - 2378
+  - 1966
+  - 1451
+  - 1972
+  - 737
+  additionalImages: 
+slug: soccer
+releaseInfo:
+  catalogId: NES-SC-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: January 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SC-EEC
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-SC-0 PRG
+  size: 32 KB
+  crc32: 80E59BC3
+  x: 6
+- type: CHR0
+  label: HVC-SC-0 CHR
+  size: 8 KB
+  crc32: 307B19AB
+  x: 19
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 972D2784
+  x: 6
+pcbProperties:
+  name: NES-NROM-256-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9bf3f8046326be013aeb4cfdef789799.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 2085')"
+    filename: /images/175/0d3a9b1ae281e5f609ede1702de6034b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8649 - 8952 (4)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: P5
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8952
+  dateCodeSuffix: B
+  std: 8952
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 85
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8951
+  dateCodeSuffix: B
+  std: 8951
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8947
+  dateCodeSuffix: A
+  std: 8947
+  misc: 

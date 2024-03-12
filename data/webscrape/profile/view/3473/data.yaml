@@ -1,0 +1,122 @@
+metadata:
+  name: Excitebike
+  altName: エキサイトバイク
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-11 02:28:00
+  moreProfiles:
+  - 1467
+  - 1694
+  - 2314
+  - 3356
+  - 3472
+  - 3473
+  - 3474
+  - 3648
+  relatedProfiles:
+  - 2056
+  - 2149
+  - 1960
+  - 18
+  additionalImages: 
+slug: excitebike
+releaseInfo:
+  catalogId: HVC-EB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 30, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HVC-EB
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1467')"
+    filename: /images/175/2ef7ec8a7b145821e645994c50391651.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-EB-0 PRG-A
+  size: 8 KB
+  crc32: 03FCA8E3
+  x: 2
+- type: PRG1
+  label: HVC-EB-0 PRG-B
+  size: 8 KB
+  crc32: 2895EE6B
+  x: 2
+- type: CHR0
+  label: HVC-EB-0 CHR
+  size: 8 KB
+  crc32: E5F72401
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 49AEB3A6
+  x: 2
+pcbProperties:
+  name: HVC-RTROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8448 - 8505 (6)
+  estFirstRun: December 1984
+  pcbClass: HVC-RTROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1 PRG ROM A
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0066
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4ZC
+  dateCodeSuffix: 5
+  std: 8451
+  misc: 
+- designation: IC2 PRG ROM B
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0067
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4ZC
+  dateCodeSuffix: 5
+  std: 8451
+  misc: 
+- designation: IC3 CHR ROM
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0065
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4ZC
+  dateCodeSuffix: 5
+  std: 8451
+  misc: 

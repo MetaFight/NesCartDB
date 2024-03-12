@@ -1,0 +1,119 @@
+metadata:
+  name: Space Shuttle Project
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-19 23:37:00
+  moreProfiles:
+  - 531
+  - 2557
+  - 2755
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-6A USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31af16e3b2d28cdaae3551d0e353a335.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-6A USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/827283a2ab4b3f12506c7301e2159936.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-6A-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ddcfffbf6092611f45efafdf8d26447.jpg
+slug: space-shuttle-project
+releaseInfo:
+  catalogId: NES-6A-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1991
+  publisher: Absolute
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6A-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51ef840165bc2955a48158ef37e02d7d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2abc4390133bcf79b617a0acb058d6b4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-6A-0 PRG
+  size: 256 KB
+  crc32: 2220E14A
+  x: 3
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9141 - 9141 (3)
+  estFirstRun: October 1991
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 32
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9141
+  dateCodeSuffix: D
+  std: 9141
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264BL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9137
+  dateCodeSuffix: KT23
+  std: 9137
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9117
+  dateCodeSuffix: 3 AA
+  std: 9117
+  misc: 
+- designation: U4 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 

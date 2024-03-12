@@ -1,0 +1,133 @@
+metadata:
+  name: 'Gremlins 2: The New Batch'
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-04-06 13:36:00
+  moreProfiles:
+  - 1427
+  - 1907
+  relatedProfiles:
+  - 2482
+  - 4716
+  - 4540
+  - 3805
+  - 336
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-2Z-FRG<br>Submitted by: piteta<br>Linked from profile 1907')"
+    filename: /images/175/bfaf75a79bbbc7ed59f8681e1735f561.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-2Z-FRG<br>Submitted by: piteta<br>Linked from profile 1907')"
+    filename: /images/175/c1c89832274c39411bda9a8cce8467d4.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-2Z-FRG<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/840a300b12b9a498f49acac04e3dda17.jpg
+slug: gremlins-2-the-new-batch
+releaseInfo:
+  catalogId: NES-2Z-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: February 21, 1991
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2Z-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/eb518b603122b777bc92cbc44d67aae8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-2Z-0 PRG
+  size: 128 KB
+  crc32: 0E2FCB2E
+  x: 4
+- type: CHR0
+  label: NES-2Z-0 CHR
+  size: 256 KB
+  crc32: 59C28B7F
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 2B20B022
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/99b50f60851ad9f12055dd08587b2e44.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9122 - 9143 (2)
+  estFirstRun: June 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W33
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9139
+  dateCodeSuffix: K9520
+  std: 9139
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W20
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: EY001
+  std: 9143
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9137
+  dateCodeSuffix: A
+  std: 9137
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9142
+  dateCodeSuffix: 7 AB
+  std: 9142
+  misc: 

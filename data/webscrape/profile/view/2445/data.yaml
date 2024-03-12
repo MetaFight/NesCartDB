@@ -1,0 +1,137 @@
+metadata:
+  name: Mike Tyson's Punch-Out!!
+  altName: 
+  variant: (Revision A)
+  submittedBy: Kinopio
+  submittedOn: 2008-02-04 19:56:00
+  moreProfiles:
+  - 2445
+  - 2493
+  relatedProfiles:
+  - 2381
+  - 2562
+  - 4552
+  - 3750
+  - 4322
+  - 4329
+  - 4593
+  - 4554
+  - 155
+  - 317
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PT-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7601469f6d08e3a72a39189ce056a34e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PT-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/adc03ded297637c01c6eb926ead7d2c6.jpg
+slug: mike-tysons-punch-out
+releaseInfo:
+  catalogId: NES-PT-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: December 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PT-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f4ec7c5075fd9d21c130d74d073992bb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9f3da05f24dc045011151479885436f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-PT-1 PRG
+  size: 128 KB
+  crc32: F2A43A8A
+  x: 2
+- type: CHR0
+  label: NES-PT-0 CHR
+  size: 128 KB
+  crc32: 570B48EA
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 25551F3F
+  x: 2
+pcbProperties:
+  name: NES-PNROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-PNROM-05<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c3dd8d7b6ca45d1d603751b4dfa96170.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-PNROM-05<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/16c5bae1c16b9ffcdf30016bf25a5ee1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8747 - 9003 (2)
+  estFirstRun: November 1987
+  pcbClass: NES-PNROM
+  inesMapper: 9
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC2-L
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NXU
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 016
+  dateCodeSuffix: B3
+  std: 9003
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NXG
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 012
+  dateCodeSuffix: 52
+  std: 9002
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8947
+  dateCodeSuffix: A
+  std: 8947
+  misc: 
+- designation: U4 MMC2
+  maker: Sharp
+  partNumber: MMC2-L
+  partNumberSubDetail: 
+  type: Nintendo MMC2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8941
+  dateCodeSuffix: A
+  std: 8941
+  misc: 

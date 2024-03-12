@@ -1,0 +1,138 @@
+metadata:
+  name: King's Quest V
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 18:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-8Q USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92f1940de7e3ff699d35302e75313b80.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-8Q USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c0b3b0192153c71a5038eae58851d55.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-8Q-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d53af73c41e793c7b8b0f09919159663.jpg
+slug: kings-quest-v
+releaseInfo:
+  catalogId: NES-8Q-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1992
+  publisher: Konami
+  developer: Sierra
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8Q-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/13456fe9467c5a6c3740832ca4c416f1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce02e998059116980f8f6a84624e65f1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-8Q-0 PRG
+  size: 256 KB
+  crc32: 8871B5C4
+  x: 1
+- type: CHR0
+  label: NES-8Q-0 CHR
+  size: 256 KB
+  crc32: 5B49294C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 00837960
+  x: 1
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d21d47b52ff1546e4ebee5e5fa805c0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9219
+  estFirstRun: May 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9218
+  dateCodeSuffix: T02
+  std: 9218
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9219
+  dateCodeSuffix: T05
+  std: 9219
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9217
+  dateCodeSuffix: 5 BB
+  std: 9217
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9209
+  dateCodeSuffix: EP024
+  std: 9209
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9212
+  dateCodeSuffix: KT90
+  std: 9212
+  misc: 

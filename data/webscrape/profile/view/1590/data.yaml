@@ -1,0 +1,108 @@
+metadata:
+  name: Sky Kid
+  altName: スカイキッド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-19 19:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1590
+  - 1805
+  - 2666
+  - 2676
+  additionalImages: 
+slug: sky-kid
+releaseInfo:
+  catalogId: NAM-NSK-3900-18
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 22, 1986
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 18
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/18e6fc5ffe76301359504182ee50de5b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c3a80b99fbcd9d664e7ec64075c843c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7d502f2c0c197e3b58d80ad100bdc32.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT SK PRG
+  size: 32 KB
+  crc32: 90FAA618
+  x: 4
+- type: CHR0
+  label: NAMCOT SK CHR
+  size: 32 KB
+  crc32: A5B1E3B2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: CA6A7BF1
+  x: 4
+pcbProperties:
+  name: 3417
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3417<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/85e26da6b9a57e19e8c58e9816623c06.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3417<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/451f2d76abeec532e9409eee0744a8d2.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8629 - 8630 (4)
+  estFirstRun: July 1986
+  pcbClass: NAMCOT-3417
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: PR
+  maker: Toshiba
+  partNumber: TC53257P
+  partNumberSubDetail: 4726
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8629
+  dateCodeSuffix: EBI
+  std: 8629
+  misc: 
+- designation: CH
+  maker: Toshiba
+  partNumber: TC53257P
+  partNumberSubDetail: 4725
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8629
+  dateCodeSuffix: EBI
+  std: 8629
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 108
+  partNumberSubDetail: 
+  type: Namcot 108
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8620
+  dateCodeSuffix: Z57
+  std: 8620
+  misc: 

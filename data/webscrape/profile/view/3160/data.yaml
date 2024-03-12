@@ -1,0 +1,122 @@
+metadata:
+  name: Bakushou!! Jinsei Gekijou 3
+  altName: 爆笑！人生劇
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 01:13:00
+  moreProfiles:
+  - 2255
+  - 3158
+  - 3159
+  - 3160
+  relatedProfiles: []
+  additionalImages: 
+slug: bakushou-jinsei-gekijou-3
+releaseInfo:
+  catalogId: TFC-BJIII-6400-40
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1991
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-BJIII-6400
+  secondaryId: G7000105A
+  backLabelId/Desc: G7000002A
+  sequence#: 40
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2255')"
+    filename: /images/175/edde31c5eaa2ff38b60518f860bc36a7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1554')"
+    filename: /images/175/47e7f669b9a9acb7f4c1065d7a8af808.jpg
+romDetails:
+- type: PRG0
+  label: D16-01
+  size: 256 KB
+  crc32: 1394E1A2
+  x: 4
+- type: CHR0
+  label: D16-02
+  size: 256 KB
+  crc32: A3B0FFCF
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: AEBD6549
+  x: 4
+pcbProperties:
+  name: J9100287A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100287A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5926b14d79b3f2284ca979bd9dfde9a5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100287A<br>Submitted by: bootgod<br>Linked from profile 2255')"
+    filename: /images/175/e26f2b751924d13104f8a1bb7ecfbad0.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9145 - 9147 (4)
+  estFirstRun: November 1991
+  pcbClass: TAITO-TC0190FMC+PAL16R4
+  inesMapper: 48
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: PAL16R4, TC0190FMC
+detailedChipInfo:
+- designation: U1
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8841
+  dateCodeSuffix: KY
+  std: 8841
+  misc: 
+- designation: U2
+  maker: Hitachi
+  partNumber: HN62302BP
+  partNumberSubDetail: Y16
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 1L1
+  dateCodeSuffix: ''
+  std: 9145
+  misc: 
+- designation: U3
+  maker: Monolithic Memories
+  partNumber: PAL16R4ACN
+  partNumberSubDetail: 
+  type: PAL16
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 143
+  dateCodeSuffix: HXMM B
+  std: 9143
+  misc: D16-03
+- designation: U4
+  maker: Hitachi
+  partNumber: HN62302BP
+  partNumberSubDetail: Y17
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 1L1
+  dateCodeSuffix: ''
+  std: 9145
+  misc: 

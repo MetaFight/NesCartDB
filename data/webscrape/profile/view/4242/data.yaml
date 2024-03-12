@@ -1,0 +1,79 @@
+metadata:
+  name: Slalom
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-23 01:14:00
+  moreProfiles:
+  - 285
+  - 1358
+  - 4242
+  relatedProfiles:
+  - 2140
+  additionalImages: 
+slug: slalom
+releaseInfo:
+  catalogId: NES-SL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1987
+  publisher: Nintendo
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 285')"
+    filename: /images/175/c4fe703e341c444742c08a2ec83d2d1d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 285')"
+    filename: /images/175/44aad6f99445464642a1ff50086c42cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-SL-0 PRG
+  size: 32 KB
+  crc32: B7F485D8
+  x: 4
+- type: CHR0
+  label: NES-SL-0 CHR
+  size: 8 KB
+  crc32: 2F836491
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 86670C93
+  x: 4
+pcbProperties:
+  name: NES-NROM-256-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8652 - 8741 (2)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo: []

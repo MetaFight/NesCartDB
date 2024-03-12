@@ -1,0 +1,115 @@
+metadata:
+  name: 'Chibi Maruko-chan: Uki Uki Shopping'
+  altName: ちびまる子ちゃん うきうきショッピング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 04:16:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: chibi-maruko-chan-uki-uki-shopping
+releaseInfo:
+  catalogId: NAM-FCM-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 4, 1991
+  publisher: Namco
+  developer: Namco
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb48b58758e2955dbbc9d8f3d02d5036.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b1f65ebf713ade64829f6dffbfdba39.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 0B4C2DDC
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 07DF9648
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0C47946D
+  x: 1
+pcbProperties:
+  name: 60-19
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-19<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14218db57ceab462f9e72f38bf970f46.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-19<br>Submitted by: bootgod<br>Linked from profile 2291')"
+    filename: /images/175/bf55667563233d15e5ab2fb76b51998d.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9132
+  estFirstRun: August 1991
+  pcbClass: NAMCOT-175
+  inesMapper: 210
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 175
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FCM
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 132
+  dateCodeSuffix: K00
+  std: 9132
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP175
+  type: Namcot 175
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

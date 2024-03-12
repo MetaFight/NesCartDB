@@ -1,0 +1,104 @@
+metadata:
+  name: 'Paaman Part 2: Himitsu Kessha Madoodan o Taose!'
+  altName: パーマン２ 秘密結社マドー団をたおせ！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 05:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: paaman-part-2-himitsu-kessha-madoodan-o-taose
+releaseInfo:
+  catalogId: IF-25
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1991
+  publisher: Irem
+  developer: Japan System House
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Orange
+  formFactor: New Style
+  frontLabelId: IF-25
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0e6acf740695eecf2cba6c270ffe05b0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/20cd546ed8c971081a54c2017150849e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: DBA3A02E
+  x: 1
+- type: CHR0
+  label: IREM-PM-CHR
+  size: 128 KB
+  crc32: 1A50AFD5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: CA094848
+  x: 1
+pcbProperties:
+  name: FC-00-018
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-018<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a65bef6368d2471ded160019b73de1c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-018<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e010d239a37c2d084a7106471952610a.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9147
+  estFirstRun: November 1991
+  pcbClass: IREM-G101
+  inesMapper: 32
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: G-101
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: D23C2001C
+  partNumberSubDetail: T98
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: HD010
+  std: 9146
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9147
+  dateCodeSuffix: E
+  std: 9147
+  misc: 
+- designation: G-101
+  maker: Mitsubishi
+  partNumber: G-101
+  partNumberSubDetail: 
+  type: Irem G-101
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 143
+  dateCodeSuffix: 102
+  std: 9143
+  misc: 

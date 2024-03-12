@@ -1,0 +1,79 @@
+metadata:
+  name: Donkey Kong Classics
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-14 03:58:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3644
+  - 2132
+  - 4254
+  - 4454
+  - 109
+  additionalImages: 
+slug: donkey-kong-classics
+releaseInfo:
+  catalogId: NES-DJ-GBR
+  region: United Kingdom (PAL-A)
+  class: Licensed  » Multi-cart
+  releaseDate: August 10, 1989
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DJ-GBR
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-EAI-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/9099aad791188a5e8e4cb91492a79e04.jpg
+romDetails:
+- type: PRG0
+  label: PAL-DJ-0 PRG
+  size: 32 KB
+  crc32: D711EA15
+  x: 8
+- type: CHR0
+  label: PAL-DJ-0 CHR
+  size: 16 KB
+  crc32: E0474EB5
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: AB2006B4
+  x: 8
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: 74xx161
+detailedChipInfo: []

@@ -1,0 +1,133 @@
+metadata:
+  name: "Castlevania III: Dracula's Curse"
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-02 01:26:00
+  moreProfiles:
+  - 15
+  - 637
+  - 2773
+  - 2774
+  relatedProfiles:
+  - 1411
+  - 3316
+  - 1553
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 15')"
+    filename: /images/175/d10f4f1e00c66141e16faba25e3f2b85.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 15')"
+    filename: /images/175/d62b7f4b4054c106915a90c401f16dcf.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-VN-USA<br>Submitted by: bootgod<br>Linked from profile 15')"
+    filename: /images/175/bdce36b1c2b4af3c11c7f2e7a6a3156a.jpg
+slug: castlevania-iii-draculas-curse
+releaseInfo:
+  catalogId: NES-VN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VN-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 15')"
+    filename: /images/175/b68c5dc762b0e3743d9e7e9be7c3c8af.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 15')"
+    filename: /images/175/cf105634c069e790a6d72e9b0bedb782.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VN-0 PRG
+  size: 256 KB
+  crc32: 95CA9EC7
+  x: 4
+- type: CHR0
+  label: NES-VN-0 CHR
+  size: 128 KB
+  crc32: 1B448E0A
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: ED2465BE
+  x: 4
+pcbProperties:
+  name: NES-ELROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-ELROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/05f254d452e74ee84fa0d800e88b6c80.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-ELROM-01<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/431de732d9e5d651fa3c716381a575f2.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9034 - 9050 (4)
+  estFirstRun: August 1990
+  pcbClass: NES-ELROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9050
+  dateCodeSuffix: T38
+  std: 9050
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: Y2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9049
+  dateCodeSuffix: D
+  std: 9049
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9045
+  dateCodeSuffix: AA018
+  std: 9045
+  misc: 
+- designation: U6 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 046
+  dateCodeSuffix: C
+  std: 9046
+  misc: 

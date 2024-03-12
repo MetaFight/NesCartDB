@@ -1,0 +1,79 @@
+metadata:
+  name: Bandit Kings of Ancient China
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-21 08:59:00
+  moreProfiles:
+  - 1220
+  - 2924
+  relatedProfiles:
+  - 1729
+  additionalImages: 
+slug: bandit-kings-of-ancient-china
+releaseInfo:
+  catalogId: NES-XJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Koei
+  developer: Koei
+  players: 5
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XJ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1220')"
+    filename: /images/175/4ba2d360eb7006991582e1192ba5d362.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1220')"
+    filename: /images/175/e3140318d919ad17d16fde28de9d18cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-XJ-0 PRG
+  size: 256 KB
+  crc32: 2B548D75
+  x: 2
+- type: CHR0
+  label: NES-XJ-0 CHR
+  size: 128 KB
+  crc32: 26D34BF6
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 15FE6D0F
+  x: 2
+pcbProperties:
+  name: NES-ETROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: NES-ETROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo: []

@@ -1,0 +1,112 @@
+metadata:
+  name: The Battle of Olympus
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-13 00:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2526
+  - 1908
+  additionalImages: 
+slug: the-battle-of-olympus
+releaseInfo:
+  catalogId: NES-AD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Br?derbund
+  developer: Infinity
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AD-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/361d417467a5328315c2a9e13cc92d29.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2025c4336053826a0eac7e8c899618c4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-AD-0 PRG
+  size: 128 KB
+  crc32: 6B53006A
+  x: 1
+pcbProperties:
+  name: NES-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8947
+  estFirstRun: November 1989
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5358
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9K4
+  dateCodeSuffix: 7A
+  std: 8943
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sanyo
+  partNumber: LC3664R-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 99
+  dateCodeSuffix: 184
+  std: 8935
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8947
+  dateCodeSuffix: 1 AA
+  std: 8947
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8946
+  dateCodeSuffix: 5 AA
+  std: 8946
+  misc: 

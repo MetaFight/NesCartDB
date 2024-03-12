@@ -1,0 +1,78 @@
+metadata:
+  name: 'Joe & Mac: Caveman Ninja'
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-05-28 14:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4167
+  - 2024
+  - 4546
+  - 526
+  additionalImages: 
+slug: joe-mac-caveman-ninja
+releaseInfo:
+  catalogId: NES-CJ-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Elite
+  developer: Elite
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CJ-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/87359a9386272a18aab7c3cfcee944bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-CJ-0 PRG
+  size: 128 KB
+  crc32: 948AD7F6
+  x: 5
+- type: CHR0
+  label: PAL-CJ-0 CHR
+  size: 128 KB
+  crc32: 52AD922B
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 04142764
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo: []

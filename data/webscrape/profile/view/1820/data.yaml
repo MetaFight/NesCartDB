@@ -1,0 +1,107 @@
+metadata:
+  name: Youkai Douchuuki
+  altName: 妖怪道中記
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 06:02:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1820
+  - 2295
+  - 3317
+  additionalImages: 
+slug: youkai-douchuuki
+releaseInfo:
+  catalogId: NAM-YD-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 24, 1988
+  publisher: Namco
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e47dd49e0038d561d05be1e22a4cd7f4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c559002223364c91466c28abe25c717.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/481a762381b3a1eb886b713de7945c9a.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT YD PRG
+  size: 128 KB
+  crc32: 17421900
+  x: 3
+- type: CHR0
+  label: NAMCOT YD CHR
+  size: 128 KB
+  crc32: 0229471A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C811DC7A
+  x: 3
+pcbProperties:
+  name: 111F0S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>111F0S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d73fe3f0088dd5b9403ecc4b58bb7f97.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>111F0S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98f6d24b900612256c478f03ead9f539.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8816 - 8818 (3)
+  estFirstRun: April 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: P
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8815
+  dateCodeSuffix: EX
+  std: 8815
+  misc: 
+- designation: C
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8815
+  dateCodeSuffix: EX
+  std: 8815
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 163
+  partNumberSubDetail: 
+  type: Namcot 163
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 8817
+  dateCodeSuffix: Z35
+  std: 8817
+  misc: 

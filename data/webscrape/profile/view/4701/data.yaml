@@ -1,0 +1,138 @@
+metadata:
+  name: 'Bases Loaded II: Second Season'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2013-10-18 01:19:00
+  moreProfiles:
+  - 14
+  - 791
+  - 975
+  - 4701
+  relatedProfiles:
+  - 1731
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-L2-USA *<br>Submitted by: bootgod<br>Linked from profile 14')"
+    filename: /images/175/caff7eab5a298d408a4f8e77139ee23d.jpg
+slug: bases-loaded-ii-second-season
+releaseInfo:
+  catalogId: NES-L2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-L2-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 14')"
+    filename: /images/175/403a81435c351b607a2ded9a792f3687.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 14')"
+    filename: /images/175/77149f20415c91d7033350c5a744b08a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-L2-0 PRG
+  size: 256 KB
+  crc32: F2A6ACE1
+  x: 3
+- type: CHR0
+  label: NES-L2-0 CHR
+  size: 128 KB
+  crc32: 11683DCA
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: B9CF171F
+  x: 3
+pcbProperties:
+  name: NES-SL3ROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SL3ROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae95f4f19a2c1a66c3f96c2fad9d79e6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SL3ROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/528080ab067e8773a2fa781fc5dbe72d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002 - 9028 (2)
+  estFirstRun: January 1990
+  pcbClass: NES-SL3ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8948
+  dateCodeSuffix: XY709
+  std: 8948
+  misc: SL3
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8945
+  dateCodeSuffix: EX013
+  std: 8945
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9002
+  dateCodeSuffix: 3 AA
+  std: 9002
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8952
+  dateCodeSuffix: B3???
+  std: 8952
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8949
+  dateCodeSuffix: ''
+  std: 8949
+  misc: 

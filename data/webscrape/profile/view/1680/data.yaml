@@ -1,0 +1,119 @@
+metadata:
+  name: Soccer
+  altName: サッカー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 21:10:00
+  moreProfiles:
+  - 1451
+  - 1680
+  - 2331
+  - 3366
+  - 3367
+  - 3368
+  - 3466
+  - 3467
+  - 3701
+  - 4750
+  relatedProfiles:
+  - 2378
+  - 2498
+  - 1966
+  - 1972
+  - 737
+  additionalImages: 
+slug: soccer
+releaseInfo:
+  catalogId: HVC-SC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 9, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Green
+  formFactor: Small
+  frontLabelId: HVC-SC
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1451')"
+    filename: /images/175/db3078f4a2223ad1a0d06e0cfafb0003.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 32E37DCB
+  x: 13
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 307B19AB
+  x: 19
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 657F7875
+  x: 13
+pcbProperties:
+  name: 9011-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4eda94fdcad92d4ca3e94c046bc9cb4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 1458')"
+    filename: /images/175/368603c7c521ccf6ccb6069756bc0a7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8515 - 8517 (4)
+  estFirstRun: April 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ISSC
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 902168
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,120 @@
+metadata:
+  name: Adventures of Lolo
+  altName: アドベンチャーズ オブ ロロ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-19 00:02:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1849
+  - 1876
+  - 1092
+  additionalImages: 
+slug: adventures-of-lolo
+releaseInfo:
+  catalogId: HAL-A4
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 6, 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Steel Blue
+  formFactor: Small
+  frontLabelId: HAL-A4
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6201a4e96903ab21d3b18122116941f4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: F4FB65DD
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: E6E04F55
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 297198B9
+  x: 1
+pcbProperties:
+  name: UNK-HVC-TEROM
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-HVC-TEROM<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b060a246c81f069b6e7980e0a20931ee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-HVC-TEROM<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/689d75ac7decd5ef240bae163b69f8c4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8943
+  estFirstRun: October 1989
+  pcbClass: HVC-TEROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: KA4
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: A
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8943
+  dateCodeSuffix: EP
+  std: 8943
+  misc: 

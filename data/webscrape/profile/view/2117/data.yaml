@@ -1,0 +1,111 @@
+metadata:
+  name: Bible Adventures
+  altName: 
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2007-10-28 22:20:00
+  moreProfiles:
+  - 958
+  - 1015
+  - 1157
+  - 1364
+  - 2117
+  - 4773
+  relatedProfiles: []
+  additionalImages: 
+slug: bible-adventures
+releaseInfo:
+  catalogId: WT-BC-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e971f818db9ba375b7f0da983bc50e4c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4621')"
+    filename: /images/175/3ebd3cd5a7c494b60a2851f41d51c8f3.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 306554E5
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: D247B206
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 73C246D4
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2e047497750950a41674d50a74222903.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9018 - 9407 (4)
+  estFirstRun: May 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Texas Instruments
+  partNumber: TMS27PC512NL
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9022
+  dateCodeSuffix: ALEP
+  std: 9022
+  misc: 
+- designation: U2
+  maker: Texas Instruments
+  partNumber: TMS27PC512NL
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9022
+  dateCodeSuffix: ALEP
+  std: 9022
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

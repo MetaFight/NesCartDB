@@ -1,0 +1,119 @@
+metadata:
+  name: Jajamaru Ninpouchou
+  altName: じゃじゃ丸忍法帳
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-09 03:42:00
+  moreProfiles:
+  - 1551
+  - 3278
+  relatedProfiles:
+  - 4639
+  additionalImages: 
+slug: jajamaru-ninpouchou
+releaseInfo:
+  catalogId: JF-22
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 28, 1989
+  publisher: Jaleco
+  developer: NMK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: White
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-22
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3568ac6152e083fcee017264e3646c01.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ed3df84d4fe1a4e07b18053a64977ff3.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 0091AFBE
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: C8028ED9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 12F048DF
+  x: 2
+pcbProperties:
+  name: JF-22
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-22<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/36e5adc29aae5634c7724f87649360bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-22<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/780a492e2d74b78b95f2ba1270c1167b.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8909 - 8910 (2)
+  estFirstRun: March 1989
+  pcbClass: JALECO-JF-22
+  inesMapper: 75
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, VRC1
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: T69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8910
+  dateCodeSuffix: KX710
+  std: 8910
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: T66
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8910
+  dateCodeSuffix: EX738
+  std: 8910
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D65005C075
+  partNumberSubDetail: 
+  type: Konami VRC
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8906
+  dateCodeSuffix: KX
+  std: 8906
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8K3
+  dateCodeSuffix: 6
+  std: 8842
+  misc: 

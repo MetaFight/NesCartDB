@@ -1,0 +1,79 @@
+metadata:
+  name: Q*bert
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-26 23:58:00
+  moreProfiles:
+  - 110
+  - 348
+  - 560
+  relatedProfiles: []
+  additionalImages: 
+slug: qbert
+releaseInfo:
+  catalogId: NES-QB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1989
+  publisher: Ultra Games
+  developer: Gottlieb
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QB-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 110')"
+    filename: /images/175/8f27854b33cb4707d5139f7ad2329330.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-QB-0 PRG
+  size: 32 KB
+  crc32: F18EEF69
+  x: 3
+- type: CHR0
+  label: NES-QB-0 CHR
+  size: 32 KB
+  crc32: E1196FEF
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C0B23520
+  x: 3
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8904 - 8929 (2)
+  estFirstRun: January 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

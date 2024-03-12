@@ -1,0 +1,119 @@
+metadata:
+  name: Wheel of Fortune
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-03-11 03:09:00
+  moreProfiles:
+  - 340
+  - 1383
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-WF USA-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4cf3cf732825f969a5713d1c66b18523.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-WF USA-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1c16a864bcaf0190a182bef45f26954.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-WF-USA-1 *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/46c4aae7fda08332759701b3c5fcd517.jpg
+slug: wheel-of-fortune
+releaseInfo:
+  catalogId: NES-WF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1988
+  publisher: GameTek
+  developer: Rare
+  players: 3
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27dd7e58604c22f21ae1996815e30e75.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4c2c712c7fd56f79dc2dcf17e435fc23.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4741')"
+    filename: /images/175/ad00db9923d49b428ee0df399cfd4c81.jpg
+romDetails:
+- type: PRG0
+  label: NES-WF-1 PRG
+  size: 128 KB
+  crc32: 3368F7FB
+  x: 1
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8903 - 9013 (2)
+  estFirstRun: January 1989
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9013
+  dateCodeSuffix: EY
+  std: 9013
+  misc: 
+- designation: U2 CHR RAM
+  maker: OKI
+  partNumber: M5165AL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 01
+  dateCodeSuffix: 3034
+  std: 9001
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9013
+  dateCodeSuffix: 5 BA
+  std: 9013
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 006
+  dateCodeSuffix: EN
+  std: 9006
+  misc: 

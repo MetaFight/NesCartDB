@@ -1,0 +1,98 @@
+metadata:
+  name: Formation Z
+  altName: フォーメーションＺ
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2009-01-19 06:17:00
+  moreProfiles:
+  - 1545
+  - 3022
+  - 3023
+  - 3024
+  - 3284
+  relatedProfiles: []
+  additionalImages: 
+slug: formation-z
+releaseInfo:
+  catalogId: JF-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 4, 1985
+  publisher: Jaleco
+  developer: Hect
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Orange
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1545')"
+    filename: /images/175/81cc0669053823d46a9b08231d9eed07.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1545')"
+    filename: /images/175/a253638769ef3144150a13e07c0f9c15.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: B9661F04
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 5D0E5BDA
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E9023072
+  x: 2
+pcbProperties:
+  name: JF-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/89abc3bf05c86ced1c3e8dc5a0254e45.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-01<br>Submitted by: bootgod<br>Linked from profile 2280')"
+    filename: /images/175/67a29fab74143d57da750d9caaadad43.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8511 - 8521 (5)
+  estFirstRun: March 1985
+  pcbClass: JALECO-JF-01
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: NEC
+  partNumber: D23128EC
+  partNumberSubDetail: 104
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8512
+  dateCodeSuffix: K9
+  std: 8512
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: D2364EC
+  partNumberSubDetail: 172
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8512
+  dateCodeSuffix: X7
+  std: 8512
+  misc: 

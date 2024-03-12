@@ -1,0 +1,130 @@
+metadata:
+  name: Metroid
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-04-25 19:48:00
+  moreProfiles:
+  - 2444
+  - 2471
+  - 4342
+  relatedProfiles:
+  - 1878
+  - 224
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>EEC<br>Submitted by: Kinopio<br>Linked from profile 2444')"
+    filename: /images/175/41d1391393c0c3fa98453833362fca87.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>EEC<br>Submitted by: Kinopio<br>Linked from profile 2444')"
+    filename: /images/175/7b297b290a224e0fcbb1345c9ba0632e.jpg
+slug: metroid
+releaseInfo:
+  catalogId: NES-MT-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: January 15, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MT-EEC
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/297ce349220c82c1bff8f7d45a4ef90c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8b565629fd485c8a091e2785ff9ef81b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MT-0 PRG
+  size: 128 KB
+  crc32: 7751588D
+  x: 5
+pcbProperties:
+  name: NES-SNROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8747 - 8934 (3)
+  estFirstRun: November 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 6B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: E
+  std: 8934
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8929
+  dateCodeSuffix: 1 DB
+  std: 8929
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8934
+  dateCodeSuffix: A
+  std: 8934
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8932
+  dateCodeSuffix: 5 A
+  std: 8932
+  misc: 
+- designation: U5 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8932
+  dateCodeSuffix: HCK
+  std: 8932
+  misc: 

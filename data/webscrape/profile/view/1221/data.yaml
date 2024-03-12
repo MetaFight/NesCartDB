@@ -1,0 +1,122 @@
+metadata:
+  name: Advanced Dungeons & Dragons Hillsfar
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-06 18:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3922
+  additionalImages: 
+slug: advanced-dungeons-dragons-hillsfar
+releaseInfo:
+  catalogId: NES-QQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1993
+  publisher: FCI
+  developer: Strategic Simulations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QQ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/75a436169eac64145b377732574ff496.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7dbe14005ee900d569ee00831074b1f7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-QQ-0 PRG
+  size: 256 KB
+  crc32: 5DE61639
+  x: 1
+pcbProperties:
+  name: NES-SNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9304
+  estFirstRun: January 1993
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 2H
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9304
+  dateCodeSuffix: D
+  std: 9304
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Motorola
+  partNumber: MCM60L64P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9245
+  dateCodeSuffix: HCK
+  std: 9245
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9302
+  dateCodeSuffix: 3 CB
+  std: 9302
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9242
+  dateCodeSuffix: 3 A 170
+  std: 9242
+  misc: 
+- designation: U5 W-RAM
+  maker: Motorola
+  partNumber: MCM60L64P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9245
+  dateCodeSuffix: HCK
+  std: 9245
+  misc: 

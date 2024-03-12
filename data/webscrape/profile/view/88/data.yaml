@@ -1,0 +1,130 @@
+metadata:
+  name: Track & Field
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-06 04:04:00
+  moreProfiles:
+  - 88
+  - 971
+  - 2841
+  relatedProfiles:
+  - 4427
+  - 2277
+  - 4678
+  - 2462
+  - 1956
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-TR-USA<br>Submitted by: polarz<br>Linked from profile 971')"
+    filename: /images/175/cbc415e9b0976b399b15eca4c509a795.jpg
+slug: track-field
+releaseInfo:
+  catalogId: NES-TR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1987
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TR-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/754ceec9d269fbf0bd2094dd0a940fa4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c3b29e0cc9fb8924558bf0bee9c33882.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-TR-0 PRG
+  size: 32 KB
+  crc32: 25F872D4
+  x: 4
+- type: CHR0
+  label: NES-TR-0 CHR
+  size: 32 KB
+  crc32: 03BFBC4B
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9C9F3571
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8079fbe922bc134195b9c9742f7cf883.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-04<br>Submitted by: Skrybe<br>Linked from profile 4649')"
+    filename: /images/175/b28a50ede1ef85ee1f2e6f714d087f32.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8724 - 8750 (2)
+  estFirstRun: June 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2000
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7L4
+  dateCodeSuffix: E1
+  std: 8748
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2001
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7M1
+  dateCodeSuffix: B5
+  std: 8750
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8749
+  dateCodeSuffix: A
+  std: 8749
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8746
+  dateCodeSuffix: CA
+  std: 8746
+  misc: 

@@ -1,0 +1,108 @@
+metadata:
+  name: Shinsenden
+  altName: 神仙伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 04:15:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: shinsenden
+releaseInfo:
+  catalogId: TIX-Z3 (IF-16)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1989
+  publisher: Irem
+  developer: Tamtex
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime
+  formFactor: Small
+  frontLabelId: TIX-Z3
+  secondaryId: IF-16
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/64f837201c3cddaa5052c847c7252ec9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TIX-Z3-0 PRG
+  size: 256 KB
+  crc32: BB435255
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8946
+  estFirstRun: November 1989
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T37
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8946
+  dateCodeSuffix: PY702
+  std: 8946
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8921
+  dateCodeSuffix: MU602
+  std: 8921
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8946
+  dateCodeSuffix: 7 AA
+  std: 8946
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5160-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: 7 D
+  std: 8944
+  misc: 

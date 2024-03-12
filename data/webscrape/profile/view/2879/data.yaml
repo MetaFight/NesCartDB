@@ -1,0 +1,77 @@
+metadata:
+  name: Ghostbusters II
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-13 07:18:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2614
+  - 1426
+  - 189
+  additionalImages: 
+slug: ghostbusters-ii
+releaseInfo:
+  catalogId: NES-VV-ITA
+  region: Italy (PAL-A)
+  class: Licensed
+  releaseDate: December 7, 1990
+  publisher: Activision
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: Italy
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VV-ITA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: B00daW<br>Linked from profile 0')"
+    filename: /images/175/3651efc000d03dfc6d0dac690459af69.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VV-0 PRG
+  size: 128 KB
+  crc32: 8364235E
+  x: 3
+- type: CHR0
+  label: PAL-VV-0 CHR
+  size: 128 KB
+  crc32: 32E79FEB
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7B55D481
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B2
+detailedChipInfo: []

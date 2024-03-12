@@ -1,0 +1,125 @@
+metadata:
+  name: Indiana Jones and the Temple of Doom
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-04-01 06:42:00
+  moreProfiles:
+  - 615
+  - 1368
+  - 1402
+  relatedProfiles:
+  - 956
+  additionalImages: 
+slug: indiana-jones-and-the-temple-of-doom
+releaseInfo:
+  catalogId: NES-IJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Mindscape
+  developer: Tengen
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IJ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 615')"
+    filename: /images/175/85263da97e3e7d870e558dc57a0d2617.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1368')"
+    filename: /images/175/b5aaf8e992a0b1b042025560cfcc5228.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-IJ-1 PRG
+  size: 128 KB
+  crc32: 4970105E
+  x: 1
+- type: CHR0
+  label: NES-IJ-0 CHR
+  size: 64 KB
+  crc32: 9F28C02F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: B4C81ADB
+  x: 1
+pcbProperties:
+  name: NES-TFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f56fb722f8b6c8c5445cd870e5715fcc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8852 - 8924 (3)
+  estFirstRun: December 1988
+  pcbClass: NES-TFROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 1S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: E
+  std: 8924
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 10
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: E
+  std: 8924
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8909
+  dateCodeSuffix: KP
+  std: 8909
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8924
+  dateCodeSuffix: 5 AA
+  std: 8924
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: Tennis
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 22:02:00
+  moreProfiles:
+  - 568
+  - 833
+  - 853
+  - 1346
+  relatedProfiles:
+  - 1562
+  - 1455
+  - 1973
+  additionalImages: 
+slug: tennis
+releaseInfo:
+  catalogId: NES-TE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 833')"
+    filename: /images/175/683c9603fdf8f6bf2df30f43f9bfe091.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/843d9cfb8346bc54a5bdb773581be507.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-TE-0 PRG
+  size: 16 KB
+  crc32: 8B2E3E81
+  x: 11
+- type: CHR0
+  label: HVC-TE-0 CHR
+  size: 8 KB
+  crc32: 3A34C45B
+  x: 16
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D4D9E21A
+  x: 11
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e9185280ceb11d1e85f19f66181d65c1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 2359')"
+    filename: /images/175/e01688d9f95c56e49846a555c056012d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8642 - 8808 (3)
+  estFirstRun: October 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0303
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6K2
+  dateCodeSuffix: 15
+  std: 8642
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 21
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8642
+  dateCodeSuffix: E
+  std: 8642
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8642
+  dateCodeSuffix: A
+  std: 8642
+  misc: 

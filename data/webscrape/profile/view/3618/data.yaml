@@ -1,0 +1,104 @@
+metadata:
+  name: Tennis
+  altName: テニス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 03:32:00
+  moreProfiles:
+  - 1455
+  - 1665
+  - 2218
+  - 3417
+  - 3418
+  - 3618
+  - 3666
+  relatedProfiles:
+  - 1562
+  - 1973
+  - 568
+  additionalImages: 
+slug: tennis
+releaseInfo:
+  catalogId: HVC-TE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 14, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Purple
+  formFactor: Small
+  frontLabelId: HVC-TE
+  backLabelId/Desc: 831018
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5faf1f375693f0bc730c8e3b8aa65475.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-TE-0 PRG
+  size: 16 KB
+  crc32: 8B2E3E81
+  x: 11
+- type: CHR0
+  label: HVC-TE-0 CHR
+  size: 8 KB
+  crc32: 3A34C45B
+  x: 16
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D4D9E21A
+  x: 11
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0752f2690a876bb9e7ff41631c3b2443.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 3450')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8413 - 8640 (6)
+  estFirstRun: March 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0303
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6C4
+  dateCodeSuffix: 10
+  std: 8613
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 04
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8614
+  dateCodeSuffix: E
+  std: 8614
+  misc: 

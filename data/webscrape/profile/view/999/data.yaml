@@ -1,0 +1,83 @@
+metadata:
+  name: Tecmo Bowl
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-08-09 06:24:00
+  moreProfiles:
+  - 337
+  - 462
+  - 999
+  - 1304
+  - 1345
+  - 2045
+  relatedProfiles:
+  - 3975
+  additionalImages: 
+slug: tecmo-bowl
+releaseInfo:
+  catalogId: NES-TW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1989
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TW-USA-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0289de9f59acdf269ab60facee0c5b80.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1345')"
+    filename: /images/175/9187ad2572cb00e98e8200ef2e2d4132.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TW-1 PRG
+  size: 128 KB
+  crc32: 4F0C69BE
+  x: 5
+- type: CHR0
+  label: NES-TW-0 CHR
+  size: 128 KB
+  crc32: 2FA4B7BE
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 85A6C0D5
+  x: 5
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8939 - 9124 (3)
+  estFirstRun: September 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

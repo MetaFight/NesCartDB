@@ -1,0 +1,98 @@
+metadata:
+  name: 1942
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-22 04:17:00
+  moreProfiles:
+  - 1624
+  - 2320
+  relatedProfiles:
+  - 305
+  additionalImages: 
+slug: 1942
+releaseInfo:
+  catalogId: CAP-19
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 11, 1985
+  publisher: Capcom
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: CAP-19
+  backLabelId/Desc: 850610
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f12e6f079a6a3efeed9f9527ab9d1722.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-19-0 PRG
+  size: 32 KB
+  crc32: C4E8C04A
+  x: 4
+- type: CHR0
+  label: CAP-19-0 CHR
+  size: 8 KB
+  crc32: 03379B76
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 171251E3
+  x: 4
+pcbProperties:
+  name: HVC-NROM-256K-02S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/281190ccd3d7efecd383ae94c610e5a9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02S<br>Submitted by: bootgod<br>Linked from profile 3457')"
+    filename: /images/175/8334f808d8455e94a0ca64d4b9dbb9f6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8548 - 8548 (2)
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613256P
+  partNumberSubDetail: CS3
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5L3
+  dateCodeSuffix: ''
+  std: 8547
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8548
+  dateCodeSuffix: D
+  std: 8548
+  misc: 

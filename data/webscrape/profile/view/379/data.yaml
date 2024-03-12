@@ -1,0 +1,124 @@
+metadata:
+  name: Rollerball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-26 03:36:00
+  moreProfiles:
+  - 379
+  - 2832
+  relatedProfiles:
+  - 2411
+  - 4664
+  additionalImages: 
+slug: rollerball
+releaseInfo:
+  catalogId: NES-RH-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RH-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd74806e3db635f2665bb38589ca9b4c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cddaf1f7bb4615e8cb255c614edc779b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RH-0 PRG
+  size: 128 KB
+  crc32: AAAA17BD
+  x: 2
+- type: CHR0
+  label: NES-RH-0 CHR
+  size: 32 KB
+  crc32: B2E145A5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 69635A6E
+  x: 2
+pcbProperties:
+  name: NES-SFROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38a6e549a3e2ce6f0a336536505b871b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SFROM-03<br>Submitted by: Kinopio<br>Linked from profile 2103')"
+    filename: /images/175/86f09c953bcf44626f72e405c4f057ae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8952 - 9005 (2)
+  estFirstRun: December 1989
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5386
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9M3
+  dateCodeSuffix: 71
+  std: 8951
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2855
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9M3
+  dateCodeSuffix: A2
+  std: 8951
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8952
+  dateCodeSuffix: 5 BA
+  std: 8952
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8949
+  dateCodeSuffix: B3051
+  std: 8949
+  misc: 

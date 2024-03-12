@@ -1,0 +1,132 @@
+metadata:
+  name: 'Roundball: 2-on-2 Challenge'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 02:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2097
+  additionalImages: 
+slug: roundball-2-on-2-challenge
+releaseInfo:
+  catalogId: NES-RW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1992
+  publisher: Mindscape
+  developer: Mindscape
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RW-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51d535d0c8d7b191b33afcab15737909.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c046c029cbaa491390dc70c99bdc47a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RW-0 PRG
+  size: 128 KB
+  crc32: 279B69C0
+  x: 1
+- type: CHR0
+  label: NES-RW-0 CHR
+  size: 128 KB
+  crc32: 60173D62
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6E4DCFD2
+  x: 1
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4f7bb494a9090138378001e13fabf468.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9210
+  estFirstRun: March 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6686
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2CC
+  dateCodeSuffix: K3 N
+  std: 9210
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0157
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2CC
+  dateCodeSuffix: 44
+  std: 9210
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: 5 AB
+  std: 9046
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 3 T
+  std: 9204
+  misc: 
+- designation: U5 W-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9021
+  dateCodeSuffix: HCK
+  std: 9021
+  misc: 

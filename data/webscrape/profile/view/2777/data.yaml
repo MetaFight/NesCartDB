@@ -1,0 +1,134 @@
+metadata:
+  name: Wizards & Warriors
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-29 01:31:00
+  moreProfiles:
+  - 27
+  - 461
+  - 797
+  - 2777
+  - 1190
+  - 1207
+  - 1369
+  relatedProfiles:
+  - 1822
+  - 1655
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-WW USA<br>Submitted by: bootgod<br>Linked from profile 461')"
+    filename: /images/175/78490099448632e3cc47cf0c945459f1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-WW USA<br>Submitted by: bootgod<br>Linked from profile 461')"
+    filename: /images/175/c69a186247019a2b3d46a17ee661c0ff.jpg
+slug: wizards-warriors
+releaseInfo:
+  catalogId: NES-WW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1987
+  publisher: Acclaim
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WW-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 27')"
+    filename: /images/175/b8ae3cb4c5969cfd68dba14431acbd2d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1207')"
+    filename: /images/175/3cb08adfc7f9f7eeab2b1016ef37263e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WW-0 PRG
+  size: 128 KB
+  crc32: 505F9715
+  x: 3
+pcbProperties:
+  name: NES-ANROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8749 - 8839 (6)
+  estFirstRun: December 1987
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx02, 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8751
+  dateCodeSuffix: Z09
+  std: 8751
+  misc: 
+- designation: CHR-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8752
+  dateCodeSuffix: 3 D
+  std: 8752
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8751
+  dateCodeSuffix: A
+  std: 8751
+  misc: 
+- designation: 
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 740
+  dateCodeSuffix: J
+  std: 8740
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC02C
+  partNumberSubDetail: 
+  type: 74-02 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8743
+  dateCodeSuffix: F7
+  std: 8743
+  misc: 

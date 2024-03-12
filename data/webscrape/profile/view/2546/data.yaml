@@ -1,0 +1,77 @@
+metadata:
+  name: Wild Gunman
+  altName: 
+  variant: (Revision A)
+  submittedBy: piteta
+  submittedOn: 2008-02-28 20:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2360
+  - 3404
+  - 306
+  additionalImages: 
+slug: wild-gunman
+releaseInfo:
+  catalogId: NES-WG-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: February 15, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WG-ESP
+  sealOfQuality: None
+  mfgstringPresent: Yes
+  backLabelId/Desc: ESP
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/be0de6e4f88d5ada20152f59c5c90f98.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-WG-1 PRG
+  size: 16 KB
+  crc32: 389960DB
+  x: 7
+- type: CHR0
+  label: HVC-WG-0 CHR
+  size: 8 KB
+  crc32: A5E04856
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5112DC21
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo: []

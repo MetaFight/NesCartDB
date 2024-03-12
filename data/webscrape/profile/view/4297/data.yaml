@@ -1,0 +1,112 @@
+metadata:
+  name: Oishinbo
+  altName: 美味しんぼ 究極のメニュー三本勝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 03:47:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0dbaf2236f653873818e516f49b49cda.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41786dc23c0397661a9a40da8f78bd7c.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/994b56bb326349c5e94299a47f1a9ab3.jpg
+slug: oishinbo
+releaseInfo:
+  catalogId: SHI-OS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 25, 1989
+  publisher: Shinsei
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: SHI-OS
+  backLabelId/Desc: SHI-OS
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/71bbd0a5c96117747dd21a9735768029.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-OS-0 PRG
+  size: 128 KB
+  crc32: 335CFBA6
+  x: 1
+- type: CHR0
+  label: SHI-OS-0 CHR
+  size: 128 KB
+  crc32: F0267441
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 264F26B1
+  x: 1
+pcbProperties:
+  name: HVC-SL1ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SL1ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d213df5185b05018294bdda84f92b898.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SL1ROM-01<br>Submitted by: bootgod<br>Linked from profile 3767')"
+    filename: /images/175/baf690f69df52ac429023e8fd840f210.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924
+  estFirstRun: June 1989
+  pcbClass: HVC-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: EX
+  std: 8923
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: EX
+  std: 8924
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8924
+  dateCodeSuffix: 5 A
+  std: 8924
+  misc: 

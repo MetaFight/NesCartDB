@@ -1,0 +1,108 @@
+metadata:
+  name: Golf
+  altName: ゴルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-11 03:48:00
+  moreProfiles:
+  - 1472
+  - 1647
+  - 2215
+  - 3375
+  - 3475
+  - 3476
+  - 3477
+  - 3478
+  - 3673
+  relatedProfiles:
+  - 2385
+  - 2125
+  - 4429
+  - 2090
+  - 100
+  additionalImages: 
+slug: golf
+releaseInfo:
+  catalogId: HVC-GF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 1, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: HVC-GF
+  backLabelId/Desc: 831018
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1472')"
+    filename: /images/175/da680c114f168d7a522fc5da925f5a02.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-GF-0 PRG
+  size: 16 KB
+  crc32: 9C7E6421
+  x: 9
+- type: CHR0
+  label: HVC-GF-0 CHR
+  size: 8 KB
+  crc32: 7DFA75A8
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5C9063E0
+  x: 9
+pcbProperties:
+  name: HVC-SROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d26b08f50bb5e0c41a19b1e014703b3d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 3475')"
+    filename: /images/175/46bcb180c2db2e50f46db969489ab1b7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8419 - 8618 (7)
+  estFirstRun: May 1984
+  pcbClass: HVC-SROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Yamaha
+  partNumber: YM2211
+  partNumberSubDetail: 22819
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 45 12
+  dateCodeSuffix: 82 C
+  std: 8419
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: R6
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 44E
+  dateCodeSuffix: 2
+  std: 8418
+  misc: 

@@ -1,0 +1,126 @@
+metadata:
+  name: Alien³
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 22:17:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2100
+  - 581
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-X3-FRA<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/246544a85fff1e94b7178223ddd096a0.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-X3-FRA<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/675457099a7c92de735e735a74c9a48d.jpg
+slug: alien³
+releaseInfo:
+  catalogId: NES-X3-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1993
+  publisher: LJN
+  developer: Probe
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-X3-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH-1
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0e6bdd83a435bf8fa7a7e538862984c8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4386')"
+    filename: /images/175/4eb994e122a75be2471a222ad5b2e599.jpg
+romDetails:
+- type: PRG0
+  label: PAL-X3-0 PRG
+  size: 128 KB
+  crc32: 6A5D45F3
+  x: 3
+- type: CHR0
+  label: PAL-X3-0 CHR
+  size: 128 KB
+  crc32: D87D47F4
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DDC6D9C9
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/74d9df50c1ef73cb66234ec984c2aade.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9309
+  estFirstRun: March 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6720
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3CC
+  dateCodeSuffix: 42
+  std: 9309
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0182
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3CC
+  dateCodeSuffix: 42
+  std: 9309
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: C
+  std: 9234
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9308
+  dateCodeSuffix: EP006
+  std: 9308
+  misc: 

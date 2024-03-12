@@ -1,0 +1,146 @@
+metadata:
+  name: 'Family Trainer 3: Aerobics Studio'
+  altName: ファミリートレーナー③ エアロビスタジオ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:11:00
+  moreProfiles:
+  - 3953
+  - 4058
+  relatedProfiles:
+  - 910
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 3953')"
+    filename: /images/175/645585201786a5e2e5bdaf1c8ee7fc41.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 3953')"
+    filename: /images/175/67622c7268abe2381a3507e40925892d.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 3953')"
+    filename: /images/175/4e5d6145100cf95713cb1b0581365128.jpg
+slug: family-trainer-3-aerobics-studio
+releaseInfo:
+  catalogId: FT-03
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 26, 1987
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Family Trainer Mat
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Pink
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3953')"
+    filename: /images/175/9177c5f123d7410ca73b1f8ad60f6a01.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3953')"
+    filename: /images/175/4d21a7dfc36c502181400705a5ee6963.jpg
+romDetails:
+- type: PRG0
+  label: BA 87 AEROB PR
+  size: 32 KB
+  crc32: F8DA2506
+  x: 2
+- type: CHR0
+  label: BA 87 AEROB CH
+  size: 32 KB
+  crc32: FF1D2BFD
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 29DE87AF
+  x: 2
+pcbProperties:
+  name: BA-エアロビ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-エアロビ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c343bf5c0050dda5b8fc1d81f680a9e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-エアロビ<br>Submitted by: bootgod<br>Linked from profile 3953')"
+    filename: /images/175/a75a458573061ba7ae2b51c24048885c.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8705 - 8705 (2)
+  estFirstRun: February 1987
+  pcbClass: BANDAI-PT-554
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx161, 74xx161, M50805
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 214P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 649
+  dateCodeSuffix: 10F
+  std: 8649
+  misc: 
+- designation: CHR-ROM
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 213P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 649
+  dateCodeSuffix: 108
+  std: 8649
+  misc: 
+- designation: 161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8651
+  dateCodeSuffix: H
+  std: 8651
+  misc: 
+- designation: 161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8651
+  dateCodeSuffix: H
+  std: 8651
+  misc: 
+- designation: 139
+  maker: Mitsubishi
+  partNumber: M74LS139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 703
+  dateCodeSuffix: 4D0
+  std: 8703
+  misc: 
+- designation: M50805
+  maker: Mitsubishi
+  partNumber: M50805
+  partNumberSubDetail: 058P
+  type: Sound Decoder/ROM
+  typeSubDetail: ''
+  package: DIP-22
+  dateCodePrefix: 705
+  dateCodeSuffix: 104
+  std: 8705
+  misc: 

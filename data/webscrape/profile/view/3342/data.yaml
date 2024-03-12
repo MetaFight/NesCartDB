@@ -1,0 +1,128 @@
+metadata:
+  name: Family Circuit '91
+  altName: ファミリーサーキット’９１
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 06:26:00
+  moreProfiles:
+  - 1829
+  - 3342
+  relatedProfiles: []
+  additionalImages: 
+slug: family-circuit-91
+releaseInfo:
+  catalogId: NAM-FC91-7800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 19, 1991
+  publisher: Namco
+  developer: Game Studio
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1829')"
+    filename: /images/175/6b1fb7f5a8fb55c56c6f5d2c9bfe071d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1602')"
+    filename: /images/175/c6b086780d9ac8adb9d7526c15d84f86.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 512 KB
+  crc32: B62A7B71
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 717336B9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 640 KB
+  crc32: C247CC80
+  x: 2
+pcbProperties:
+  name: 60-25
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-25<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd16c51200f16a898807815626487c93.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-25<br>Submitted by: bootgod<br>Linked from profile 1829')"
+    filename: /images/175/635121c39fe797a9654dbdfda67c4f03.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9125 - 9146 (2)
+  estFirstRun: June 1991
+  pcbClass: NAMCOT-175
+  inesMapper: 210
+  mirroring: Vertical
+  batteryPresent: Yes
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 175
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FC91
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 125
+  dateCodeSuffix: K01
+  std: 9125
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP4000
+  type: Bonded ROM
+  typeSubDetail: 512 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP175
+  type: Namcot 175
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6216
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

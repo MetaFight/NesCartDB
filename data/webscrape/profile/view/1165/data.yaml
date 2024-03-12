@@ -1,0 +1,80 @@
+metadata:
+  name: Predator
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-08 02:18:00
+  moreProfiles:
+  - 623
+  - 845
+  - 1165
+  relatedProfiles:
+  - 4059
+  additionalImages: 
+slug: predator
+releaseInfo:
+  catalogId: NES-PL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1989
+  publisher: Activision
+  developer: KLON
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PL-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/09d30bca68af0fa2f5b4087629088fe0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 623')"
+    filename: /images/175/18dddd6186ef2f0f97a6101465384c1c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-PL-0 PRG
+  size: 128 KB
+  crc32: 47ED7979
+  x: 3
+- type: CHR0
+  label: NES-PL-0 CHR
+  size: 128 KB
+  crc32: E220308A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A7DE65E4
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8922 - 9014 (2)
+  estFirstRun: June 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

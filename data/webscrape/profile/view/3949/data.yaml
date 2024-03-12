@@ -1,0 +1,121 @@
+metadata:
+  name: 'Nobunaga no Yabou: Bushou Fuuunroku'
+  altName: 信長の野望 武将風雲録
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 02:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a05016ec62390653bcb993c249fac5d0.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5a79b4e99b3b4b3c0d4776de91f5406f.jpg
+slug: nobunaga-no-yabou-bushou-fuuunroku
+releaseInfo:
+  catalogId: KOE-IZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1991
+  publisher: Koei
+  developer: Koei
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-IZ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7eb9baa74a641932a97b6ce08a37a8af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-IZ-0 PRG
+  size: 512 KB
+  crc32: 286613D8
+  x: 1
+- type: CHR0
+  label: KOE-IZ-0 CHR
+  size: 256 KB
+  crc32: 5BCA457A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: F540677B
+  x: 1
+pcbProperties:
+  name: HVC-EWROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-EWROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7f4c7b6d8afea21355605056954b115e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-EWROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1fe1dbc9be8eee528c992bafb6acc11f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9148
+  estFirstRun: December 1991
+  pcbClass: HVC-EWROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 32 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB834000
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9147
+  dateCodeSuffix: T06
+  std: 9147
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9148
+  dateCodeSuffix: T08
+  std: 9148
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9122
+  dateCodeSuffix: AA020
+  std: 9122
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Samsung
+  partNumber: KM62256ALP-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 944
+  dateCodeSuffix: B
+  std: 8944
+  misc: 

@@ -1,0 +1,108 @@
+metadata:
+  name: 'Family Mahjong II: Shanghai e no Michi'
+  altName: ファミリーマージャンII 上海への道
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 00:46:00
+  moreProfiles:
+  - 1581
+  - 2669
+  - 3232
+  - 3233
+  relatedProfiles: []
+  additionalImages: 
+slug: family-mahjong-ii-shanghai-e-no-michi
+releaseInfo:
+  catalogId: NAM-FMII-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 25, 1988
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1581')"
+    filename: /images/175/f1cbf25641d803879f47f92615cfb69a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTFM2P
+  size: 128 KB
+  crc32: 3AE06D19
+  x: 4
+- type: CHR0
+  label: NAMCOTFM2C
+  size: 64 KB
+  crc32: BC58C66E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: DD29FD59
+  x: 4
+pcbProperties:
+  name: 3406
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3406<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f4757aac8b096d38ccbfb038eeff865.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3406<br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/08d976116ed744c9abc350746b4b5a27.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8838 - 9118 (4)
+  estFirstRun: September 1988
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 119
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: 831000-15
+  partNumberSubDetail: 901 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8935
+  dateCodeSuffix: Z02
+  std: 8935
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: MB83512-15
+  partNumberSubDetail: 270 AK
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8932
+  dateCodeSuffix: Z00
+  std: 8932
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 119
+  partNumberSubDetail: 
+  type: Namcot 119
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8927
+  dateCodeSuffix: U
+  std: 8927
+  misc: 

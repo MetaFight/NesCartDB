@@ -1,0 +1,102 @@
+metadata:
+  name: 'Gimmi a Break: Shijou Saikyou no Quiz Ou Ketteisen 2'
+  altName: ギミア・ぶれいく 史上最強のクイズ王決定戦２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 22:14:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9729f059020916159f14c682318a78c2.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/487c065e0b8df36571674c9a861843cf.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e3721c5756aa6f8fd36dcbd070830aa1.jpg
+slug: gimmi-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2
+releaseInfo:
+  catalogId: YZW-QP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 28, 1992
+  publisher: Party Room 21
+  developer: Outback
+  players: 6
+  peripherals: Famicom Controller,Party Tap
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: YZW-QP
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf7d8282c6105fecf765a218169d159a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: YZW-QP-0 PRG
+  size: 256 KB
+  crc32: 1545BD13
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9228
+  estFirstRun: July 1992
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W66
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9228
+  dateCodeSuffix: XY009
+  std: 9228
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9215
+  dateCodeSuffix: EJ
+  std: 9215
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9208
+  dateCodeSuffix: B3034
+  std: 9208
+  misc: 

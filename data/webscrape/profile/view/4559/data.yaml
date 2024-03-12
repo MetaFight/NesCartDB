@@ -1,0 +1,119 @@
+metadata:
+  name: Super Mario Bros.
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-07 03:58:00
+  moreProfiles:
+  - 2459
+  - 4559
+  - 4560
+  - 4561
+  - 4562
+  relatedProfiles:
+  - 2082
+  - 2122
+  - 1486
+  - 2357
+  - 2010
+  - 270
+  additionalImages: 
+slug: super-mario-bros
+releaseInfo:
+  catalogId: NES-SM-GBR
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: May 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: GBR
+  sealOfQuality: 'PAL: Dual'
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/f967db68b6915fc0bc19a9209bc3d74a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-SM-0 PRG
+  size: 32 KB
+  crc32: 5CF548D3
+  x: 15
+- type: CHR0
+  label: HVC-SM-0 CHR
+  size: 8 KB
+  crc32: 867B51AD
+  x: 27
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: D445F698
+  x: 15
+pcbProperties:
+  name: NES-NROM-256-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-03<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/5dd327ede5fe7e1985a6e50afce63c67.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-03<br>Submitted by: Kinopio<br>Linked from profile 2055')"
+    filename: /images/175/6d26509249f161184d69d98ece2cba53.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8708 - 8736 (5)
+  estFirstRun: February 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2002
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7G3
+  dateCodeSuffix: A8
+  std: 8730
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2000
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7H3
+  dateCodeSuffix: 98
+  std: 8734
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8714
+  dateCodeSuffix: A
+  std: 8714
+  misc: 

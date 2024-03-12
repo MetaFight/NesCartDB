@@ -1,0 +1,109 @@
+metadata:
+  name: Downtown Nekketsu Monogatari
+  altName: ダウンタウン熱血物語
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 05:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2418
+  - 4393
+  - 241
+  additionalImages: 
+slug: downtown-nekketsu-monogatari
+releaseInfo:
+  catalogId: TJC-DN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 25, 1989
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-DN
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/b8924b2c6c2cf3a9a773fc28d7f1e247.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/40f3cb726113d34585e1258789749b6b.jpg
+romDetails:
+- type: PRG0
+  label: TJC-DN-0 PRG
+  size: 128 KB
+  crc32: 728C3D98
+  x: 0
+- type: CHR0
+  label: TJC-DN-0 CHR
+  size: 128 KB
+  crc32: 1C851E71
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2A3CA509
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/a30f3b56aba7e3ca5f7a0258b782bfc4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/150f7596d402af89a7ab68ae7ef6bd53.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8912
+  estFirstRun: March 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: E
+  std: 8912
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: E
+  std: 8912
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8902
+  dateCodeSuffix: KP
+  std: 8902
+  misc: 

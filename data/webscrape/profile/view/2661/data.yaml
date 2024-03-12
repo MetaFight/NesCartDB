@@ -1,0 +1,118 @@
+metadata:
+  name: Quinty
+  altName: クインティ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 01:18:00
+  moreProfiles:
+  - 1576
+  - 2661
+  relatedProfiles:
+  - 381
+  additionalImages: 
+slug: quinty
+releaseInfo:
+  catalogId: NAM-QT-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 27, 1989
+  publisher: Namco
+  developer: Game Freak
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/f3fa50a21fc6c1b24a187629bbb8f282.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT QT PRG
+  size: 128 KB
+  crc32: D9803A35
+  x: 2
+- type: CHR0
+  label: NAMCOT QT CHR
+  size: 128 KB
+  crc32: D275F70D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 13DA2122
+  x: 2
+pcbProperties:
+  name: 3443
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3443<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc9617dbcd3730d308fc2f207347f175.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3443<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/79e0bddeca679326004be818ec2493e6.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8922 - 8923 (2)
+  estFirstRun: June 1989
+  pcbClass: NAMCOT-3443
+  inesMapper: 88
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118, 74xx32
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: E
+  std: 8922
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: E
+  std: 8923
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8
+  dateCodeSuffix: ''
+  std: 8843
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8G3
+  dateCodeSuffix: 6
+  std: 8829
+  misc: 

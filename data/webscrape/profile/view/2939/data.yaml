@@ -1,0 +1,80 @@
+metadata:
+  name: Hudson Hawk
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-25 05:32:00
+  moreProfiles:
+  - 256
+  - 2939
+  relatedProfiles:
+  - 977
+  - 1951
+  additionalImages: 
+slug: hudson-hawk
+releaseInfo:
+  catalogId: NES-Y4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1992
+  publisher: Sony (CSG) Imagesoft
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Y4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 256')"
+    filename: /images/175/bac6f87f6ef0e8920f949c909cdf9b5d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 256')"
+    filename: /images/175/8ad6cd1a950195ef7e7fdd4aab8ae675.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-Y4-0 PRG
+  size: 128 KB
+  crc32: 916913D2
+  x: 2
+- type: CHR0
+  label: NES-Y4-0 CHR
+  size: 128 KB
+  crc32: 391AC219
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5A4F156D
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9149
+  estFirstRun: December 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo: []

@@ -1,0 +1,110 @@
+metadata:
+  name: 'Nemo: Pajama Hero'
+  altName: パジャマヒーロー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 03:39:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1898
+  - 2533
+  - 4251
+  - 421
+  additionalImages: 
+slug: nemo-pajama-hero
+releaseInfo:
+  catalogId: CAP-EZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Seashell
+  formFactor: Small
+  frontLabelId: CAP-EZ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ff191fabb3ed8995fa18d8362fb13a8d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-EZ-0 PRG
+  size: 128 KB
+  crc32: 5EF7F6E2
+  x: 1
+- type: CHR0
+  label: CAP-EZ-0 CHR
+  size: 128 KB
+  crc32: 4B19BDFB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3BE91A23
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa4c6f7c00ef990255c72e794b40f7a8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9042
+  estFirstRun: October 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6600
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0KM
+  dateCodeSuffix: 41
+  std: 9041
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0101
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0KM
+  dateCodeSuffix: 40
+  std: 9041
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9042
+  dateCodeSuffix: KP070
+  std: 9042
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: Pac-Man
+  altName: パックマン
+  variant: (Version 1.2)
+  submittedBy: bootgod
+  submittedOn: 2013-11-27 04:31:00
+  moreProfiles:
+  - 1592
+  - 1809
+  - 3325
+  - 4708
+  relatedProfiles:
+  - 320
+  - 570
+  - 1025
+  additionalImages: 
+slug: pac-man
+releaseInfo:
+  catalogId: NAM-NPM-4500-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 2, 1984
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/272c3e9bc517103d81775439a55b00cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1df30a77d2a6013fe6a86e07bcc08fb.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: B6214FA9
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 49ABEEE6
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 2C7D68F3
+  x: 1
+pcbProperties:
+  name: LROG068-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG068-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc58faa25338cca5ee14be7302e319f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG068-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/83d45c630fd852f9ab298510898caca3.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8442 - 9122 (4)
+  estFirstRun: October 1984
+  pcbClass: NAMCOT-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG071
+  partNumberSubDetail: PM
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9122
+  dateCodeSuffix: 7
+  std: 9122
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,130 @@
+metadata:
+  name: Rollergames
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-08-31 03:34:00
+  moreProfiles:
+  - 1850
+  - 2523
+  - 4104
+  - 4105
+  relatedProfiles:
+  - 2039
+  - 441
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-U5-SCN<br>Submitted by: Kinopio<br>Linked from profile 1850')"
+    filename: /images/175/8d806411b4593a46afbf455a1fc63c51.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-U5-SCN<br>Submitted by: Kinopio<br>Linked from profile 1850')"
+    filename: /images/175/b85f10cd82aa5456b7e77f018ca86908.jpg
+slug: rollergames
+releaseInfo:
+  catalogId: NES-U5-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: October 24, 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U5-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1850')"
+    filename: /images/175/192eb283da9f37f89900e12df1c71530.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1850')"
+    filename: /images/175/43a186300dbf76cc5d707abc546222bc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-U5-0 PRG
+  size: 128 KB
+  crc32: 9AABD829
+  x: 5
+- type: CHR0
+  label: PAL-U5-0 CHR
+  size: 128 KB
+  crc32: 2201C1AE
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BED47813
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a1417478b3502c9ab857fffd3ed9907c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9132 - 9132 (4)
+  estFirstRun: August 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 0A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9131
+  dateCodeSuffix: E
+  std: 9131
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 53
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9132
+  dateCodeSuffix: E
+  std: 9132
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9128
+  dateCodeSuffix: C
+  std: 9128
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: KP014
+  std: 9102
+  misc: 

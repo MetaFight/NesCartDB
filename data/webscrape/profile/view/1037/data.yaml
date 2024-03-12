@@ -1,0 +1,121 @@
+metadata:
+  name: Alfred Chicken
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 20:38:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: alfred-chicken
+releaseInfo:
+  catalogId: NES-AC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1994
+  publisher: Mindscape
+  developer: Twilight
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AC-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8e42ff5bb157bf944b99565f439b75af.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/052fcf95b07dc0966c3cde1619fb8d23.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-AC-0 PRG
+  size: 128 KB
+  crc32: 63E992AC
+  x: 1
+pcbProperties:
+  name: NES-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9404
+  estFirstRun: January 1994
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1K
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9404
+  dateCodeSuffix: E
+  std: 9404
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sony
+  partNumber: CXK5864BPX-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 338
+  dateCodeSuffix: A88X
+  std: 9338
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9344
+  dateCodeSuffix: 3 BB
+  std: 9344
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9351
+  dateCodeSuffix: ''
+  std: 9351
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9350
+  dateCodeSuffix: ''
+  std: 9350
+  misc: 

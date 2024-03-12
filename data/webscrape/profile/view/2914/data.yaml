@@ -1,0 +1,76 @@
+metadata:
+  name: New Ghostbusters II
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 06:56:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4434
+  - 4284
+  additionalImages: 
+slug: new-ghostbusters-ii
+releaseInfo:
+  catalogId: NES-QD-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1990
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QD-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4723')"
+    filename: /images/175/403594fc30f3818bdc3a66554c0aedfa.jpg
+romDetails:
+- type: PRG0
+  label: PAL-QD-0 PRG
+  size: 128 KB
+  crc32: 480B35D1
+  x: 2
+- type: CHR0
+  label: PAL-QD-0 CHR
+  size: 128 KB
+  crc32: 3FED9A67
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F0C198FF
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B2
+detailedChipInfo: []

@@ -1,0 +1,133 @@
+metadata:
+  name: Where in Time is Carmen Sandiego?
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-02 01:13:00
+  moreProfiles:
+  - 51
+  - 4642
+  relatedProfiles: []
+  additionalImages: 
+slug: where-in-time-is-carmen-sandiego
+releaseInfo:
+  catalogId: NES-9K-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1991
+  publisher: Konami
+  developer: Brøderbund
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-9K-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aac88dce77601b11f66f77601b6f4f15.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1b82530fdc4798ff9c0096ec800bb83e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-9K-0 PRG
+  size: 128 KB
+  crc32: 2C945F19
+  x: 2
+- type: CHR0
+  label: NES-9K-0 CHR
+  size: 256 KB
+  crc32: 6FD7FBA1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 917770D8
+  x: 2
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f2b10c7a3056fb1a7ae9547724a1634b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9139
+  estFirstRun: September 1991
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 3B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9139
+  dateCodeSuffix: E
+  std: 9139
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 29
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9139
+  dateCodeSuffix: D
+  std: 9139
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: 1 AA
+  std: 9046
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9137
+  dateCodeSuffix: 3 AB
+  std: 9137
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264BLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9129
+  dateCodeSuffix: KT90
+  std: 9129
+  misc: 

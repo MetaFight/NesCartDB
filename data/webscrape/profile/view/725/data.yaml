@@ -1,0 +1,121 @@
+metadata:
+  name: Gumshoe
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 02:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2522
+  additionalImages: 
+slug: gumshoe
+releaseInfo:
+  catalogId: NES-GS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5697b140c1973a409a1fff1d32355168.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ece912ec1390b0487219330b92a71af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-GS-0 PRG
+  size: 128 KB
+  crc32: 7B5BD2DE
+  x: 2
+- type: CHR0
+  label: NES-GS-0 CHR
+  size: 32 KB
+  crc32: DC371E9E
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: BEB8AB01
+  x: 2
+pcbProperties:
+  name: NES-GN-ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-GN-ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f5d02c40de7d1d650dc048769410fb9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8636
+  estFirstRun: September 1986
+  pcbClass: NES-GNROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH5310
+  partNumberSubDetail: R2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8636
+  dateCodeSuffix: D
+  std: 8636
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 59
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8636
+  dateCodeSuffix: D
+  std: 8636
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8636
+  dateCodeSuffix: AC
+  std: 8636
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 68C
+  dateCodeSuffix: 7
+  std: 8634
+  misc: 

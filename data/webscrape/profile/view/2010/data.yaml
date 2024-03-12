@@ -1,0 +1,80 @@
+metadata:
+  name: Super Mario Bros.
+  altName: 
+  variant: (Revision A)
+  submittedBy: piteta
+  submittedOn: 2007-08-04 20:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2082
+  - 2122
+  - 1486
+  - 2357
+  - 2459
+  - 270
+  additionalImages: 
+slug: super-mario-bros
+releaseInfo:
+  catalogId: NES-SM-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: May 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SM-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-SM-0 PRG
+  size: 32 KB
+  crc32: 967A605F
+  x: 12
+- type: CHR0
+  label: HVC-SM-0 CHR
+  size: 8 KB
+  crc32: 867B51AD
+  x: 27
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 9A2DB086
+  x: 12
+pcbProperties:
+  name: NES-NROM-256-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo: []

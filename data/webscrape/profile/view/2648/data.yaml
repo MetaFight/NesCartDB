@@ -1,0 +1,109 @@
+metadata:
+  name: 'Hi no Tori: Houou-hen: Gaou no Bouken'
+  altName: 火の鳥鳳凰編 我王の冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 03:35:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1572
+  - 1775
+  - 2648
+  - 3048
+  additionalImages: 
+slug: hi-no-tori-houou-hen-gaou-no-bouken
+releaseInfo:
+  catalogId: KON-RC817
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 4, 1987
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC817
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1572')"
+    filename: /images/175/3b6fe909d5f29ef5f771fe5b227916ac.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1572')"
+    filename: /images/175/2b7f0b999a80eebbc59593b9f6ec9f1c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC817J0P
+  size: 128 KB
+  crc32: 2AC5233C
+  x: 4
+pcbProperties:
+  name: 350489
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8648 - 8650 (4)
+  estFirstRun: December 1986
+  pcbClass: KONAMI-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8648
+  dateCodeSuffix: EX
+  std: 8648
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D4364CX-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8640
+  dateCodeSuffix: X9202
+  std: 8640
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 6?69
+  dateCodeSuffix: ''
+  std: 8625
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6?
+  dateCodeSuffix: N
+  std: 8604
+  misc: 

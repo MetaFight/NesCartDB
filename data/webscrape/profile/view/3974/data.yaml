@@ -1,0 +1,106 @@
+metadata:
+  name: Super Rugby
+  altName: スーパーラグビー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 04:30:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: super-rugby
+releaseInfo:
+  catalogId: TSS-S7
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 27, 1989
+  publisher: TSS
+  developer: Zap
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TSS-S7
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/64a8cd2090d4ba6ec042d78e02c4eb60.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TSS-S7-0 PRG
+  size: 128 KB
+  crc32: 5D6952B9
+  x: 1
+- type: CHR0
+  label: TSS-S7-0 CHR
+  size: 128 KB
+  crc32: DE724898
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9F5138CB
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6028709bac8e2a31954aa1df2f6d32c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8947
+  estFirstRun: November 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5361
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L3
+  dateCodeSuffix: 74
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T63
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8947
+  dateCodeSuffix: EY709
+  std: 8947
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8946
+  dateCodeSuffix: 7 AA
+  std: 8946
+  misc: 

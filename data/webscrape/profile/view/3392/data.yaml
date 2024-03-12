@@ -1,0 +1,118 @@
+metadata:
+  name: 'Nagagutsu o Haita Neko: Sekai Isshuu 80-nichi Daibouken'
+  altName: 長靴をはいた猫 世界一周８０日大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 18:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 388
+  additionalImages: 
+slug: nagagutsu-o-haita-neko-sekai-isshuu-80-nichi-daibouken
+releaseInfo:
+  catalogId: TDF-NN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1986
+  publisher: Toei Animation
+  developer: Shouei System
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: TDF-NN
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e4ed7743e65701e1a71bdc0af9c2e71.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 4DC43D8C
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 35821500
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: E8AF6FF5
+  x: 1
+pcbProperties:
+  name: 097
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>097<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7b7e0fe03e3cebbf559e26894531138c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>097<br>Submitted by: bootgod<br>Linked from profile 3352')"
+    filename: /images/175/e7d1542875ad19a6bb4e8f2734174e55.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8644
+  estFirstRun: November 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: TDF-NN
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 6Y
+  dateCodeSuffix: 05
+  std: 8644
+  misc: 12H-BZ
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74161
+  type: 74-161 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

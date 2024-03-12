@@ -1,0 +1,112 @@
+metadata:
+  name: Donkey Kong 3
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 01:23:00
+  moreProfiles:
+  - 1105
+  - 1340
+  relatedProfiles:
+  - 3397
+  - 4537
+  additionalImages: 
+slug: donkey-kong-3
+releaseInfo:
+  catalogId: NES-DT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d3fac016bd59ff51491f34ecf7fbcc2f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a59fc31b6d80224c7288e98df1382281.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: HVC-DT-0 PRG
+  size: 16 KB
+  crc32: 5EF4F30C
+  x: 6
+- type: CHR0
+  label: HVC-DT-0 CHR
+  size: 8 KB
+  crc32: 85D06C57
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: B3D74C0D
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eab31f44d3e92b2df9d447ad4377105c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8710 - 8741 (2)
+  estFirstRun: March 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0316
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7K1
+  dateCodeSuffix: 20
+  std: 8741
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2004
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7K1
+  dateCodeSuffix: 14
+  std: 8741
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8738
+  dateCodeSuffix: C
+  std: 8738
+  misc: 

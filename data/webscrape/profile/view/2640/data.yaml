@@ -1,0 +1,107 @@
+metadata:
+  name: El Monstruo de los Globos
+  altName: Balloon Monster
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-23 13:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/3ee3da782259972591b7217c9ebb257d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9cdfbc6026fb9388105a40333e8b2521.jpg
+slug: el-monstruo-de-los-globos
+releaseInfo:
+  catalogId: CN-05
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: January 1, 1992
+  publisher: Gluk Video
+  developer: Caltron
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/918ed35ce60547d6dedd9f3b7acaa6bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: MG1
+  size: 32 KB
+  crc32: 2C185A9F
+  x: 2
+- type: CHR0
+  label: MG2
+  size: 8 KB
+  crc32: B7A56BFD
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 905B93F6
+  x: 1
+pcbProperties:
+  name: N715061
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N715061<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e16e1b284e06be919510c08d35093ca5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9041
+  estFirstRun: October 1990
+  pcbClass: NTDEC-N715061
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+detailedChipInfo:
+- designation: U1
+  maker: AMD
+  partNumber: AM27C256-205DC
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 041
+  dateCodeSuffix: PP4R
+  std: 9041
+  misc: 
+- designation: U2
+  maker: Mitsubishi
+  partNumber: M5L2764K-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 831
+  dateCodeSuffix: 321
+  std: 8831
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: KC5373B-010
+  partNumberSubDetail: 
+  type: NTDEC CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

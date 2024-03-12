@@ -1,0 +1,108 @@
+metadata:
+  name: Booby Kids
+  altName: ブービーキッズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 07:40:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: booby-kids
+releaseInfo:
+  catalogId: NBF-BB (05)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 10, 1987
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-BB
+  secondaryId: 05
+  backLabelId/Desc: NBF-05
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2a676b681ad585f767ed664c6ffbebb2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NBF-BB-0 PRG
+  size: 128 KB
+  crc32: 4178497A
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8732
+  estFirstRun: August 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 60
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8726
+  dateCodeSuffix: E
+  std: 8726
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7A
+  dateCodeSuffix: E4
+  std: 8701
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8732
+  dateCodeSuffix: CA
+  std: 8732
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7?
+  dateCodeSuffix: ''
+  std: 8717
+  misc: 

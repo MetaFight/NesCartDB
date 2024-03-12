@@ -1,0 +1,69 @@
+metadata:
+  name: Galactic Crusader
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-29 22:46:00
+  moreProfiles: []
+  relatedProfiles:
+  - 957
+  additionalImages: 
+slug: galactic-crusader
+releaseInfo:
+  catalogId: TC-009
+  region: Taiwan (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Sachen / Joy Van
+  developer: Sachen / Joy Van
+  players: 2
+  peripherals: NES Controller
+  country: Taiwan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: D772550 PGM@21V 8535KD107
+  size: 32 KB
+  crc32: BCA0FF02
+  x: 1
+- type: CHR0
+  label: B8806 NMC27C256Q 250
+  size: 32 KB
+  crc32: 975A9BF6
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3F2450EA
+  x: 1
+pcbProperties:
+  name: SA002-72P-1D
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  pcbClass: UNL-SA-016-1M
+  inesMapper: 146
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx138, 74xx175
+detailedChipInfo: []

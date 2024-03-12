@@ -1,0 +1,92 @@
+metadata:
+  name: Super Arabian
+  altName: スーパーアラビアン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-16 02:39:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: super-arabian
+releaseInfo:
+  catalogId: SUN-SA-4500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 25, 1985
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a4e8ca12c587a906601e6c3bc34e175.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9193a63f4260eaa11d2c36cf48d40514.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F2EC0901
+  x: 1
+- type: CHR0
+  label: SUN SOFT S-A
+  size: 8 KB
+  crc32: E1E3CF64
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 908505EE
+  x: 1
+pcbProperties:
+  name: SUN-01-V
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SUN-01-V<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5da2f54427815faa445423c1d7316d7a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SUN-01-V<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b06ceac4d52f700499b6f3e37a25b157.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8525
+  estFirstRun: June 1985
+  pcbClass: SUNSOFT-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1
+  maker: Mitsubishi
+  partNumber: M5L27128K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8518
+  dateCodeSuffix: H1
+  std: 8518
+  misc: 
+- designation: IC2
+  maker: Mitsubishi
+  partNumber: M5M2764
+  partNumberSubDetail: 243P
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 525
+  dateCodeSuffix: 108
+  std: 8525
+  misc: 

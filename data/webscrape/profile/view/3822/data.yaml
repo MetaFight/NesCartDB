@@ -1,0 +1,126 @@
+metadata:
+  name: Just Breed
+  altName: ジャストブリード
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 05:27:00
+  moreProfiles:
+  - 1409
+  - 3822
+  - 4056
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>EFC-I5<br>Submitted by: Bregalad<br>Linked from profile 1409')"
+    filename: /images/175/26e9c8d072a1c0f4b0181860b3a8ebf8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>EFC-I5<br>Submitted by: Bregalad<br>Linked from profile 1409')"
+    filename: /images/175/c6b76cd38b86f75e17b6ab8c6c017191.jpg
+  - toolTipJS: "ddrivetip('Manual<br>EFC-I5<br>Submitted by: Bregalad<br>Linked from profile 1409')"
+    filename: /images/175/0d23f4a12cd00bb3fe83775207c1f1eb.jpg
+slug: just-breed
+releaseInfo:
+  catalogId: EFC-I5
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1992
+  publisher: Enix
+  developer: Random House
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: EFC-I5
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d8d2a25aeb373e53dee43c9ff71ceea7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 1409')"
+    filename: /images/175/00ce7a07232b4ed021b1557d3b959623.jpg
+romDetails:
+- type: PRG0
+  label: EFC-I5-0 PRG
+  size: 512 KB
+  crc32: 5D9D9891
+  x: 2
+- type: CHR0
+  label: EFC-I5-0 CHR
+  size: 256 KB
+  crc32: F5449802
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: 9CBADC25
+  x: 2
+pcbProperties:
+  name: HVC-EKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-EKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2d250bf306d83deb63516859da5132df.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-EKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ec7290b4edcedee73f345a16d9cc5d50.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9246 - 9246 (3)
+  estFirstRun: November 1992
+  pcbClass: HVC-EKROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013ACZ
+  partNumberSubDetail: W44
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9246
+  dateCodeSuffix: XY005
+  std: 9246
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W81
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9245
+  dateCodeSuffix: XD003
+  std: 9245
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5A
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9136
+  dateCodeSuffix: BA026
+  std: 9136
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Rohm
+  partNumber: XLJ6265-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 243
+  dateCodeSuffix: 194
+  std: 9243
+  misc: 

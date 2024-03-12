@@ -1,0 +1,112 @@
+metadata:
+  name: Ide Yousuke Meijin no Jissen Mahjong
+  altName: 井出洋介名人の実戦麻雀
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-05-21 00:34:00
+  moreProfiles:
+  - 2224
+  - 3519
+  - 3762
+  - 4730
+  relatedProfiles: []
+  additionalImages: 
+slug: ide-yousuke-meijin-no-jissen-mahjong
+releaseInfo:
+  catalogId: CAP-IM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 24, 1987
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Mahjong Controller,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CAP-IM
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2224')"
+    filename: /images/175/ff0b6e35b744ba4fe467a96b3b5c0a41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: CAP-IM-1 PRG
+  size: 128 KB
+  crc32: 9FAE4D46
+  x: 3
+pcbProperties:
+  name: HVC-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8747 - 8943 (3)
+  estFirstRun: November 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8913
+  dateCodeSuffix: EX
+  std: 8913
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: M5
+  std: 8924
+  misc: 
+- designation: U3 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 915
+  dateCodeSuffix: EN
+  std: 8915
+  misc: 
+- designation: U4 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 921
+  dateCodeSuffix: J
+  std: 8921
+  misc: 

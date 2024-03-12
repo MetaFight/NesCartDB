@@ -1,0 +1,68 @@
+metadata:
+  name: Who Framed Roger Rabbit
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-08-06 02:41:00
+  moreProfiles:
+  - 298
+  - 2047
+  relatedProfiles: []
+  additionalImages: 
+slug: who-framed-roger-rabbit
+releaseInfo:
+  catalogId: NES-WL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: LJN
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WL-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d7f380e0971b9e52ab576965e8b41f36.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 298')"
+    filename: /images/175/81b114c86cd1a78328d70e804fc39c14.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WL-0 PRG
+  size: 128 KB
+  crc32: 12B2C361
+  x: 2
+pcbProperties:
+  name: NES-ANROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9003
+  estFirstRun: January 1990
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo: []

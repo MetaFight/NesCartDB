@@ -1,0 +1,128 @@
+metadata:
+  name: Castelian
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 10:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4643
+  - 668
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-4C-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/64b13b0f0572ccbd66d0572770ec21be.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-4C-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/65bb5c550acaf299025d4f5862dbf459.jpg
+slug: castelian
+releaseInfo:
+  catalogId: NES-4C-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Storm
+  developer: Hewson
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4C-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/cd631f871932b62193f41df13751104f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-4C-0 PRG
+  size: 128 KB
+  crc32: CF7CA9BD
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9224
+  estFirstRun: June 1992
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: B7
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9224
+  dateCodeSuffix: E
+  std: 9224
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: EJ
+  std: 9219
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9224
+  dateCodeSuffix: A
+  std: 9224
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 208
+  dateCodeSuffix: ER
+  std: 9208
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9150
+  dateCodeSuffix: ''
+  std: 9150
+  misc: 

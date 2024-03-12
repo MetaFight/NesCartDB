@@ -1,0 +1,120 @@
+metadata:
+  name: Monster Truck Rally
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-19 23:11:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: monster-truck-rally
+releaseInfo:
+  catalogId: NES-LU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1991
+  publisher: INTV
+  developer: Realtime Associates
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LU-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2e588beef2402b5536d31547186e211.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e69446919fe46b79cce90b3b4e5468d5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LU-0 PRG
+  size: 32 KB
+  crc32: F7F9785A
+  x: 1
+- type: CHR0
+  label: NES-LU-0 CHR
+  size: 32 KB
+  crc32: A0B2249B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 2F698C4D
+  x: 1
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5f5897f4571db9c4461075ddd3f78794.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-07<br>Submitted by: Kinopio<br>Linked from profile 1844')"
+    filename: /images/175/1ff348e674e093ddf58f8efc4774c29d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9131
+  estFirstRun: August 1991
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3223
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 1HC
+  dateCodeSuffix: 15
+  std: 9131
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3224
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 1GM
+  dateCodeSuffix: 10
+  std: 9128
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 052
+  dateCodeSuffix: C
+  std: 9052
+  misc: 
+- designation: U4 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9035
+  dateCodeSuffix: Hnn
+  std: 9035
+  misc: 666560T

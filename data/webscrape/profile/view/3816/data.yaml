@@ -1,0 +1,118 @@
+metadata:
+  name: 'Sensha Senryaku: Sabaku no Kitsune'
+  altName: 戦車戦略
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 04:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 911
+  additionalImages: 
+slug: sensha-senryaku-sabaku-no-kitsune
+releaseInfo:
+  catalogId: KSC-DF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 28, 1988
+  publisher: Kemco
+  developer: Kemco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-DF
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af0e5143da90ef778ed9b93b7bec659d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-DF-0 PRG
+  size: 128 KB
+  crc32: 93DC3C82
+  x: 1
+- type: CHR0
+  label: KSC-DF-0 CHR
+  size: 128 KB
+  crc32: 8FEDD4A7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 828F8F1F
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/228fb227fe0d9b0e17f3b508bd702956.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 3619')"
+    filename: /images/175/d9586b9efaa8190e18f3fbd7f0c0922d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8814
+  estFirstRun: April 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 54
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: D
+  std: 8814
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 52
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8814
+  dateCodeSuffix: D
+  std: 8814
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8814
+  dateCodeSuffix: A
+  std: 8814
+  misc: 
+- designation: W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8C
+  dateCodeSuffix: 03
+  std: 8809
+  misc: 

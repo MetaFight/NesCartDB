@@ -1,0 +1,96 @@
+metadata:
+  name: Cosmic Spacehead
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-15 04:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 551
+  - 1225
+  additionalImages: 
+slug: cosmic-spacehead
+releaseInfo:
+  catalogId: CDM-CS
+  region: Europe (PAL)
+  class: Unlicensed
+  releaseDate: 1993
+  publisher: Codemasters
+  developer: Codemasters
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: NES Cart
+  embossedText: Copyright Codemasters Software Company Limited 1992 Registered Design Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/7d8f31362bf15d63915bbf6cdc2609e2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: COSMICS-HEAD NECS5392
+  size: 256 KB
+  crc32: 70F31D2C
+  x: 0
+pcbProperties:
+  name: NR8NV2-1
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9332
+  estFirstRun: August 1993
+  pcbClass: CODEMASTERS-NR8N
+  inesMapper: 71
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: PIC16C54
+  hardware: CME-01
+detailedChipInfo:
+- designation: U1
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C2001
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: Winbond
+  partNumber: W2464
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: CME-01
+  partNumberSubDetail: 
+  type: Codemasters CME-01
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 332
+  dateCodeSuffix: ''
+  std: 9332
+  misc: 

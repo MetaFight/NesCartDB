@@ -1,0 +1,108 @@
+metadata:
+  name: 'Kyuukyoku Harikiri Stadium: Heisei Gannen Ban'
+  altName: 究極ハリキリスタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 01:18:00
+  moreProfiles:
+  - 1767
+  - 2254
+  - 3161
+  relatedProfiles: []
+  additionalImages: 
+slug: kyuukyoku-harikiri-stadium-heisei-gannen-ban
+releaseInfo:
+  catalogId: TFC-KHH-6800-25
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 21, 1989
+  publisher: Taito
+  developer: Winky Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-KHH
+  sequence#: 25
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1767')"
+    filename: /images/175/076bd7819d2e141d7b480f74d90b2735.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/674cc4fbe8bd7a975aa5bb1ce732822a.jpg
+romDetails:
+- type: PRG0
+  label: PRG-X3-025B
+  size: 128 KB
+  crc32: 4819A595
+  x: 3
+- type: CHR0
+  label: CHR-X3-026
+  size: 256 KB
+  crc32: 1C36A136
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 0BBF80CB
+  x: 3
+pcbProperties:
+  name: P3-044B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-044B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f7b66841991ad47509e5fb5dd3044240.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-044B<br>Submitted by: bootgod<br>Linked from profile 1767')"
+    filename: /images/175/7402f5057048d671f6ac10259403cb52.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8930 - 8932 (3)
+  estFirstRun: July 1989
+  pcbClass: TAITO-X1-017
+  inesMapper: 82
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-017
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8931
+  dateCodeSuffix: E
+  std: 8931
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8925
+  dateCodeSuffix: XY
+  std: 8925
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-017
+  partNumberSubDetail: 
+  type: Taito X1-017
+  typeSubDetail: 
+  package: DIP-64
+  dateCodePrefix: 8932
+  dateCodeSuffix: KX
+  std: 8932
+  misc: 

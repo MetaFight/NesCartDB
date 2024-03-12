@@ -1,0 +1,112 @@
+metadata:
+  name: Nekketsu Kakutou Densetsu
+  altName: 熱血
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9666cc157a6a53819ac0bb04660c7175.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce615418f1497e9d77f2d8349184d8da.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e139f67bb6aaa7756a585fc4178dfd4.jpg
+slug: nekketsu-kakutou-densetsu
+releaseInfo:
+  catalogId: TJC-NA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 23, 1992
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-NA
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/20c667db52845a9ead3d66ff70018760.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TJC-NA-0 PRG
+  size: 128 KB
+  crc32: 85C5B6B4
+  x: 1
+- type: CHR0
+  label: TJC-NA-0 CHR
+  size: 128 KB
+  crc32: 0CAD2771
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 37E24797
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f80876cad0cc981865591ce88c21b906.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9246
+  estFirstRun: November 1992
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J797
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9245
+  dateCodeSuffix: EAI
+  std: 9245
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC531003CP
+  partNumberSubDetail: J798
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9245
+  dateCodeSuffix: EAI
+  std: 9245
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9246
+  dateCodeSuffix: 1 B
+  std: 9246
+  misc: 

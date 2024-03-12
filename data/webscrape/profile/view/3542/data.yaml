@@ -1,0 +1,108 @@
+metadata:
+  name: Tamura Koushou Mahjong Seminar
+  altName: "ç”°æ\x9D‘å…‰æ˜­ã\x81®éº»é›€ã‚¼ãƒŸãƒŠãƒ¼ãƒ«"
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-28 06:20:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tamura-koushou-mahjong-seminar
+releaseInfo:
+  catalogId: PNF-ZR (R58V5931)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 21, 1990
+  publisher: Pony Canyon
+  developer: Atelier Double
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bisque
+  formFactor: Small
+  frontLabelId: PNF-ZR
+  secondaryId: R58V5931
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/15606778d1bacf22c921250f0f2dcd26.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-ZR-0 PRG
+  size: 128 KB
+  crc32: 34DEBDFD
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9030
+  estFirstRun: July 1990
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S23
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9030
+  dateCodeSuffix: EX032
+  std: 9030
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC5565APL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9027
+  dateCodeSuffix: HCK
+  std: 9027
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9030
+  dateCodeSuffix: B3005
+  std: 9030
+  misc: 
+- designation: U4 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9027
+  dateCodeSuffix: HCK
+  std: 9027
+  misc: 

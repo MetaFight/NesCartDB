@@ -1,0 +1,114 @@
+metadata:
+  name: Golf
+  altName: 
+  variant: (Revision M)
+  submittedBy: Kinopio
+  submittedOn: 2011-06-15 03:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2385
+  - 2125
+  - 1472
+  - 2090
+  - 100
+  additionalImages: 
+slug: golf
+releaseInfo:
+  catalogId: NES-GF-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: FRA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: FRA
+  2-DigitCode: 11
+  revision: M
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/026820837840b3f4e473219f19f967c0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/5fe8244e7cb28eb6e723b695e76f1252.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2c9f4b279fea4ec15898cf696fbd54b8.jpg
+romDetails:
+- type: PRG0
+  label: PAL-GFM0 PRG
+  size: 16 KB
+  crc32: 10BBD4BA
+  x: 5
+- type: CHR0
+  label: HVC-GF-0 CHR
+  size: 8 KB
+  crc32: 7DFA75A8
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 565B1BDB
+  x: 5
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0f400ce6529e74d9dd4494794478c748.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8737
+  estFirstRun: September 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 37
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8737
+  dateCodeSuffix: E
+  std: 8737
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 29
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8737
+  dateCodeSuffix: E
+  std: 8737
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8737
+  dateCodeSuffix: A
+  std: 8737
+  misc: 

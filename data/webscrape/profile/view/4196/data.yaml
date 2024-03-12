@@ -1,0 +1,133 @@
+metadata:
+  name: Silent Service
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-09-23 23:56:00
+  moreProfiles:
+  - 2510
+  - 4150
+  - 2528
+  - 4193
+  - 4194
+  - 4195
+  - 4196
+  relatedProfiles:
+  - 438
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-IV-EEC<br>Submitted by: Kinopio<br>Linked from profile 2510')"
+    filename: /images/175/9e1841bd4b0a3a8f6af031c3c139c56e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-IV-EEC<br>Submitted by: Kinopio<br>Linked from profile 2510')"
+    filename: /images/175/1556977302666765266896a08803c500.jpg
+slug: silent-service
+releaseInfo:
+  catalogId: NES-IV-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: November 23, 1990
+  publisher: Konami
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IV-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2510')"
+    filename: /images/175/1237fa0dfc36bd45e9cbfe4b9cbe95f9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2510')"
+    filename: /images/175/7212ac1d86a014132a4a35e1f20553b1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-IV-0 PRG
+  size: 128 KB
+  crc32: FA014BA1
+  x: 7
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9034 - 9109 (7)
+  estFirstRun: August 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S25
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: EX706
+  std: 9032
+  misc: 
+- designation: U2 CHR RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 034
+  dateCodeSuffix: N
+  std: 9034
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9034
+  dateCodeSuffix: A
+  std: 9034
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: ''
+  std: 9014
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9005
+  dateCodeSuffix: ''
+  std: 9005
+  misc: 

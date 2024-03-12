@@ -1,0 +1,79 @@
+metadata:
+  name: "T&C Surf Designs 2: Thrilla's Surfari"
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-05 05:50:00
+  moreProfiles:
+  - 335
+  - 2840
+  - 1130
+  relatedProfiles: []
+  additionalImages: 
+slug: tc-surf-designs-2-thrillas-surfari
+releaseInfo:
+  catalogId: NES-TC-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 1992
+  publisher: LJN
+  developer: Sculptured Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-TC-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: YARY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 335')"
+    filename: /images/175/044044c3cd9c86430dbe6791f2e9fe12.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 335')"
+    filename: /images/175/f5759a64b256113205a8e671a46c2958.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TC-1 PRG
+  size: 128 KB
+  crc32: CA026F1F
+  x: 3
+- type: CHR0
+  label: NES-TC-1 CHR
+  size: 128 KB
+  crc32: 1553B349
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7E57FBEC
+  x: 3
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9205 - 9206 (2)
+  estFirstRun: February 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo: []

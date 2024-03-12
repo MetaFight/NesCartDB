@@ -1,0 +1,108 @@
+metadata:
+  name: Famista '94
+  altName: ファミスタ’９４
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 18:28:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5699c8f63fc7318e96b47927108feede.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e12c229ccd5a5b7b72c4e18ac3ba6e14.jpg
+slug: famista-94
+releaseInfo:
+  catalogId: NAM-F94-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 1, 1993
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ba55c6af84a81d4ce641d583c704cc81.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ff86e136abeb66fb11e8d391866fd5cf.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTF94P
+  size: 128 KB
+  crc32: 3940B0F9
+  x: 1
+- type: CHR0
+  label: NAMCOTF94C
+  size: 128 KB
+  crc32: 1FFA7E50
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 429103C9
+  x: 1
+pcbProperties:
+  name: CS 0001
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CS 0001<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d612f4ea384f8c8ad380c9e5c718205e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CS 0001<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b16926c3baa3b2b57ba7469baa9fceab.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9343
+  estFirstRun: October 1993
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: 831010
+  partNumberSubDetail: 1E3 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9343
+  dateCodeSuffix: Z06
+  std: 9343
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: 831010
+  partNumberSubDetail: 1E4 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9343
+  dateCodeSuffix: Z03
+  std: 9343
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 340
+  partNumberSubDetail: 
+  type: Namcot 340
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 9248
+  dateCodeSuffix: Z35
+  std: 9248
+  misc: 

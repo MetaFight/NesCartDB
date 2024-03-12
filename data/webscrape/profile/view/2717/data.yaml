@@ -1,0 +1,120 @@
+metadata:
+  name: 'SD Gundam Gachapon Senshi 4: New Type Story'
+  altName: ＳＤガンダ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-16 04:16:00
+  moreProfiles:
+  - 1448
+  - 2717
+  - 3663
+  relatedProfiles: []
+  additionalImages: 
+slug: sd-gundam-gachapon-senshi-4-new-type-story
+releaseInfo:
+  catalogId: SHI-45
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1991
+  publisher: Yutaka
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Sky Blue
+  formFactor: Small
+  frontLabelId: SHI-45
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1448')"
+    filename: /images/175/729128c42bbf74e423c404b0655064bb.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-45-0 PRG
+  size: 256 KB
+  crc32: 92B07FD9
+  x: 3
+- type: CHR0
+  label: SHI-45-0 CHR
+  size: 256 KB
+  crc32: 2A4EFFB3
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 67555417
+  x: 3
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f57c6cf6a80265a3403aaf48aabce9cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146 - 9146 (3)
+  estFirstRun: November 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: T04
+  std: 9146
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9145
+  dateCodeSuffix: T00
+  std: 9145
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9143
+  dateCodeSuffix: 3 AB
+  std: 9143
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9142
+  dateCodeSuffix: DC
+  std: 9142
+  misc: 

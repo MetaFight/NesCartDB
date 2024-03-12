@@ -1,0 +1,107 @@
+metadata:
+  name: Chuka Taisen
+  altName: 中華大仙
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 06:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: chuka-taisen
+releaseInfo:
+  catalogId: DTF-CW (27)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 22, 1989
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Pale Green
+  formFactor: Small
+  frontLabelId: DTF-CW
+  secondaryId: 27
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1f6e884a1f9e9f1aeb18f1ae0be13a9b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DTF-CW-0 PRG
+  size: 128 KB
+  crc32: CB9E67A6
+  x: 1
+- type: CHR0
+  label: DTF-CW-0 CHR
+  size: 128 KB
+  crc32: 20B53BE2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8E0D9179
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5f07ef1c70abfeb1cb4a72c3939eac3a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8931
+  estFirstRun: August 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 8J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8931
+  dateCodeSuffix: E
+  std: 8931
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 7J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8931
+  dateCodeSuffix: E
+  std: 8931
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8931
+  dateCodeSuffix: 3 A
+  std: 8931
+  misc: 

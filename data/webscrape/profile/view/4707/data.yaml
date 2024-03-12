@@ -1,0 +1,118 @@
+metadata:
+  name: Cadillac
+  altName: キャデラック
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2013-11-27 04:23:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: cadillac
+releaseInfo:
+  catalogId: HCT-C5/007
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 2, 1990
+  publisher: Hect
+  developer: Hect
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: HCT-C5
+  secondaryId: 007
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3c01281840c895cf89d36862c8ffaeed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4606')"
+    filename: /images/175/7409cac45e90630c48c7b200477cdb84.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 03DCFDDB
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: D971E09F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 0719260C
+  x: 1
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d2e0710f2227ae49539ea53bf89e1ce9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8949
+  estFirstRun: December 1989
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 1JC5
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: A
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8949
+  dateCodeSuffix: CA
+  std: 8949
+  misc: 

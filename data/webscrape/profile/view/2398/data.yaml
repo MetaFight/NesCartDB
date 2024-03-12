@@ -1,0 +1,120 @@
+metadata:
+  name: Banana Prince
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2008-01-05 01:03:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: banana-prince
+releaseInfo:
+  catalogId: NES-BN-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: December 6, 1992
+  publisher: Takara
+  developer: KID
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BN-NOE/FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/e4c2d735c6c645be125343a88eceef16.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/0afb6ab4320e88cb652d410e3ef99b61.jpg
+romDetails:
+- type: PRG0
+  label: FRG-BN-0 PRG
+  size: 128 KB
+  crc32: C50826AC
+  x: 1
+- type: CHR0
+  label: FRG-BN-0 CHR
+  size: 128 KB
+  crc32: 596E47A6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8A65E57C
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/22e0b55e3aa8559268f683c854a101a6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9251
+  estFirstRun: December 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: GL
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9249
+  dateCodeSuffix: E
+  std: 9249
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 9D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9251
+  dateCodeSuffix: E
+  std: 9251
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9246
+  dateCodeSuffix: C
+  std: 9246
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9209
+  dateCodeSuffix: EP071
+  std: 9209
+  misc: 

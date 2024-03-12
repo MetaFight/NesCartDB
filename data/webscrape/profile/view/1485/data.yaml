@@ -1,0 +1,94 @@
+metadata:
+  name: Bokosuka Wars
+  altName: ボコスカウォーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 05:28:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: bokosuka-wars
+releaseInfo:
+  catalogId: HSP-04
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 14, 1985
+  publisher: ASCII
+  developer: Bits Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Green Yellow
+  formFactor: Small
+  frontLabelId: HSP-04
+  backLabelId/Desc: 850610
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5fce3dd3bcca7f81b6943e120f796d35.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-04-0 PRG
+  size: 32 KB
+  crc32: F2D03ADA
+  x: 1
+- type: CHR0
+  label: HSP-04-0 CHR
+  size: 8 KB
+  crc32: BF52E49A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: FE18E6B6
+  x: 1
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eee40113d40a37cead1189f90bb5cd07.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8549
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0064
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5L5
+  dateCodeSuffix: A1
+  std: 8549
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D70
+  partNumberSubDetail: 0035
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 5L3
+  dateCodeSuffix: 12
+  std: 8547
+  misc: 

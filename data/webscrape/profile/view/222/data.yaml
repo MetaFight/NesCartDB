@@ -1,0 +1,123 @@
+metadata:
+  name: Hook
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-28 03:57:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4415
+  - 4691
+  - 4544
+  additionalImages: 
+slug: hook
+releaseInfo:
+  catalogId: NES-7Q-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1992
+  publisher: Sony (CSG) Imagesoft
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7Q-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb6ff1f039bd51121308ff5801e3240a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5d9b2c86f00eaabf9de643057995414.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-7Q-0 PRG
+  size: 128 KB
+  crc32: A2BAC574
+  x: 2
+- type: CHR0
+  label: NES-7Q-0 CHR
+  size: 128 KB
+  crc32: 9C1762A5
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D8230D0E
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f600ed716bae87faab4f2ce279531acb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9211
+  estFirstRun: March 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: A5
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9211
+  dateCodeSuffix: E
+  std: 9211
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 0L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9209
+  dateCodeSuffix: E
+  std: 9209
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9044
+  dateCodeSuffix: 7 AB
+  std: 9044
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9204
+  dateCodeSuffix: B3037
+  std: 9204
+  misc: 

@@ -1,0 +1,105 @@
+metadata:
+  name: 'Family Trainer 7: Famitre Daiundoukai'
+  altName: ファミリートレーナー⑦ ファミトレ大運動会
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-24 00:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 600
+  additionalImages: 
+slug: family-trainer-7-famitre-daiundoukai
+releaseInfo:
+  catalogId: FT-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 27, 1987
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Family Trainer Mat
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Light Green
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/be8657c9ce21eb8e1cbf383f6425a5fe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9fd60a4a50b1be21c7da0d92ddb7ae6c.jpg
+romDetails:
+- type: PRG0
+  label: BA-87 FT7-PRG
+  size: 32 KB
+  crc32: CA26A0F1
+  x: 1
+- type: CHR0
+  label: BA-87 FT7-CHR
+  size: 32 KB
+  crc32: 64E5D76F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 6CCA1C1F
+  x: 1
+pcbProperties:
+  name: BA-ウンドウカイ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-ウンドウカイ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/884c97bc5cbdf27e3bdae5c0c769c8a7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-ウンドウカイ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b168388e181fa4ee2b529a6ab6d9ea23.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8746
+  estFirstRun: November 1987
+  pcbClass: BANDAI-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2355
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8746
+  dateCodeSuffix: E
+  std: 8746
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2355
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8746
+  dateCodeSuffix: E
+  std: 8746
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 735
+  dateCodeSuffix: 4L5
+  std: 8735
+  misc: 

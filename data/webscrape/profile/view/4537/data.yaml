@@ -1,0 +1,110 @@
+metadata:
+  name: Donkey Kong 3
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-06 02:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3397
+  - 1105
+  additionalImages: 
+slug: donkey-kong-3
+releaseInfo:
+  catalogId: NES-DT-GBR
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: GBR
+  sealOfQuality: 'PAL: Dual'
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/1dd24248bf93bad70611663e3700cf7f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: HVC-DT-0 PRG
+  size: 16 KB
+  crc32: 5EF4F30C
+  x: 6
+- type: CHR0
+  label: HVC-DT-0 CHR
+  size: 8 KB
+  crc32: 85D06C57
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: B3D74C0D
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/b3e9f085073012d3520bf2ffeee5c709.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8737
+  estFirstRun: September 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0316
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7H4
+  dateCodeSuffix: 19
+  std: 8735
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2004
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7H6
+  dateCodeSuffix: 11
+  std: 8737
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8734
+  dateCodeSuffix: A
+  std: 8734
+  misc: 

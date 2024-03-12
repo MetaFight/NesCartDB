@@ -1,0 +1,78 @@
+metadata:
+  name: Magmax
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 00:04:00
+  moreProfiles:
+  - 236
+  - 561
+  - 784
+  relatedProfiles:
+  - 1673
+  additionalImages: 
+slug: magmax
+releaseInfo:
+  catalogId: NES-MM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1988
+  publisher: FCI
+  developer: Nichibutsu
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MM-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 236')"
+    filename: /images/175/4f832ecd5736d591c92e34d4b9e8bb96.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 236')"
+    filename: /images/175/858d01f0aea859f5d41eae1d7f864083.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-MM-0 PRG
+  size: 32 KB
+  crc32: A4625DBC
+  x: 3
+- type: CHR0
+  label: NES-MM-0 CHR
+  size: 8 KB
+  crc32: 5E762085
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 81389607
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8849
+  estFirstRun: December 1988
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo: []

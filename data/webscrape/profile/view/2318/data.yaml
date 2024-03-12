@@ -1,0 +1,123 @@
+metadata:
+  name: 'Wizardry III: Diamond no Kishi'
+  altName: ウィザードリィⅢ・ダイヤモンドの騎士
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 22:15:00
+  moreProfiles:
+  - 1631
+  - 2318
+  - 3569
+  - 3570
+  relatedProfiles:
+  - 1156
+  additionalImages: 
+slug: wizardry-iii-diamond-no-kishi
+releaseInfo:
+  catalogId: HSP-32
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 9, 1990
+  publisher: ASCII
+  developer: Sir-Tech Software
+  portedBy: 
+  players: 1
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-32
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1631')"
+    filename: /images/175/ccb4db4e54c7cd65a721511c7291d237.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-32-0 PRG
+  size: 128 KB
+  crc32: 33D07E45
+  x: 4
+- type: CHR0
+  label: HSP-32-0 CHR
+  size: 128 KB
+  crc32: 42E371DB
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5C123EF7
+  x: 4
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fed30cdc7259efa209f4e05ac5ce981e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8950 - 8951 (4)
+  estFirstRun: December 1989
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: HD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: E
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: B2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8951
+  dateCodeSuffix: E
+  std: 8951
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8923
+  dateCodeSuffix: KP
+  std: 8923
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: 51
+  std: 8949
+  misc: 

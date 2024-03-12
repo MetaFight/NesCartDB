@@ -1,0 +1,117 @@
+metadata:
+  name: Tetris
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 03:45:00
+  moreProfiles:
+  - 671
+  - 4245
+  relatedProfiles: []
+  additionalImages: 
+slug: tetris
+releaseInfo:
+  catalogId: TGN-002-TT
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/004e56a8451d23d23259a2176283a8b2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335002-2011
+  size: 32 KB
+  crc32: A520F44C
+  x: 2
+- type: CHR0
+  label: 335002-2012
+  size: 16 KB
+  crc32: 68F18CBE
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 343C7BB0
+  x: 2
+pcbProperties:
+  name: 800008-01 REV B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800008-01 REV B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d785ddd227e8ae09848c7080605a7a10.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800008-01 REV B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a2eb473326c2d0b95f919e0ac612350.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8915
+  estFirstRun: April 1989
+  pcbClass: TENGEN-800008
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8915
+  dateCodeSuffix: MAE
+  std: 8915
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23128
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8911
+  dateCodeSuffix: TAO
+  std: 8911
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8909
+  dateCodeSuffix: ILZB
+  std: 8909
+  misc: 
+- designation: 337005
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8911
+  dateCodeSuffix: FFVL
+  std: 8911
+  misc: 

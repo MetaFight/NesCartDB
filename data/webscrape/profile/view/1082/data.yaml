@@ -1,0 +1,187 @@
+metadata:
+  name: Impossible Mission-II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-10 02:53:00
+  moreProfiles:
+  - 221
+  - 1082
+  - 3003
+  relatedProfiles:
+  - 1081
+  additionalImages: 
+slug: impossible-mission-ii
+releaseInfo:
+  catalogId: SEI-IM
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: SEI
+  developer: Epyx
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  embossedText: S.E.I. Made in USA
+  frontLabelDesc: Black & White Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f19e51ea7a110686f6ecdcf7afd4259a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37050b7b66ed2f142d7e7966e07c4102.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 3A5CC3FA
+  x: 5
+- type: CHR0
+  label: CHR
+  size: 64 KB
+  crc32: B66C53B9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 92A3D007
+  x: 5
+pcbProperties:
+  name: NINA-001 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2cb683e35683a798b3367dd95b057121.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 221')"
+    filename: /images/175/e379db1fc038cda8bb64ebafeed45310.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 8941 - 8944 (2)
+  estFirstRun: October 1989
+  pcbClass: AVE-NINA-01
+  inesMapper: 34
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: NINA
+  hardware: 74xx00, 74xx133, 74xx139, 74xx173, 74xx173, 74xx74
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1005
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: ''
+  std: 8941
+  misc: 
+- designation: U10
+  maker: GoldStar
+  partNumber: GD74LS74A
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: H46
+  dateCodeSuffix: ''
+  std: 8846
+  misc: 
+- designation: U2
+  maker: National Semiconductor
+  partNumber: NM27C512AQ-250
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8918
+  dateCodeSuffix: B
+  std: 8918
+  misc: 
+- designation: U3
+  maker: Macronix
+  partNumber: NINA
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8939
+  dateCodeSuffix: ''
+  std: 8939
+  misc: 61191
+- designation: U4
+  maker: GoldStar
+  partNumber: GM76C88-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: I10
+  dateCodeSuffix: ''
+  std: 8910
+  misc: 
+- designation: U5
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: H06
+  dateCodeSuffix: ''
+  std: 8806
+  misc: 
+- designation: U6
+  maker: GoldStar
+  partNumber: GD74HCT139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: I09
+  dateCodeSuffix: ''
+  std: 8909
+  misc: 
+- designation: U7
+  maker: Samsung
+  partNumber: KS74HCTLS133N
+  partNumberSubDetail: 
+  type: 74-133 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 907
+  dateCodeSuffix: ''
+  std: 8907
+  misc: 
+- designation: U8
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: H06
+  dateCodeSuffix: ''
+  std: 8806
+  misc: 
+- designation: U9
+  maker: GoldStar
+  partNumber: GD74LS00
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: F52
+  dateCodeSuffix: ''
+  std: 8652
+  misc: 

@@ -1,0 +1,121 @@
+metadata:
+  name: Dr. Chaos
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-28 03:12:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: dr-chaos
+releaseInfo:
+  catalogId: NES-DC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: FCI
+  developer: Marionette
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DC-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/890f14624f099ad482f0ed854a863a23.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8e3c7f621c5049cc5233b5334ff88970.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DC-0 PRG
+  size: 128 KB
+  crc32: 73620901
+  x: 1
+pcbProperties:
+  name: NES-UNROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8949
+  estFirstRun: December 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0239
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9K4
+  dateCodeSuffix: A9
+  std: 8943
+  misc: 
+- designation: U2 CHR RAM
+  maker: Toshiba
+  partNumber: TC5563APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: HCK
+  std: 8934
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8949
+  dateCodeSuffix: 3 CA
+  std: 8949
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 937
+  dateCodeSuffix: EN
+  std: 8937
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32AN
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8938
+  dateCodeSuffix: RJFZ
+  std: 8938
+  misc: 

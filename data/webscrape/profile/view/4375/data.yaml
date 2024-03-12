@@ -1,0 +1,136 @@
+metadata:
+  name: Shadowgate
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-11 04:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2144
+  - 1959
+  - 4666
+  - 1815
+  - 208
+  additionalImages: 
+slug: shadowgate
+releaseInfo:
+  catalogId: NES-3S-HOL
+  region: Netherlands (PAL-B)
+  class: Licensed
+  releaseDate: May 30, 1991
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: NES Controller
+  country: Netherlands
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3S-HOL
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH (Battery)
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ac4aa79d834c66f7193e988e0ae77141.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7a750cbd3537ae8b691b6d65e494994d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2144')"
+    filename: /images/175/6397cb948c5cf0b5b5c3ef0eb48d44b1.jpg
+romDetails:
+- type: PRG0
+  label: PAL-3S-0 PRG
+  size: 128 KB
+  crc32: 0ADB2C4C
+  x: 1
+- type: CHR0
+  label: NES-3S-0 CHR
+  size: 128 KB
+  crc32: 05414DD9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 13E01649
+  x: 1
+pcbProperties:
+  name: NES-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-02<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0e0bd4640cd85b0262fb1a2dbdfa1e73.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-02<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/9063c5f2f810641c702d7965bb3cdf28.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9129
+  estFirstRun: July 1991
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 36
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9128
+  dateCodeSuffix: E
+  std: 9128
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9129
+  dateCodeSuffix: D
+  std: 9129
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9129
+  dateCodeSuffix: C
+  std: 9129
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9129
+  dateCodeSuffix: 3 DB
+  std: 9129
+  misc: 
+- designation: U5 S-RAM
+  maker: Sony
+  partNumber: CXK5864APS-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0K
+  dateCodeSuffix: 15Y
+  std: 9044
+  misc: 

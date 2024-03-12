@@ -1,0 +1,98 @@
+metadata:
+  name: Donkey Kong Jr. no Sansuu Asobi
+  altName: ドンキーコングＪｒの算数遊び
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 05:46:00
+  moreProfiles:
+  - 3468
+  - 4752
+  relatedProfiles:
+  - 2062
+  - 523
+  additionalImages: 
+slug: donkey-kong-jr-no-sansuu-asobi
+releaseInfo:
+  catalogId: HVC-CA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 12, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: HVC-CA
+  backLabelId/Desc: 831018
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3bd86cc70cac10b7e73e603079fd527c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-CA-0 PRG
+  size: 16 KB
+  crc32: 927ABA9D
+  x: 1
+- type: CHR0
+  label: HVC-CA-0 CHR
+  size: 8 KB
+  crc32: 8975B3C2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 63AEA200
+  x: 1
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3adce4d7196f3755f09781a18b464710.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2be576b204e68d11031e2b941c1f7755.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8405
+  estFirstRun: February 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1137
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 405
+  dateCodeSuffix: VA 2013
+  std: 8405
+  misc: RP23128 0301
+- designation: CHR
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 105P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8404
+  dateCodeSuffix: 03
+  std: 8404
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: 'Family Trainer 8: Totsugeki! Fuun Takeshijou'
+  altName: ファミリートレーナー⑧ 突撃!風雲たけし城
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 04:31:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5106ac7eeaf66be42f02efc466836669.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0e4acb124c6153f7c83a7fb27f9e156.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a5d88cbe8a854eed0d75f2f8270656a.jpg
+slug: family-trainer-8-totsugeki-fuun-takeshijou
+releaseInfo:
+  catalogId: FT-08
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 28, 1987
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Family Trainer Mat
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: White
+  formFactor: Large
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de18a5798ac87fcfe380d0a2cce067f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c472b5a4c7c066a3c05ae53b0d9d524.jpg
+romDetails:
+- type: PRG0
+  label: BA-TAKESHI-PRG
+  size: 32 KB
+  crc32: 59794F2D
+  x: 1
+- type: CHR0
+  label: BA-TAKESHI-CHR
+  size: 32 KB
+  crc32: 5B5A3616
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 8A12A7D9
+  x: 1
+pcbProperties:
+  name: BA-タケシジヨウ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-タケシジヨウ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad412610c3adf92c3496e9c0463ba377.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-タケシジヨウ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/170c02fc309fdc8c8e48043c7e5ca6d9.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8749
+  estFirstRun: December 1987
+  pcbClass: BANDAI-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: OKI
+  partNumber: M38256A
+  partNumberSubDetail: EK
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7Z
+  dateCodeSuffix: 3100
+  std: 8749
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M38256A
+  partNumberSubDetail: EL
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7Z
+  dateCodeSuffix: 3085
+  std: 8749
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 746
+  dateCodeSuffix: 4K1
+  std: 8746
+  misc: 

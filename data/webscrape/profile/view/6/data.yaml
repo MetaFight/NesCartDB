@@ -1,0 +1,120 @@
+metadata:
+  name: The Bugs Bunny Crazy Castle
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-08-25 02:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-bugs-bunny-crazy-castle
+releaseInfo:
+  catalogId: NES-C1-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1989
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-C1-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/19b88a7ce6998d6b18a4162087c3dcae.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ecee68c7bd8f907398a51fb2052d7368.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-C1-0 PRG
+  size: 64 KB
+  crc32: B10429AA
+  x: 1
+- type: CHR0
+  label: NES-C1-0 CHR
+  size: 32 KB
+  crc32: C4CE2887
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: E50A9130
+  x: 1
+pcbProperties:
+  name: NES-SBROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SBROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a20aef8afa87b17761543c8e4f7669c8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8923
+  estFirstRun: June 1989
+  pcbClass: NES-SBROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 13
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: E
+  std: 8922
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 1H
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: B
+  std: 8922
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B1-H
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8923
+  dateCodeSuffix: T
+  std: 8923
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8921
+  dateCodeSuffix: 1 AA
+  std: 8921
+  misc: 

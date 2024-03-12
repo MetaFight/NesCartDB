@@ -1,0 +1,139 @@
+metadata:
+  name: Final Fantasy II
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-08-28 05:21:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: final-fantasy-ii
+releaseInfo:
+  catalogId: UNR-FY-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Square
+  developer: Square
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: TheRedEye<br>Linked from profile 0')"
+    filename: /images/175/4ab426204540d659d1710ecd9c592f67.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: FF2 NES FOR CES V12.5 (1)
+  size: 128 KB
+  crc32: BDF606C3
+  x: 1
+- type: PRG1
+  label: FF2 NES FOR CES V12.5 (2)
+  size: 128 KB
+  crc32: F12C6CBB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 93A2EEFB
+  x: 1
+pcbProperties:
+  name: NES-SNWEPROM
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SNWEPROM<br>Submitted by: TheRedEye<br>Linked from profile 0')"
+    filename: /images/175/00d6fb9c77a84ffaa1ea1b5a8090050f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SNWEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC2 PRG
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC3 W-RAM
+  maker: Toshiba
+  partNumber: TC5564PL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8732
+  dateCodeSuffix: ACA
+  std: 8732
+  misc: 
+- designation: IC4 CHR
+  maker: Toshiba
+  partNumber: TC5564PL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8732
+  dateCodeSuffix: ACA
+  std: 8732
+  misc: 
+- designation: IC5 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9028
+  dateCodeSuffix: 3 TA
+  std: 9028
+  misc: 
+- designation: IC6 3193
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9036
+  dateCodeSuffix: 5 BA
+  std: 9036
+  misc: 

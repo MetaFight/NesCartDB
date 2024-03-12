@@ -1,0 +1,93 @@
+metadata:
+  name: Dig Dug II
+  altName: ディグダグⅡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 01:04:00
+  moreProfiles: []
+  relatedProfiles:
+  - 632
+  additionalImages: 
+slug: dig-dug-ii
+releaseInfo:
+  catalogId: NAM-NDDII-4500-14
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 18, 1986
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 14
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/002511e7300925228239626c0b861a88.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/96de618cd6452969bfb2d73ec2d92d23.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTDâ…¡PR
+  size: 32 KB
+  crc32: BFFCF247
+  x: 1
+- type: CHR0
+  label: Dâ…¡C
+  size: 8 KB
+  crc32: A221A698
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 2BE254E9
+  x: 1
+pcbProperties:
+  name: 3312
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3312<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2839996bb32aacac19910fd101c21097.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3312<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51ccba9e1819c9002bd31d39aa2948f6.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8610
+  estFirstRun: March 1986
+  pcbClass: NAMCOT-3312
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Fujitsu
+  partNumber: MB83256
+  partNumberSubDetail: 274 RA
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8610
+  dateCodeSuffix: Z11
+  std: 8610
+  misc: 
+- designation: CH
+  maker: Fujitsu
+  partNumber: MBM2764-25
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8543
+  dateCodeSuffix: R10
+  std: 8543
+  misc: PR

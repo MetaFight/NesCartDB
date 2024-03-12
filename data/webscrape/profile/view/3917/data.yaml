@@ -1,0 +1,107 @@
+metadata:
+  name: Super Black Onyx
+  altName: スーパーブラックオニキス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 05:14:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: super-black-onyx
+releaseInfo:
+  catalogId: BPS-OX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 14, 1988
+  publisher: Bullet-Proof Software
+  developer: Bullet-Proof Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BPS-OX
+  backLabelId/Desc: 880606
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b96e77e9120478cc7f4c30acace4ed92.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BPS-OX-0 PRG
+  size: 256 KB
+  crc32: DFC0CE21
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8824
+  estFirstRun: June 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8823
+  dateCodeSuffix: EY
+  std: 8823
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8824
+  dateCodeSuffix: 1 DA
+  std: 8824
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8821
+  dateCodeSuffix: B5
+  std: 8821
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8824
+  dateCodeSuffix: 3 A
+  std: 8824
+  misc: 

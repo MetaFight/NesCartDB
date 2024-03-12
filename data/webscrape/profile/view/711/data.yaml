@@ -1,0 +1,121 @@
+metadata:
+  name: Spot
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 04:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: spot
+releaseInfo:
+  catalogId: NES-3P-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Arcadia
+  developer: Trilobyte
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3P-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98c939d0ce1c327ddb726b339e089813.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b28e16b0a84a44ebe3d2f261e5fa1264.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-3P-0 PRG
+  size: 128 KB
+  crc32: CFAE9DFA
+  x: 1
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9029
+  estFirstRun: July 1990
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NTC
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 079
+  dateCodeSuffix: 53
+  std: 9029
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sanyo
+  partNumber: LC3664R-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9A
+  dateCodeSuffix: 388
+  std: 8939
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 026
+  dateCodeSuffix: C
+  std: 9026
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9011
+  dateCodeSuffix: B3012
+  std: 9011
+  misc: 
+- designation: U5 W-RAM
+  maker: Sanyo
+  partNumber: LC3664R-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9A
+  dateCodeSuffix: 388
+  std: 8939
+  misc: 

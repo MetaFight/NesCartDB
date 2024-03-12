@@ -1,0 +1,132 @@
+metadata:
+  name: Total Recall
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-10 02:57:00
+  moreProfiles:
+  - 573
+  - 604
+  - 1443
+  relatedProfiles:
+  - 2593
+  - 1299
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-L4-USA<br>Submitted by: bootgod<br>Linked from profile 1443')"
+    filename: /images/175/38d929df1e0b5fef6c580b54eb0e752c.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-L4-USA<br>Submitted by: bootgod<br>Linked from profile 1443')"
+    filename: /images/175/c25752702f485eae9e32d43dfac85ec8.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-L4-USA *<br>Submitted by: bootgod<br>Linked from profile 1443')"
+    filename: /images/175/a3bdd45c7a8f8453925660a6dd69e627.jpg
+slug: total-recall
+releaseInfo:
+  catalogId: NES-L4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1990
+  publisher: Acclaim
+  developer: Interplay
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-L4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/04ff6f48ea2d87c15f731d2bafa3623f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1443')"
+    filename: /images/175/5b293309558b8005b825888847ff7ace.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-L4-0 PRG
+  size: 128 KB
+  crc32: 248566A7
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9027 - 9028 (2)
+  estFirstRun: July 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5475
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0GC
+  dateCodeSuffix: 43
+  std: 9027
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0M
+  dateCodeSuffix: 233Y
+  std: 9001
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9028
+  dateCodeSuffix: 1 CA
+  std: 9028
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9015
+  dateCodeSuffix: ''
+  std: 9015
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9004
+  dateCodeSuffix: ''
+  std: 9004
+  misc: 

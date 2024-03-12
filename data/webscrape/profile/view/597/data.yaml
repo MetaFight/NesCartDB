@@ -1,0 +1,83 @@
+metadata:
+  name: Game Genie
+  altName: 
+  variant: (Revision 1.5A)
+  submittedBy: bootgod
+  submittedOn: 2006-03-05 01:23:00
+  moreProfiles:
+  - 597
+  - 2898
+  relatedProfiles: []
+  additionalImages: 
+slug: game-genie
+releaseInfo:
+  catalogId: GLB-GG
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Galoob
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Galoob
+  color: Black
+  formFactor: Game Genie
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aef5913f648a607e60bc29fe15d8339b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7812b15f551a0256b775bb37f01aeca7.jpg
+romDetails:
+- type: PRG0
+  label: GENIE V1.5A
+  size: 4 KB
+  crc32: 1A3A22A1
+  x: 2
+pcbProperties:
+  name: CODEMASTERS 9205
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9203 - 9204 (2)
+  estFirstRun: January 1992
+  pcbClass: CAMERICA-GAMEGENIE
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: U1
+  maker: IMP
+  partNumber: ''
+  partNumberSubDetail: IM2332
+  type: Mask ROM
+  typeSubDetail: 4 KB
+  package: DIP-24
+  dateCodePrefix: 9203
+  dateCodeSuffix: ENA
+  std: 9203
+  misc: 
+- designation: U2
+  maker: Hyundai
+  partNumber: 
+  partNumberSubDetail: GENIE_IC
+  type: Game Genie
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9204
+  dateCodeSuffix: S
+  std: 9204
+  misc: 

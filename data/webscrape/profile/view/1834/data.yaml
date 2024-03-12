@@ -1,0 +1,115 @@
+metadata:
+  name: Namco Classic II
+  altName: ナムコクラシックⅡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-08 23:07:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: namco-classic-ii
+releaseInfo:
+  catalogId: NAM-FN2-5900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 13, 1992
+  publisher: Namco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c406b58994ae0725271eb6daa6c226c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/420161c3b393e95229a6532e9872ffb1.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 9A2B0641
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: B4767C0B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 684B292F
+  x: 1
+pcbProperties:
+  name: 60-21
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-21<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8cd138c3234a32e4a38ff6b27f13234c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-21<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/08fdb380f3de1b742ca7c637e29ca9e8.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9205
+  estFirstRun: February 1992
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FN2
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 205
+  dateCodeSuffix: K02
+  std: 9205
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

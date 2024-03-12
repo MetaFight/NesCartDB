@@ -1,0 +1,142 @@
+metadata:
+  name: Tecmo Super Bowl
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-25 02:10:00
+  moreProfiles:
+  - 82
+  - 460
+  - 638
+  - 805
+  - 2372
+  - 4700
+  relatedProfiles:
+  - 3560
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-4U USA<br>Submitted by: polarz<br>Linked from profile 460')"
+    filename: /images/175/690a469824540903c0cc9070df49f5a4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-4U USA<br>Submitted by: polarz<br>Linked from profile 460')"
+    filename: /images/175/8a1012644b847e2a60fccce56ed959a2.jpg
+slug: tecmo-super-bowl
+releaseInfo:
+  catalogId: NES-4U-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4U USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 82')"
+    filename: /images/175/7b026fdb7916ede8b67c804ba01b1c8e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a1a5d10402675bf62e251df61f4f5975.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-4U-0 PRG
+  size: 256 KB
+  crc32: 8E5C2818
+  x: 5
+- type: CHR0
+  label: NES-4U-0 CHR
+  size: 128 KB
+  crc32: E5F74C77
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 179A0D57
+  x: 5
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fab62d17ddfb5bbcc3dc0ed5a51432a9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9144 - 9210 (2)
+  estFirstRun: November 1991
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J613
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9210
+  dateCodeSuffix: EAI
+  std: 9210
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC531003CP
+  partNumberSubDetail: J614
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9210
+  dateCodeSuffix: EAI
+  std: 9210
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9209
+  dateCodeSuffix: 3 T
+  std: 9209
+  misc: 
+- designation: U5 S-RAM
+  maker: Sony
+  partNumber: CXK5864BPX-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 206
+  dateCodeSuffix: A17X
+  std: 9206
+  misc: 

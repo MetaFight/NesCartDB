@@ -1,0 +1,125 @@
+metadata:
+  name: RoboCop 3
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-07-24 03:22:00
+  moreProfiles:
+  - 983
+  - 4718
+  relatedProfiles:
+  - 1214
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-R3-ESP<br>Submitted by: piteta<br>Linked from profile 2581')"
+    filename: /images/175/a1365d0d3b81c3fd92e1b078800b4c6f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-R3-ESP<br>Submitted by: piteta<br>Linked from profile 2581')"
+    filename: /images/175/74a9d6ad61f967d92f0ad6682c167dd8.jpg
+slug: robocop-3
+releaseInfo:
+  catalogId: NES-R3-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: July 28, 1994
+  publisher: Ocean
+  developer: Probe
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-R3-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 2581')"
+    filename: /images/175/236c9df25a77f4910334cb8fb7660e48.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-R3-0 PRG
+  size: 128 KB
+  crc32: 06FCD47A
+  x: 2
+- type: CHR0
+  label: NES-R3-0 CHR
+  size: 128 KB
+  crc32: 4F496603
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A8D93537
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6b4e33ea329814014bd6ede6dcfedd84.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9249 - 9249 (2)
+  estFirstRun: December 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: E6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9249
+  dateCodeSuffix: E
+  std: 9249
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 3H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9249
+  dateCodeSuffix: D
+  std: 9249
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9218
+  dateCodeSuffix: C
+  std: 9218
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9234
+  dateCodeSuffix: B3004
+  std: 9234
+  misc: 

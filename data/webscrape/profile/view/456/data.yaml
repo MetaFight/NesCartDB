@@ -1,0 +1,113 @@
+metadata:
+  name: Tag Team Wrestling
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-30 02:55:00
+  moreProfiles:
+  - 214
+  - 456
+  - 776
+  relatedProfiles:
+  - 1587
+  additionalImages: 
+slug: tag-team-wrestling
+releaseInfo:
+  catalogId: NES-TT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1986
+  publisher: Data East
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TT-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/542e939e3adf7c61bc11cba9d2480f13.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd0773ce41a3014ec619797df0ef35bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-TT-0 PRG
+  size: 32 KB
+  crc32: 77DAFD89
+  x: 3
+- type: CHR0
+  label: NES-TT-0 CHR
+  size: 8 KB
+  crc32: D911390D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: BF250AF2
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3bd873f77caf52c2677d4d2d99b2e091.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2083')"
+    filename: /images/175/6096d3c0dbd9575d1d5063111af4d1e6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8711 - 8943 (2)
+  estFirstRun: March 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 73
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8939
+  dateCodeSuffix: B
+  std: 8939
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: S6
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: B
+  std: 8941
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8943
+  dateCodeSuffix: 5 CA
+  std: 8943
+  misc: 

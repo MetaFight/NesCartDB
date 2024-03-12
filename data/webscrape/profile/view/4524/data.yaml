@@ -1,0 +1,130 @@
+metadata:
+  name: Gyromite
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2011-11-30 23:15:00
+  moreProfiles:
+  - 266
+  - 584
+  - 785
+  - 2789
+  - 2788
+  - 2354
+  - 4524
+  relatedProfiles:
+  - 1286
+  - 4423
+  - 4063
+  - 4542
+  additionalImages: 
+slug: gyromite
+releaseInfo:
+  catalogId: NES-GY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller,R. O. B.
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 266')"
+    filename: /images/175/ecdfb105bd7bae2b5bfa7f469180de31.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/7067ded7ae949917b8df7d477fb55aba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 21B099F3
+  x: 10
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: D0135A78
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 023A5A32
+  x: 10
+pcbProperties:
+  name: 3A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3A<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/e70c306949b0b14d192cf167250f2a41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3A<br>Submitted by: bootgod<br>Linked from profile 3377')"
+    filename: /images/175/1348f8e12425cc850ed1ea2d4a22a353.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8543 - 8727 (6)
+  estFirstRun: October 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-GY
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 58
+  dateCodeSuffix: 07
+  std: 8531
+  misc: 0H-96
+- designation: U1
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8543
+  dateCodeSuffix: A
+  std: 8543
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

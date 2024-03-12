@@ -1,0 +1,117 @@
+metadata:
+  name: Famista '93
+  altName: ファミスタ’９３
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-23 01:43:00
+  moreProfiles:
+  - 1604
+  - 2658
+  relatedProfiles: []
+  additionalImages: 
+slug: famista-93
+releaseInfo:
+  catalogId: NAM-F93-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1992
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7dccf48c30010624429788139d522583.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fcb433ff0031777bd8bd5b08fed9f9bb.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 650353F7
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: DFA522CC
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: ADFFD64F
+  x: 2
+pcbProperties:
+  name: LROG074-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG074-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f6d175e2b731c336a1cc330da114f1cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG074-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/99b77edf09a6668491d58755154c85b3.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 9248 - 9248 (2)
+  estFirstRun: December 1992
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG078
+  partNumberSubDetail: F93
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9248
+  dateCodeSuffix: 6
+  std: 9248
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP340
+  type: Namcot 340
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

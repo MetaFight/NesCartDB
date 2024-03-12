@@ -1,0 +1,94 @@
+metadata:
+  name: Stunt Kids
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 19:12:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: stunt-kids
+releaseInfo:
+  catalogId: CAM-SK
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Camerica
+  developer: Codemasters
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Silver
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/81dd0d66ab4f484c957fbc93128ed0ee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 350')"
+    filename: /images/175/510848d48d07bd25d232272a7fd8191d.jpg
+romDetails:
+- type: PRG0
+  label: ICROS 74090-SK
+  size: 128 KB
+  crc32: 3A990EE0
+  x: 1
+pcbProperties:
+  name: BIC-48
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9224
+  estFirstRun: June 1992
+  pcbClass: CAMERICA-BF9093
+  inesMapper: 71
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9093
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9093
+  partNumberSubDetail: 
+  type: Camerica BF9093
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9207
+  dateCodeSuffix: T
+  std: 9207
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: 5006ATA
+  partNumberSubDetail: 085
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9224
+  dateCodeSuffix: S
+  std: 9224
+  misc: CAL16006.1
+- designation: U3
+  maker: Hyundai
+  partNumber: HY6264ALP-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9210
+  dateCodeSuffix: A
+  std: 9210
+  misc: 

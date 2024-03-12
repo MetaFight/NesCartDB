@@ -1,0 +1,108 @@
+metadata:
+  name: Guevara
+  altName: ゲバラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-31 22:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4450
+  - 228
+  additionalImages: 
+slug: guevara
+releaseInfo:
+  catalogId: SFX-GQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 26, 1988
+  publisher: SNK
+  developer: SNK
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SFX-GQ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad5d725c975afb33e14406361943f3d5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: SFX-GQ-0 PRG
+  size: 128 KB
+  crc32: 78DFB5D3
+  x: 1
+- type: CHR0
+  label: SFX-GQ-0 CHR
+  size: 128 KB
+  crc32: B039830A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 63C4E122
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6acbd28cee2791476eb78f9ef930646.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8849
+  estFirstRun: December 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8845
+  dateCodeSuffix: Z05
+  std: 8845
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 2J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8849
+  dateCodeSuffix: D
+  std: 8849
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8849
+  dateCodeSuffix: 1 A
+  std: 8849
+  misc: 

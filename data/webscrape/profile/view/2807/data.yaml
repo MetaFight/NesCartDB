@@ -1,0 +1,127 @@
+metadata:
+  name: Lemmings
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-26 03:39:00
+  moreProfiles:
+  - 609
+  - 2807
+  relatedProfiles:
+  - 2561
+  - 1948
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-LG-USA<br>Submitted by: bootgod<br>Linked from profile 609')"
+    filename: /images/175/92cb92927232d50c377f56d02beb19b2.jpg
+slug: lemmings
+releaseInfo:
+  catalogId: NES-LG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1992
+  publisher: Sunsoft
+  developer: DMA Design
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LG-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 609')"
+    filename: /images/175/fa0f6c8e11a00d3c98eb86c57b883731.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 609')"
+    filename: /images/175/8ec100cd3903540d4e5baddc29c59bfe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-LG-0 PRG
+  size: 128 KB
+  crc32: 6A27567E
+  x: 2
+- type: CHR0
+  label: NES-LG-0 CHR
+  size: 128 KB
+  crc32: 351E7CC5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A69F29FA
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27333f5961fa0620b53015a22552f94a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9241 - 9241 (2)
+  estFirstRun: October 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NQC
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2
+  dateCodeSuffix: 53
+  std: 9241
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NQD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2
+  dateCodeSuffix: 52
+  std: 9241
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: 7 CB
+  std: 9234
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9239
+  dateCodeSuffix: 3 A 170
+  std: 9239
+  misc: 

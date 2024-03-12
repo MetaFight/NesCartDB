@@ -1,0 +1,104 @@
+metadata:
+  name: 'Family Trainer 9: Totsugeki! Fuun Takeshijou 2'
+  altName: ファミリートレーナー⑨ 風雲たけし城二
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-17 20:39:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: family-trainer-9-totsugeki-fuun-takeshijou-2
+releaseInfo:
+  catalogId: FT-09
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1988
+  publisher: Bandai
+  developer: 
+  players: 1
+  peripherals: Family Trainer Mat
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Light Yellow
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d92f7b2ca3125b4db9a2eed636676d73.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37b07934e5ff8d2fae498af2b43a4bcb.jpg
+romDetails:
+- type: PRG0
+  label: BA-TAKESHI 2 PRO
+  size: 128 KB
+  crc32: EE11FE78
+  x: 1
+- type: CHR0
+  label: BA-TAKESHI 2 CHR-
+  size: 32 KB
+  crc32: B49317CF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 5CD5FDA4
+  x: 1
+pcbProperties:
+  name: BA-TAKESHI II
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-TAKESHI II<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f9676d9dfc987e82698184c490cf291.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-TAKESHI II<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e102fdb0119acf120814d6b691244257.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8848
+  estFirstRun: December 1988
+  pcbClass: BANDAI-GNROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 13
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8848
+  dateCodeSuffix: E
+  std: 8848
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5314
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8848
+  dateCodeSuffix: E
+  std: 8848
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8747
+  dateCodeSuffix: J
+  std: 8747
+  misc: 

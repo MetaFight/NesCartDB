@@ -1,0 +1,127 @@
+metadata:
+  name: Disney's Adventures in the Magic Kingdom
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2010-06-08 20:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2480
+  - 4529
+  - 118
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VD-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/eeaec31429e3035e98840a73cee00ee3.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VD-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e4e73812ed43d1fbbd7e9107d18f5ddf.jpg
+slug: disneys-adventures-in-the-magic-kingdom
+releaseInfo:
+  catalogId: NES-VD-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VD-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/1dc8149e67bc7cea4d5276ac2228f864.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VD-0 PRG
+  size: 128 KB
+  crc32: 0E3A7F49
+  x: 3
+- type: CHR0
+  label: NES-VD-0 CHR
+  size: 128 KB
+  crc32: 6AEC2F85
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6B761858
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f3b628b0c9e9080d439f1571ae491a4a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9237
+  estFirstRun: September 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: BS
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9236
+  dateCodeSuffix: E
+  std: 9236
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 2S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9237
+  dateCodeSuffix: D
+  std: 9237
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: C
+  std: 9234
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9139
+  dateCodeSuffix: B3027
+  std: 9139
+  misc: 

@@ -1,0 +1,107 @@
+metadata:
+  name: Atlantis no Nazo
+  altName: アトランチスの謎
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-06 21:30:00
+  moreProfiles:
+  - 1544
+  - 2694
+  - 3272
+  relatedProfiles: []
+  additionalImages: 
+slug: atlantis-no-nazo
+releaseInfo:
+  catalogId: SUN-ATL-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 17, 1986
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd63c10f6db438921e0c85790f875d05.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd4cd5b01765f388f01c6507f8271151.jpg
+romDetails:
+- type: PRG0
+  label: SUNSOFT P
+  size: 32 KB
+  crc32: 7AF3AFB7
+  x: 2
+- type: CHR0
+  label: SUNSOFT C
+  size: 16 KB
+  crc32: 33D76D26
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: F808AF60
+  x: 2
+pcbProperties:
+  name: UNK-SUNSOFT-ATL
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-SUNSOFT-ATL<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00aee6089d869d12ac23ab6d03e93644.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-SUNSOFT-ATL<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e84db7a3cd58c4628f91f97fc2829fd.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8613 - 8617 (2)
+  estFirstRun: March 1986
+  pcbClass: SUNSOFT-1
+  inesMapper: 184
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-1
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 32
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8613
+  dateCodeSuffix: E
+  std: 8613
+  misc: 
+- designation: IC2
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 17
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8613
+  dateCodeSuffix: D
+  std: 8613
+  misc: 
+- designation: IC3
+  maker: Mitsubishi
+  partNumber: SUNSOFT-1
+  partNumberSubDetail: 
+  type: Sunsoft-1
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 606
+  dateCodeSuffix: 102
+  std: 8606
+  misc: 

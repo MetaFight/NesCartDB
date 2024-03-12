@@ -1,0 +1,115 @@
+metadata:
+  name: 'Hydlide 3: Yami Kara no Houmonsha'
+  altName: ハイドライド３ 闇からの訪問者
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 19:57:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hydlide-3-yami-kara-no-houmonsha
+releaseInfo:
+  catalogId: NAM-HL3-6900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 17, 1989
+  publisher: Namco
+  developer: T & E Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/287c6c9a95e3946ff549ff4a956ff4df.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3a0baf256e41f8821c535787a3933ab.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: DD454208
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 3866011A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 47C2020B
+  x: 1
+pcbProperties:
+  name: 60-17
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-17<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0738ca73a1e451c562d610f79f4449f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-17<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9407cf6f622a42cc6325ecb99e8a9542.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8902
+  estFirstRun: January 1989
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: HL3
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 902
+  dateCodeSuffix: K12
+  std: 8902
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

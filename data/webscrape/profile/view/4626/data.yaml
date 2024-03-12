@@ -1,0 +1,161 @@
+metadata:
+  name: Mega Man 3
+  altName: 
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 04:29:00
+  moreProfiles:
+  - 46
+  - 2869
+  - 2870
+  - 2871
+  - 3055
+  - 892
+  - 1302
+  - 4626
+  relatedProfiles:
+  - 994
+  - 1436
+  - 1692
+  - 2108
+  - 1916
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-XU-USA<br>Submitted by: bootgod<br>Linked from profile 46')"
+    filename: /images/175/d0b62ae9cfb36cc361b26c732a73112f.jpg
+slug: mega-man-3
+releaseInfo:
+  catalogId: NES-XU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/f38c29b90669cd7bb799a41eca46d549.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: MEGM3 PRG-0 20 CAPCOM
+  size: 128 KB
+  crc32: 93C4AFC6
+  x: 1
+- type: PRG1
+  label: MEGM3 PRG-1 20 CAPCOM
+  size: 128 KB
+  crc32: B8ACA630
+  x: 1
+- type: CHR0
+  label: MEGM3 CHR 20 CAPCOM
+  size: 128 KB
+  crc32: 4028916E
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 12481CC0
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9043 - 9046 (5)
+  estFirstRun: October 1990
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U10
+  maker: Toshiba
+  partNumber: 74HC139AP
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

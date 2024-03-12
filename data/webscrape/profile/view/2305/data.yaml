@@ -1,0 +1,118 @@
+metadata:
+  name: Family Pinball
+  altName: ファミリーピンボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 06:34:00
+  moreProfiles:
+  - 2305
+  - 3970
+  relatedProfiles:
+  - 246
+  additionalImages: 
+slug: family-pinball
+releaseInfo:
+  catalogId: NAM-FP-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 24, 1989
+  publisher: Namco
+  developer: KID
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3970')"
+    filename: /images/175/d9c309824cdf27e8a0a5f3f7c976c28a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1c6176060ca3002acdb9f136116b6859.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 7A8AE523
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 234990B5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 491D8CDB
+  x: 2
+pcbProperties:
+  name: LROG052-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG052-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/284b185eccda174925411d0ca6eee6b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG052-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1cdea3e32372f706c3a6a9b481aad02a.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8910 - 8911 (2)
+  estFirstRun: March 1989
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG052
+  partNumberSubDetail: FP
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8911
+  dateCodeSuffix: 5
+  std: 8911
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

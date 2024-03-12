@@ -1,0 +1,117 @@
+metadata:
+  name: Faxanadu
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-06 15:40:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2392
+  - 2368
+  - 4364
+  - 1511
+  - 2550
+  - 4483
+  - 616
+  additionalImages: 
+slug: faxanadu
+releaseInfo:
+  catalogId: NES-FX-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: September 6, 1990
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FX-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c79bfd1882cd050c3ed632ac58888d78.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/5a7cc12da9dd8e87dc057e7f4c6ee513.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4370')"
+    filename: /images/175/a21af66f98afe9cf2e24a1304514bd71.jpg
+romDetails:
+- type: PRG0
+  label: PAL-FX-0 PRG
+  size: 256 KB
+  crc32: 76C161E3
+  x: 6
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 0J
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9036
+  dateCodeSuffix: D
+  std: 9036
+  misc: 
+- designation: U2 CHR RAM
+  maker: LSI Logic
+  partNumber: LH5160F-10TL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 036
+  dateCodeSuffix: D
+  std: 9036
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9036
+  dateCodeSuffix: 7 TA
+  std: 9036
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9036
+  dateCodeSuffix: A
+  std: 9036
+  misc: 

@@ -1,0 +1,134 @@
+metadata:
+  name: Goal!
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 04:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4433
+  - 2552
+  - 1961
+  additionalImages: 
+slug: goal
+releaseInfo:
+  catalogId: NES-JG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1989
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JG-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fe2d491b19b48b22c7780a4f60703988.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5c886c55a8f8b0936baa7cef34e4ad9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-JG-0 PRG
+  size: 256 KB
+  crc32: D78729FD
+  x: 1
+- type: CHR0
+  label: NES-JG-0 CHR
+  size: 128 KB
+  crc32: 13CDB249
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 84148F73
+  x: 1
+pcbProperties:
+  name: NES-SL3ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SL3ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6cfe46271f8dee4ae757ebd4caf22222.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8931
+  estFirstRun: August 1989
+  pcbClass: NES-SL3ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8925
+  dateCodeSuffix: XY
+  std: 8925
+  misc: SL3
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: EX
+  std: 8926
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8931
+  dateCodeSuffix: 5 BA
+  std: 8931
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8931
+  dateCodeSuffix: 3 A
+  std: 8931
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: I12
+  dateCodeSuffix: ''
+  std: 8912
+  misc: 

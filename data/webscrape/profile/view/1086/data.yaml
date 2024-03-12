@@ -1,0 +1,118 @@
+metadata:
+  name: Joshua & the Battle of Jericho
+  altName: 
+  variant: (Version 6.0)
+  submittedBy: bootgod
+  submittedOn: 2006-10-10 03:59:00
+  moreProfiles:
+  - 1086
+  - 4575
+  relatedProfiles: []
+  additionalImages: 
+slug: joshua-the-battle-of-jericho
+releaseInfo:
+  catalogId: WT-JC-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Embossed Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f17ce63984ebea5f2c71c42dc5d0b1f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 958')"
+    filename: /images/175/99483cfeab9e41e4f25867420819206b.jpg
+romDetails:
+- type: PRG0
+  label: JOSHUA VER 60 PRG
+  size: 128 KB
+  crc32: 0630C234
+  x: 2
+- type: CHR0
+  label: JOSHUA VER 60 VID
+  size: 128 KB
+  crc32: 59B743A7
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 99083B3A
+  x: 2
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ebd16f2ddfe6f31df7750546802a171.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 959')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9239 - 9411 (2)
+  estFirstRun: September 1992
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9411
+  dateCodeSuffix: APN
+  std: 9411
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9250
+  dateCodeSuffix: VVN
+  std: 9250
+  misc: 
+- designation: 
+  maker: Texas Instruments
+  partNumber: SN74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 6CCV27K
+  std: 
+  misc: 
+- designation: 
+  maker: Maxim
+  partNumber: ICL7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 8712
+  dateCodeSuffix: iS
+  std: 8712
+  misc: 

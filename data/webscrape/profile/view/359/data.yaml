@@ -1,0 +1,97 @@
+metadata:
+  name: Quattro Sports
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-23 00:22:00
+  moreProfiles:
+  - 359
+  - 3000
+  relatedProfiles:
+  - 550
+  additionalImages: 
+slug: quattro-sports
+releaseInfo:
+  catalogId: CAM-QS
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Camerica
+  developer: Codemasters
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Gold
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a004a357e27abe1170111df8e62bee8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1225')"
+    filename: /images/175/5b6e8d7ad57ac6a14f4122371f9bc95a.jpg
+romDetails:
+- type: PRG0
+  label: COBIC 7405-QS
+  size: 256 KB
+  crc32: CCCAF368
+  x: 5
+pcbProperties:
+  name: BIC-48
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9152 - 9152 (2)
+  estFirstRun: December 1991
+  pcbClass: CAMERICA-BF9096
+  inesMapper: 232
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9096
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9096
+  partNumberSubDetail: 
+  type: Camerica BF9096
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9152
+  dateCodeSuffix: T
+  std: 9152
+  misc: 
+- designation: U2
+  maker: Hyundai
+  partNumber: 
+  partNumberSubDetail: HY232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: Hyundai
+  partNumber: HY6264P-C
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: ''
+  std: 9144
+  misc: 

@@ -1,0 +1,122 @@
+metadata:
+  name: Infiltrator
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-28 01:11:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-IF-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/954405d0aa2b5c1f66de6fff4f39aeed.jpg
+slug: infiltrator
+releaseInfo:
+  catalogId: NES-IF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Mindscape
+  developer: Gray Matter
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd7ab276230c6c2726bc63d8ea568835.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bb4a00a09f42975d33dcbd01e502cf43.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-IF-0 PRG
+  size: 128 KB
+  crc32: 32A33BD1
+  x: 1
+- type: CHR0
+  label: NES-IF-0 CHR
+  size: 128 KB
+  crc32: 20AF8F97
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DF64963B
+  x: 1
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad7ccdc039e5ce5d4211b98774311296.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9015
+  estFirstRun: April 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NVY
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 041
+  dateCodeSuffix: B3
+  std: 9015
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NVZ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 043
+  dateCodeSuffix: 52
+  std: 9015
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9011
+  dateCodeSuffix: 5 CA
+  std: 9011
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9011
+  dateCodeSuffix: KX005
+  std: 9011
+  misc: 

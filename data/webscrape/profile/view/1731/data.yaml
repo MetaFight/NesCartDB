@@ -1,0 +1,166 @@
+metadata:
+  name: "Moero!! Pro Yakyuu '88: Kettei Ban"
+  altName: 燃えろ！！ プロ野球’８８ 決定版
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 02:58:00
+  moreProfiles:
+  - 1731
+  - 3030
+  - 3031
+  - 3032
+  - 3033
+  relatedProfiles:
+  - 14
+  additionalImages: 
+slug: moero-pro-yakyuu-88-kettei-ban
+releaseInfo:
+  catalogId: JF-19
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 10, 1988
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: White
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-19
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97479c98d616129c9f714dccabac7bec.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ed4887c0365ea724cbe8bdf71f56d2f9.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 9F50A100
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: F20E819F
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: B297B5E7
+  x: 5
+pcbProperties:
+  name: JF-19
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-19<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d79e769639d13d16d1edf26e3affdd87.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-19<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/384d8fe3132f8cbc978cef937d91c2bb.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8829 - 8840 (5)
+  estFirstRun: July 1988
+  pcbClass: JALECO-JF-19
+  inesMapper: 92
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx08, 74xx161, 74xx174, 74xx174, 74xx32, D7756C
+detailedChipInfo:
+- designation: 5323
+  maker: NEC
+  partNumber: D23C2001C
+  partNumberSubDetail: W28
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8830
+  dateCodeSuffix: PY700
+  std: 8830
+  misc: 
+- designation: 6230
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: W15
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8829
+  dateCodeSuffix: KX721
+  std: 8829
+  misc: 
+- designation: 7756
+  maker: NEC
+  partNumber: D7756C
+  partNumberSubDetail: 220
+  type: ADPCM Speech Chip
+  typeSubDetail: 256 kb
+  package: DIP-18
+  dateCodePrefix: 8821
+  dateCodeSuffix: PY021
+  std: 8821
+  misc: 
+- designation: 161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8C2
+  dateCodeSuffix: T
+  std: 8811
+  misc: 
+- designation: 174
+  maker: Motorola
+  partNumber: MC74HC174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8811
+  dateCodeSuffix: N J
+  std: 8811
+  misc: 
+- designation: 174
+  maker: Motorola
+  partNumber: MC74HC174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8809
+  dateCodeSuffix: N J
+  std: 8809
+  misc: 
+- designation: 32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8751
+  dateCodeSuffix: T7
+  std: 8751
+  misc: 
+- designation: 08
+  maker: NEC
+  partNumber: D74HC08C
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8420
+  dateCodeSuffix: A7
+  std: 8420
+  misc: 

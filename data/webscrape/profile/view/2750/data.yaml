@@ -1,0 +1,130 @@
+metadata:
+  name: Bigfoot
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-07-24 03:53:00
+  moreProfiles:
+  - 1298
+  - 2437
+  - 2750
+  - 4275
+  relatedProfiles:
+  - 2087
+  - 271
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-A8-EEC<br>Submitted by: Kinopio<br>Linked from profile 2437')"
+    filename: /images/175/80e92b69d75669332a3bd27ac8e6c8ff.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-A8-EEC<br>Submitted by: Kinopio<br>Linked from profile 2437')"
+    filename: /images/175/586820fb551436dd24419b19d1f23c66.jpg
+slug: bigfoot
+releaseInfo:
+  catalogId: NES-A8-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: January 24, 1991
+  publisher: Acclaim
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-A8-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2437')"
+    filename: /images/175/aa8cd0afb401993c7976a1add18694d0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2437')"
+    filename: /images/175/1a46e32a47294157da1c4810f58e996d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-A8-0 PRG
+  size: 128 KB
+  crc32: 629E060B
+  x: 5
+- type: CHR0
+  label: PAL-A8-0 CHR
+  size: 128 KB
+  crc32: DA93BF6C
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 34C1E893
+  x: 5
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4cc317b17ed43d92b4e8c5bc84db4a9e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9042 - 9109 (4)
+  estFirstRun: October 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 71
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9108
+  dateCodeSuffix: E
+  std: 9108
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: Z6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9109
+  dateCodeSuffix: D
+  std: 9109
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9109
+  dateCodeSuffix: A
+  std: 9109
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9040
+  dateCodeSuffix: B3016
+  std: 9040
+  misc: 

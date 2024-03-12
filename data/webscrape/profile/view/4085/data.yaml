@@ -1,0 +1,124 @@
+metadata:
+  name: 'Faria: Fuuin no Tsurugi'
+  altName: ファリア 封印の剣
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1108
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00f7395ffd0e420661bc96240b13b6be.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e10be15e33ae0a8e55fe3c37cd10ea69.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ddd7d49884c8db3cbd447a10faf9e6ba.jpg
+slug: faria-fuuin-no-tsurugi
+releaseInfo:
+  catalogId: HSS-FA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 21, 1989
+  publisher: Hi-Score Software
+  developer: Game Arts
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: HSS-FA
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3d03046daa67eaeaf243517ceee5033c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSF-FA-0 PRG
+  size: 128 KB
+  crc32: BF5E2513
+  x: 1
+- type: CHR0
+  label: HSF-FA-0 CHR
+  size: 128 KB
+  crc32: 491385CC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F885D931
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ba57bdf216755e20a9d63a6f7cc233ec.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 3453')"
+    filename: /images/175/82f707f1016690645558584d74fcfd4e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924
+  estFirstRun: June 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B1-H
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8920
+  dateCodeSuffix: XX
+  std: 8920
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8922
+  dateCodeSuffix: EY
+  std: 8922
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B1-H
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8924
+  dateCodeSuffix: T
+  std: 8924
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: 1 Y
+  std: 8924
+  misc: 

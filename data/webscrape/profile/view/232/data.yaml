@@ -1,0 +1,133 @@
+metadata:
+  name: Batman
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-09 01:26:00
+  moreProfiles:
+  - 165
+  - 223
+  - 232
+  - 1144
+  - 1396
+  - 4614
+  relatedProfiles:
+  - 2434
+  - 1421
+  - 2054
+  - 3145
+  - 1904
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>* NES-B4-USA<br>Submitted by: bootgod<br>Linked from profile 165')"
+    filename: /images/175/b5ddc1b8ca55825146ec4a6b1d1d1a8d.jpg
+slug: batman
+releaseInfo:
+  catalogId: NES-B4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-B4-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 223')"
+    filename: /images/175/913358c17edd863285c31634da4e58e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 165')"
+    filename: /images/175/4cb091f9e6da17e3a34d2700a2e92d41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-B4-0 PRG
+  size: 128 KB
+  crc32: 5A3E41D8
+  x: 4
+- type: CHR0
+  label: NES-B4-0 CHR
+  size: 128 KB
+  crc32: F3B41C18
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 13C6617E
+  x: 4
+pcbProperties:
+  name: NES-B4
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-B4<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5c2decba932f903305551176439ca221.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8949 - 9024 (4)
+  estFirstRun: December 1989
+  pcbClass: NES-B4
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: ''
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8948
+  dateCodeSuffix: EY705
+  std: 8948
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8957
+  dateCodeSuffix: 5 CA
+  std: 9004
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8951
+  dateCodeSuffix: KP015
+  std: 8951
+  misc: 

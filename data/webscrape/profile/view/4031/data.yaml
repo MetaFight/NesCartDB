@@ -1,0 +1,122 @@
+metadata:
+  name: Plasma Ball
+  altName: プラズマボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 03:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c0b659598516f578cdad5aaf06fa42d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab876e4c0ee640e870ae43716fc12800.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e21102cf3d7e2ec26e139e809eb9810a.jpg
+slug: plasma-ball
+releaseInfo:
+  catalogId: JF-36
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 27, 1992
+  publisher: Jaleco
+  developer: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-36
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1fae94d8da8798ecfbf82d4fd64e0683.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1fa77c29251f4826badccc76d3f269d9.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 6EC74E4C
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 18B13F34
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0DB4B382
+  x: 1
+pcbProperties:
+  name: JF-24A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d7cc6ae6ae6b6bc39be5183b2b2feb9b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 2288')"
+    filename: /images/175/efad5326850045481d8ccde9ecfa1fa5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9209
+  estFirstRun: March 1992
+  pcbClass: JALECO-JF-24
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W89
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9209
+  dateCodeSuffix: K9025
+  std: 9209
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W90
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9209
+  dateCodeSuffix: K9023
+  std: 9209
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 140
+  dateCodeSuffix: 184
+  std: 9140
+  misc: 
+- designation: IC5
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9147
+  dateCodeSuffix: J7
+  std: 9147
+  misc: 

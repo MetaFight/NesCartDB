@@ -1,0 +1,187 @@
+metadata:
+  name: Impossible Mission-II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-27 06:18:00
+  moreProfiles:
+  - 221
+  - 1082
+  - 3003
+  relatedProfiles:
+  - 1081
+  additionalImages: 
+slug: impossible-mission-ii
+releaseInfo:
+  catalogId: SEI-IM
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: SEI
+  developer: Epyx
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  embossedText: S.E.I. Made in USA Pat. Pending
+  frontLabelDesc: Color Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97455a0b4fba6cdf77c097d0da615221.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cdd4d63098e5939baa470fa08396dcaf.jpg
+romDetails:
+- type: PRG0
+  label: PGM
+  size: 64 KB
+  crc32: 3A5CC3FA
+  x: 5
+- type: CHR0
+  label: CHR
+  size: 64 KB
+  crc32: B66C53B9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 92A3D007
+  x: 5
+pcbProperties:
+  name: NINA-001 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6a60fd4ddf21c9145ca6b48c4af43530.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e379db1fc038cda8bb64ebafeed45310.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 8941 - 8944 (2)
+  estFirstRun: October 1989
+  pcbClass: AVE-NINA-01
+  inesMapper: 34
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: NINA
+  hardware: 74xx00, 74xx133, 74xx139, 74xx173, 74xx173, 74xx74
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1005
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: U10
+  maker: GoldStar
+  partNumber: GD74LS74A
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8931
+  dateCodeSuffix: ''
+  std: 8931
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1004
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: U3
+  maker: Macronix
+  partNumber: NINA
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: ''
+  std: 8944
+  misc: 17604
+- designation: U4
+  maker: GoldStar
+  partNumber: GM76C88-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: I15
+  dateCodeSuffix: ''
+  std: 8915
+  misc: 
+- designation: U5
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U6
+  maker: Semi Processes
+  partNumber: SP74HCT139N
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8425
+  dateCodeSuffix: ''
+  std: 8425
+  misc: 
+- designation: U7
+  maker: Motorola
+  partNumber: SN74LS133N
+  partNumberSubDetail: 
+  type: 74-133 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8510
+  dateCodeSuffix: RQ
+  std: 8510
+  misc: 
+- designation: U8
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U9
+  maker: GoldStar
+  partNumber: GD74LS00
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8929
+  dateCodeSuffix: ''
+  std: 8929
+  misc: ROK

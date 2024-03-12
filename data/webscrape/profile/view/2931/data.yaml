@@ -1,0 +1,80 @@
+metadata:
+  name: Flying Warriors
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-22 06:30:00
+  moreProfiles:
+  - 196
+  - 2931
+  - 4623
+  relatedProfiles:
+  - 2182
+  additionalImages: 
+slug: flying-warriors
+releaseInfo:
+  catalogId: NES-6F-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6F-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Skrybe<br>Linked from profile 4623')"
+    filename: /images/175/83c8b7e5fff1695354595831e5500e08.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 196')"
+    filename: /images/175/a878de0bb94e639e9a8471dade06880a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-6F-0 PRG
+  size: 128 KB
+  crc32: 2F928646
+  x: 2
+- type: CHR0
+  label: NES-6F-0 CHR
+  size: 128 KB
+  crc32: D4BF6E1F
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 10180072
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9047
+  estFirstRun: November 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

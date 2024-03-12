@@ -1,0 +1,117 @@
+metadata:
+  name: 'Otaku no Seiza: An Adventure in the Otaku Galaxy'
+  altName: おたくの星座
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 05:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: otaku-no-seiza-an-adventure-in-the-otaku-galaxy
+releaseInfo:
+  catalogId: MAM-OQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 31, 1991
+  publisher: M&M
+  developer: Advance Communication
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: MAM-OQ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/18ae18b96e68b0e1ca985b181004006a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: MAM-OQ-0 PRG
+  size: 256 KB
+  crc32: A524AE9B
+  x: 1
+- type: CHR0
+  label: MAM-OQ-0 CHR
+  size: 128 KB
+  crc32: 5445086E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 4582F22E
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c51d54c6333563ddcc61155048ae1a4b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9127
+  estFirstRun: July 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J558
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9122
+  dateCodeSuffix: EAI
+  std: 9122
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC531003CP
+  partNumberSubDetail: J559
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9127
+  dateCodeSuffix: EAI
+  std: 9127
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9046
+  dateCodeSuffix: KP054
+  std: 9046
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 

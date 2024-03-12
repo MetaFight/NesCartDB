@@ -1,0 +1,80 @@
+metadata:
+  name: Legacy of the Wizard
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-13 01:25:00
+  moreProfiles:
+  - 75
+  - 2805
+  - 768
+  - 861
+  relatedProfiles:
+  - 2294
+  additionalImages: 
+slug: legacy-of-the-wizard
+releaseInfo:
+  catalogId: NES-LC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1989
+  publisher: Br?derbund
+  developer: Nihon Falcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LC-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 75')"
+    filename: /images/175/bcfffd8328d28b81af7018ffe986e071.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 75')"
+    filename: /images/175/b9e4003cb203f27f9c1df7199cfc6c72.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-LC-0 PRG
+  size: 128 KB
+  crc32: 4CDCAF6B
+  x: 5
+- type: CHR0
+  label: NES-LC-0 CHR
+  size: 64 KB
+  crc32: 16C29089
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: F181C021
+  x: 5
+pcbProperties:
+  name: NES-TFROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919 - 9001 (3)
+  estFirstRun: May 1989
+  pcbClass: NES-TFROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo: []

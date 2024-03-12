@@ -1,0 +1,70 @@
+metadata:
+  name: 'Ikari Warriors II: Victory Road'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-08 02:44:00
+  moreProfiles:
+  - 184
+  - 2854
+  - 1171
+  - 2943
+  relatedProfiles: []
+  additionalImages: 
+slug: ikari-warriors-ii-victory-road
+releaseInfo:
+  catalogId: NES-VR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1988
+  publisher: SNK
+  developer: SNK
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VR-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a1f866ba84abe764293260d7f606f56.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 184')"
+    filename: /images/175/cee0d6a1effa816a6e1be4d67b221968.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-VR-0 PRG
+  size: 256 KB
+  crc32: 4F467410
+  x: 4
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8814 - 8814 (2)
+  estFirstRun: April 1988
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo: []

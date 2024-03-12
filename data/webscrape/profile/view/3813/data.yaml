@@ -1,0 +1,109 @@
+metadata:
+  name: Kyuukyoku Tiger
+  altName: 究極タイガー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 04:40:00
+  moreProfiles: []
+  relatedProfiles:
+  - 945
+  additionalImages: 
+slug: kyuukyoku-tiger
+releaseInfo:
+  catalogId: CBS-QT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 4, 1989
+  publisher: CBS / Sony Group
+  developer: Toaplan
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: CBS-QT
+  secondaryId: 59-FR-3
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab3b0f3396548fda103590e9165dc783.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: CBS-QT-0 PRG
+  size: 128 KB
+  crc32: 408D72DB
+  x: 1
+- type: CHR0
+  label: CBS-QT-0 CHR
+  size: 128 KB
+  crc32: 5EBF2DF9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 091ED5A9
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b25fd4a97270f554067973b4a8e08223.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 3554')"
+    filename: /images/175/e47f7cbfef953cb325053380b2a37efe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8928
+  estFirstRun: July 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 8H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: E
+  std: 8926
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 7Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8928
+  dateCodeSuffix: E
+  std: 8928
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8923
+  dateCodeSuffix: KP
+  std: 8923
+  misc: 

@@ -1,0 +1,126 @@
+metadata:
+  name: StarTropics
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 20:59:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4365
+  - 2449
+  - 41
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-OC-NOE<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c5875a71e0355a2817cecf7a13480061.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-OC-NOE<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/8e3dd323527b5311fea14cb269088409.jpg
+slug: startropics
+releaseInfo:
+  catalogId: NES-OC-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: August 20, 1992
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OC-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4ecbc32e49c26521c6f1cae5831f748c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-OC-0 PRG
+  size: 256 KB
+  crc32: AC74DD5C
+  x: 4
+- type: CHR0
+  label: NES-OC-0 CHR
+  size: 256 KB
+  crc32: 42236F71
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 998422FC
+  x: 4
+pcbProperties:
+  name: NES-HKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-HKROM-01<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/520d1345850f61127925c8fc4510e323.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-HKROM-01<br>Submitted by: Kinopio<br>Linked from profile 2449')"
+    filename: /images/175/5d97c76c96bd94e5dc30e913f45f7048.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9212
+  estFirstRun: March 1992
+  pcbClass: NES-HKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC6B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN232001
+  partNumberSubDetail: NKQ
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 239
+  dateCodeSuffix: 50
+  std: 9212
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN232001
+  partNumberSubDetail: NKD
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 239
+  dateCodeSuffix: 50
+  std: 9212
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9209
+  dateCodeSuffix: A
+  std: 9209
+  misc: 
+- designation: U4 MMC6
+  maker: Panasonic
+  partNumber: MMC6B
+  partNumberSubDetail: 
+  type: Nintendo MMC6
+  typeSubDetail: 
+  package: TQFP-64
+  dateCodePrefix: 0
+  dateCodeSuffix: ''
+  std: 9028
+  misc: 

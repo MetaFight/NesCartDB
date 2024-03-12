@@ -1,0 +1,101 @@
+metadata:
+  name: Pachi Com
+  altName: パチコン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 01:11:00
+  moreProfiles:
+  - 1453
+  - 3581
+  - 3582
+  - 3583
+  - 3584
+  - 3585
+  relatedProfiles: []
+  additionalImages: 
+slug: pachi-com
+releaseInfo:
+  catalogId: TFS-PC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1985
+  publisher: Toemiland
+  developer: Shouei System
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: TFS-PC
+  secondaryId: FS-2001G
+  backLabelId/Desc: 850610
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3581')"
+    filename: /images/175/193ca2aa14d9311ef6389d35579546ef.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFS-PC-0 PRG
+  size: 32 KB
+  crc32: 106AF52A
+  x: 6
+- type: CHR0
+  label: TFS-PC-0 CHR
+  size: 8 KB
+  crc32: 9611C585
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: E30B2BCF
+  x: 6
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8031924a90f211367b8a7738c667d9cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8544 - 8544 (6)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Toshiba
+  partNumber: TC53257P
+  partNumberSubDetail: 1615
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8540
+  dateCodeSuffix: EBI
+  std: 8540
+  misc: 
+- designation: CHR
+  maker: Toshiba
+  partNumber: TMM2365P
+  partNumberSubDetail: 1614
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8544
+  dateCodeSuffix: ABA
+  std: 8544
+  misc: 

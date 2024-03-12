@@ -1,0 +1,107 @@
+metadata:
+  name: Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi
+  altName: 東海道五十三次
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 02:54:00
+  moreProfiles:
+  - 1755
+  - 2263
+  - 3273
+  relatedProfiles: []
+  additionalImages: 
+slug: kanshakudama-nage-kantarou-no-toukaidou-gojuusan-tsugi
+releaseInfo:
+  catalogId: SUN-TKR-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 3, 1986
+  publisher: Sunsoft
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1755')"
+    filename: /images/175/8736c545f9b71a486fb8d623a8c5a6e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1542')"
+    filename: /images/175/457384bdb2a847860b3e12aed612ee2b.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 96C3E953
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 143C00C0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: F635C594
+  x: 3
+pcbProperties:
+  name: 9100-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9100-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14611bb975af9e75b33e37b1c16e7888.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9100-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bda02055d1a53683dc0e305150c55f0.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Mfg17
+  mfgRange: 8613 - 8911 (3)
+  estFirstRun: March 1986
+  pcbClass: SUNSOFT-1
+  inesMapper: 184
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-1
+detailedChipInfo:
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: SUNSOFT-1
+  partNumberSubDetail: 
+  type: Sunsoft-1
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 613
+  dateCodeSuffix: 107
+  std: 8613
+  misc: 

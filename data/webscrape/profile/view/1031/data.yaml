@@ -1,0 +1,138 @@
+metadata:
+  name: Gemfire
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 19:57:00
+  moreProfiles:
+  - 1031
+  - 1827
+  relatedProfiles:
+  - 4292
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-GE-USA<br>Submitted by: Bregalad<br>Linked from profile 1827')"
+    filename: /images/175/02097597ac37286b2ff9a74722ead88a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-GE-USA<br>Submitted by: Bregalad<br>Linked from profile 1827')"
+    filename: /images/175/c92c5e1be56c6dc6a3f20260ee47e974.jpg
+slug: gemfire
+releaseInfo:
+  catalogId: NES-GE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1992
+  publisher: Koei
+  developer: Koei
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GE-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ae667a0902c7c91b4c9619c7fd5d7af.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/323d1fce37b6d8ebd91d5f1a3cfdc13e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-GE-0 PRG
+  size: 256 KB
+  crc32: E7C72DBB
+  x: 1
+- type: CHR0
+  label: NES-GE-0 CHR
+  size: 256 KB
+  crc32: 269ED2EE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 0EC6C023
+  x: 2
+pcbProperties:
+  name: NES-EKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-EKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ef0ec3f652a9fc41a7276f5160c869d4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-EKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b1a5437a63e177f03a4511dc164e3db.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9205 - 9206 (2)
+  estFirstRun: February 1992
+  pcbClass: NES-EKROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W48
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9205
+  dateCodeSuffix: EY011
+  std: 9205
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W49
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9205
+  dateCodeSuffix: EY013
+  std: 9205
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9123
+  dateCodeSuffix: AA043
+  std: 9123
+  misc: 
+- designation: U4 64K SRAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9202
+  dateCodeSuffix: KT19
+  std: 9202
+  misc: 
+- designation: U6 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9206
+  dateCodeSuffix: 1 BB
+  std: 9206
+  misc: 

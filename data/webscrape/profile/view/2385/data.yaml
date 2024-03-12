@@ -1,0 +1,115 @@
+metadata:
+  name: Golf
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2007-12-31 04:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2125
+  - 4429
+  - 1472
+  - 2090
+  - 100
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-GF-CAN<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/6a63255864c3e3e506689cc7958aa2dd.jpg
+slug: golf
+releaseInfo:
+  catalogId: NES-GF-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: December 20, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GF-CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/dd755ae6a1a020ed3b493e5940057263.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/3579969117635506031b0e2d227f1749.jpg
+romDetails:
+- type: PRG0
+  label: NES-GF-0 PRG
+  size: 16 KB
+  crc32: F9622BFA
+  x: 8
+- type: CHR0
+  label: NES-GF-0 CHR
+  size: 8 KB
+  crc32: FF6FC790
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E7D2C49D
+  x: 8
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/cfc9a9141580909f9418ed95ab03a910.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8803
+  estFirstRun: January 1988
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 08
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8751
+  dateCodeSuffix: E
+  std: 8751
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 93
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8803
+  dateCodeSuffix: B
+  std: 8803
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8751
+  dateCodeSuffix: A
+  std: 8751
+  misc: 

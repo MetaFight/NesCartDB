@@ -1,0 +1,126 @@
+metadata:
+  name: Platoon
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-02 04:15:00
+  moreProfiles:
+  - 162
+  - 1001
+  - 1373
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>* NES-PU-USA<br>Submitted by: bootgod<br>Linked from profile 162')"
+    filename: /images/175/f8a2a57cd101ab71efc768c955ef4fd7.jpg
+slug: platoon
+releaseInfo:
+  catalogId: NES-PU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Sunsoft
+  developer: Ocean
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PU-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 162')"
+    filename: /images/175/e30f97020f406809b330e7cfb6053e70.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d316e2e79d96916a74e81b790fce600f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-PU-0 PRG
+  size: 128 KB
+  crc32: 9381A81D
+  x: 1
+- type: CHR0
+  label: NES-PU-0 CHR
+  size: 128 KB
+  crc32: 689DF57D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B3769A51
+  x: 1
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/545433345fc3c79b885e9d04aa087ff9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8904 - 8919 (2)
+  estFirstRun: January 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1802
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9A2
+  dateCodeSuffix: E1
+  std: 8902
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 2H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8904
+  dateCodeSuffix: D
+  std: 8904
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8839
+  dateCodeSuffix: 3 AA
+  std: 8839
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8903
+  dateCodeSuffix: 1 A
+  std: 8903
+  misc: 

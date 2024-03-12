@@ -1,0 +1,78 @@
+metadata:
+  name: Monster Party
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:33:00
+  moreProfiles:
+  - 211
+  - 2821
+  - 1317
+  relatedProfiles: []
+  additionalImages: 
+slug: monster-party
+releaseInfo:
+  catalogId: NES-P1-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-P1-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 211')"
+    filename: /images/175/8bb2a08b81b89118c6819b7907b0a662.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 211')"
+    filename: /images/175/afdc08631414cf4e3d88ecbae7346f9d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-P1-0 PRG
+  size: 128 KB
+  crc32: 1FC5740D
+  x: 3
+- type: CHR0
+  label: NES-P1-0 CHR
+  size: 128 KB
+  crc32: 18D7FCE0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 02B9E7C2
+  x: 3
+pcbProperties:
+  name: NES-SL1ROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8951 - 8951 (2)
+  estFirstRun: December 1989
+  pcbClass: NES-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo: []

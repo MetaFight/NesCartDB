@@ -1,0 +1,107 @@
+metadata:
+  name: Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi
+  altName: 東海道五十三次
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-29 02:22:00
+  moreProfiles:
+  - 1755
+  - 2263
+  - 3273
+  relatedProfiles: []
+  additionalImages: 
+slug: kanshakudama-nage-kantarou-no-toukaidou-gojuusan-tsugi
+releaseInfo:
+  catalogId: SUN-TKR-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 3, 1986
+  publisher: Sunsoft
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8736c545f9b71a486fb8d623a8c5a6e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc85273f130d8a1a7babd0dbc3817734.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 96C3E953
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 143C00C0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: F635C594
+  x: 3
+pcbProperties:
+  name: SUNSOFT-K
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SUNSOFT-K<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab5ddeae3122e7d41cf552aa6a50cd12.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SUNSOFT-K<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae6c6e56fe78c5f0fe83c2f73b75399e.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8613 - 8911 (3)
+  estFirstRun: March 1986
+  pcbClass: SUNSOFT-1
+  inesMapper: 184
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-1
+detailedChipInfo:
+- designation: IC1
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2951
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9C2
+  dateCodeSuffix: 11
+  std: 8911
+  misc: 
+- designation: IC2
+  maker: Ricoh
+  partNumber: RP23128E
+  partNumberSubDetail: 0401
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9C2
+  dateCodeSuffix: 11
+  std: 8911
+  misc: 
+- designation: IC3
+  maker: Mitsubishi
+  partNumber: SUNSOFT-1
+  partNumberSubDetail: 
+  type: Sunsoft-1
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 911
+  dateCodeSuffix: 100
+  std: 8911
+  misc: 

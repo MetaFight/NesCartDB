@@ -1,0 +1,125 @@
+metadata:
+  name: 'Spider-Man: Return of the Sinister Six'
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-11-03 19:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 658
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RX-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7b52443cb148aa254e568a7e2765f171.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RX-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/502dcb38eea74ab7926932bcf4f00f80.jpg
+slug: spider-man-return-of-the-sinister-six
+releaseInfo:
+  catalogId: NES-RX-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: November 29, 1992
+  publisher: LJN
+  developer: BITS Studios
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RX-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/704043d851abdf20137d0a8d7048543d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RX-0 PRG
+  size: 128 KB
+  crc32: 1508A5F0
+  x: 1
+- type: CHR0
+  label: PAL-RX-0 CHR
+  size: 256 KB
+  crc32: 627B7662
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: ED3FA60E
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d0dca81359052200f4987e4dedb80e41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9248
+  estFirstRun: December 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T25
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9248
+  dateCodeSuffix: KY003
+  std: 9248
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W76
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9248
+  dateCodeSuffix: XD044
+  std: 9248
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9246
+  dateCodeSuffix: C
+  std: 9246
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9247
+  dateCodeSuffix: 1 A
+  std: 9247
+  misc: 

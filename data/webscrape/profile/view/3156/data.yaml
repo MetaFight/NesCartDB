@@ -1,0 +1,123 @@
+metadata:
+  name: Kage no Densetsu
+  altName: 影の伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 00:46:00
+  moreProfiles:
+  - 1557
+  - 2252
+  - 3156
+  - 3157
+  - 3301
+  - 4579
+  relatedProfiles:
+  - 277
+  additionalImages: 
+slug: kage-no-densetsu
+releaseInfo:
+  catalogId: TFC-KD-4900-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 18, 1986
+  publisher: Taito
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 3 Screws
+  frontLabelId: Not Present
+  sequence#: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2252')"
+    filename: /images/175/324de360831beaa7bad22dda9dbb3f87.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1557')"
+    filename: /images/175/deb7b504717a15e3710b506bf9062bef.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 391C4261
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 0489AABC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: BDA7925E
+  x: 5
+pcbProperties:
+  name: FC-009
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-009<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e6f9b17a466a9690513ffc13acbfc932.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-009<br>Submitted by: bootgod<br>Linked from profile 2252')"
+    filename: /images/175/d2b22c8771e6ff80cd78afa6be4def73.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8608 - 8614 (6)
+  estFirstRun: February 1986
+  pcbClass: TAITO-74*139/74
+  inesMapper: 87
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: OKI
+  partNumber: M38256A
+  partNumberSubDetail: U1
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 64
+  dateCodeSuffix: 16
+  std: 8614
+  misc: 
+- designation: CH
+  maker: OKI
+  partNumber: M38128A
+  partNumberSubDetail: U1
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 64
+  dateCodeSuffix: 543
+  std: 8614
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M74HC139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 62
+  dateCodeSuffix: 05
+  std: 8605
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M74HC74
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 61
+  dateCodeSuffix: 02
+  std: 8601
+  misc: 

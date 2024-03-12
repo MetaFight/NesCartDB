@@ -1,0 +1,70 @@
+metadata:
+  name: 'Arch Rivals: A Basketbrawl!'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-08 02:34:00
+  moreProfiles:
+  - 410
+  - 1168
+  relatedProfiles:
+  - 1301
+  - 2403
+  additionalImages: 
+slug: arch-rivals-a-basketbrawl
+releaseInfo:
+  catalogId: NES-Q4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: Acclaim
+  developer: Midway
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Q4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 410')"
+    filename: /images/175/056f3156b8be4ef41283b05107b7fd52.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 410')"
+    filename: /images/175/590450962ad9828fafcd0c9944d408c8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-Q4-0 PRG
+  size: 128 KB
+  crc32: C740EB46
+  x: 2
+pcbProperties:
+  name: NES-AMROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9101
+  estFirstRun: January 1991
+  pcbClass: NES-AMROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

@@ -1,0 +1,107 @@
+metadata:
+  name: Thunderbirds
+  altName: サンダーバード
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 20:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 943
+  additionalImages: 
+slug: thunderbirds
+releaseInfo:
+  catalogId: PAC-T5
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 29, 1989
+  publisher: Pack-In-Video
+  developer: Pack-In-Video
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: PAC-T5
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5358f5575c9b7db08399d5c01d298cc6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: PAC-T5-0 PRG
+  size: 128 KB
+  crc32: E9BC16FF
+  x: 1
+- type: CHR0
+  label: PAC-T5-0 CHR
+  size: 128 KB
+  crc32: 757D3DF5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7B72FBA4
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9d8566df59fa25c581601c456adb8e7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8937
+  estFirstRun: September 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: B2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8936
+  dateCodeSuffix: E
+  std: 8936
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 8A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8937
+  dateCodeSuffix: D
+  std: 8937
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8937
+  dateCodeSuffix: 5 A
+  std: 8937
+  misc: 

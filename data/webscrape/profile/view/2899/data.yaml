@@ -1,0 +1,77 @@
+metadata:
+  name: 'The Simpsons:  Bart vs. The World'
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 00:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1854
+  - 1987
+  - 651
+  additionalImages: 
+slug: the-simpsons-bart-vs-the-world
+releaseInfo:
+  catalogId: NES-Y9-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Y9-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: B00daW<br>Linked from profile 0')"
+    filename: /images/175/c4e7c9700efc343332a35bb65620ad1e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-Y9-0 PRG
+  size: 256 KB
+  crc32: A8AEE66C
+  x: 4
+- type: CHR0
+  label: PAL-Y9-0 CHR
+  size: 128 KB
+  crc32: 0F891CEA
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: E9F8EF15
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: B00daW<br>Linked from profile 0')"
+    filename: /images/175/d2bfc45f22edfdf56702e291ff36cece.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3B
+detailedChipInfo: []

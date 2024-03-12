@@ -1,0 +1,123 @@
+metadata:
+  name: Stealth ATF
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-17 22:12:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1422
+  - 2637
+  - 1971
+  additionalImages: 
+slug: stealth-atf
+releaseInfo:
+  catalogId: NES-LH-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1989
+  publisher: Activision
+  developer: Imagineering
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LH-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3bb9b3b478e90c62b25b21121d58e064.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/406b87ade04ce2106bfe1aa5a9c88abb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LH-0 PRG
+  size: 128 KB
+  crc32: 21D7517A
+  x: 1
+- type: CHR0
+  label: NES-LH-0 CHR
+  size: 128 KB
+  crc32: BBA9A33D
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C6DD7E69
+  x: 1
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4c8dae26cf9642b265641e3e8a20165e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-04<br>Submitted by: Kinopio<br>Linked from profile 2422')"
+    filename: /images/175/dcc49909419dbfd669adf95e140e460c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8944
+  estFirstRun: November 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: D8
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8939
+  dateCodeSuffix: E
+  std: 8939
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 8L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8942
+  dateCodeSuffix: E
+  std: 8942
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: 5 AA
+  std: 8942
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 3 AA
+  std: 8944
+  misc: 

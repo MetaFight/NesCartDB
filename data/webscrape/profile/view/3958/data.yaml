@@ -1,0 +1,111 @@
+metadata:
+  name: Golf Ko Open
+  altName: ゴルフッ子オープン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 05:28:00
+  moreProfiles:
+  - 3958
+  - 4703
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23a543f7f0a6a3451e3075d934f99a8a.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e237541e4ff5cd27b07eb2ef354efc2c.jpg
+slug: golf-ko-open
+releaseInfo:
+  catalogId: TFC-GO-5900-26
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 25, 1989
+  publisher: Taito
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-GO-5900
+  sequence#: 26
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6fcd1beecd2cbd8798b529a441d0dfa6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/674cc4fbe8bd7a975aa5bb1ce732822a.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 837C1342
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: DC467CF8
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: BACA10A9
+  x: 2
+pcbProperties:
+  name: AKIRA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>AKIRA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5b07dee77e33f54218210e26578b93a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>AKIRA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/984d05cc5c7d16ce2dd6dde31e86b983.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8941 - 8941 (2)
+  estFirstRun: October 1989
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: L3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8938
+  dateCodeSuffix: E
+  std: 8938
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 78
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8941
+  dateCodeSuffix: D
+  std: 8941
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8837
+  dateCodeSuffix: KY
+  std: 8837
+  misc: 

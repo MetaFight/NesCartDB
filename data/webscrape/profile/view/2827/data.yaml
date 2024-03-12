@@ -1,0 +1,134 @@
+metadata:
+  name: Rad Racer II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-27 06:35:00
+  moreProfiles:
+  - 137
+  - 2827
+  - 4555
+  relatedProfiles: []
+  additionalImages: 
+slug: rad-racer-ii
+releaseInfo:
+  catalogId: NES-QR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Square
+  developer: Square
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QR-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 137')"
+    filename: /images/175/48159086a5eb790fd692bf57f0d7a414.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 137')"
+    filename: /images/175/e5682ee20277a37322b99591ad68d8ec.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-QR-0 PRG
+  size: 64 KB
+  crc32: AB90E397
+  x: 4
+- type: CHR0
+  label: NES-QR-0 CHR
+  size: 64 KB
+  crc32: 07DF55D8
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 404B2E8B
+  x: 4
+pcbProperties:
+  name: NES-TVROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TVROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d539fa94ddbbb7d1e697a66f4e6c558f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9019 - 9029 (3)
+  estFirstRun: May 1990
+  pcbClass: NES-TVROM
+  inesMapper: 4
+  mirroring: Four Screen
+  batteryPresent: No
+  wram: 0 KB
+  vram: 4 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 34
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9028
+  dateCodeSuffix: E
+  std: 9028
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 35
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9028
+  dateCodeSuffix: E
+  std: 9028
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9024
+  dateCodeSuffix: 3 CA
+  std: 9024
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9026
+  dateCodeSuffix: 3 A
+  std: 9026
+  misc: 
+- designation: U5 V-RAM
+  maker: Sharp
+  partNumber: LH5160F-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9024
+  dateCodeSuffix: 1 SB
+  std: 9024
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: 'Dragon Quest III: Soshite Densetsu e...'
+  altName: ドラゴンクエストIII そして伝説へ・・・
+  variant: (Revision 0A)
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 05:30:00
+  moreProfiles:
+  - 1527
+  - 1634
+  - 1649
+  - 2333
+  - 3463
+  - 3464
+  - 3465
+  - 3651
+  - 4586
+  relatedProfiles:
+  - 1273
+  additionalImages: 
+slug: dragon-quest-iii-soshite-densetsu-e
+releaseInfo:
+  catalogId: EFC-D3
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 10, 1988
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: EFC-D3
+  backLabelId/Desc: EFC-D3
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1527')"
+    filename: /images/175/69f68600d7d36c3b1f06142f16444bf0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: EFC-D3-0 PRG
+  size: 256 KB
+  crc32: A49B48B8
+  x: 7
+pcbProperties:
+  name: HVC-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8804 - 9213 (9)
+  estFirstRun: January 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8802
+  dateCodeSuffix: KY
+  std: 8802
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8801
+  dateCodeSuffix: M5
+  std: 8801
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8751
+  dateCodeSuffix: A
+  std: 8751
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8806
+  dateCodeSuffix: 1 D
+  std: 8806
+  misc: 

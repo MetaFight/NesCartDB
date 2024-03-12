@@ -1,0 +1,83 @@
+metadata:
+  name: Game Genie
+  altName: 
+  variant: (Revision 1.5A)
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 00:15:00
+  moreProfiles:
+  - 597
+  - 2898
+  relatedProfiles: []
+  additionalImages: 
+slug: game-genie
+releaseInfo:
+  catalogId: GLB-GG
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Galoob
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Galoob
+  color: Black
+  formFactor: Game Genie
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: B00daW<br>Linked from profile 0')"
+    filename: /images/175/602e1b0535f6c25272487732b21b1d3a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: B00daW<br>Linked from profile 0')"
+    filename: /images/175/8facd9ef55d4db13aa635bb76e47f792.jpg
+romDetails:
+- type: PRG0
+  label: GENIE V1.5
+  size: 4 KB
+  crc32: 1A3A22A1
+  x: 2
+pcbProperties:
+  name: GG24P01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9203 - 9204 (2)
+  estFirstRun: January 1992
+  pcbClass: CAMERICA-GAMEGENIE
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: ''
+  partNumberSubDetail: HY2332
+  type: Mask ROM
+  typeSubDetail: 4 KB
+  package: DIP-24
+  dateCodePrefix: 201
+  dateCodeSuffix: CML1BKA
+  std: 9201
+  misc: 
+- designation: U2
+  maker: Hyundai
+  partNumber: 
+  partNumberSubDetail: GENIE_IC
+  type: Game Genie
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9203
+  dateCodeSuffix: A
+  std: 9203
+  misc: 

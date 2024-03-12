@@ -1,0 +1,122 @@
+metadata:
+  name: Sesame Street ABC
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-06-22 04:35:00
+  moreProfiles:
+  - 475
+  - 2791
+  relatedProfiles: []
+  additionalImages: 
+slug: sesame-street-abc
+releaseInfo:
+  catalogId: NES-H4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Hi Tech Expressions
+  developer: Zippo Games
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-H4-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 475')"
+    filename: /images/175/7ca00b6f62daafd5a71fac928f5cd24b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 475')"
+    filename: /images/175/835e5d8b3ee89ea6eb7e332457fde05e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-H4-0 PRG
+  size: 32 KB
+  crc32: 2E6C3CA9
+  x: 3
+- type: CHR0
+  label: NES-H4-0 CHR
+  size: 32 KB
+  crc32: D3D8792A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: EC0FC2DE
+  x: 3
+pcbProperties:
+  name: NES-SEROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c4879c1474779e386853ce3b3e6ce7d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-03<br>Submitted by: _zane<br>Linked from profile 2390')"
+    filename: /images/175/c89c562bfef0256dfcc60a02199bd42b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8938 - 8943 (2)
+  estFirstRun: September 1989
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2826
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9H1
+  dateCodeSuffix: 14
+  std: 8932
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2827
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9J1
+  dateCodeSuffix: A0
+  std: 8936
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8943
+  dateCodeSuffix: 3 BA
+  std: 8943
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8943
+  dateCodeSuffix: 7 AA
+  std: 8943
+  misc: 

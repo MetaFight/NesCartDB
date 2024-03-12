@@ -1,0 +1,122 @@
+metadata:
+  name: Mechanized Attack
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-06 17:08:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-A6-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47111b47cc17740dfd0a182d10feba3d.jpg
+slug: mechanized-attack
+releaseInfo:
+  catalogId: NES-A6-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller,Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-A6-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d76125d562addd0fc7cf6adf43f42570.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f541c34d38b4cde765bf3d1170b54b18.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-A6-0 PRG
+  size: 64 KB
+  crc32: 9EEF47AA
+  x: 1
+- type: CHR0
+  label: NES-A6-0 CHR
+  size: 128 KB
+  crc32: F50AE4EB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 5EE6008E
+  x: 1
+pcbProperties:
+  name: NES-SCROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SCROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9cdc5802e2cbd418894002367cea251d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SCROM-03<br>Submitted by: Kinopio<br>Linked from profile 2102')"
+    filename: /images/175/381235f257576e86f259ec1a32d42987.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9021
+  estFirstRun: May 1990
+  pcbClass: NES-SCROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 41
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9019
+  dateCodeSuffix: E
+  std: 9019
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: L5
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9021
+  dateCodeSuffix: E
+  std: 9021
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: 5 CA
+  std: 9017
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9021
+  dateCodeSuffix: 3 AA
+  std: 9021
+  misc: 

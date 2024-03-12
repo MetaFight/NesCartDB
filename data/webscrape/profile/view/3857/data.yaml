@@ -1,0 +1,119 @@
+metadata:
+  name: Dynamite Batman
+  altName: ダイナマイトバットマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 08:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2074
+  - 1620
+  - 1905
+  - 657
+  additionalImages: 
+slug: dynamite-batman
+releaseInfo:
+  catalogId: SUN-DBT-6500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1991
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/991925aecf49d0eeb401793b2c57c285.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1543')"
+    filename: /images/175/1d12161ff991b0be73d0eade3d38fd39.jpg
+romDetails:
+- type: PRG0
+  label: ROJ-PRG
+  size: 128 KB
+  crc32: AD28AEF6
+  x: 2
+- type: CHR0
+  label: DBT-CHR
+  size: 256 KB
+  crc32: 1B752E6B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 0FF6A3B5
+  x: 1
+pcbProperties:
+  name: FC-DBT-1
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-DBT-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3924aef75f4880f525285a07a7f9750a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-DBT-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9aa3f4f5c447851b135dbef89bf14cde.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9149
+  estFirstRun: December 1991
+  pcbClass: SUNSOFT-FME-7
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FME-7
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: D
+  std: 9143
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: 
+  partNumberSubDetail: M382000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 1Z
+  dateCodeSuffix: 3501
+  std: 9149
+  misc: 
+- designation: FME-7
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9134
+  dateCodeSuffix: D
+  std: 9134
+  misc: 
+- designation: 
+  maker: Sanyo
+  partNumber: LC3664RSL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 08
+  dateCodeSuffix: 704
+  std: 9031
+  misc: 

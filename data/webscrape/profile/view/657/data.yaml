@@ -1,0 +1,136 @@
+metadata:
+  name: 'Batman: Return of the Joker'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-19 00:10:00
+  moreProfiles:
+  - 657
+  - 4721
+  relatedProfiles:
+  - 2074
+  - 3857
+  - 1620
+  - 1905
+  additionalImages: 
+slug: batman-return-of-the-joker
+releaseInfo:
+  catalogId: NES-48-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-P48-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38c4560a5ea07f09865a02e385da384c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e08025ea36127bd907aa8a969d802c48.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: ROJ-PRG
+  size: 128 KB
+  crc32: AD28AEF6
+  x: 2
+- type: CHR0
+  label: ROJ-CHR
+  size: 256 KB
+  crc32: 176FCB71
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 03EC46AF
+  x: 1
+pcbProperties:
+  name: NES-BTR
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-BTR<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bece33f5f2231f8b4786f309ff7e3ad9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: NES-BTR
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: FME-7
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: D
+  std: 9143
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9144
+  dateCodeSuffix: D
+  std: 9144
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9141
+  dateCodeSuffix: 1 CB
+  std: 9141
+  misc: 
+- designation: FME-7
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9133
+  dateCodeSuffix: D
+  std: 9133
+  misc: 
+- designation: SRAM
+  maker: Fujitsu
+  partNumber: MB8464A-10LL-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: KT31
+  std: 9135
+  misc: 

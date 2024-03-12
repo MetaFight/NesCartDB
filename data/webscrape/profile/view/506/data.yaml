@@ -1,0 +1,125 @@
+metadata:
+  name: Back to the Future
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-14 15:04:00
+  moreProfiles:
+  - 119
+  - 506
+  - 507
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-FU-USA<br>Submitted by: bootgod<br>Linked from profile 507')"
+    filename: /images/175/881c437b22f4d3b7733b1e3316a61ff7.jpg
+slug: back-to-the-future
+releaseInfo:
+  catalogId: NES-FU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: LJN
+  developer: Beam Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FU-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 119')"
+    filename: /images/175/46073164a2d75b7b5ceffc400f3a4918.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cebff53e7ec807b4acbb56b32ae9fbf3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-FU-0 PRG
+  size: 32 KB
+  crc32: 7A424C07
+  x: 4
+- type: CHR0
+  label: NES-FU-0 CHR
+  size: 32 KB
+  crc32: 4C2F0483
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: A55FA397
+  x: 4
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0b9635fabc8aa16aa7fc37cfb2e84e0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-06<br>Submitted by: Kinopio<br>Linked from profile 2416')"
+    filename: /images/175/6526643e34551950de7631f5d758442f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934 - 8939 (3)
+  estFirstRun: August 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2821
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9J2
+  dateCodeSuffix: 44
+  std: 8937
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2822
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9J1
+  dateCodeSuffix: A0
+  std: 8936
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8934
+  dateCodeSuffix: 7 BA
+  std: 8934
+  misc: 
+- designation: U4 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8927
+  dateCodeSuffix: HSS
+  std: 8927
+  misc: 647560T

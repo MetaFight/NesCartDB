@@ -1,0 +1,132 @@
+metadata:
+  name: The Adventures of Bayou Billy
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-02-11 20:34:00
+  moreProfiles:
+  - 2492
+  - 4318
+  - 4319
+  - 4320
+  relatedProfiles:
+  - 2689
+  - 77
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-MU-EEC<br>Submitted by: Kinopio<br>Linked from profile 2492')"
+    filename: /images/175/0c4c134698b62a534e72b803fab6333e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MU-EEC<br>Submitted by: Kinopio<br>Linked from profile 2492')"
+    filename: /images/175/020769951328e5bff1da399ac311452a.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-MU-SCN<br>Submitted by: Kinopio<br>Linked from profile 2492')"
+    filename: /images/175/3e42bb80d7c3aaee53cd37675caa3f3d.jpg
+slug: the-adventures-of-bayou-billy
+releaseInfo:
+  catalogId: NES-MU-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: January 24, 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller,Zapper Light Gun
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MU-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2492')"
+    filename: /images/175/0bd5239f71c9b023ff639f5627d1966b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2492')"
+    filename: /images/175/0a0979345ac9ba44f98963e442ee3cd4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MU-0 PRG
+  size: 128 KB
+  crc32: FBFC6A6C
+  x: 4
+- type: CHR0
+  label: PAL-MU-0 CHR
+  size: 128 KB
+  crc32: 2223443D
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BC9BFFCB
+  x: 4
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a6e6a3a01a305deac13f904d3ebdcfd3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9043 - 9044 (4)
+  estFirstRun: October 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5490
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0JC
+  dateCodeSuffix: 70
+  std: 9036
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0096
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0KF
+  dateCodeSuffix: 46
+  std: 9041
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9044
+  dateCodeSuffix: A
+  std: 9044
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9041
+  dateCodeSuffix: 5 AA
+  std: 9041
+  misc: 

@@ -1,0 +1,112 @@
+metadata:
+  name: Defender of the Crown
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 05:02:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2088
+  additionalImages: 
+slug: defender-of-the-crown
+releaseInfo:
+  catalogId: NES-U3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1989
+  publisher: Ultra Games
+  developer: Cinemaware
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U3-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7417a2a5d431f5371983fcd530d4fe8f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5afe1af028a9c5bb1270dab128ba7974.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-U3-0 PRG
+  size: 256 KB
+  crc32: 28FB71AE
+  x: 1
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8923
+  estFirstRun: June 1989
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8921
+  dateCodeSuffix: EY
+  std: 8921
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Hitachi
+  partNumber: 64KS-NI
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8903
+  dateCodeSuffix: ''
+  std: 8903
+  misc: U0422880
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8922
+  dateCodeSuffix: 3 A
+  std: 8922
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8923
+  dateCodeSuffix: 5 AA
+  std: 8923
+  misc: 

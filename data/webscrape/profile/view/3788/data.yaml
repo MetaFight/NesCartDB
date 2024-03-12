@@ -1,0 +1,109 @@
+metadata:
+  name: Hana no Star Kaidou
+  altName: 花のスター街道
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 01:49:00
+  moreProfiles:
+  - 1662
+  - 3788
+  relatedProfiles: []
+  additionalImages: 
+slug: hana-no-star-kaidou
+releaseInfo:
+  catalogId: VFR-H1-02
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 17, 1987
+  publisher: Victor
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: VFR-H1-02
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/22ae682a39e5bdea345f45a126bc9fd8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VFR-H1-0 PRG
+  size: 128 KB
+  crc32: 6A6B7239
+  x: 2
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8710 - 8710 (2)
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0207
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7C1
+  dateCodeSuffix: B0
+  std: 8710
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6K
+  dateCodeSuffix: 30
+  std: 8645
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8649
+  dateCodeSuffix: AA
+  std: 8649
+  misc: 
+- designation: LS32
+  maker: Sanyo
+  partNumber: LC74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6M3
+  dateCodeSuffix: ''
+  std: 8651
+  misc: 

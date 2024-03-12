@@ -1,0 +1,121 @@
+metadata:
+  name: Palamedes
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-20 00:35:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3878
+  additionalImages: 
+slug: palamedes
+releaseInfo:
+  catalogId: NES-JI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: HOT?B
+  developer: HOT?B
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JI-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f47164c3d2ae74cb955e382792f26865.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/70d32e8241e72e06ad30028f3a8137e7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-JI-0 PRG
+  size: 32 KB
+  crc32: 17C111E0
+  x: 1
+- type: CHR0
+  label: NES-JI-0 CHR
+  size: 32 KB
+  crc32: 2CD6479B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 6BB6A0CE
+  x: 1
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7c71b4ffa51c59e11367538cc4175dc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9043
+  estFirstRun: October 1990
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 8S
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: A
+  std: 9043
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 8Y
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: A
+  std: 9043
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: 1 AA
+  std: 9039
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9039
+  dateCodeSuffix: B3107
+  std: 9039
+  misc: 

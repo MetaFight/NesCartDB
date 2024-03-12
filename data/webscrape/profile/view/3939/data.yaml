@@ -1,0 +1,117 @@
+metadata:
+  name: Great Battle Cyber
+  altName: グレイトバトルサイバー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: great-battle-cyber
+releaseInfo:
+  catalogId: BAP-GC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 25, 1992
+  publisher: Banpresto
+  developer: Arc System Works
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: BAP-GC
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb30164a06b8fd083e8dde34dfc45af3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BAP-GC-0 PRG
+  size: 128 KB
+  crc32: 37A4552F
+  x: 1
+- type: CHR0
+  label: BAP-GC-0 CHR
+  size: 256 KB
+  crc32: C2AC0271
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 1D89610E
+  x: 1
+pcbProperties:
+  name: HVC-TSROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/70814c13955c8d700ea726330e409c86.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 3526')"
+    filename: /images/175/5299001d10a3a3e357b683d303029451.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9249
+  estFirstRun: December 1992
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: GB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9249
+  dateCodeSuffix: E
+  std: 9249
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 1J
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9249
+  dateCodeSuffix: D
+  std: 9249
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9247
+  dateCodeSuffix: 5 B
+  std: 9247
+  misc: 
+- designation: U4 W-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9240
+  dateCodeSuffix: HCK
+  std: 9240
+  misc: 

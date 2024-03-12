@@ -1,0 +1,109 @@
+metadata:
+  name: Gomoku Narabe Renju
+  altName: 五目ならべ 連
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 17:57:00
+  moreProfiles:
+  - 1652
+  - 3390
+  - 3391
+  - 3689
+  - 4003
+  relatedProfiles: []
+  additionalImages: 
+slug: gomoku-narabe-renju
+releaseInfo:
+  catalogId: HVC-GO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 27, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HVC-GO
+  backLabelId/Desc: 830404
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1652')"
+    filename: /images/175/07827934df3182633d7bf4efdf1e0470.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 5603F579
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 97EA7144
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 4A99B47E
+  x: 5
+pcbProperties:
+  name: 9011-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/efc7da9a257b82b4f624a4b4b28589b2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-01<br>Submitted by: bootgod<br>Linked from profile 3390')"
+    filename: /images/175/6283e33265f348ce07d4808f77cb92e5.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8401 - 8409 (2)
+  estFirstRun: January 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GO
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 595203
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

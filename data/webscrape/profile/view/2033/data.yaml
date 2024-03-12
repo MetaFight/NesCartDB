@@ -1,0 +1,85 @@
+metadata:
+  name: Teenage Mutant Hero Turtles
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 22:52:00
+  moreProfiles:
+  - 2033
+  - 2394
+  - 2395
+  - 4093
+  - 4112
+  relatedProfiles:
+  - 4408
+  - 4563
+  - 2396
+  - 8
+  additionalImages: 
+slug: teenage-mutant-hero-turtles
+releaseInfo:
+  catalogId: NES-88-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: August 17, 1990
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-88-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2395')"
+    filename: /images/175/0736dc6e5241b6b9ed90086ccc1a5c52.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/750a809b9a208f3011795dba357262ce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-88-0 PRG
+  size: 128 KB
+  crc32: 857DBC36
+  x: 7
+- type: CHR0
+  label: PAL-88-0 CHR
+  size: 128 KB
+  crc32: 66231389
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 00AD1189
+  x: 7
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9018 - 9048 (4)
+  estFirstRun: May 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

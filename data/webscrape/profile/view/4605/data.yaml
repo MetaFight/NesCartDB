@@ -1,0 +1,106 @@
+metadata:
+  name: Idol Hakkenden
+  altName: アイドル八犬伝
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2012-03-06 05:26:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: idol-hakkenden
+releaseInfo:
+  catalogId: TCC-I8
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 14, 1989
+  publisher: Towa Chiki
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Sky Blue
+  formFactor: Small
+  frontLabelId: TCC-I8
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/4dba5c4dafdbcd07b11e2f2db2b9535e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/3288441bf3752c51334a3ae7bd351347.jpg
+romDetails:
+- type: PRG0
+  label: TCC-I8-0 PRG
+  size: 128 KB
+  crc32: 64A75E8D
+  x: 0
+- type: CHR0
+  label: TCC-I8-0 CHR
+  size: 128 KB
+  crc32: 93157693
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8DA4E539
+  x: 0
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/6d4923b16220007225f770b1b2ce20af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/d4a2e23393ffb96c8019fef2220495a1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934
+  estFirstRun: August 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: A2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: E
+  std: 8934
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 7S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8934
+  dateCodeSuffix: E
+  std: 8934
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8934
+  dateCodeSuffix: 3 A
+  std: 8934
+  misc: 

@@ -1,0 +1,123 @@
+metadata:
+  name: 'Spider-Man: Return of the Sinister Six'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-06-22 05:20:00
+  moreProfiles:
+  - 658
+  - 896
+  relatedProfiles:
+  - 2142
+  additionalImages: 
+slug: spider-man-return-of-the-sinister-six
+releaseInfo:
+  catalogId: NES-RX-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 1992
+  publisher: LJN
+  developer: BITS Studios
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-RX-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: R5RY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 658')"
+    filename: /images/175/7a8c48eb5316bfb7bbe087e69bc93102.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 658')"
+    filename: /images/175/a2d4605445edd421219024a1291eaf74.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-RX PRG
+  size: 128 KB
+  crc32: 00BEC4D7
+  x: 2
+- type: CHR0
+  label: NES-RX CHR
+  size: 256 KB
+  crc32: 627B7662
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: D679627A
+  x: 2
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e75dcfd1c9c126bd2eddc41bcfefb7bb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 661')"
+    filename: /images/175/8327ac9b64b61c483a5dbc99f043c41a.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9238 - 9238 (2)
+  estFirstRun: September 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9238
+  dateCodeSuffix: D
+  std: 9238
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9238
+  dateCodeSuffix: D
+  std: 9238
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 224
+  dateCodeSuffix: C
+  std: 9224
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9231
+  dateCodeSuffix: KVA29
+  std: 9231
+  misc: 

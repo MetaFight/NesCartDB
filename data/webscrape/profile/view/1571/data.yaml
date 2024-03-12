@@ -1,0 +1,106 @@
+metadata:
+  name: Tiny Toon Adventures
+  altName: タイニートゥーンアドベンチャー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-14 04:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1571
+  - 1779
+  additionalImages: 
+slug: tiny-toon-adventures
+releaseInfo:
+  catalogId: KON-RC860
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1991
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC860
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2090318706a87bdd42bcc96aee4d0b5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/665ea9c1d2e58477234aa0addcdf4ef1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC860J00P
+  size: 128 KB
+  crc32: 7FCC340A
+  x: 2
+- type: CHR0
+  label: RC860J00C
+  size: 128 KB
+  crc32: 6CCA5E24
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 91328C1D
+  x: 2
+pcbProperties:
+  name: 352396
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352396<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/162d10bc3a242cdaacc35b7dcc68af08.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>352396<br>Submitted by: bootgod<br>Linked from profile 1779')"
+    filename: /images/175/1782afacaee7d04c51ff840d5c037721.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9143 - 9143 (2)
+  estFirstRun: October 1991
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9143
+  dateCodeSuffix: Z17
+  std: 9143
+  misc: 
+- designation: 
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5959
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1KC
+  dateCodeSuffix: 42
+  std: 9140
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 052784 VRC IV
+  partNumberSubDetail: 
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9126
+  dateCodeSuffix: Z55
+  std: 9126
+  misc: 

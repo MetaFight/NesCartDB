@@ -1,0 +1,117 @@
+metadata:
+  name: 'Pachio-kun 5: Jr no Chousen'
+  altName: パチ夫くん５ Jrの挑戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-12-11 03:00:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: pachio-kun-5-jr-no-chousen
+releaseInfo:
+  catalogId: CDS-PE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 18, 1993
+  publisher: Coconuts
+  developer: Marionette
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: CDS-PE
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/105689f61fe5a42d5df4fde8f295e7d0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CDS-PE-0 PRG
+  size: 256 KB
+  crc32: 9525FA38
+  x: 1
+- type: CHR0
+  label: CDS-PE-0 CHR
+  size: 128 KB
+  crc32: 45FD2145
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 9B3C5124
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/61210505918849958c29e63c445c8acf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9320
+  estFirstRun: May 1993
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W95
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9318
+  dateCodeSuffix: XD004
+  std: 9318
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: T11
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9320
+  dateCodeSuffix: EY002
+  std: 9320
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9309
+  dateCodeSuffix: 7 B
+  std: 9309
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9306
+  dateCodeSuffix: A
+  std: 9306
+  misc: 

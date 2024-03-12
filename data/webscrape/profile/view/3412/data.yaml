@@ -1,0 +1,116 @@
+metadata:
+  name: Pinball
+  altName: ピンボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 23:23:00
+  moreProfiles:
+  - 1459
+  - 1668
+  - 1685
+  - 2207
+  - 3412
+  - 3685
+  - 3758
+  relatedProfiles:
+  - 2380
+  - 2092
+  - 4373
+  - 1911
+  - 17
+  additionalImages: 
+slug: pinball
+releaseInfo:
+  catalogId: HVC-PN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 2, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: HVC-PN
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1459')"
+    filename: /images/175/6f12ae12aa76f192adf9ce94eae79830.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 91D33E3C
+  x: 12
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: F2A53B3D
+  x: 18
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 035DC2E9
+  x: 12
+pcbProperties:
+  name: 9011-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/400df919f86b4612aba9ef8dab359c9d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 1466')"
+    filename: /images/175/f541a0b8788c607e451c3b9b684bbf41.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8406 - 8430 (4)
+  estFirstRun: February 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: DPN
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 298863
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

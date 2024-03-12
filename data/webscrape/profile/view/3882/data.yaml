@@ -1,0 +1,97 @@
+metadata:
+  name: Kujaku Ou
+  altName: 孔雀王
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 01:51:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kujaku-ou
+releaseInfo:
+  catalogId: PNF-KZ (R58V5916)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 21, 1988
+  publisher: Pony Canyon
+  developer: Graphic Research
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: PNF-KZ
+  secondaryId: R58V5916
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/77a6b5f00eadee3f0088230a95f80ae5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-KZ-0 PRG
+  size: 256 KB
+  crc32: 71C9ED1E
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8834
+  estFirstRun: August 1988
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 19
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8834
+  dateCodeSuffix: D
+  std: 8834
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8831
+  dateCodeSuffix: B5
+  std: 8831
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8834
+  dateCodeSuffix: 5 A
+  std: 8834
+  misc: 

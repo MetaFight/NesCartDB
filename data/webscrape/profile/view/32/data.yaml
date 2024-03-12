@@ -1,0 +1,128 @@
+metadata:
+  name: Destination Earthstar
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-30 03:53:00
+  moreProfiles:
+  - 32
+  - 2856
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VW-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/24ec3de3b0c4e5ebae91368318c8ecc8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VW-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5fe3cef24b15e0bae40b1b6beee57e1.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-VW-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/546c3d4de0f5619e677dbc7d6362b33a.jpg
+slug: destination-earthstar
+releaseInfo:
+  catalogId: NES-VW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VW-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e45ec157d11ca9ca34d5d23aa427436d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5013f2263d63640bbf370769dbcd0f7e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VW-0 PRG
+  size: 32 KB
+  crc32: 86CBC595
+  x: 3
+- type: CHR0
+  label: NES-VW-0 CHR
+  size: 32 KB
+  crc32: 9C82F4E4
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: EB9960EE
+  x: 3
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/adf68dbd6f87a1bec378f3553c96ba85.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-07<br>Submitted by: Kinopio<br>Linked from profile 1844')"
+    filename: /images/175/1ff348e674e093ddf58f8efc4774c29d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8951 - 9004 (2)
+  estFirstRun: December 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2851
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9M3
+  dateCodeSuffix: 20
+  std: 8951
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2852
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9M2
+  dateCodeSuffix: A1
+  std: 8950
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8957
+  dateCodeSuffix: 5 BA
+  std: 9004
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 939
+  dateCodeSuffix: EN
+  std: 8939
+  misc: 

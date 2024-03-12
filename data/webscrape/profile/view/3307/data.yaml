@@ -1,0 +1,106 @@
+metadata:
+  name: Konami Wai Wai World
+  altName: コナミ ワイワイワールド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 06:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2274
+  - 3307
+  additionalImages: 
+slug: konami-wai-wai-world
+releaseInfo:
+  catalogId: KON-RC825
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 14, 1988
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC825
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2274')"
+    filename: /images/175/bf4335bd41d8808fa598f33cb18c6571.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2274')"
+    filename: /images/175/2d9d40dcc8a3ca45bd3fce70e702f46f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC825J0P
+  size: 128 KB
+  crc32: 64818FC5
+  x: 2
+- type: CHR0
+  label: RC825J0C
+  size: 128 KB
+  crc32: FCB9A86C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8A96E00D
+  x: 2
+pcbProperties:
+  name: 350926
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>350926<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3968435ef77e13b53773da7b1eb6d42b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>350926<br>Submitted by: bootgod<br>Linked from profile 1568')"
+    filename: /images/175/9fcf2f8bcf4c64564a45c757271ede69.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8750 - 8750 (2)
+  estFirstRun: December 1987
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: IC1
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8750
+  dateCodeSuffix: KX
+  std: 8750
+  misc: 
+- designation: IC2
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8750
+  dateCodeSuffix: KX
+  std: 8750
+  misc: 
+- designation: IC3
+  maker: Fujitsu
+  partNumber: 051705 VRC II
+  partNumberSubDetail: 
+  type: Konami VRC II
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8743
+  dateCodeSuffix: Z29
+  std: 8743
+  misc: 

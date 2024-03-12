@@ -1,0 +1,79 @@
+metadata:
+  name: Toki
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 23:19:00
+  moreProfiles:
+  - 539
+  - 1924
+  relatedProfiles:
+  - 3926
+  additionalImages: 
+slug: toki
+releaseInfo:
+  catalogId: NES-5J-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Taito
+  developer: TAD
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-5J-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7496f582fba06860a77d7e67091ff64b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/61fd94192d9ef6b640a8bf0c3f217e9c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-5J-0 PRG
+  size: 128 KB
+  crc32: EF40790C
+  x: 2
+- type: CHR0
+  label: NES-5J-0 CHR
+  size: 256 KB
+  crc32: 92E132A4
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 7FB74A43
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9143
+  estFirstRun: October 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

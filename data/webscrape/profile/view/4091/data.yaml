@@ -1,0 +1,132 @@
+metadata:
+  name: 'Family Trainer 5: Meiro Daisakusen'
+  altName: ファミリートレーナー⑤ 迷路大作戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 23:44:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa923cb8ca5297d941cd181b3b6a6b95.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a5a2becaae854ac0b4eddff5efbbd0e.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/130b09b7c945410c0e5d992bde517803.jpg
+slug: family-trainer-5-meiro-daisakusen
+releaseInfo:
+  catalogId: FT-05
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 31, 1987
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Family Trainer Mat
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Yellow
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e9ff4713b48efd5f957c3e95097f0d9f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/090bb7a64cf8ed5561f524a5d7fbb8ef.jpg
+romDetails:
+- type: PRG0
+  label: BA-87 MD-C
+  size: 128 KB
+  crc32: AD3DF455
+  x: 1
+- type: CHR0
+  label: BA-87 MD-P
+  size: 128 KB
+  crc32: EE89A6B0
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 370CEB65
+  x: 1
+pcbProperties:
+  name: BA 迷路
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA 迷路<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b71b17e4f56a080a6b0170f64219276d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA 迷路<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/acf6b3b0cd8c084ba5d22e635dac1f54.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8729
+  estFirstRun: July 1987
+  pcbClass: BANDAI-74*161/161/32
+  inesMapper: 70
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 87
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8729
+  dateCodeSuffix: D
+  std: 8729
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 88
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8729
+  dateCodeSuffix: D
+  std: 8729
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6L4
+  dateCodeSuffix: 1
+  std: 8648
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8722
+  dateCodeSuffix: H
+  std: 8722
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8723
+  dateCodeSuffix: H
+  std: 8723
+  misc: 

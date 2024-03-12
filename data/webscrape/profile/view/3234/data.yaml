@@ -1,0 +1,130 @@
+metadata:
+  name: Dokuganryuu Masamune
+  altName: 独眼竜政宗
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 00:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1598
+  - 2584
+  - 2672
+  - 3234
+  additionalImages: 
+slug: dokuganryuu-masamune
+releaseInfo:
+  catalogId: NAM-DG-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 5, 1988
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1598')"
+    filename: /images/175/80687707068648b447a631c07b447825.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1598')"
+    filename: /images/175/f65dfd0c2ab4b96802b2d6ec1b00d3a7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 96533999
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: C73DD1AA
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 10C8F2FA
+  x: 4
+pcbProperties:
+  name: 60-12
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-12<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1c72cef88e16860aff7faeda07e26c0a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-12<br>Submitted by: bootgod<br>Linked from profile 1598')"
+    filename: /images/175/7f27033d753a99a6b61d99c56a8b1c5f.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8807 - 8810 (4)
+  estFirstRun: February 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: DG
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 810
+  dateCodeSuffix: K33
+  std: 8810
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

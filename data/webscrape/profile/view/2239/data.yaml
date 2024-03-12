@@ -1,0 +1,117 @@
+metadata:
+  name: Ultraman Club 3
+  altName: ウルトラマン倶楽部３ またまた出撃!!ウルトラ兄弟
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 03:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ultraman-club-3
+releaseInfo:
+  catalogId: SHI-3I
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 29, 1991
+  publisher: Yutaka
+  developer: Interlink
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: SHI-3I
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7076bb4ab89aa6d7da0b6a89ae1463d5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-3I-0 PRG
+  size: 256 KB
+  crc32: AF754426
+  x: 1
+- type: CHR0
+  label: SHI-3I-0 CHR
+  size: 128 KB
+  crc32: 41007BBE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 923F915B
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/717494dc1caa1efc2ca8a8ef96089bad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9147
+  estFirstRun: November 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP232048E
+  partNumberSubDetail: 0068
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 1LB
+  dateCodeSuffix: 73
+  std: 9144
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0143
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1LC
+  dateCodeSuffix: 40
+  std: 9144
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9138
+  dateCodeSuffix: EP086
+  std: 9138
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9147
+  dateCodeSuffix: 5E010
+  std: 9147
+  misc: 

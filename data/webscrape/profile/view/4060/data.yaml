@@ -1,0 +1,109 @@
+metadata:
+  name: Athena
+  altName: アテナ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 250
+  additionalImages: 
+slug: athena
+releaseInfo:
+  catalogId: SFX-AT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 5, 1987
+  publisher: SNK
+  developer: SNK
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Pink
+  formFactor: Small
+  frontLabelId: SFX-AT
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/090d9ce12e8b327718525247d5c01674.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFX-AT-0 PRG
+  size: 128 KB
+  crc32: 8BCDE59A
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8720
+  estFirstRun: May 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8720
+  dateCodeSuffix: KP
+  std: 8720
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8711
+  dateCodeSuffix: BU
+  std: 8711
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8705
+  dateCodeSuffix: H
+  std: 8705
+  misc: 
+- designation: LS32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8641
+  dateCodeSuffix: C7
+  std: 8641
+  misc: 

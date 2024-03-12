@@ -1,0 +1,119 @@
+metadata:
+  name: Choplifter
+  altName: チョップリフター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 03:26:00
+  moreProfiles:
+  - 1732
+  - 3797
+  relatedProfiles: []
+  additionalImages: 
+slug: choplifter
+releaseInfo:
+  catalogId: JF-08
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 26, 1986
+  publisher: Jaleco
+  developer: Sega
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Aqua
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f44c69ac1f3e7be8536897848b23383c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5596237bbfb5a8c8934679235e84e7e0.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: D6F73886
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: D5AAC946
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 883454EA
+  x: 2
+pcbProperties:
+  name: JF-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6de640bc6a2f2f0c39734623ef15a95.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-08<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d55f9c6ba7ffe26da0d49e0955cd2137.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8622 - 8623 (2)
+  estFirstRun: June 1986
+  pcbClass: JALECO-JF-08
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: OKI
+  partNumber: M27256Z
+  partNumberSubDetail: 06
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 65
+  dateCodeSuffix: 14
+  std: 8618
+  misc: 
+- designation: CH
+  maker: OKI
+  partNumber: M27128Z
+  partNumberSubDetail: 06
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 66
+  dateCodeSuffix: 04
+  std: 8622
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M74HC139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 63
+  dateCodeSuffix: 12
+  std: 8609
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M74HC74
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 63
+  dateCodeSuffix: 11
+  std: 8609
+  misc: 

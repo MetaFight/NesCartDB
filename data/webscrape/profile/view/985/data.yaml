@@ -1,0 +1,108 @@
+metadata:
+  name: Volleyball
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-07-24 03:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2473
+  - 20
+  additionalImages: 
+slug: volleyball
+releaseInfo:
+  catalogId: NES-VB-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: November 15, 1987
+  publisher: Nintendo
+  developer: Pax Softnica
+  players: 2
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VB-FRA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: NES-VB-0 PRG
+  size: 32 KB
+  crc32: 0A2490AF
+  x: 4
+- type: CHR0
+  label: NES-VB-0 CHR
+  size: 8 KB
+  crc32: 2415DCE2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 27777635
+  x: 4
+pcbProperties:
+  name: NES-NROM-256-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8f812c73113678c3d2b7b5a300742d3a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 2085')"
+    filename: /images/175/0d3a9b1ae281e5f609ede1702de6034b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8939
+  estFirstRun: September 1989
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: J1
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8939
+  dateCodeSuffix: B
+  std: 8939
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 97
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8939
+  dateCodeSuffix: B
+  std: 8939
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8938
+  dateCodeSuffix: A
+  std: 8938
+  misc: 

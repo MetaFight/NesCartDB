@@ -1,0 +1,127 @@
+metadata:
+  name: Yoshi's Cookie
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-03-23 07:04:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2916
+  - 2156
+  - 251
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-CH-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fdcfaf3fe7d9e60370863a5cbfd34d7b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-CH-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/efd23a713efebaa9e3c965d70868d0c1.jpg
+slug: yoshis-cookie
+releaseInfo:
+  catalogId: NES-CH-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: April 28, 1994
+  publisher: Nintendo
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CH-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1d67ba70113c12a837980bbb1136d85d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/71d63ed860591b84af140e94d002810a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-CH-0 PRG
+  size: 128 KB
+  crc32: 72B6E468
+  x: 1
+- type: CHR0
+  label: PAL-CH-0 CHR
+  size: 64 KB
+  crc32: 2FEF6AC1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: E37A39AB
+  x: 1
+pcbProperties:
+  name: NES-TFROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TFROM-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/35f7f231ee83e3d4a5cccdc301985463.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TFROM-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ac4adb3669012eb849f9e9b6f4ec39ae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9343
+  estFirstRun: October 1993
+  pcbClass: NES-TFROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: H9
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9343
+  dateCodeSuffix: E
+  std: 9343
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 94
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9343
+  dateCodeSuffix: B
+  std: 9343
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9317
+  dateCodeSuffix: 1 A
+  std: 9317
+  misc: 

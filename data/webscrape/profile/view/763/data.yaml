@@ -1,0 +1,84 @@
+metadata:
+  name: Wild Gunman
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-04-13 00:56:00
+  moreProfiles:
+  - 306
+  - 763
+  - 2859
+  - 1406
+  - 1437
+  relatedProfiles:
+  - 2360
+  - 3404
+  - 2546
+  additionalImages: 
+slug: wild-gunman
+releaseInfo:
+  catalogId: NES-WG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 306')"
+    filename: /images/175/6a19f0fd6820e3586b317e1de583fa7c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1406')"
+    filename: /images/175/1141b05af144225ec4005ceb6b7792c6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-WG-1 PRG
+  size: 16 KB
+  crc32: 389960DB
+  x: 7
+- type: CHR0
+  label: HVC-WG-0 CHR
+  size: 8 KB
+  crc32: A5E04856
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5112DC21
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8542 - 8923 (4)
+  estFirstRun: October 1985
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo: []

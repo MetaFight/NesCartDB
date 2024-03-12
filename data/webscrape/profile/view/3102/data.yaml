@@ -1,0 +1,112 @@
+metadata:
+  name: 'GeGeGe no Kitarou: Youkai Daimakyou'
+  altName: ゲゲゲの鬼太郎 妖怪大魔境
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 21:04:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1739
+  - 2621
+  - 1740
+  - 3075
+  - 3100
+  - 3101
+  - 3102
+  - 3294
+  additionalImages: 
+slug: gegege-no-kitarou-youkai-daimakyou
+releaseInfo:
+  catalogId: BA-GE
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 17, 1986
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Green
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1739')"
+    filename: /images/175/0ab9c214d5ba817b1047759ff864baaa.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1739')"
+    filename: /images/175/f7e2d6b958133f211cc9bf3ae67b8592.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1739')"
+    filename: /images/175/78917083cb7a097e80d5af6c3317e72b.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: E7B03B03
+  x: 8
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 095A3F30
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 25468546
+  x: 8
+pcbProperties:
+  name: BA-ゲゲゲ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-ゲゲゲ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a1b829e6256055382c6070097b5f3a65.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-ゲゲゲ<br>Submitted by: bootgod<br>Linked from profile 1739')"
+    filename: /images/175/9a9fca8a5c9e8a8101f89ac8a924cfef.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8609 - 8619 (8)
+  estFirstRun: March 1986
+  pcbClass: BANDAI-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: OKI
+  partNumber: M27256Z
+  partNumberSubDetail: AA
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 63
+  dateCodeSuffix: 24
+  std: 8609
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: M27256Z
+  partNumberSubDetail: 01
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 63
+  dateCodeSuffix: 14
+  std: 8609
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 5M3
+  dateCodeSuffix: 1
+  std: 8551
+  misc: 

@@ -1,0 +1,121 @@
+metadata:
+  name: Jumbo Ozaki no Hole in One Professional
+  altName: ジャンボ尾崎のホールインワン プロフェッショナル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:48:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e64caf96e60bf282edbfd39db7182c3.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9305c55b42db626a441d9f0bf51dd071.jpg
+slug: jumbo-ozaki-no-hole-in-one-professional
+releaseInfo:
+  catalogId: HAL-JO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 1, 1988
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HAL-JO
+  backLabelId/Desc: 870417
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bc6730a4cba497285a669aa3cce008b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HAL-JO-0 PRG
+  size: 128 KB
+  crc32: FB26FF02
+  x: 1
+- type: CHR0
+  label: HAL-JO-0 CHR
+  size: 32 KB
+  crc32: 45B925A9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 8DCD9486
+  x: 1
+pcbProperties:
+  name: HVC-SJROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27e913d49754ed5057543e9878c7266a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 2691')"
+    filename: /images/175/ba7f1dd8941d6a3203956f3826c900cf.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8804
+  estFirstRun: January 1988
+  pcbClass: HVC-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8753
+  dateCodeSuffix: EX
+  std: 8753
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2038
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8A3
+  dateCodeSuffix: A5
+  std: 8803
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8749
+  dateCodeSuffix: A
+  std: 8749
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8804
+  dateCodeSuffix: 1 Y
+  std: 8804
+  misc: 

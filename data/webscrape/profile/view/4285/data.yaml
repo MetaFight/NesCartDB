@@ -1,0 +1,110 @@
+metadata:
+  name: Ferrari Grand Prix Challenge
+  altName: フェラーリ グランプリチャレンジ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 02:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2912
+  - 4447
+  - 2141
+  - 693
+  additionalImages: 
+slug: ferrari-grand-prix-challenge
+releaseInfo:
+  catalogId: CDS-FS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 13, 1992
+  publisher: Coconuts
+  developer: System 3
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: CDS-FS
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3e234de81feaa6f077e1f65dcc3e0b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4599')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: CDS-FS-0 PRG
+  size: 128 KB
+  crc32: 1995AC4E
+  x: 1
+- type: CHR0
+  label: CDS-FS-0 CHR
+  size: 128 KB
+  crc32: ED6C25BC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A485ABED
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0d13c220a7a8ccfacaed92e46aed93eb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9243
+  estFirstRun: October 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T23
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9242
+  dateCodeSuffix: KY701
+  std: 9242
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: T05
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9243
+  dateCodeSuffix: ED021
+  std: 9243
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9138
+  dateCodeSuffix: B3026
+  std: 9138
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: Getsufuu Maden
+  altName: 月風魔伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 06:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2276
+  - 3306
+  additionalImages: 
+slug: getsufuu-maden
+releaseInfo:
+  catalogId: KON-RC819
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 7, 1987
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC819
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ee31f046db5e2d787040e1102d0cf656.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51d81f98fcffb888b33ce25c7096e573.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: C8859038
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: DCFA8063
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 49123146
+  x: 2
+pcbProperties:
+  name: LROG008-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG008-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/262598a63a321a64859f48ea248be74d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG008-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b5dd8c963a8050a2f4d8ee9e06f196d.jpg
+  pcbProducer: Konami
+  manufacturer: Sharp
+  mfgRange: 8725 - 8725 (2)
+  estFirstRun: June 1987
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: 819J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8725
+  dateCodeSuffix: 7
+  std: 8725
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EPVRC2
+  type: Konami VRC II
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

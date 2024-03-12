@@ -1,0 +1,124 @@
+metadata:
+  name: Eric Cantona Football Challenge Goal! 2
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-19 00:10:00
+  moreProfiles:
+  - 4424
+  - 4461
+  relatedProfiles:
+  - 2042
+  - 1232
+  additionalImages: 
+slug: eric-cantona-football-challenge-goal-2
+releaseInfo:
+  catalogId: NES-GT-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GT-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 4424')"
+    filename: /images/175/52f16f823940112f8158d8a9a0035e96.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4424')"
+    filename: /images/175/e888362fc1f3c299a09606f94cdd103d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4386')"
+    filename: /images/175/4eb994e122a75be2471a222ad5b2e599.jpg
+romDetails:
+- type: PRG0
+  label: PAL-GT-0 PRG
+  size: 128 KB
+  crc32: C76FC363
+  x: 3
+- type: CHR0
+  label: PAL-GT-0 CHR
+  size: 128 KB
+  crc32: 6B731ABB
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D20BB617
+  x: 3
+pcbProperties:
+  name: NES-TLSROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLSROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ce4d39953c6b4edec0acc2140d0a134c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLSROM-01<br>Submitted by: Kinopio<br>Linked from profile 4424')"
+    filename: /images/175/ca9edf1fb4297830947da40e2edaa846.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9417 - 9417 (2)
+  estFirstRun: April 1994
+  pcbClass: NES-TLSROM
+  inesMapper: 118
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: FB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9417
+  dateCodeSuffix: E
+  std: 9417
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 8H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9417
+  dateCodeSuffix: E
+  std: 9417
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9216
+  dateCodeSuffix: C
+  std: 9216
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9415
+  dateCodeSuffix: 5 B
+  std: 9415
+  misc: 

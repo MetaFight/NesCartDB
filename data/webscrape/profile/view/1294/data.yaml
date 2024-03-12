@@ -1,0 +1,105 @@
+metadata:
+  name: Moon Ranger
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-04 06:11:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: moon-ranger
+releaseInfo:
+  catalogId: BNH-M-05
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Bunch Games
+  developer: Odyssey Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/444e4787364f4f883375db42d75c5ed9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/851dece0ec0738875a041b4003b47e90.jpg
+romDetails:
+- type: PRG0
+  label: MOON RANGER PRG 512K.
+  size: 64 KB
+  crc32: 124AF039
+  x: 1
+- type: CHR0
+  label: MOON RANGER VID 512K.
+  size: 64 KB
+  crc32: 5F3A624F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 14A81635
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVB
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVB<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/922851a805abd5cf646e362ebda83b11.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVB<br>Submitted by: bootgod<br>Linked from profile 1364')"
+    filename: /images/175/a2e46c6c9da39e1684a1a0295cf62a81.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9102
+  estFirstRun: January 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9102
+  dateCodeSuffix: BKF
+  std: 9102
+  misc: 
+- designation: U2
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9102
+  dateCodeSuffix: BDF
+  std: 9102
+  misc: 
+- designation: U3
+  maker: ST Micro
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9046
+  dateCodeSuffix: 9
+  std: 9046
+  misc: 

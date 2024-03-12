@@ -1,0 +1,104 @@
+metadata:
+  name: The Wing of Madoola
+  altName: マドゥーラの翼
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2008-04-17 03:43:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-wing-of-madoola
+releaseInfo:
+  catalogId: SUN-MAD-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 18, 1986
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/918fa5a64c5a8e8f8ba1f9b2032e6cc8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa6b33d9be6c94bddaacff725f0c4a86.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: CEBE3E09
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 6F3A635A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3A8F81B0
+  x: 1
+pcbProperties:
+  name: SUNSOFT-K
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SUNSOFT-K<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a00ec60794df00ced7fd3eb5cebc41c1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SUNSOFT-K<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3dbccb36962c6f94b0e08f857f36422a.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8647
+  estFirstRun: November 1986
+  pcbClass: SUNSOFT-1
+  inesMapper: 184
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-1
+detailedChipInfo:
+- designation: IC1
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 199P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 647
+  dateCodeSuffix: 10V
+  std: 8647
+  misc: 
+- designation: IC2
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 198P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 646
+  dateCodeSuffix: 00L
+  std: 8646
+  misc: 
+- designation: IC3
+  maker: Mitsubishi
+  partNumber: SUNSOFT-1
+  partNumberSubDetail: 
+  type: Sunsoft-1
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 640
+  dateCodeSuffix: 106
+  std: 8640
+  misc: 

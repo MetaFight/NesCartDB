@@ -1,0 +1,148 @@
+metadata:
+  name: Moero!! Pro Yakyuu
+  altName: 燃えろ！！プロ野球
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2009-01-19 00:04:00
+  moreProfiles:
+  - 1549
+  - 2626
+  - 2284
+  - 3010
+  - 3011
+  - 3012
+  - 3013
+  - 3014
+  - 3283
+  relatedProfiles:
+  - 627
+  additionalImages: 
+slug: moero-pro-yakyuu
+releaseInfo:
+  catalogId: JF-13
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 26, 1987
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Red
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-13
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1549')"
+    filename: /images/175/8c787f3f360a0d26356ddbb680b106e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2281')"
+    filename: /images/175/37adb3de2fcb3e7a4fad515225bbf48e.jpg
+romDetails:
+- type: PRG0
+  label: JF13 PRG
+  size: 128 KB
+  crc32: E30B210E
+  x: 1
+- type: CHR0
+  label: CHR
+  size: 64 KB
+  crc32: 26A94526
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 90F3F161
+  x: 1
+pcbProperties:
+  name: JF-13
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-13<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b495f69d8871b66db7b3ec429b039c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-13<br>Submitted by: bootgod<br>Linked from profile 2284')"
+    filename: /images/175/bb6efca8c53f4de31c78a78347ef6f9f.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8724 - 8746 (9)
+  estFirstRun: June 1987
+  pcbClass: JALECO-JF-13
+  inesMapper: 86
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx174, 74xx174, D7756C
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: X0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8729
+  dateCodeSuffix: D
+  std: 8729
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D23C512EC
+  partNumberSubDetail: W03
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8726
+  dateCodeSuffix: KX
+  std: 8726
+  misc: 
+- designation: 139
+  maker: Hitachi
+  partNumber: HD74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 7E4
+  dateCodeSuffix: T
+  std: 8722
+  misc: 
+- designation: 174
+  maker: Hitachi
+  partNumber: HD74HC174P
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 7G3
+  dateCodeSuffix: T
+  std: 8730
+  misc: 
+- designation: 174
+  maker: Hitachi
+  partNumber: HD74HC174P
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 7G3
+  dateCodeSuffix: T
+  std: 8730
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D7756C
+  partNumberSubDetail: 146
+  type: ADPCM Speech Chip
+  typeSubDetail: 256 kb
+  package: DIP-18
+  dateCodePrefix: 8727
+  dateCodeSuffix: PY
+  std: 8727
+  misc: 

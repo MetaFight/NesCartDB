@@ -1,0 +1,109 @@
+metadata:
+  name: Hogan's Alley
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-07-29 02:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3726
+  - 307
+  additionalImages: 
+slug: hogans-alley
+releaseInfo:
+  catalogId: NES-HA-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: December 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/5110ff1457d69ad602b108aaa316adcd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/cbc1560727d73df528571d228da41cc3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-HA-0 PRG
+  size: 16 KB
+  crc32: 8963AE6E
+  x: 6
+- type: CHR0
+  label: HVC-HA-0 CHR
+  size: 8 KB
+  crc32: 5DF42FC4
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FF24D794
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6cb3290d58f1339f2bad5431fb1d9748.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6473b1c3e3394ee9a8b7f11ee4158a00.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8741
+  estFirstRun: October 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0315
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7J4
+  dateCodeSuffix: 63
+  std: 8740
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2005
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7J5
+  dateCodeSuffix: 12
+  std: 8741
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 

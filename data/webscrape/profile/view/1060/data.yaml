@@ -1,0 +1,127 @@
+metadata:
+  name: Ultimate League Soccer
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-07 17:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ultimate-league-soccer
+releaseInfo:
+  catalogId: AVE-US
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: AVE
+  developer: C & E
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e90b7945bf869c94de9adbb056dcaf78.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fac0aa9421a045471f165f6e877f8f5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1241')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: 29F5-PGM
+  size: 32 KB
+  crc32: 449ABFED
+  x: 1
+- type: CHR0
+  label: 0F04-CHR
+  size: 64 KB
+  crc32: 71BA978C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 831F9C1A
+  x: 1
+pcbProperties:
+  name: MB-91?E?
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MB-91?E?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/33b34bd4c649abb967ac0aa179aff1c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MB-91?E?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7804eda2fa2758dcf54872850ae864b4.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9123
+  estFirstRun: June 1991
+  pcbClass: AVE-MB-91
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: MX23512
+  partNumberSubDetail: 1007
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9123
+  dateCodeSuffix: VCF
+  std: 9123
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: MX23256
+  partNumberSubDetail: 1032
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9123
+  dateCodeSuffix: VFF
+  std: 9123
+  misc: 
+- designation: U3
+  maker: National Semiconductor
+  partNumber: DM74LS138N
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9118
+  dateCodeSuffix: SP
+  std: 9118
+  misc: AK
+- designation: U4
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .0D2
+  dateCodeSuffix: ''
+  std: 9050
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9123
+  dateCodeSuffix: ''
+  std: 9123
+  misc: 

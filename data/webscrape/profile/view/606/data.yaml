@@ -1,0 +1,125 @@
+metadata:
+  name: Jack Nicklaus' Greatest 18 Holes of Major Championship Golf
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-10 03:09:00
+  moreProfiles:
+  - 606
+  - 1243
+  relatedProfiles:
+  - 2346
+  additionalImages: 
+slug: jack-nicklaus-greatest-18-holes-of-major-championship-golf
+releaseInfo:
+  catalogId: NES-JC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Konami
+  developer: Sculptured Software
+  portedBy: 
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JC-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/da382bf5b1e35a99c2d01c4b390a25cc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1243')"
+    filename: /images/175/f4f7dd6ea58fb2519258a3c65ae5291b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: RD025N0.2P
+  size: 128 KB
+  crc32: C313EF54
+  x: 2
+pcbProperties:
+  name: 351320
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8952 - 9002 (2)
+  estFirstRun: December 1989
+  pcbClass: KONAMI-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8949
+  dateCodeSuffix: E
+  std: 8949
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 052701
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: KT13
+  std: 8944
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8952
+  dateCodeSuffix: 1 BA
+  std: 8952
+  misc: 
+- designation: 
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8935
+  dateCodeSuffix: HnS
+  std: 8935
+  misc: 657920T
+- designation: 
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8935
+  dateCodeSuffix: HnS
+  std: 8935
+  misc: 652830T

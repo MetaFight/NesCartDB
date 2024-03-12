@@ -1,0 +1,106 @@
+metadata:
+  name: 'Gozonji: Yaji Kita Chin Douchuu'
+  altName: 御存知弥次喜多珍道中
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 06:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: gozonji-yaji-kita-chin-douchuu
+releaseInfo:
+  catalogId: HAL-YJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 7, 1989
+  publisher: HAL Laboratory
+  developer: Hyperware
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HAL-YJ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/da08b9905e14670bc68c40aee03168b4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: HAL-YJ-0 PRG
+  size: 256 KB
+  crc32: 69E534EB
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: DA8E8B72
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 0DA00298
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/674915429f8c4183313cc06c56830661.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8941
+  estFirstRun: October 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8934
+  dateCodeSuffix: PY
+  std: 8934
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: D23C1013AC
+  partNumberSubDetail: T52
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8936
+  dateCodeSuffix: XY714
+  std: 8936
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8941
+  dateCodeSuffix: 1 A
+  std: 8941
+  misc: 

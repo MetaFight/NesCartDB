@@ -1,0 +1,113 @@
+metadata:
+  name: Tecmo Baseball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-22 09:45:00
+  moreProfiles:
+  - 81
+  - 349
+  - 806
+  relatedProfiles: []
+  additionalImages: 
+slug: tecmo-baseball
+releaseInfo:
+  catalogId: NES-TL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1989
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TL-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 81')"
+    filename: /images/175/d3fd87ed73b6cf2f234e5cd0d2e66f3b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a30e1587651fde951661855d3cd61b6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-TL-0 PRG
+  size: 128 KB
+  crc32: AD12A34F
+  x: 3
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8852 - 8924 (2)
+  estFirstRun: December 1988
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113A
+  hardware: MMC1B1
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 4L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8921
+  dateCodeSuffix: D
+  std: 8921
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Fujitsu
+  partNumber: MB8464A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8913
+  dateCodeSuffix: KT95
+  std: 8913
+  misc: 
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1B1-H
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8922
+  dateCodeSuffix: T
+  std: 8922
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8924
+  dateCodeSuffix: 5 AA
+  std: 8924
+  misc: 

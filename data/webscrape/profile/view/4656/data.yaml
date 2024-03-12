@@ -1,0 +1,112 @@
+metadata:
+  name: Keroppi to Keroriinu no Splash Bomb!
+  altName: けろっぴとけろりーぬのスプラッシュボ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:09:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3dd0480572b1fe25b8a6a32fcd10f561.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c22b8a5ab25c1c83b7e92dec90b216aa.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c5be79294dafc5c433ef1fdecba0f74.jpg
+slug: keroppi-to-keroriinu-no-splash-bomb
+releaseInfo:
+  catalogId: CTS-SY
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 1, 1993
+  publisher: Character Soft
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Cyan
+  formFactor: Small
+  frontLabelId: CTS-SY
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d22552ac7189a87c0da9b1ae4088d7ca.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CTS-SY-0 PRG
+  size: 128 KB
+  crc32: 0C198D4F
+  x: 1
+- type: CHR0
+  label: CTS-SY-0 CHR
+  size: 32 KB
+  crc32: AC00A55F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 4156A3CD
+  x: 1
+pcbProperties:
+  name: HVC-SFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/539d89191df2625abe4bcbd742aba67b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 3591')"
+    filename: /images/175/a451a3696b59a9d2d6cf76c0fd675656.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9344
+  estFirstRun: November 1993
+  pcbClass: HVC-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 0U
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9344
+  dateCodeSuffix: E
+  std: 9344
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Sharp
+  partNumber: LH2355
+  partNumberSubDetail: 0D
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9344
+  dateCodeSuffix: B
+  std: 9344
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9211
+  dateCodeSuffix: 7 A 170
+  std: 9211
+  misc: 

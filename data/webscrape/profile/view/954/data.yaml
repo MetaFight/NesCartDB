@@ -1,0 +1,122 @@
+metadata:
+  name: 'G.I. Joe: The Atlantis Factor'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 04:39:00
+  moreProfiles:
+  - 954
+  - 2046
+  relatedProfiles: []
+  additionalImages: 
+slug: gi-joe-the-atlantis-factor
+releaseInfo:
+  catalogId: NES-6I-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1992
+  publisher: Capcom
+  developer: KID
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6I-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9482d954814b463ff6e4ac82250272dd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/61b28600be4c905d3de349dec461cf45.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-6I-0 PRG
+  size: 128 KB
+  crc32: EB71A6C5
+  x: 2
+- type: CHR0
+  label: NES-6I-0 CHR
+  size: 256 KB
+  crc32: 8AFCBF07
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 8C8DEDB6
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/946261b5b2bd779638034b71f03248c8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9205
+  estFirstRun: February 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J672
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9205
+  dateCodeSuffix: EAI
+  std: 9205
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J673
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9205
+  dateCodeSuffix: EAI
+  std: 9205
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9204
+  dateCodeSuffix: 7 BB
+  std: 9204
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 5 AB
+  std: 9204
+  misc: 

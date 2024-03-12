@@ -1,0 +1,114 @@
+metadata:
+  name: Raid on Bungeling Bay
+  altName: バンゲリング ベイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 02:24:00
+  moreProfiles:
+  - 1510
+  - 1718
+  - 2326
+  - 3393
+  - 3551
+  - 3552
+  - 3664
+  - 3678
+  relatedProfiles:
+  - 159
+  additionalImages: 
+slug: raid-on-bungeling-bay
+releaseInfo:
+  catalogId: HFC-RB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 22, 1985
+  publisher: Hudson Soft
+  developer: Will Wright
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HFC-RB
+  backLabelId/Desc: Black Text
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab0fdbd822ae9fb41058adbf9e9b9a0c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: C5B8EFEA
+  x: 7
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: E4D3B716
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 64C96F53
+  x: 7
+pcbProperties:
+  name: 9011-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f2e4cd14218e455e0bed85c8bbacd2b3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 1466')"
+    filename: /images/175/f541a0b8788c607e451c3b9b684bbf41.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8502 - 8508 (4)
+  estFirstRun: January 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ESRB
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 372037
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

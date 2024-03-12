@@ -1,0 +1,111 @@
+metadata:
+  name: Family Boxing
+  altName: ファミリーボクシング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 22:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1589
+  - 1804
+  - 3229
+  - 3230
+  - 3231
+  - 3323
+  additionalImages: 
+slug: family-boxing
+releaseInfo:
+  catalogId: NAM-FB-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 19, 1987
+  publisher: Namco
+  developer: Woodplace
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1589')"
+    filename: /images/175/aed4d30a9585eeeffe58b425a6dc0c49.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1589')"
+    filename: /images/175/ed679c91e6fd8ee190a6a61d319541d6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT FB PRG
+  size: 64 KB
+  crc32: 3598238F
+  x: 6
+- type: CHR0
+  label: NAMCOT FB CHR
+  size: 64 KB
+  crc32: 0F7F524D
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5B4C6146
+  x: 6
+pcbProperties:
+  name: 3414
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3414<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/198cb0e7b17b2d8b4c0cd66bc59cd4c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3414<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e51411d1984b4e18cfd580a06f98637f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8723 - 8727 (6)
+  estFirstRun: June 1987
+  pcbClass: NAMCOT-3414
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: P
+  maker: Sharp
+  partNumber: LH5313
+  partNumberSubDetail: R2
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8724
+  dateCodeSuffix: D
+  std: 8724
+  misc: 
+- designation: C
+  maker: Sharp
+  partNumber: LH5313
+  partNumberSubDetail: R1
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8723
+  dateCodeSuffix: D
+  std: 8723
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8714
+  dateCodeSuffix: B
+  std: 8714
+  misc: 

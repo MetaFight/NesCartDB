@@ -1,0 +1,124 @@
+metadata:
+  name: 'Rad Racket: Deluxe Tennis II'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-16 05:58:00
+  moreProfiles:
+  - 1363
+  - 2353
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c740855f3cecfb6bc5a9afe89d470cca.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c88eafc247e7fd0bac5b9187b127be6.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/342d437210df6601a0e92bf515fef6d5.jpg
+slug: rad-racket-deluxe-tennis-ii
+releaseInfo:
+  catalogId: AVE-RR
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: AVE
+  developer: Idea-Tek
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e4c2f272587879548af695c69c4e183.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e95105bb2e11cb4de105f259d4763b49.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: TENNIS PRG-3367
+  size: 32 KB
+  crc32: A397028A
+  x: 2
+- type: CHR0
+  label: TENNIS CHR-48BE
+  size: 32 KB
+  crc32: DE0853DB
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: BDE7A7B5
+  x: 2
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a238d15ffbe0ea95d4be18a759a87f9a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2316D01
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2316E01
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9133
+  dateCodeSuffix: ''
+  std: 9133
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9138
+  dateCodeSuffix: ''
+  std: 9138
+  misc: 

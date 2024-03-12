@@ -1,0 +1,119 @@
+metadata:
+  name: 'Meimon! Takonishi Ouendan: Kouha 6 Nin Shuu'
+  altName: 名門！多古西応援団
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-20 06:11:00
+  moreProfiles:
+  - 3517
+  - 3518
+  relatedProfiles: []
+  additionalImages: 
+slug: meimon-takonishi-ouendan-kouha-6-nin-shuu
+releaseInfo:
+  catalogId: ASM-T1
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 1, 1989
+  publisher: Asmik
+  developer: Graphic Research
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: ASM-T1
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/94b63b48f20133d21cbaf56bb6fd3813.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4599')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: ASM-T1-0 PRG
+  size: 128 KB
+  crc32: 2DC3817D
+  x: 2
+- type: CHR0
+  label: ASM-T1-0 CHR
+  size: 128 KB
+  crc32: 2492BD64
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9E36080E
+  x: 2
+pcbProperties:
+  name: HVC-TSROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d16b8717aa8ab8570981148b9a7123fb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/851efaf0f53fb9cc5bbba4c770ac86fd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8947 - 8947 (2)
+  estFirstRun: November 1989
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5360
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L3
+  dateCodeSuffix: 74
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T62
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8947
+  dateCodeSuffix: EY703
+  std: 8947
+  misc: 
+- designation: U3 W-RAM
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: M5001
+  std: 8943
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8938
+  dateCodeSuffix: EP
+  std: 8938
+  misc: 

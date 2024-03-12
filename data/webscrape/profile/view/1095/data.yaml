@@ -1,0 +1,131 @@
+metadata:
+  name: Silver Surfer
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-11 01:52:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: silver-surfer
+releaseInfo:
+  catalogId: NES-VQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: Arcadia
+  developer: Software Creations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VQ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f0b70e3ee59015f56ae860b5f683db3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7e847ca9048e13e973bb986e08efebdd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VQ-0 PRG
+  size: 128 KB
+  crc32: 8C940984
+  x: 1
+- type: CHR0
+  label: NES-VQ-0 CHR
+  size: 256 KB
+  crc32: 58E3FE8A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: BEE1C0D9
+  x: 1
+pcbProperties:
+  name: NES-TSROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b422fb1bdd3c73d62ffbf709035ede13.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-07<br>Submitted by: Kinopio<br>Linked from profile 2438')"
+    filename: /images/175/b4dfcd90a8ffea33fa9f5fe234eef2d9.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9041
+  estFirstRun: October 1990
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S28
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9041
+  dateCodeSuffix: XX028
+  std: 9041
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T76
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9041
+  dateCodeSuffix: P9029
+  std: 9041
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: 3 AB
+  std: 9039
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9041
+  dateCodeSuffix: 3 T
+  std: 9041
+  misc: 
+- designation: U5 W-RAM
+  maker: Sony
+  partNumber: CXK5864APS-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0H
+  dateCodeSuffix: 20Y
+  std: 9031
+  misc: 

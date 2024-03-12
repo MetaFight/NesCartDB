@@ -1,0 +1,133 @@
+metadata:
+  name: Alien³
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 02:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2027
+  - 2100
+  additionalImages: 
+slug: alien³
+releaseInfo:
+  catalogId: NES-X3-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 1993
+  publisher: LJN
+  developer: Probe
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-X3-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: XKRX
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5afc4fb6bfb429acec3abac72995132.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3d90619453fab4d271c3a900ae82c86.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-X3 PRG
+  size: 128 KB
+  crc32: A67EA466
+  x: 1
+- type: CHR0
+  label: NES-X3 CHR
+  size: 128 KB
+  crc32: D87D47F4
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C527C297
+  x: 1
+pcbProperties:
+  name: 55741
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>55741<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6007187a911ab0cc642832b2369f764.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>55741<br>Submitted by: bootgod<br>Linked from profile 669')"
+    filename: /images/175/1cefaa96e7ab6abb2d9eb1b369106859.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9309
+  estFirstRun: March 1993
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx08, MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9309
+  dateCodeSuffix: D
+  std: 9309
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9309
+  dateCodeSuffix: D
+  std: 9309
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9302
+  dateCodeSuffix: 3 CB
+  std: 9302
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9238
+  dateCodeSuffix: KVC22
+  std: 9238
+  misc: 
+- designation: U5
+  maker: Toshiba
+  partNumber: 74HC08AP
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9251
+  dateCodeSuffix: H
+  std: 9251
+  misc: 

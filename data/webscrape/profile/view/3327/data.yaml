@@ -1,0 +1,125 @@
+metadata:
+  name: Pro Yakyuu Family Stadium '87
+  altName: プロ野球 ファミリースタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 05:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1578
+  - 1794
+  - 1810
+  - 2674
+  - 3242
+  - 3243
+  - 3244
+  - 3245
+  - 3246
+  - 3327
+  additionalImages: 
+slug: pro-yakyuu-family-stadium-87
+releaseInfo:
+  catalogId: NAM-FS87-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1987
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1578')"
+    filename: /images/175/2eb83b55d4bd47a8a15d0411ced1dc39.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1578')"
+    filename: /images/175/c386afc3254bd5b5d2259f21c6fec7fc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: E8B7C767
+  x: 10
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: FC1A0E4E
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 1300A8B7
+  x: 10
+pcbProperties:
+  name: 023-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>023-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8407ca7b8e680be0302b49d6cfa81e56.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>023-01<br>Submitted by: bootgod<br>Linked from profile 2301')"
+    filename: /images/175/818ea878f5b55bb9e830eb32407ca021.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8746 - 8813 (10)
+  estFirstRun: November 1987
+  pcbClass: NAMCOT-3413
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG034A
+  partNumberSubDetail: FS87
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8804
+  dateCodeSuffix: 3
+  std: 8804
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

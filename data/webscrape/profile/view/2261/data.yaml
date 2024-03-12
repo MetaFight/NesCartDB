@@ -1,0 +1,105 @@
+metadata:
+  name: Gekitotsu Yonku Battle
+  altName: 激突四駆バトル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 02:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: gekitotsu-yonku-battle
+releaseInfo:
+  catalogId: IF-15
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 17, 1989
+  publisher: Irem
+  developer: Tamtex
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Green
+  formFactor: Original wo/ LED
+  frontLabelId: IF-15
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7eaac0f2db34de4b3b9de0790ab951a4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fef06e8d8dd97c4955575d7b430187cd.jpg
+romDetails:
+- type: PRG0
+  label: IREM-IF-14
+  size: 128 KB
+  crc32: 04109355
+  x: 1
+pcbProperties:
+  name: FC-00-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8938
+  estFirstRun: September 1989
+  pcbClass: IREM-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: DB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8938
+  dateCodeSuffix: E
+  std: 8938
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TC5565APL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: HCK
+  std: 8934
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8813
+  dateCodeSuffix: N A
+  std: 8813
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC32AN
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8938
+  dateCodeSuffix: JJAJ
+  std: 8938
+  misc: 

@@ -1,0 +1,125 @@
+metadata:
+  name: Dudes with Attitude
+  altName: 
+  variant: (Version 1.1)
+  submittedBy: crade
+  submittedOn: 2008-10-25 02:36:00
+  moreProfiles:
+  - 365
+  - 2115
+  - 2920
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 2115')"
+    filename: /images/175/586453c0a0a38b5ae6b34c43dd2fef1b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 2115')"
+    filename: /images/175/39cdf9c097895f16cca186a30b3a6100.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 2115')"
+    filename: /images/175/f2aa9245dbd6652d0efb08e391fe2f9e.jpg
+slug: dudes-with-attitude
+releaseInfo:
+  catalogId: AVE-DA
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Micheal Crick
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 365')"
+    filename: /images/175/28339efee11bcc79946b46804ce85cbe.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: crade<br>Linked from profile 0')"
+    filename: /images/175/f70239ee7bac6bbc373513a16e2b1b05.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1241')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: DUD-PGM D271
+  size: 32 KB
+  crc32: A4E0B257
+  x: 1
+- type: CHR0
+  label: DUD-CHR 46E7
+  size: 32 KB
+  crc32: 9CE10ED4
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 0955B54C
+  x: 1
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: crade<br>Linked from profile 0')"
+    filename: /images/175/11b5f27b3a69448455889e1db598d31e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: crade<br>Linked from profile 0')"
+    filename: /images/175/60c3b7b5c88940a28a74b9ed6ddec02a.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9120 - 9140 (3)
+  estFirstRun: May 1991
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9140
+  dateCodeSuffix: ''
+  std: 9140
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9137
+  dateCodeSuffix: ''
+  std: 9137
+  misc: 

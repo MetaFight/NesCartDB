@@ -1,0 +1,125 @@
+metadata:
+  name: Laser Invasion
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 01:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4086
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-8G USA<br>Submitted by: AWal<br>Linked from profile 0')"
+    filename: /images/175/4ababbb8280103aa2a7ce13128506413.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-8G USA<br>Submitted by: AWal<br>Linked from profile 0')"
+    filename: /images/175/692d6e20d36487e95a249bb5c312eb61.jpg
+slug: laser-invasion
+releaseInfo:
+  catalogId: NES-8G-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8G-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32f25dbc7da69baaeedada7c1feb0f49.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f421c08ad5ff30ddb4dd810ae2b50e59.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-8G-0 PRG
+  size: 128 KB
+  crc32: 51D2112F
+  x: 1
+- type: CHR0
+  label: NES-8G-0 CHR
+  size: 128 KB
+  crc32: 04BBFA6E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B0480AE9
+  x: 1
+pcbProperties:
+  name: NES-ELROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-ELROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/33c672c69cdc97b39506e8e78ba629d5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-ELROM-01<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/431de732d9e5d651fa3c716381a575f2.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9117
+  estFirstRun: April 1991
+  pcbClass: NES-ELROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R38
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9117
+  dateCodeSuffix: XD009
+  std: 9117
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9117
+  dateCodeSuffix: KY706
+  std: 9117
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9116
+  dateCodeSuffix: AA003
+  std: 9116
+  misc: 
+- designation: U6 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 102
+  dateCodeSuffix: C
+  std: 9102
+  misc: 

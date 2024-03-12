@@ -1,0 +1,123 @@
+metadata:
+  name: Snake Rattle 'n Roll
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-04 03:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2450
+  - 2451
+  - 1970
+  additionalImages: 
+slug: snake-rattle-n-roll
+releaseInfo:
+  catalogId: NES-RJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1990
+  publisher: Nintendo
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RJ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e627794737591d4ad7ee51fa1834decb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b26ab0c4648898473b52138a23efcb71.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RJ-0 PRG
+  size: 32 KB
+  crc32: 8E9C4F74
+  x: 1
+- type: CHR0
+  label: NES-RJ-0 CHR
+  size: 32 KB
+  crc32: ADD26ABB
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: FDF4569B
+  x: 1
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/171508fbb16e7d09d0f1b0d341fe80c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9019
+  estFirstRun: May 1990
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2886
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0DB
+  dateCodeSuffix: 14
+  std: 9014
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2887
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0EM
+  dateCodeSuffix: 41
+  std: 9019
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9019
+  dateCodeSuffix: 5 CA
+  std: 9019
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9019
+  dateCodeSuffix: 5 AA
+  std: 9019
+  misc: 

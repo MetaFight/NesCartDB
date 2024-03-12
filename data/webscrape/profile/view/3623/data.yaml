@@ -1,0 +1,106 @@
+metadata:
+  name: Spartan X
+  altName: スパルタンＸ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 03:55:00
+  moreProfiles:
+  - 1458
+  - 1645
+  - 2339
+  - 3622
+  - 3623
+  - 3704
+  relatedProfiles:
+  - 2455
+  - 4474
+  - 1912
+  - 4548
+  - 4549
+  - 245
+  additionalImages: 
+slug: spartan-x
+releaseInfo:
+  catalogId: HVC-SX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 21, 1985
+  publisher: Nintendo
+  developer: Irem
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Purple
+  formFactor: Small
+  frontLabelId: HVC-SX
+  backLabelId/Desc: 831018
+  2-DigitCode: 112
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1458')"
+    filename: /images/175/f21d16ede92fc554e5b6a99e3092cffe.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-SX-0 PRG
+  size: 32 KB
+  crc32: 36D5482B
+  x: 6
+- type: CHR0
+  label: HVC-SX-0 CHR
+  size: 8 KB
+  crc32: 92453ECA
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 6058C65D
+  x: 6
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a48c6cd32fb3ac2161f392c2b72ac2c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8525 - 8605 (4)
+  estFirstRun: June 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8525
+  dateCodeSuffix: E9
+  std: 8525
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 09
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8524
+  dateCodeSuffix: D
+  std: 8524
+  misc: 

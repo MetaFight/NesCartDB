@@ -1,0 +1,138 @@
+metadata:
+  name: Family BASIC
+  altName: ファミリーベーシック
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2016-12-28 05:42:00
+  moreProfiles:
+  - 3167
+  - 3810
+  - 4737
+  relatedProfiles:
+  - 4028
+  - 4622
+  additionalImages: 
+slug: family-basic
+releaseInfo:
+  catalogId: HVC-BS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 21, 1984
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: Family Keyboard,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Family Basic
+  frontLabelId: Not Present
+  backLabelId/Desc: 840315
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3167')"
+    filename: /images/175/dc4a1f50525a77ded36980ee0a847b49.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3167')"
+    filename: /images/175/bc166f9cd64d9c9703aad595efab7a5a.jpg
+romDetails:
+- type: PRG0
+  label: HVC-FB1-1 A
+  size: 16 KB
+  crc32: 12B97208
+  x: 2
+- type: PRG1
+  label: HVC-FB1-1 B
+  size: 16 KB
+  crc32: B099376C
+  x: 2
+- type: CHR0
+  label: HVC-FB1-0 C
+  size: 8 KB
+  crc32: 11848B93
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: F7606810
+  x: 2
+pcbProperties:
+  name: FB-R-128-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8431 - 8442 (3)
+  estFirstRun: August 1984
+  pcbClass: HVC-FAMILYBASIC
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: Yes
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx20
+detailedChipInfo:
+- designation: IC1 WORKING RAM
+  maker: Fujitsu
+  partNumber: MB8416A-15-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: SDIP-24
+  dateCodePrefix: 8417
+  dateCodeSuffix: G49
+  std: 8417
+  misc: 
+- designation: IC2 PROGRAM ROM-A 128K
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0531
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 4H4
+  dateCodeSuffix: 38
+  std: 8435
+  misc: 
+- designation: IC3 PROGRAM ROM-B 128K
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0532
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 4H4
+  dateCodeSuffix: 33
+  std: 8435
+  misc: 
+- designation: IC4 LS20
+  maker: Sharp
+  partNumber: LR74HC20
+  partNumberSubDetail: 
+  type: 74-20 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 46D
+  dateCodeSuffix: 5
+  std: 8426
+  misc: 
+- designation: IC5 CHARACTER ROM-C 64K
+  maker: Ricoh
+  partNumber: RP2D68
+  partNumberSubDetail: 0047
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4J1
+  dateCodeSuffix: 42
+  std: 8436
+  misc: 

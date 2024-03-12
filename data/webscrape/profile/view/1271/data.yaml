@@ -1,0 +1,180 @@
+metadata:
+  name: Action 52
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-01-15 05:05:00
+  moreProfiles:
+  - 1161
+  - 1271
+  - 2927
+  - 4573
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 1161')"
+    filename: /images/175/7cd2ca8bf6607615d5d60bca1e4b3e13.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 1161')"
+    filename: /images/175/6e9d9bf057dfd70d4c8b9fd422ab3c4d.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1161')"
+    filename: /images/175/47c477a605358f2caf6515ba17d51cff.jpg
+slug: action-52
+releaseInfo:
+  catalogId: ACT-52
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Active Enterprises
+  developer: Active Enterprises
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Clear
+  formFactor: Original
+  embossedText: Active Enterprises, LTD. U.S. Pat. Pend. Made in U.S.A.
+  frontLabelDesc: Clear Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/60344d5b65a2dae92f4ce76ed26a3fe5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e051456b7091ba58870dbab6ee31847c.jpg
+romDetails:
+- type: PRG0
+  label: ACTION52 PGM-A
+  size: 512 KB
+  crc32: A51212FD
+  x: 3
+- type: PRG1
+  label: ACTION52 PGM-B
+  size: 512 KB
+  crc32: 476D0B72
+  x: 3
+- type: PRG2
+  label: ACTION52 PGM-C
+  size: 512 KB
+  crc32: 2568DBA6
+  x: 3
+- type: CHR0
+  label: ACTION52 CHR-A
+  size: 512 KB
+  crc32: 596442EC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 2048 KB
+  crc32: 51C0B27E
+  x: 3
+pcbProperties:
+  name: 023-N507 REV. A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9146 - 9224 (3)
+  estFirstRun: November 1991
+  pcbClass: MLT-ACTION52
+  inesMapper: 228
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx273, 74xx273, GAL16V8S, PIC16C54
+detailedChipInfo:
+- designation: U1
+  maker: Toshiba
+  partNumber: 74HC273AP
+  partNumberSubDetail: 
+  type: 74-273 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9210
+  dateCodeSuffix: H
+  std: 9210
+  misc: 
+- designation: U2
+  maker: Toshiba
+  partNumber: 74HC273AP
+  partNumberSubDetail: 
+  type: 74-273 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9210
+  dateCodeSuffix: H
+  std: 9210
+  misc: 
+- designation: U3
+  maker: ST Micro
+  partNumber: GAL16V8S-25EB1
+  partNumberSubDetail: 
+  type: GAL16
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9113
+  dateCodeSuffix: 9
+  std: 9113
+  misc: 
+- designation: U4
+  maker: Microchip
+  partNumber: PIC16C54-XT/P
+  partNumberSubDetail: 
+  type: PIC16C54
+  typeSubDetail: 
+  package: DIP-18
+  dateCodePrefix: 9209
+  dateCodeSuffix: CBA
+  std: 9209
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: 23C4000
+  partNumberSubDetail: 1035
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9224
+  dateCodeSuffix: H
+  std: 9224
+  misc: S26402
+- designation: U6
+  maker: Macronix
+  partNumber: 23C4000
+  partNumberSubDetail: 1036
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9224
+  dateCodeSuffix: H
+  std: 9224
+  misc: S26404
+- designation: U7
+  maker: Macronix
+  partNumber: 23C4000
+  partNumberSubDetail: 1032
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9224
+  dateCodeSuffix: H
+  std: 9224
+  misc: S26389
+- designation: U8
+  maker: Macronix
+  partNumber: 23C4000
+  partNumberSubDetail: 1031
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9224
+  dateCodeSuffix: H
+  std: 9224
+  misc: S26386

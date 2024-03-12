@@ -1,0 +1,104 @@
+metadata:
+  name: 'Ki no Bouken: The Quest of Ki'
+  altName: カイの冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 02:20:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ki-no-bouken-the-quest-of-ki
+releaseInfo:
+  catalogId: NAM-QK-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 22, 1988
+  publisher: Namco
+  developer: Game Studio
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ea624a8aee552e6817fb184f1478186.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6be251bdc51eea5e3f82ffe87d5f91ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d1a6b9819c752c2eed38f83890e127e.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT QK PRG
+  size: 128 KB
+  crc32: 15249A59
+  x: 1
+- type: CHR0
+  label: NAMCOT QK CHR
+  size: 64 KB
+  crc32: D95CCBE9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: E1526228
+  x: 1
+pcbProperties:
+  name: 3416
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3416<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9dc23749bc57bcbc4f9100441dc78385.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8825
+  estFirstRun: June 1988
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118
+detailedChipInfo:
+- designation: P
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8825
+  dateCodeSuffix: KX
+  std: 8825
+  misc: 
+- designation: C
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8825
+  dateCodeSuffix: KX
+  std: 8825
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8
+  dateCodeSuffix: ''
+  std: 8814
+  misc: 

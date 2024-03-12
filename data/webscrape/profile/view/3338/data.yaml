@@ -1,0 +1,117 @@
+metadata:
+  name: Star Wars
+  altName: スターウォーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 05:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1597
+  - 3338
+  additionalImages: 
+slug: star-wars
+releaseInfo:
+  catalogId: NAM-SS-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 4, 1987
+  publisher: Namco
+  developer: Piccari Games
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Cobalt Blue
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1597')"
+    filename: /images/175/bfde51b5f7485f419010f385de9a958c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/01218f1cd2f3b87232dd3113637f071b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1597')"
+    filename: /images/175/14213f565ca44c466b3b6fb890053100.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 8A2824BB
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 26F7DFF5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CA69751B
+  x: 2
+pcbProperties:
+  name: 60-11
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-11<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae7537c5707439cc571976e5f30bb525.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-11<br>Submitted by: bootgod<br>Linked from profile 1597')"
+    filename: /images/175/a121441d1736b23872475843036a2236.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8802 - 8803 (2)
+  estFirstRun: January 1988
+  pcbClass: NAMCOT-129
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 129
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: SS
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 802
+  dateCodeSuffix: K32
+  std: 8802
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP129
+  type: Namcot 129
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

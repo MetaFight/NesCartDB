@@ -1,0 +1,111 @@
+metadata:
+  name: Linus Spacehead's Cosmic Crusade
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-26 02:54:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4588
+  - 1225
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b225d57ea012001a02d75a0cc4d0ba7.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6dbcacd6117af28c7cf46bf6ae249c71.jpg
+slug: linus-spaceheads-cosmic-crusade
+releaseInfo:
+  catalogId: ALG-LN
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: November 1992
+  publisher: Camerica
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller,Aladdin Deck Enhancer
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Black
+  formFactor: Aladdin Cart
+  embossedText: U.S. & Canadian design applications pending. Made in the U.K.
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab8f671e3b8ec032f1863c0e99a109b8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 553')"
+    filename: /images/175/0790e9a6d0ccfd33cd8924ca958c1a09.jpg
+romDetails:
+- type: PRG0
+  label: ICROS74151-LN
+  size: 256 KB
+  crc32: 9E379698
+  x: 2
+pcbProperties:
+  name: ALGNV1-1
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9315
+  estFirstRun: April 1993
+  pcbClass: CAMERICA-ALGN
+  inesMapper: 71
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: PIC16C54
+  hardware: CCU_V2.00
+detailedChipInfo:
+- designation: 
+  maker: Macronix
+  partNumber: 5006AFA
+  partNumberSubDetail: 143
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9246
+  dateCodeSuffix: S
+  std: 9246
+  misc: CAL19004.1-A
+- designation: 
+  maker: Samsung
+  partNumber: KM6264BLS-8
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 210
+  dateCodeSuffix: ''
+  std: 9210
+  misc: 
+- designation: 
+  maker: Microchip
+  partNumber: PIC16C54-HS/P
+  partNumberSubDetail: 
+  type: PIC16C54
+  typeSubDetail: 
+  package: DIP-18
+  dateCodePrefix: 9315
+  dateCodeSuffix: CFA
+  std: 9315
+  misc: 
+- designation: 
+  maker: Code Masters
+  partNumber: CF30288
+  partNumberSubDetail: 
+  type: Aladdin MMC
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 9241
+  dateCodeSuffix: N X
+  std: 9241
+  misc: 

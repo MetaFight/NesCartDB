@@ -1,0 +1,120 @@
+metadata:
+  name: Short Order / Eggsplode!
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-19 22:01:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: short-order-eggsplode
+releaseInfo:
+  catalogId: NES-OR-USA
+  region: USA (NTSC)
+  class: Licensed  » Multi-cart
+  releaseDate: December 1989
+  publisher: Nintendo
+  developer: TOSE Software
+  players: 1
+  peripherals: Power Pad
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OR-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa3cba6b11fab4ca9bf6b95ac6f8ea7b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ec19b47f897640fcc79d5d56894d6b41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-OR-0 PRG
+  size: 64 KB
+  crc32: FD37CA4C
+  x: 1
+- type: CHR0
+  label: NES-OR-0 CHR
+  size: 32 KB
+  crc32: FB61F257
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 6435C095
+  x: 1
+pcbProperties:
+  name: NES-SBROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SBROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c0822f77a150499c3e5188c6d7b74df.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8947
+  estFirstRun: November 1989
+  pcbClass: NES-SBROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 25
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8946
+  dateCodeSuffix: E
+  std: 8946
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 3Y
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: B
+  std: 8944
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8947
+  dateCodeSuffix: 1 AA
+  std: 8947
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8947
+  dateCodeSuffix: 7 AA
+  std: 8947
+  misc: 

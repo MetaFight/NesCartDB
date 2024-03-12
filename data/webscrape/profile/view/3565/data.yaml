@@ -1,0 +1,110 @@
+metadata:
+  name: Momotarou Dentetsu
+  altName: 桃太郎電鉄
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-02 03:38:00
+  moreProfiles:
+  - 2223
+  - 3564
+  - 3565
+  relatedProfiles: []
+  additionalImages: 
+slug: momotarou-dentetsu
+releaseInfo:
+  catalogId: HFC-M2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 2, 1988
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-M2
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2223')"
+    filename: /images/175/a1533cbc8f6188b8f24ed9abece8e3e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: HFC-M2-0 PRG
+  size: 256 KB
+  crc32: 1027C432
+  x: 3
+pcbProperties:
+  name: HVC-UOROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8837 - 8839 (3)
+  estFirstRun: September 1988
+  pcbClass: HVC-UOROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 21
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8839
+  dateCodeSuffix: D
+  std: 8839
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8836
+  dateCodeSuffix: B5
+  std: 8836
+  misc: 
+- designation: U3 74HC161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8828
+  dateCodeSuffix: H
+  std: 8828
+  misc: 
+- designation: U4 74HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8809
+  dateCodeSuffix: H
+  std: 8809
+  misc: 

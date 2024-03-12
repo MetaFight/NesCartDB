@@ -1,0 +1,133 @@
+metadata:
+  name: Gun.Smoke
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-01 07:00:00
+  moreProfiles:
+  - 832
+  - 2765
+  - 1007
+  - 1407
+  relatedProfiles:
+  - 1415
+  - 4485
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-GK USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ec0f298fcb0ba13736e1324c370d9dc.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-GK USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/528a2ff90dfc038181d28e1f2127850e.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-GK-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eecfcbf9628312e850f40a4c66c8005a.jpg
+slug: gunsmoke
+releaseInfo:
+  catalogId: NES-GK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1988
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GK-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bf9384d30af8fa35976cddafb646b5d4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8bbc7934c8baf786bd5a635c970121e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-GK-0 PRG
+  size: 128 KB
+  crc32: A8784932
+  x: 4
+pcbProperties:
+  name: NES-UN-ROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8806 - 8846 (3)
+  estFirstRun: February 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8804
+  dateCodeSuffix: EX
+  std: 8804
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8806
+  dateCodeSuffix: 3 A
+  std: 8806
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8803
+  dateCodeSuffix: C
+  std: 8803
+  misc: 
+- designation: LS161N
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8751
+  dateCodeSuffix: H
+  std: 8751
+  misc: 
+- designation: LS32
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7M4
+  dateCodeSuffix: T
+  std: 8753
+  misc: 

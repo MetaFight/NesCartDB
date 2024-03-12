@@ -1,0 +1,111 @@
+metadata:
+  name: 'Famicom Jump: Eiyuu Retsuden'
+  altName: ファミコンジャンプ 英雄列伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 22:24:00
+  moreProfiles:
+  - 1540
+  - 1737
+  - 2256
+  - 3117
+  - 3118
+  - 3119
+  - 3279
+  relatedProfiles: []
+  additionalImages: 
+slug: famicom-jump-eiyuu-retsuden
+releaseInfo:
+  catalogId: BA-FJ
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 15, 1989
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1540')"
+    filename: /images/175/d0e228c0516170113f7188263d582d56.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1540')"
+    filename: /images/175/676e0f6fc287badb57b2c01316e4dd0c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 88 FJ-PRG
+  size: 256 KB
+  crc32: 2CBA26AC
+  x: 5
+- type: CHR0
+  label: BANDAI 88 FJ-CHR
+  size: 128 KB
+  crc32: DB36205E
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: D343C66A
+  x: 5
+pcbProperties:
+  name: JUMP
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JUMP<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b976380aef999bbb061e12a2331b82c2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JUMP<br>Submitted by: bootgod<br>Linked from profile 1737')"
+    filename: /images/175/87136509e6438fc9cc8d6e4adc79504d.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8906 - 8916 (7)
+  estFirstRun: February 1989
+  pcbClass: BANDAI-FCG-2
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FCG-2
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 31
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8909
+  dateCodeSuffix: D
+  std: 8909
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 11
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8911
+  dateCodeSuffix: E
+  std: 8911
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FCG-2
+  partNumberSubDetail: 
+  type: Bandai FCG-2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8911
+  dateCodeSuffix: 3 A
+  std: 8911
+  misc: 

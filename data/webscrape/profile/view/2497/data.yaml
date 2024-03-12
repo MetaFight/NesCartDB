@@ -1,0 +1,117 @@
+metadata:
+  name: Spy vs. Spy
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-14 02:44:00
+  moreProfiles:
+  - 2497
+  - 4204
+  relatedProfiles:
+  - 3592
+  - 588
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-SP-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e6e038862feb8afc46a6ab3a4949f51b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-SP-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0098bd9a6f4bc720693a78a9132a5c88.jpg
+slug: spy-vs-spy
+releaseInfo:
+  catalogId: NES-SP-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: July 27, 1990
+  publisher: Kemco
+  developer: First Star Software
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SP-EEC
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/10c4b8b24d2594f831a0960cc825537e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fb77770efef82570e5683c984d178c40.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-SP-0 PRG
+  size: 32 KB
+  crc32: DC719391
+  x: 2
+- type: CHR0
+  label: NES-SP-0 CHR
+  size: 8 KB
+  crc32: 883790C8
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: C1E91D3F
+  x: 2
+pcbProperties:
+  name: NES-NROM-256-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8b1ec11a220598f1107e5475002ea24d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 2085')"
+    filename: /images/175/0d3a9b1ae281e5f609ede1702de6034b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9021 - 9021 (2)
+  estFirstRun: May 1990
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2885
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0DB
+  dateCodeSuffix: 10
+  std: 9014
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2026
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0EL
+  dateCodeSuffix: 10
+  std: 9020
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9021
+  dateCodeSuffix: A
+  std: 9021
+  misc: 

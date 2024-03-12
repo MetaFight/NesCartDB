@@ -1,0 +1,120 @@
+metadata:
+  name: City Connection
+  altName: シティコネクション
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-13 02:32:00
+  moreProfiles:
+  - 3006
+  - 3287
+  relatedProfiles:
+  - 4501
+  - 689
+  additionalImages: 
+slug: city-connection
+releaseInfo:
+  catalogId: JF-05
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 27, 1985
+  publisher: Jaleco
+  developer: Hect
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Yellow
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/484351574d5328c82fa3ca3f80700dbd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1e848d415c512b47c040e0b21a40ef3e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: DDA9F780
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: CD06F259
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 32 KB
+  crc32: 20F98977
+  x: 2
+pcbProperties:
+  name: JF-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/10f55102b373ca24681f5a5073d4cec2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/edf2c9880aeca8683608458ed694230a.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8535 - 9029 (2)
+  estFirstRun: September 1985
+  pcbClass: JALECO-JF-05
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 1S
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: B
+  std: 9029
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 1Y
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: B
+  std: 9029
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC139C
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9002
+  dateCodeSuffix: J7
+  std: 9002
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74HC74P
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 0E1
+  dateCodeSuffix: T
+  std: 9019
+  misc: 

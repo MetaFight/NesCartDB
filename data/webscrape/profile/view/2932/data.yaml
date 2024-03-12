@@ -1,0 +1,76 @@
+metadata:
+  name: Gauntlet
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-22 06:48:00
+  moreProfiles:
+  - 1084
+  - 2116
+  - 2932
+  - 4589
+  relatedProfiles:
+  - 473
+  additionalImages: 
+slug: gauntlet
+releaseInfo:
+  catalogId: TGN-004-GL
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1084')"
+    filename: /images/175/8e1f1874fec3ba4f75cf8577e3d7e852.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335004-1011
+  size: 128 KB
+  crc32: B19C48A5
+  x: 3
+- type: CHR0
+  label: 335004-1012
+  size: 64 KB
+  crc32: 1EEFF226
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: CD50A092
+  x: 3
+pcbProperties:
+  name: 800004-01 REV C
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8850 - 9114 (3)
+  estFirstRun: December 1988
+  pcbClass: TENGEN-800004
+  inesMapper: 206
+  mirroring: Four Screen
+  batteryPresent: No
+  wram: 0 KB
+  vram: 2 KB
+  cicType: 337002
+  hardware: 337001, 74xx00
+detailedChipInfo: []

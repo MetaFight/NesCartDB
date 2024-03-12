@@ -1,0 +1,139 @@
+metadata:
+  name: The Bugs Bunny Blowout
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-23 03:01:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4478
+  - 4660
+  - 1979
+  - 680
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-H8-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d6173295363522d5072b6a1fb1524768.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-H8-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e6270e110e51c15ca77aaf3d001be6f9.jpg
+slug: the-bugs-bunny-blowout
+releaseInfo:
+  catalogId: NES-H8-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: June 13, 1992
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-H8-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ee5c00e36349a80da47a4c46aff4a02f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/80a15b1f2dffe828326c08a5c34d81fd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-H8-0 PRG
+  size: 128 KB
+  crc32: BE6D7AF7
+  x: 3
+- type: CHR0
+  label: PAL-H8-0 CHR
+  size: 128 KB
+  crc32: EECAAFA8
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9BD3F3C2
+  x: 3
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c42d92bbe589a479c16413bbb7e61e81.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9224
+  estFirstRun: June 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 4B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9224
+  dateCodeSuffix: E
+  std: 9224
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 71
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9224
+  dateCodeSuffix: D
+  std: 9224
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: A
+  std: 9219
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9206
+  dateCodeSuffix: 3 AB
+  std: 9206
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9217
+  dateCodeSuffix: KT50
+  std: 9217
+  misc: 

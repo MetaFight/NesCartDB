@@ -1,0 +1,81 @@
+metadata:
+  name: RoadBlasters
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-09 00:00:00
+  moreProfiles:
+  - 419
+  - 1065
+  - 2853
+  relatedProfiles:
+  - 4422
+  - 4719
+  additionalImages: 
+slug: roadblasters
+releaseInfo:
+  catalogId: NES-VE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Mindscape
+  developer: Tengen
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VE-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2853')"
+    filename: /images/175/700039b07c0bd89be840afff66f7300c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2853')"
+    filename: /images/175/5ea516b2abb671b5bd37cbaf2cda6d9f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-VE-0 PRG
+  size: 128 KB
+  crc32: 3AB1E983
+  x: 3
+- type: CHR0
+  label: NES-VE-0 CHR
+  size: 128 KB
+  crc32: D19B16FC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8ADA3497
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9017 (2)
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

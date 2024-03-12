@@ -1,0 +1,122 @@
+metadata:
+  name: Royal Blood
+  altName: ロイヤルブラッド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 03:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1031
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/73f7b0df102eede4f21c7fdc0384fc06.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/428cf2e1b40d0fcec5f7336481b6fea6.jpg
+slug: royal-blood
+releaseInfo:
+  catalogId: KOE-IU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 29, 1991
+  publisher: Koei
+  developer: Koei
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-IU
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90a6cd404f72141581e59a38c018ea1f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-IU-0 PRG
+  size: 256 KB
+  crc32: 57F33F70
+  x: 1
+- type: CHR0
+  label: KOE-IU-0 CHR
+  size: 256 KB
+  crc32: 44B22B3D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: BC80FB52
+  x: 1
+pcbProperties:
+  name: HVC-EKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-EKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cbba60b964a24091b58d68b03c256781.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-EKROM-01<br>Submitted by: bootgod<br>Linked from profile 3168')"
+    filename: /images/175/8ae0d9a6e8e0809bec0d736f179aa477.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9127
+  estFirstRun: July 1991
+  pcbClass: HVC-EKROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J574
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9127
+  dateCodeSuffix: EAI
+  std: 9127
+  misc: 
+- designation: U2 CHR
+  maker: Toshiba
+  partNumber: TC532003AP
+  partNumberSubDetail: J575
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9127
+  dateCodeSuffix: EAI
+  std: 9127
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9126
+  dateCodeSuffix: AA023
+  std: 9126
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 

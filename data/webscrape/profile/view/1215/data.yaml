@@ -1,0 +1,112 @@
+metadata:
+  name: Wizards & Warriors III
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-06 16:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1552
+  - 1885
+  additionalImages: 
+slug: wizards-warriors-iii
+releaseInfo:
+  catalogId: NES-8W-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 1992
+  publisher: Acclaim
+  developer: Zippo Games
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-8W-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: YHRY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d214c9f89b9d5383517d6601e6046e2b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/335672b3c162de9311d4eb384a47d5fe.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-8W-1 PRG
+  size: 256 KB
+  crc32: D2562072
+  x: 1
+pcbProperties:
+  name: 54425
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9204
+  estFirstRun: January 1992
+  pcbClass: ACCLAIM-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8922
+  dateCodeSuffix: 5 BA
+  std: 8922
+  misc: 
+- designation: U2
+  maker: National Semiconductor
+  partNumber: MM / MC74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9142
+  dateCodeSuffix: P
+  std: 9142
+  misc: AE
+- designation: U3
+  maker: MOSEL
+  partNumber: MS6265-10PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9142
+  dateCodeSuffix: 3 SBBB
+  std: 9142
+  misc: 
+- designation: U4 PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9204
+  dateCodeSuffix: LMF
+  std: 9204
+  misc: 

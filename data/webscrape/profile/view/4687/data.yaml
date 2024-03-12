@@ -1,0 +1,124 @@
+metadata:
+  name: Virus
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2013-02-18 02:34:00
+  moreProfiles:
+  - 4687
+  - 4688
+  relatedProfiles:
+  - 1945
+  - 1494
+  - 2465
+  - 1899
+  - 174
+  additionalImages: 
+slug: virus
+releaseInfo:
+  catalogId: NES-VU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/1c7c25c4a32526bd5687f282a24a2a71.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/f9e636a98c83b522ee027a4d194e32ad.jpg
+romDetails:
+- type: PRG0
+  label: VIRUS 2-2-90 PRG 5039
+  size: 32 KB
+  crc32: 14F7B86C
+  x: 1
+- type: CHR0
+  label: VIRUS 2-2-90 CHR 6581
+  size: 16 KB
+  crc32: D06589FE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 5EDEC8CD
+  x: 1
+pcbProperties:
+  name: NES-SIEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SIEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/c69f28825e7ee4d811e1f000389e671b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SIEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/184c5693c8996ad4592b1fe113334231.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-SIEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Intel
+  partNumber: D27256
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC3 CHR
+  maker: Hitachi
+  partNumber: HN27256G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8810
+  dateCodeSuffix: ''
+  std: 8810
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8914
+  dateCodeSuffix: 3 A
+  std: 8914
+  misc: 
+- designation: IC5 3193
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8853
+  dateCodeSuffix: 1 B
+  std: 8853
+  misc: 

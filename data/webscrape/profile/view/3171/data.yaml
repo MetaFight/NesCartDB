@@ -1,0 +1,123 @@
+metadata:
+  name: Sangokushi
+  altName: 三國志
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 17:26:00
+  moreProfiles:
+  - 3170
+  - 3171
+  - 3172
+  relatedProfiles:
+  - 730
+  additionalImages: 
+slug: sangokushi
+releaseInfo:
+  catalogId: KOE-IS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 30, 1988
+  publisher: Koei
+  developer: Koei
+  players: 8
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-IS
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/21dd9c38e3cc597203df0695d1994cff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-IS-1 PRG
+  size: 256 KB
+  crc32: CCF35C02
+  x: 2
+pcbProperties:
+  name: HVC-SOROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8847 - 8949 (3)
+  estFirstRun: November 1988
+  pcbClass: HVC-SOROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 37
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8944
+  dateCodeSuffix: D
+  std: 8944
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8930
+  dateCodeSuffix: M5006
+  std: 8930
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 3 AA
+  std: 8944
+  misc: 
+- designation: U4 W-RAM
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8930
+  dateCodeSuffix: M5006
+  std: 8930
+  misc: 
+- designation: U5 W-RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: 3 DB
+  std: 8944
+  misc: 

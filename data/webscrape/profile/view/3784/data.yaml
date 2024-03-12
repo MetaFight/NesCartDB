@@ -1,0 +1,107 @@
+metadata:
+  name: 'Higemaru Makaijima: Nanatsu no Shima Daibouken'
+  altName: 魔界島 七つの島大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 01:16:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: higemaru-makaijima-nanatsu-no-shima-daibouken
+releaseInfo:
+  catalogId: CAP-MZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 14, 1987
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: CAP-MZ
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d822dbdf05f1eb8e65b3b1b02a0ec2f3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-MZ-0 PRG
+  size: 128 KB
+  crc32: F7893859
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8713
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 46
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8713
+  dateCodeSuffix: D
+  std: 8713
+  misc: 
+- designation: CHR RAM
+  maker: Hitachi
+  partNumber: 64KS-NI
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8708
+  dateCodeSuffix: ''
+  std: 8708
+  misc: U042299N
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8649
+  dateCodeSuffix: CA
+  std: 8649
+  misc: 
+- designation: LS32
+  maker: National Semiconductor
+  partNumber: MM / MC74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8640
+  dateCodeSuffix: +B
+  std: 8640
+  misc: 

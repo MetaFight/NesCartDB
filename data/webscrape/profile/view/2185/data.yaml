@@ -1,0 +1,109 @@
+metadata:
+  name: Baseball
+  altName: ベースボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 01:21:00
+  moreProfiles:
+  - 1449
+  - 1627
+  - 2185
+  - 2710
+  - 2715
+  - 3363
+  - 3364
+  - 3365
+  - 3446
+  - 3447
+  - 3675
+  - 4747
+  relatedProfiles:
+  - 4255
+  - 4530
+  - 107
+  additionalImages: 
+slug: baseball
+releaseInfo:
+  catalogId: HVC-BA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Midnight Blue
+  formFactor: Small
+  frontLabelId: HVC-BA
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab42e483f7595107b1f14b0bc79add5b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-BA-0 PRG
+  size: 16 KB
+  crc32: D18A3DDE
+  x: 11
+- type: CHR0
+  label: HVC-BA-0 CHR
+  size: 8 KB
+  crc32: C27EEF20
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 78A48B23
+  x: 11
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/17d18dd79582b48ac3feea4e38a87a9b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8401 - 8614 (10)
+  estFirstRun: January 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613128P
+  partNumberSubDetail: D61
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 4B1
+  dateCodeSuffix: ''
+  std: 8406
+  misc: 
+- designation: CHR
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 106P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8405
+  dateCodeSuffix: 01
+  std: 8405
+  misc: 

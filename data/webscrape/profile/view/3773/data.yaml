@@ -1,0 +1,106 @@
+metadata:
+  name: Golf Club Birdie Rush
+  altName: ゴルフ倶楽部バーディラッシユ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 21:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: golf-club-birdie-rush
+releaseInfo:
+  catalogId: DFC-GH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 9, 1987
+  publisher: Data East
+  developer: Data East
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lawn Green
+  formFactor: Small
+  frontLabelId: DFC-GH
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/724fb66b90ab5252d84db55bbde1af12.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DFC-GH-0 PRG
+  size: 128 KB
+  crc32: 07AF9301
+  x: 1
+- type: CHR0
+  label: DFC-GH-0 CHR
+  size: 128 KB
+  crc32: ADF430B3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FCB13110
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c70ff0090f22d0cdff26a312c691dc63.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8747
+  estFirstRun: November 1987
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 7J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: D
+  std: 8747
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 36
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8747
+  dateCodeSuffix: D
+  std: 8747
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8744
+  dateCodeSuffix: A
+  std: 8744
+  misc: 

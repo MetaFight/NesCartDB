@@ -1,0 +1,111 @@
+metadata:
+  name: 'Hiryuu no Ken Special: Fighting Wars'
+  altName: 飛龍の拳スペシャル ファイティングウォーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-21 21:32:00
+  moreProfiles:
+  - 1519
+  - 3566
+  - 3567
+  - 3568
+  - 3795
+  relatedProfiles: []
+  additionalImages: 
+slug: hiryuu-no-ken-special-fighting-wars
+releaseInfo:
+  catalogId: CBF-4N
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 21, 1991
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CBF-4N
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1519')"
+    filename: /images/175/5a5273cfb37a50dca48d48b3f16f9260.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: CBF-4N-0 PRG
+  size: 128 KB
+  crc32: 38A02977
+  x: 4
+- type: CHR0
+  label: CBF-4N-0 CHR
+  size: 128 KB
+  crc32: 31244F96
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 07977186
+  x: 4
+pcbProperties:
+  name: HVC-SLRROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLRROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8f0c2e1286cd0842dffc15c4a0b7bf94.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLRROM-01<br>Submitted by: bootgod<br>Linked from profile 3567')"
+    filename: /images/175/a10eb52ec8e852dedcfbcb8eda00a94d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9120 - 9121 (4)
+  estFirstRun: May 1991
+  pcbClass: HVC-SLRROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W16
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9120
+  dateCodeSuffix: K9714
+  std: 9120
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R40
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9121
+  dateCodeSuffix: HY012
+  std: 9121
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9048
+  dateCodeSuffix: B3030
+  std: 9048
+  misc: 

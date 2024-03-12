@@ -1,0 +1,72 @@
+metadata:
+  name: Contra
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-01-29 19:19:00
+  moreProfiles:
+  - 52
+  - 425
+  - 869
+  relatedProfiles:
+  - 2454
+  - 2007
+  - 2050
+  - 3986
+  additionalImages: 
+slug: contra
+releaseInfo:
+  catalogId: NES-CT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1988
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CT-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 52')"
+    filename: /images/175/e93c02358f6a0cc9b112f0605a63b363.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 869')"
+    filename: /images/175/5e556b0774a27ad5afaf6860d1210f8e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-CT-0 PRG
+  size: 128 KB
+  crc32: F6035030
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8829 - 8829 (2)
+  estFirstRun: July 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

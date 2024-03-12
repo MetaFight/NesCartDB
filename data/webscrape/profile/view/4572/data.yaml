@@ -1,0 +1,122 @@
+metadata:
+  name: 'WWF WrestleMania: Steel Cage Challenge'
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-07 05:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4366
+  - 803
+  additionalImages: 
+slug: wwf-wrestlemania-steel-cage-challenge
+releaseInfo:
+  catalogId: NES-WS-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: LJN
+  developer: Sculptured Software
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WS-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/19690395b95a137b85c0518c2fbc642e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-WS-0 PRG
+  size: 128 KB
+  crc32: 449E6557
+  x: 2
+- type: CHR0
+  label: PAL-WS-0 CHR
+  size: 256 KB
+  crc32: D58BA61C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 21F2A1A6
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/ff5abbe0006bbedc191a6841814b681a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9242
+  estFirstRun: October 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: ES
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9241
+  dateCodeSuffix: E
+  std: 9241
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 0B
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9242
+  dateCodeSuffix: D
+  std: 9242
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9214
+  dateCodeSuffix: A
+  std: 9214
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9221
+  dateCodeSuffix: 3 A
+  std: 9221
+  misc: 

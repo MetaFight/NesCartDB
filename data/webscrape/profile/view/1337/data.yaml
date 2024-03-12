@@ -1,0 +1,115 @@
+metadata:
+  name: Popeye
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 01:03:00
+  moreProfiles:
+  - 622
+  - 1337
+  relatedProfiles:
+  - 2499
+  - 980
+  - 1392
+  - 2539
+  additionalImages: 
+slug: popeye
+releaseInfo:
+  catalogId: NES-PP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PP-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c756fd6fe53ad157050e774edc3ff2eb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/750cfd3168ea83dee4e0bde1bd79d8fc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: HVC-PP-1 PRG
+  size: 16 KB
+  crc32: 0FA63A45
+  x: 6
+- type: CHR0
+  label: HVC-PP-0 CHR
+  size: 8 KB
+  crc32: A5FD8D98
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 70860FCA
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7e0f71be0d9203cea7ab4e0b6dbff2b4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-06<br>Submitted by: Kinopio<br>Linked from profile 2149')"
+    filename: /images/175/abdf62981f5a19219bb98380dc69c625.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8639 - 8949 (2)
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 05
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8949
+  dateCodeSuffix: B
+  std: 8949
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 91
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8949
+  dateCodeSuffix: B
+  std: 8949
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8948
+  dateCodeSuffix: 5 BA
+  std: 8948
+  misc: 

@@ -1,0 +1,122 @@
+metadata:
+  name: Bible Adventures
+  altName: 
+  variant: (Version 5.0)
+  submittedBy: Skrybe
+  submittedOn: 2020-04-11 03:28:00
+  moreProfiles:
+  - 958
+  - 1015
+  - 1157
+  - 1364
+  - 2117
+  - 4773
+  relatedProfiles: []
+  additionalImages: 
+slug: bible-adventures
+releaseInfo:
+  catalogId: WT-BC-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufacture by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/c056ef75585153d984fdf967d9a8ffc7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/161330f0c52ae63ab344b47b04d82f40.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 663A15A3
+  x: 1
+- type: CHR0
+  label: D-ADVENTURES VID 512 14
+  size: 64 KB
+  crc32: 1C05428A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 8E011A8B
+  x: 1
+pcbProperties:
+  name: BC5
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC5<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/00320200b4d2335b30f939497ad28cd0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC5<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/1198fadf828fe51f8e753cee82806f0e.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9018 - 9407 (5)
+  estFirstRun: May 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 4051
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: National Semiconductor
+  partNumber: NM27C512Q-150
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9230
+  dateCodeSuffix: B
+  std: 9230
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9247
+  dateCodeSuffix: MFC
+  std: 9247
+  misc: 
+- designation: 
+  maker: ST Micro
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9140
+  dateCodeSuffix: 9
+  std: 9140
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: SCL4051BE
+  partNumberSubDetail: 
+  type: 4051
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

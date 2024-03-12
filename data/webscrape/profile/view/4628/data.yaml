@@ -1,0 +1,140 @@
+metadata:
+  name: Noah's Ark
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-17 05:57:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2399
+  additionalImages: 
+slug: noahs-ark
+releaseInfo:
+  catalogId: NES-NH-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Konami
+  developer: Source
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: RP100
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/af02d0275b99189bc3f7a37c27bd0876.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: RP100 P
+  size: 128 KB
+  crc32: B99085CE
+  x: 3
+- type: CHR0
+  label: RP100 C
+  size: 128 KB
+  crc32: 7836C636
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 81B2A3CD
+  x: 3
+pcbProperties:
+  name: NES-TKEPROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKEPROM-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/bfe28ee48490610c63300ad65e578dd8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKEPROM-02<br>Submitted by: Skrybe<br>Linked from profile 4700')"
+    filename: /images/175/502df72aa4c915494ae75b757d6366eb.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Fujitsu
+  partNumber: MBM27C1000-20Z
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8915
+  dateCodeSuffix: Z15
+  std: 8915
+  misc: 
+- designation: U10
+  maker: NEC
+  partNumber: D74HC139C
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8608
+  dateCodeSuffix: A7
+  std: 8608
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Fujitsu
+  partNumber: MBM27C1000-20Z
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8915
+  dateCodeSuffix: Z14
+  std: 8915
+  misc: 
+- designation: U7 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9G
+  dateCodeSuffix: 11E
+  std: 8927
+  misc: 
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 1 AB
+  std: 9204
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: 7 BB
+  std: 9219
+  misc: 

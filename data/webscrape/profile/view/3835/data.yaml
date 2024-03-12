@@ -1,0 +1,108 @@
+metadata:
+  name: Top Striker
+  altName: トップストライカー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 18:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ca156fb5767d7778e863afc022befe9.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b75497460a231beeb5df7eb4ad0b1525.jpg
+slug: top-striker
+releaseInfo:
+  catalogId: NAM-FTS-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 22, 1992
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5d30a0302f0ea9da6f97666fe739896.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8e09df1d576df28c2e94035e56fa5df0.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTFTSP
+  size: 128 KB
+  crc32: 9227180C
+  x: 1
+- type: CHR0
+  label: NAMCOTFTSC
+  size: 128 KB
+  crc32: DF4B2618
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2447E03B
+  x: 1
+pcbProperties:
+  name: CS 0003
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CS 0003<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98cafd940f9d9a5e1ad523af17be1c40.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CS 0003<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/878502b362a4a4eb1f551489d02c2d68.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9239
+  estFirstRun: September 1992
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: 831010-20
+  partNumberSubDetail: 9D3 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9239
+  dateCodeSuffix: Z02
+  std: 9239
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: 831010-20
+  partNumberSubDetail: 9D4 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9239
+  dateCodeSuffix: Z01
+  std: 9239
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 340
+  partNumberSubDetail: 
+  type: Namcot 340
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 9144
+  dateCodeSuffix: Z17
+  std: 9144
+  misc: 

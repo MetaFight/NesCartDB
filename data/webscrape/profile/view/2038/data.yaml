@@ -1,0 +1,115 @@
+metadata:
+  name: Disney's Aladdin
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 23:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2631
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-AJ-FRA<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b29c452c8269c477f82c87085261fe70.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-AJ-FRA<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9d66b99618482b85206e3378979f2a71.jpg
+slug: disneys-aladdin
+releaseInfo:
+  catalogId: NES-AJ-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: December 27, 1994
+  publisher: Virgin Games
+  developer: NMS Software
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AJ-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0b2f7ce897c0bba7e3e0748e044f752e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4386')"
+    filename: /images/175/4eb994e122a75be2471a222ad5b2e599.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AJ-0 PRG
+  size: 256 KB
+  crc32: 41D32FD7
+  x: 2
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9452
+  estFirstRun: December 1994
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 4N
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9452
+  dateCodeSuffix: E
+  std: 9452
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9232
+  dateCodeSuffix: EJ
+  std: 9232
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9446
+  dateCodeSuffix: B
+  std: 9446
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9349
+  dateCodeSuffix: ''
+  std: 9349
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: Kyonshiizu 2
+  altName: キョンシーズ２
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 00:23:00
+  moreProfiles:
+  - 1559
+  - 3151
+  - 3152
+  - 3153
+  - 3300
+  relatedProfiles: []
+  additionalImages: 
+slug: kyonshiizu-2
+releaseInfo:
+  catalogId: TFC-KR-5500-12
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 25, 1987
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Fake Battery Door
+  frontLabelId: TFC-KR5500
+  sequence#: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3151')"
+    filename: /images/175/02900b6cd827b2c80a55e3e1dae8cc41.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3153')"
+    filename: /images/175/896c536247b70f84e7a88b7b3a908a84.jpg
+romDetails:
+- type: PRG0
+  label: PP X3-014
+  size: 128 KB
+  crc32: 1202414B
+  x: 4
+- type: CHR0
+  label: CC X3-015
+  size: 128 KB
+  crc32: 608CF2E9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DE9C9C64
+  x: 4
+pcbProperties:
+  name: P3-034-B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-034-B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f14d88e8a002bfb01dad9df32b1b5125.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-034-B<br>Submitted by: bootgod<br>Linked from profile 3151')"
+    filename: /images/175/3fb643d292d6f9984112ceed6e3739c5.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8722 - 8737 (5)
+  estFirstRun: June 1987
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-005
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0801
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7G2
+  dateCodeSuffix: A5
+  std: 8729
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8728
+  dateCodeSuffix: KY
+  std: 8728
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8725
+  dateCodeSuffix: K5
+  std: 8725
+  misc: BB

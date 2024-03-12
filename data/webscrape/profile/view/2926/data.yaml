@@ -1,0 +1,79 @@
+metadata:
+  name: Felix the Cat
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-22 04:22:00
+  moreProfiles:
+  - 685
+  - 2926
+  relatedProfiles:
+  - 1300
+  additionalImages: 
+slug: felix-the-cat
+releaseInfo:
+  catalogId: NES-FC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1992
+  publisher: Hudson Soft
+  developer: Shimada Kikaku
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FC-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 685')"
+    filename: /images/175/893251c64898f51d141d45515b00d7dd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 685')"
+    filename: /images/175/1ced5742ed2af4732442deb97abc3db9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-FC-0 PRG
+  size: 128 KB
+  crc32: F7E84558
+  x: 2
+- type: CHR0
+  label: NES-FC-0 CHR
+  size: 128 KB
+  crc32: 60171742
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2CAAE01C
+  x: 2
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9237
+  estFirstRun: September 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

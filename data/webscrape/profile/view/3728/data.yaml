@@ -1,0 +1,108 @@
+metadata:
+  name: Ice Climber
+  altName: アイスクライマー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 06:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2079
+  - 4250
+  - 281
+  additionalImages: 
+slug: ice-climber
+releaseInfo:
+  catalogId: HVC-IC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 30, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: HVC-IC
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0227aba5399fa083988fb8cbfb9fffc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: D548307F
+  x: 8
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: FD98F4D3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 0B58880C
+  x: 1
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1874f604997a688bf6102ae385ddec51.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3364')"
+    filename: /images/175/92ad84127f96344f6941a644d4496049.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8527
+  estFirstRun: July 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-IC
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 57
+  dateCodeSuffix: 14
+  std: 8527
+  misc: 2V-E8
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

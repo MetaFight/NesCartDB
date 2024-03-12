@@ -1,0 +1,118 @@
+metadata:
+  name: 'Ys II: Ancient Ys Vanished The Final Chapter'
+  altName: イースⅡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 02:14:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ys-ii-ancient-ys-vanished-the-final-chapter
+releaseInfo:
+  catalogId: VFR-Q2-09
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 25, 1990
+  publisher: Victor
+  developer: Nihon Falcom
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: VFR-Q2-09
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d8e2561b7209b5435cca81826c4549bb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: VFR-Q2-0 PRG
+  size: 256 KB
+  crc32: 00161AFD
+  x: 1
+- type: CHR0
+  label: VFR-Q2-0 CHR
+  size: 128 KB
+  crc32: 370DC857
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 5A0454F3
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f9d2b2c08d56d3e84f3f4c7fc7b3e54a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9009
+  estFirstRun: March 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T51
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9005
+  dateCodeSuffix: PY733
+  std: 9005
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T82
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9005
+  dateCodeSuffix: EY720
+  std: 9005
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9009
+  dateCodeSuffix: 7 T
+  std: 9009
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: 51
+  std: 9008
+  misc: 

@@ -1,0 +1,95 @@
+metadata:
+  name: Star Luster
+  altName: スターラスター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 04:20:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1582
+  - 3202
+  - 3326
+  additionalImages: 
+slug: star-luster
+releaseInfo:
+  catalogId: NAM-NSL-4900-12
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 6, 1985
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1582')"
+    filename: /images/175/0362154f71613299c967ea5ee6681a02.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1582')"
+    filename: /images/175/92c22d78f33bf68fe792a450968a27d7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4708')"
+    filename: /images/175/b1df30a77d2a6013fe6a86e07bcc08fb.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: A3414FAA
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 73913654
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 6F3C67D1
+  x: 1
+pcbProperties:
+  name: 3303
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3303<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41541c295aaa038196ac2218268a59db.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3303<br>Submitted by: bootgod<br>Linked from profile 1582')"
+    filename: /images/175/87fb0a108b9ce9073b4e60b3ccb30020.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8538 - 8547 (3)
+  estFirstRun: September 1985
+  pcbClass: NAMCOT-3303
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Fujitsu
+  partNumber: MBM27256-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8539
+  dateCodeSuffix: R28
+  std: 8539
+  misc: 
+- designation: CH
+  maker: Fujitsu
+  partNumber: MBM2764-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8538
+  dateCodeSuffix: W92
+  std: 8538
+  misc: AB

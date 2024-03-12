@@ -1,0 +1,109 @@
+metadata:
+  name: Godzilla
+  altName: ゴジラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4432
+  - 4539
+  - 479
+  additionalImages: 
+slug: godzilla
+releaseInfo:
+  catalogId: THF-GZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 9, 1988
+  publisher: Toho
+  developer: Compile
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: THF-GZ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d9c891f1dd6214fe06ccbe2697c4422f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: THF-GZ-0 PRG
+  size: 128 KB
+  crc32: 4E21A480
+  x: 1
+- type: CHR0
+  label: THF-GZ-0 CHR
+  size: 128 KB
+  crc32: 3DC76996
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8A36D2B7
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/296e25be8ed46b923e42f4acc3b6c601.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844
+  estFirstRun: November 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: HS
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: E
+  std: 8844
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 1D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8844
+  dateCodeSuffix: D
+  std: 8844
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8839
+  dateCodeSuffix: 3 A
+  std: 8839
+  misc: 

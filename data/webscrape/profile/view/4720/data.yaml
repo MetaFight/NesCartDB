@@ -1,0 +1,129 @@
+metadata:
+  name: RoboCop 2
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2013-12-01 21:14:00
+  moreProfiles:
+  - 1881
+  - 4720
+  relatedProfiles:
+  - 4374
+  - 4064
+  - 620
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-2C-ESP<br>Submitted by: piteta<br>Linked from profile 1881')"
+    filename: /images/175/9e25bcd9448042e2ade198eb93f69fc3.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-2C-ESP<br>Submitted by: piteta<br>Linked from profile 1881')"
+    filename: /images/175/9f7b1ece8dd25b90f17675ed0a20e170.jpg
+slug: robocop-2
+releaseInfo:
+  catalogId: NES-2C-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: May 16, 1992
+  publisher: Ocean
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2C-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 1881')"
+    filename: /images/175/d01a97f60a10fe0782ac555b2c963ac2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-2C-0 PRG
+  size: 128 KB
+  crc32: 40C9E3EE
+  x: 3
+- type: CHR0
+  label: PAL-2C-0 CHR
+  size: 128 KB
+  crc32: 698FE8AB
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 89821E2B
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/abd794321d923881112e7167949dacf2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9203 - 9220 (2)
+  estFirstRun: January 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W58
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: K9703
+  std: 9146
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W50
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9152
+  dateCodeSuffix: KY003
+  std: 9152
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9149
+  dateCodeSuffix: C
+  std: 9149
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9203
+  dateCodeSuffix: 5 TA
+  std: 9203
+  misc: 

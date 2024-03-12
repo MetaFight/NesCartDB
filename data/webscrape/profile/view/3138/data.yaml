@@ -1,0 +1,95 @@
+metadata:
+  name: Ikki
+  altName: いっき
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-16 02:20:00
+  moreProfiles:
+  - 3138
+  - 3139
+  - 3271
+  relatedProfiles: []
+  additionalImages: 
+slug: ikki
+releaseInfo:
+  catalogId: SUN-RIK-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 28, 1985
+  publisher: Sunsoft
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a81db41f0933daf091d983f1a64e7626.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b95900eb2615b5a6e9e522cb17891ce8.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 8CF1AAE2
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 41C327D5
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 821FEB7A
+  x: 3
+pcbProperties:
+  name: UNK-SUNSOFT-RIK
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-SUNSOFT-RIK<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ffef2ce62fab048f33fa28df78630f7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8541 - 8603 (3)
+  estFirstRun: October 1985
+  pcbClass: SUNSOFT-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1
+  maker: Intel
+  partNumber: D27128
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 541
+  dateCodeSuffix: L
+  std: 8541
+  misc: 
+- designation: IC2
+  maker: Intel
+  partNumber: D2764A
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 540
+  dateCodeSuffix: U
+  std: 8540
+  misc: 

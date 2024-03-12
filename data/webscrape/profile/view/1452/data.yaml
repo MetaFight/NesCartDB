@@ -1,0 +1,110 @@
+metadata:
+  name: 'Rainbow Islands: The Story of Bubble Bobble 2'
+  altName: レインボーアイランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 01:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4046
+  - 4556
+  - 1090
+  additionalImages: 
+slug: rainbow-islands-the-story-of-bubble-bobble-2
+releaseInfo:
+  catalogId: DTF-RL (19)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 26, 1988
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: DTF-RL
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90a6ddc17709b9c7274bcc08a3f0cde8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DTF-RL-0 PRG
+  size: 128 KB
+  crc32: FA704C86
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8827
+  estFirstRun: July 1988
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 3J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8827
+  dateCodeSuffix: E
+  std: 8827
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8821
+  dateCodeSuffix: 3 A
+  std: 8821
+  misc: 
+- designation: U3 HC161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8821
+  dateCodeSuffix: CA
+  std: 8821
+  misc: 
+- designation: U4 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 809
+  dateCodeSuffix: J
+  std: 8809
+  misc: 

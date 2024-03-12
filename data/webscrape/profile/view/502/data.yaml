@@ -1,0 +1,128 @@
+metadata:
+  name: WWF WrestleMania
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-30 03:30:00
+  moreProfiles:
+  - 30
+  - 502
+  - 972
+  - 1355
+  relatedProfiles:
+  - 1981
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-HN-USA<br>Submitted by: bootgod<br>Linked from profile 30')"
+    filename: /images/175/266860cfa402a020121a9f322b0ae526.jpg
+slug: wwf-wrestlemania
+releaseInfo:
+  catalogId: NES-HN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1989
+  publisher: Acclaim
+  developer: Rare
+  players: 6
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HN-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 30')"
+    filename: /images/175/2757763eb450c559d711b6aa64923adf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 30')"
+    filename: /images/175/b5e45d2f9a340d2f08bef2aba6b92c5f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HN-0 PRG
+  size: 128 KB
+  crc32: 37138039
+  x: 4
+pcbProperties:
+  name: NES-ANROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924 - 9236 (3)
+  estFirstRun: June 1989
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: Z63
+  std: 8924
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sanyo
+  partNumber: LC3664R-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 96
+  dateCodeSuffix: 163
+  std: 8922
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8924
+  dateCodeSuffix: 7 BA
+  std: 8924
+  misc: 
+- designation: U4 HC161
+  maker: Motorola
+  partNumber: MC74HC161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8915
+  dateCodeSuffix: N A
+  std: 8915
+  misc: 
+- designation: U5 HC02
+  maker: Texas Instruments
+  partNumber: SN74HC02N
+  partNumberSubDetail: 
+  type: 74-02 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 920
+  dateCodeSuffix: J
+  std: 8920
+  misc: 

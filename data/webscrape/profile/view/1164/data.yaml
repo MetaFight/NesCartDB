@@ -1,0 +1,80 @@
+metadata:
+  name: 'Rescue: The Embassy Mission'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-08 02:15:00
+  moreProfiles:
+  - 688
+  - 1164
+  - 2902
+  relatedProfiles:
+  - 2495
+  - 4069
+  additionalImages: 
+slug: rescue-the-embassy-mission
+releaseInfo:
+  catalogId: NES-HZ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HZ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 688')"
+    filename: /images/175/e9c52d16094c7a19f1a7a2d3d4881f9d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 688')"
+    filename: /images/175/8bd43aba601179f96caa1f37bfe66f2a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-HZ-0 PRG
+  size: 128 KB
+  crc32: 8015CB0A
+  x: 3
+- type: CHR0
+  label: NES-HZ-0 CHR
+  size: 128 KB
+  crc32: 31ED51A8
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 63FCC0DD
+  x: 3
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8952
+  estFirstRun: December 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

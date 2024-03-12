@@ -1,0 +1,120 @@
+metadata:
+  name: 'The King of Kings:  The Early Years'
+  altName: 
+  variant: (Version 5.0)
+  submittedBy: bootgod
+  submittedOn: 2007-05-27 01:38:00
+  moreProfiles:
+  - 364
+  - 678
+  - 1607
+  - 4772
+  relatedProfiles: []
+  additionalImages: 
+slug: the-king-of-kings-the-early-years
+releaseInfo:
+  catalogId: WT-KK-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufacture by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 678')"
+    filename: /images/175/38a2ced2a4067427cab4da6cd26151ce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 2709')"
+    filename: /images/175/bae06d39de42a2203c30a3fc72e13880.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 028BFC44
+  x: 1
+- type: CHR0
+  label: KING VER 1.3 VID.
+  size: 128 KB
+  crc32: 1ACA7960
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7EABDA5C
+  x: 1
+pcbProperties:
+  name: BC5
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC5<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/142ef0e23fea9226093950510dab5974.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC5<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/16d4d6a4ad94f374242b1d164c208b7b.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9131 - 9143 (3)
+  estFirstRun: August 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 4051
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: National Semiconductor
+  partNumber: NM27C010Q-150
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9106
+  dateCodeSuffix: LB
+  std: 9106
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9141
+  dateCodeSuffix: EJD
+  std: 9141
+  misc: 
+- designation: 
+  maker: Signetics
+  partNumber: AGCI#4
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9031
+  dateCodeSuffix: VD CD7632N
+  std: 9031
+  misc: FHK0794
+- designation: 
+  maker: Phillips
+  partNumber: HEF4051BP
+  partNumberSubDetail: 
+  type: 4051
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8340
+  dateCodeSuffix: HSS
+  std: 8340
+  misc: 

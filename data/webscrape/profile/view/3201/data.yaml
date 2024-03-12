@@ -1,0 +1,115 @@
+metadata:
+  name: Side Pocket
+  altName: サイドポケット
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-20 05:58:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: side-pocket
+releaseInfo:
+  catalogId: NAM-SP-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 30, 1987
+  publisher: Namco
+  developer: Data East
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/63440a76b8105bc40bd37561353c56bf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38f9c202f678d2e100a7b9435d7c940e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6274796449106dce36fb8184db929fb.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 8A94F41C
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: E84A86F5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: F7762A20
+  x: 1
+pcbProperties:
+  name: LROG032-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG032-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a4f689240e9e37e5867a50215ffb2ea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG032-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/94d39562ecd25096f2360871aaf0ff57.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8743
+  estFirstRun: October 1987
+  pcbClass: NAMCOT-3405
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG032
+  partNumberSubDetail: SP
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8743
+  dateCodeSuffix: 3
+  std: 8743
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 256C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

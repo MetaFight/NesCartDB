@@ -1,0 +1,124 @@
+metadata:
+  name: Wayne Gretzky Hockey
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-12 03:18:00
+  moreProfiles:
+  - 755
+  - 1290
+  - 1327
+  relatedProfiles: []
+  additionalImages: 
+slug: wayne-gretzky-hockey
+releaseInfo:
+  catalogId: NES-ZY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1991
+  publisher: THQ
+  developer: Bethesda Softworks
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZY-USA-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8df3157aa5922dccb20e8051e838f397.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c9606b67acfac5506c48cf4a9dd14d6b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZY-0 PRG
+  size: 128 KB
+  crc32: 15F0D3F1
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9106 - 9217 (3)
+  estFirstRun: February 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1864
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1BJ
+  dateCodeSuffix: XA
+  std: 9106
+  misc: 
+- designation: U2 CHR RAM
+  maker: Rohm
+  partNumber: BR6264P-100
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 032
+  dateCodeSuffix: 045
+  std: 9032
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9042
+  dateCodeSuffix: 1 CB
+  std: 9042
+  misc: 
+- designation: U4 HC161
+  maker: Motorola
+  partNumber: MC74HC161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9036
+  dateCodeSuffix: N A
+  std: 9036
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32A
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8918
+  dateCodeSuffix: N A
+  std: 8918
+  misc: 

@@ -1,0 +1,102 @@
+metadata:
+  name: "Wily & Light no Rockboard: That's Paradise"
+  altName: ワイリー＆ライトのロックボード ザッツパラダイス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 04:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5d10f94db6f4fe40b8f9b0689b5c4f5a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb17ac9efb547b383043a9dc2df240a5.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fcd5bf62fb8b84a5a1dec32fb47f0e03.jpg
+slug: wily-light-no-rockboard-thats-paradise
+releaseInfo:
+  catalogId: CAP-BE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 15, 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: CAP-BE
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd6dacae1d835e2777c88f57a983350d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-BE-0 PRG
+  size: 256 KB
+  crc32: 23F4B48F
+  x: 1
+pcbProperties:
+  name: HVC-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9249
+  estFirstRun: December 1992
+  pcbClass: HVC-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W82
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9249
+  dateCodeSuffix: XY012
+  std: 9249
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9214
+  dateCodeSuffix: EJ
+  std: 9214
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9248
+  dateCodeSuffix: 7 A
+  std: 9248
+  misc: 

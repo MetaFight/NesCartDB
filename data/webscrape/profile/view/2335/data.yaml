@@ -1,0 +1,119 @@
+metadata:
+  name: Kero Kero Keroppi no Daibouken
+  altName: けろけろけろっぴの大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-02 00:00:00
+  moreProfiles:
+  - 1706
+  - 2335
+  relatedProfiles: []
+  additionalImages: 
+slug: kero-kero-keroppi-no-daibouken
+releaseInfo:
+  catalogId: CTS-ZI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 29, 1991
+  publisher: Character Soft
+  developer: Character Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: CTS-ZI
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1706')"
+    filename: /images/175/4cc8d4b5d9a728ccbf4625d910c9f34a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 975B25EE
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: B2B6C3B0
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: EB465156
+  x: 2
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fcc7867d6746a3b2ab3baf4b36e634b1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9148 - 9152 (2)
+  estFirstRun: December 1991
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: JZI
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: M
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9152
+  dateCodeSuffix: ''
+  std: 9152
+  misc: 

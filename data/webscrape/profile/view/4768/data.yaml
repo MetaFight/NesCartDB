@@ -1,0 +1,106 @@
+metadata:
+  name: Mitsume ga Tooru
+  altName: 三つ目がとおる
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-17 02:50:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mitsume-ga-tooru
+releaseInfo:
+  catalogId: TOM-3M
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 17, 1992
+  publisher: Tomy
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: TOM-3M
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/1b99bd2315d98893b6f098e78953eaa1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/82693cdfc11d342cb34e036ff4faecc3.jpg
+romDetails:
+- type: PRG0
+  label: TOM-3M-0 PRG
+  size: 128 KB
+  crc32: 390E0320
+  x: 0
+- type: CHR0
+  label: TOM-3M-0 CHR
+  size: 128 KB
+  crc32: 6E6EC906
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C8EDC97E
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/705be2e7d33fade1403235e73eca4e34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/5a51623a759dc6121870805539a24dd8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9222
+  estFirstRun: June 1992
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T06
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9222
+  dateCodeSuffix: K9708
+  std: 9222
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W90
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9222
+  dateCodeSuffix: KY702
+  std: 9222
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9214
+  dateCodeSuffix: EP024
+  std: 9214
+  misc: 

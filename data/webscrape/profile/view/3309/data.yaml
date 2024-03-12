@@ -1,0 +1,106 @@
+metadata:
+  name: Ganbare Goemon 2
+  altName: がんばれゴエモン２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 06:59:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1568
+  - 3309
+  additionalImages: 
+slug: ganbare-goemon-2
+releaseInfo:
+  catalogId: KON-RC833
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 4, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC833
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1568')"
+    filename: /images/175/4c676f094b0c36703fbc6642cb3d049c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1568')"
+    filename: /images/175/17eb0a7e750813d162ab54b7dca8c967.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC833J0P
+  size: 128 KB
+  crc32: 112140A4
+  x: 2
+- type: CHR0
+  label: RC 833 J0C
+  size: 128 KB
+  crc32: B0C3CE2D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0CC9FFEC
+  x: 2
+pcbProperties:
+  name: 350926
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>350926<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3bd17da4f90b8315c4ee1f8bc0197155.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>350926<br>Submitted by: bootgod<br>Linked from profile 1568')"
+    filename: /images/175/9fcf2f8bcf4c64564a45c757271ede69.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8853 - 8902 (2)
+  estFirstRun: January 1989
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8902
+  dateCodeSuffix: E
+  std: 8902
+  misc: 
+- designation: IC2
+  maker: Panasonic
+  partNumber: ''
+  partNumberSubDetail: MN231001
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8D2
+  dateCodeSuffix: 53
+  std: 8850
+  misc: 
+- designation: IC3
+  maker: Panasonic
+  partNumber: 052470 VRC II
+  partNumberSubDetail: KNC
+  type: Konami VRC II
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8
+  dateCodeSuffix: ''
+  std: 8814
+  misc: 

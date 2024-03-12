@@ -1,0 +1,126 @@
+metadata:
+  name: Ninja Jajamaru-kun
+  altName: 忍者じゃじゃ丸くん
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-19 05:41:00
+  moreProfiles:
+  - 1546
+  - 2625
+  - 2282
+  - 3015
+  - 3016
+  - 3017
+  - 3018
+  - 3019
+  - 3282
+  - 4581
+  relatedProfiles: []
+  additionalImages: 
+slug: ninja-jajamaru-kun
+releaseInfo:
+  catalogId: JF-06
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 15, 1985
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Purple
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-06
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2282')"
+    filename: /images/175/9c3a68a09a0ea5b0efc8f3ee62975810.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1546')"
+    filename: /images/175/4d25152f1f3d5f6e66effe7e8be2dc9b.jpg
+romDetails:
+- type: PRG0
+  label: PRG
+  size: 16 KB
+  crc32: 767A6A66
+  x: 9
+- type: CHR0
+  label: CHR
+  size: 16 KB
+  crc32: 35BEA742
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 32 KB
+  crc32: D97595A3
+  x: 9
+pcbProperties:
+  name: JF-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ffb18afc4cb206ad30ba18f282b04849.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-06<br>Submitted by: bootgod<br>Linked from profile 2282')"
+    filename: /images/175/a220fdbd0a44963b7b31fd00d5270757.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8542 - 8602 (10)
+  estFirstRun: October 1985
+  pcbClass: JALECO-JF-06
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27128
+  partNumberSubDetail: 202P
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 546
+  dateCodeSuffix: 11K
+  std: 8546
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M27128
+  partNumberSubDetail: 201P
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 545
+  dateCodeSuffix: 10N
+  std: 8545
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC139C
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8547
+  dateCodeSuffix: A7
+  std: 8547
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC74C
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8513
+  dateCodeSuffix: A7
+  std: 8513
+  misc: 

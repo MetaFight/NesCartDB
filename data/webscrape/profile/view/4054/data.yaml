@@ -1,0 +1,117 @@
+metadata:
+  name: Dream Master
+  altName: ドリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 00:49:00
+  moreProfiles:
+  - 1606
+  - 4054
+  relatedProfiles: []
+  additionalImages: 
+slug: dream-master
+releaseInfo:
+  catalogId: NAM-FPZ-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 22, 1992
+  publisher: Namco
+  developer: Birthday
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7a099bdfa0c7a8292604410a1b4cc88.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/25703403766a73248bc0d85a32e7b77c.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 8BC2EC0C
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: D6AD7AE1
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: BD523011
+  x: 2
+pcbProperties:
+  name: ICM60-26-K
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>ICM60-26-K<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c7a1fe678c858a5af85651ee78a7627.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>ICM60-26-K<br>Submitted by: bootgod<br>Linked from profile 1606')"
+    filename: /images/175/fc0c8348276318833661b957dd44ac17.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 9234 - 9234 (2)
+  estFirstRun: August 1992
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FPZ
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 234
+  dateCodeSuffix: K00
+  std: 9234
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP340
+  type: Namcot 340
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

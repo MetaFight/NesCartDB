@@ -1,0 +1,102 @@
+metadata:
+  name: Mach Rider
+  altName: マッハライダー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-21 01:29:00
+  moreProfiles:
+  - 1475
+  - 1625
+  - 3524
+  - 3525
+  relatedProfiles:
+  - 2376
+  - 2055
+  - 1991
+  - 611
+  additionalImages: 
+slug: mach-rider
+releaseInfo:
+  catalogId: HVC-MR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: HVC-MR
+  backLabelId/Desc: 831018
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1475')"
+    filename: /images/175/4093d409f8eef7e577c7274617169381.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-MR-0 PRG
+  size: 32 KB
+  crc32: AF2BBCBC
+  x: 6
+- type: CHR0
+  label: HVC-MR-0 CHR
+  size: 8 KB
+  crc32: 33A2B41A
+  x: 13
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 59977A46
+  x: 6
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2e89eae01afbbb9d10745ec38175fd3e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8546 - 8548 (4)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0059
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5L4
+  dateCodeSuffix: A8
+  std: 8548
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 35
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8547
+  dateCodeSuffix: D
+  std: 8547
+  misc: 

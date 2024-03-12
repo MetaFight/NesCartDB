@@ -1,0 +1,106 @@
+metadata:
+  name: 'Paaman: Enban o Torikaese!!'
+  altName: パーマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-15 23:42:00
+  moreProfiles:
+  - 2262
+  - 3276
+  relatedProfiles: []
+  additionalImages: 
+slug: paaman-enban-o-torikaese
+releaseInfo:
+  catalogId: IF-20
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 14, 1990
+  publisher: Irem
+  developer: Tamtex
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Light Blue
+  formFactor: New Style
+  frontLabelId: IF-20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2262')"
+    filename: /images/175/096c40d011f9a269161368f52a845efd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2262')"
+    filename: /images/175/9e845762424c1bda631a93be676d4d33.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: EB807320
+  x: 2
+- type: CHR0
+  label: IF-20 CHR
+  size: 128 KB
+  crc32: 5F77308A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FE387FE5
+  x: 2
+pcbProperties:
+  name: FC-00-016
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6d0045b6905a7b88f1ef5962b64ee30.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-016<br>Submitted by: bootgod<br>Linked from profile 2262')"
+    filename: /images/175/54612e86b06d26a5954b3013b3fb96e0.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9048 - 9107 (2)
+  estFirstRun: December 1990
+  pcbClass: IREM-G101
+  inesMapper: 32
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: G-101
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S48
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9048
+  dateCodeSuffix: E9705
+  std: 9048
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: E
+  std: 9044
+  misc: 
+- designation: G-101
+  maker: Mitsubishi
+  partNumber: G-101
+  partNumberSubDetail: 
+  type: Irem G-101
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 942
+  dateCodeSuffix: 100
+  std: 8942
+  misc: 

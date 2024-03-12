@@ -1,0 +1,113 @@
+metadata:
+  name: Yoshi no Cookie
+  altName: ヨッシーのクッキー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 03:05:00
+  moreProfiles:
+  - 2156
+  - 3628
+  - 3629
+  - 3630
+  relatedProfiles:
+  - 2916
+  - 2636
+  - 251
+  additionalImages: 
+slug: yoshi-no-cookie
+releaseInfo:
+  catalogId: HVC-CI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1992
+  publisher: Nintendo
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: HVC-CI
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1992f6742e66140ee7b6fcc6ffcd6de9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-CI-0 PRG
+  size: 128 KB
+  crc32: C9FFC5FC
+  x: 4
+- type: CHR0
+  label: HVC-CI-0 CHR
+  size: 64 KB
+  crc32: B65161BC
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: F66EC512
+  x: 4
+pcbProperties:
+  name: HVC-TFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5c1d644e0ee3c17cf183203fa32a86cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TFROM-01<br>Submitted by: bootgod<br>Linked from profile 3629')"
+    filename: /images/175/7d65832d2f846320f2fe618f5986d46e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9244 - 9244 (4)
+  estFirstRun: November 1992
+  pcbClass: HVC-TFROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NQN
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2
+  dateCodeSuffix: 53
+  std: 9244
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 88
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9244
+  dateCodeSuffix: B
+  std: 9244
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9202
+  dateCodeSuffix: EP011
+  std: 9202
+  misc: 

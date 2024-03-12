@@ -1,0 +1,107 @@
+metadata:
+  name: Superman
+  altName: スーパーマン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 03:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 376
+  additionalImages: 
+slug: superman
+releaseInfo:
+  catalogId: KSC-SN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 26, 1987
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-SN
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d13d4a5f19b48e4cca186cc9850b044.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-SN-0 PRG
+  size: 128 KB
+  crc32: FCDE8825
+  x: 1
+- type: CHR0
+  label: KSC-SN-0 CHR
+  size: 128 KB
+  crc32: A40EE452
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 856E7600
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e81263fd56ffa5ae786974bca464de2a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8751
+  estFirstRun: December 1987
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: BA
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8749
+  dateCodeSuffix: E
+  std: 8749
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 41
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8749
+  dateCodeSuffix: D
+  std: 8749
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8751
+  dateCodeSuffix: A
+  std: 8751
+  misc: 

@@ -1,0 +1,107 @@
+metadata:
+  name: Ninjara Hoi!
+  altName: 忍者らホイ！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 20:50:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ninjara-hoi
+releaseInfo:
+  catalogId: HSP-34
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 8, 1990
+  publisher: ASCII
+  developer: ASCII
+  players: 1
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Indigo
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: HSP-34
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f61f06802659ff0f48d7c1726e4c48cf.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-34-0 PRG
+  size: 512 KB
+  crc32: CEE5857B
+  x: 1
+pcbProperties:
+  name: HVC-SUROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023
+  estFirstRun: June 1990
+  pcbClass: HVC-SUROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013C
+  partNumberSubDetail: W06
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9021
+  dateCodeSuffix: EY702
+  std: 9021
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9016
+  dateCodeSuffix: MD
+  std: 9016
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9023
+  dateCodeSuffix: 3 AA
+  std: 9023
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: B1
+  std: 9022
+  misc: 

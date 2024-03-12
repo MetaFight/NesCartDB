@@ -1,0 +1,103 @@
+metadata:
+  name: 'Ninja Hattori-kun: Ninja wa Shuugyou de Gozaru no Maki'
+  altName: 忍者ハットリ君　忍者は修行でござるの巻
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-13 17:19:00
+  moreProfiles:
+  - 1480
+  - 1691
+  - 2713
+  - 3376
+  - 3377
+  - 3508
+  - 3509
+  - 3510
+  - 3715
+  relatedProfiles: []
+  additionalImages: 
+slug: ninja-hattori-kun-ninja-wa-shuugyou-de-gozaru-no-maki
+releaseInfo:
+  catalogId: HFC-NH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 5, 1986
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Brown
+  formFactor: Small
+  frontLabelId: HFC-NH
+  backLabelId/Desc: 850610
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1480')"
+    filename: /images/175/5c41a132cd0c06d0081cde95b10b41e5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-NH-0 PRG
+  size: 32 KB
+  crc32: 29470B20
+  x: 9
+- type: CHR0
+  label: HFC-NH-0 CHR
+  size: 8 KB
+  crc32: DC5BA8A3
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 55761931
+  x: 9
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a402b8c9b49f947cde43c0e691593fe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8605 - 8614 (9)
+  estFirstRun: February 1986
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 26
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8607
+  dateCodeSuffix: D
+  std: 8607
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8607
+  dateCodeSuffix: E
+  std: 8607
+  misc: 

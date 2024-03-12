@@ -1,0 +1,82 @@
+metadata:
+  name: Baseball
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 22:47:00
+  moreProfiles:
+  - 107
+  - 265
+  - 973
+  - 1307
+  relatedProfiles:
+  - 1449
+  - 4255
+  - 4530
+  additionalImages: 
+slug: baseball
+releaseInfo:
+  catalogId: NES-BA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 265')"
+    filename: /images/175/86e7156e3595f4c8458900202f65416e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 265')"
+    filename: /images/175/fea2468595e6c227d380888bd2cdf240.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-BA-0 PRG
+  size: 16 KB
+  crc32: 39D1FA03
+  x: 7
+- type: CHR0
+  label: NES-BA-0 CHR
+  size: 8 KB
+  crc32: CDE71B82
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: AFDCBD24
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8714 - 8743 (2)
+  estFirstRun: April 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo: []

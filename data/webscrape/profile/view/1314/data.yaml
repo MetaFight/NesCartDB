@@ -1,0 +1,74 @@
+metadata:
+  name: Metroid
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:12:00
+  moreProfiles:
+  - 224
+  - 566
+  - 762
+  - 765
+  - 1314
+  - 3062
+  - 4402
+  relatedProfiles:
+  - 2444
+  - 1878
+  additionalImages: 
+slug: metroid
+releaseInfo:
+  catalogId: NES-MT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MT-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 224')"
+    filename: /images/175/3adc696d30b21243b112542717ab1a83.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-MT-0 PRG
+  size: 128 KB
+  crc32: 70080810
+  x: 8
+pcbProperties:
+  name: NES-SNROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8729 - 9232 (5)
+  estFirstRun: July 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

@@ -1,0 +1,118 @@
+metadata:
+  name: Famista '92
+  altName: ファミスタ’９２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-06 02:30:00
+  moreProfiles:
+  - 1833
+  - 3262
+  - 3263
+  relatedProfiles: []
+  additionalImages: 
+slug: famista-92
+releaseInfo:
+  catalogId: NAM-F92-5000
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1991
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/572bded62269d7d96b8bd6df0cda9b77.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/11ab4c265fbed8d1e025f15de40e8619.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: FDBCA5D1
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 7801BC9E
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6EC51DE5
+  x: 3
+pcbProperties:
+  name: LROG074-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG074-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31dbcd54951b2c9d8dac502b5a7cae4e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG074-00<br>Submitted by: bootgod<br>Linked from profile 1604')"
+    filename: /images/175/99b77edf09a6668491d58755154c85b3.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 9146 - 9147 (3)
+  estFirstRun: November 1991
+  pcbClass: NAMCOT-340
+  inesMapper: 210
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 340
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG074
+  partNumberSubDetail: F92
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9147
+  dateCodeSuffix: 5
+  std: 9147
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP340
+  type: Namcot 340
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

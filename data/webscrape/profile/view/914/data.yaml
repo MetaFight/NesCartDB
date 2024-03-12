@@ -1,0 +1,122 @@
+metadata:
+  name: Family Feud, The All New
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-03 23:03:00
+  moreProfiles:
+  - 914
+  - 1134
+  relatedProfiles: []
+  additionalImages: 
+slug: family-feud-the-all-new
+releaseInfo:
+  catalogId: NES-YF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1991
+  publisher: GameTek
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ecbc9e7cd5c48110b7c01701c684cab.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1134')"
+    filename: /images/175/fb46ae07314941a73402df30aa72f26b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YF-0 PRG
+  size: 32 KB
+  crc32: 26F2B268
+  x: 2
+- type: CHR0
+  label: NES-YF-0 CHR
+  size: 128 KB
+  crc32: CE9D5A5C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 51BEE3EA
+  x: 2
+pcbProperties:
+  name: NES-SHROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SHROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1e6bf4224193abecc8a74259230c254a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SHROM-05<br>Submitted by: Kinopio<br>Linked from profile 2094')"
+    filename: /images/175/4d4c82490180c84ef13a5a0ca7bd6823.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9137 - 9204 (2)
+  estFirstRun: September 1991
+  pcbClass: NES-SHROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2355
+  partNumberSubDetail: 08
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: B
+  std: 9136
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 46
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9137
+  dateCodeSuffix: D
+  std: 9137
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9048
+  dateCodeSuffix: 3 AB
+  std: 9048
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9112
+  dateCodeSuffix: B3052
+  std: 9112
+  misc: 

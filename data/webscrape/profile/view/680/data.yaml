@@ -1,0 +1,137 @@
+metadata:
+  name: The Bugs Bunny Birthday Blowout
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 05:54:00
+  moreProfiles:
+  - 680
+  - 2792
+  relatedProfiles:
+  - 4478
+  - 2414
+  - 4660
+  - 1979
+  additionalImages: 
+slug: the-bugs-bunny-birthday-blowout
+releaseInfo:
+  catalogId: NES-H8-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-H8-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4f7c59f4178f46a1e565adf917ffacd9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3baead067bc8d58822b57b300dd52386.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-H8-0 PRG
+  size: 128 KB
+  crc32: 87F699DC
+  x: 3
+- type: CHR0
+  label: NES-H8-0 CHR
+  size: 128 KB
+  crc32: FD39B4DB
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 126EBF66
+  x: 3
+pcbProperties:
+  name: NES-TSROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/85813d36010c70e4fc7c25a1b2601b62.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-07<br>Submitted by: Kinopio<br>Linked from profile 2438')"
+    filename: /images/175/b4dfcd90a8ffea33fa9f5fe234eef2d9.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9032 - 9033 (2)
+  estFirstRun: August 1990
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5474
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0GF
+  dateCodeSuffix: 7A
+  std: 9027
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0086
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0HD
+  dateCodeSuffix: 73
+  std: 9031
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9031
+  dateCodeSuffix: 5 AA
+  std: 9031
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9032
+  dateCodeSuffix: 1 DA
+  std: 9032
+  misc: 
+- designation: U5 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9027
+  dateCodeSuffix: HCK
+  std: 9027
+  misc: 

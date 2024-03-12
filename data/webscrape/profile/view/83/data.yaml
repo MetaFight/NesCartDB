@@ -1,0 +1,123 @@
+metadata:
+  name: Barker Bill's Trick Shooting
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-03 05:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2102
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-ZT-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/674d57bcba86101b5d2c832291b89a75.jpg
+slug: barker-bills-trick-shooting
+releaseInfo:
+  catalogId: NES-ZT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZT-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0733f17633ef91a9c33b2c813fa6bcec.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e745a1816c284024be7ceb2c48732b3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-ZT-0 PRG
+  size: 64 KB
+  crc32: F2641AD0
+  x: 1
+- type: CHR0
+  label: NES-ZT-0 CHR
+  size: 128 KB
+  crc32: A0A5A968
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 4318A2F8
+  x: 1
+pcbProperties:
+  name: NES-SCROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SCROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9bc8eed9e96bdd7572a6436fbc6403e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SCROM-03<br>Submitted by: Kinopio<br>Linked from profile 2102')"
+    filename: /images/175/381235f257576e86f259ec1a32d42987.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9022
+  estFirstRun: June 1990
+  pcbClass: NES-SCROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 42
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9022
+  dateCodeSuffix: E
+  std: 9022
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: L6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9021
+  dateCodeSuffix: D
+  std: 9021
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9019
+  dateCodeSuffix: 3 BA
+  std: 9019
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9013
+  dateCodeSuffix: B3049
+  std: 9013
+  misc: 

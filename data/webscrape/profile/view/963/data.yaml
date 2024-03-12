@@ -1,0 +1,119 @@
+metadata:
+  name: Solitaire
+  altName: 
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 22:42:00
+  moreProfiles:
+  - 963
+  - 1366
+  - 4243
+  relatedProfiles: []
+  additionalImages: 
+slug: solitaire
+releaseInfo:
+  catalogId: AVE-SL
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: AVE
+  developer: Odyssey Software
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Square Corner
+  embossedText: American Video Entertainment Made in USA
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7bed59745483cca948bf3b95080eaa1e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f58d5263d0cab247b53e7a0d8747b8d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3003')"
+    filename: /images/175/8c6bc29d71201d0d4a6968d12dfe548d.jpg
+romDetails:
+- type: PRG0
+  label: SOLI-PRG-R11 3ED7
+  size: 32 KB
+  crc32: 1C779CD7
+  x: 2
+- type: CHR0
+  label: SOLI-CHR 61A6
+  size: 32 KB
+  crc32: AF78116A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: B6A2B981
+  x: 2
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f30d7a8dd314d8e873ea76fd9c82958.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9213 - 9213 (3)
+  estFirstRun: March 1992
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: MX23256
+  partNumberSubDetail: 1055
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9213
+  dateCodeSuffix: EPD
+  std: 9213
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: MX23256
+  partNumberSubDetail: 1054
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9213
+  dateCodeSuffix: FCF
+  std: 9213
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9141
+  dateCodeSuffix: ''
+  std: 9141
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9142
+  dateCodeSuffix: ''
+  std: 9142
+  misc: 

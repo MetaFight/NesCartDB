@@ -1,0 +1,111 @@
+metadata:
+  name: Ide Yousuke Meijin no Jissen Mahjong
+  altName: 井出洋介名人の実戦麻雀
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2016-04-03 16:10:00
+  moreProfiles:
+  - 2224
+  - 3519
+  - 3762
+  - 4730
+  relatedProfiles: []
+  additionalImages: 
+slug: ide-yousuke-meijin-no-jissen-mahjong
+releaseInfo:
+  catalogId: CAP-IM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 24, 1987
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Mahjong Controller,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CAP-IM
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2224')"
+    filename: /images/175/ff0b6e35b744ba4fe467a96b3b5c0a41.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-IM-0 PRG
+  size: 128 KB
+  crc32: 8E066CCB
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8737 - 8943 (4)
+  estFirstRun: September 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0220
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7J1
+  dateCodeSuffix: A6
+  std: 8737
+  misc: 
+- designation: CHR RAM
+  maker: Hitachi
+  partNumber: HM6264LFP-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SOP-28
+  dateCodePrefix: 8607
+  dateCodeSuffix: ''
+  std: 8607
+  misc: U0202WW0
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8711
+  dateCodeSuffix: CA
+  std: 8711
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7?
+  dateCodeSuffix: ''
+  std: 8735
+  misc: 

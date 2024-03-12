@@ -1,0 +1,129 @@
+metadata:
+  name: 'Nobunaga no Yabou: Sengoku Gunyuuden'
+  altName: 信長の野望 戦国群雄伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 17:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1326
+  additionalImages: 
+slug: nobunaga-no-yabou-sengoku-gunyuuden
+releaseInfo:
+  catalogId: KOE-NU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 3, 1990
+  publisher: Koei
+  developer: Koei
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-NU
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0588ad22f5c43e6923c747af2e93a742.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-NU-0 PRG
+  size: 256 KB
+  crc32: 98C8E090
+  x: 1
+- type: CHR0
+  label: KOE-NU-0 CHR
+  size: 128 KB
+  crc32: 5CC0DBF5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: EEE9A682
+  x: 1
+pcbProperties:
+  name: HVC-ETROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/11ff202a0e42fbcdd0a142f932c07b89.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47f8bf368e942787bf69cbdf12560099.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004
+  estFirstRun: January 1990
+  pcbClass: HVC-ETROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T45
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8951
+  dateCodeSuffix: PY732
+  std: 8951
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T72
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8949
+  dateCodeSuffix: EY782
+  std: 8949
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 8950
+  dateCodeSuffix: AA108
+  std: 8950
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Sharp
+  partNumber: LH5160-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9004
+  dateCodeSuffix: 1 DA
+  std: 9004
+  misc: 
+- designation: U5 W-RAM-1
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8903
+  dateCodeSuffix: M5
+  std: 8903
+  misc: 

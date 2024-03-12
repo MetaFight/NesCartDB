@@ -1,0 +1,92 @@
+metadata:
+  name: Mappy
+  altName: マッピー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 22:13:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mappy
+releaseInfo:
+  catalogId: NAM-NMP-4500-04
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 14, 1984
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 04
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/997d33b5693c8042279aa6adf3162d24.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/002bf89e1d76eb2482436193d37e3124.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7402cf2d732e60b69ce3b48d3f27c901.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT MP PRG
+  size: 16 KB
+  crc32: 25482CEB
+  x: 1
+- type: CHR0
+  label: NAMCOT MP CHR
+  size: 8 KB
+  crc32: B060AFC5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5D1301C5
+  x: 1
+pcbProperties:
+  name: 3302
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3302<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c1ea0872c33b9f492935249f8ff238f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3302<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90459714c294b16fc12680c5fe696d03.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8439
+  estFirstRun: September 1984
+  pcbClass: NAMCOT-3302
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: General Instrument
+  partNumber: 9128DS
+  partNumberSubDetail: 0124
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8438
+  dateCodeSuffix: CDA
+  std: 8438
+  misc: 
+- designation: CH
+  maker: General Instrument
+  partNumber: 9864DS
+  partNumberSubDetail: 0097
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8439
+  dateCodeSuffix: CCA
+  std: 8439
+  misc: 

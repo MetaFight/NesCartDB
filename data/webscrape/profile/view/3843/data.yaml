@@ -1,0 +1,115 @@
+metadata:
+  name: 'Lupin Sansei: Pandora no Isan'
+  altName: ルパン三世　パンドラの遺産
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 02:42:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: lupin-sansei-pandora-no-isan
+releaseInfo:
+  catalogId: NAM-LP-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 6, 1987
+  publisher: Namco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f296963e115b5d9913f3da28b1165724.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b23199fc4f5ee3448d87c9bbcefa98fc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a340afe951a2f50d570ead592135c84.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 11B038FE
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: EC35A88C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 9D21FE96
+  x: 1
+pcbProperties:
+  name: 60-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a477d7ec637617771f9e52c9f99e9e4d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8742
+  estFirstRun: October 1987
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: LP
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 742
+  dateCodeSuffix: K15
+  std: 8742
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP108
+  type: Namcot 108
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

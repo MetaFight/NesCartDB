@@ -1,0 +1,218 @@
+metadata:
+  name: Nintendo World Championships 1990
+  altName: 
+  variant: 
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 05:35:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: nintendo-world-championships-1990
+releaseInfo:
+  catalogId: NES-NV-USA
+  region: USA (NTSC)
+  class: Licensed  » Competition
+  releaseDate: 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Thomy_Gaming<br>Linked from profile 0')"
+    filename: /images/175/fc4459dd0479d9bc0989ddd9a5f54d2b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG1
+  label: Not Present
+  size: 128 KB
+  crc32: 4F834DCA
+  x: 1
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 7B5CA760
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0B0E128F
+  x: 1
+pcbProperties:
+  name: NES-EVENT-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-EVENT-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/89d716f7ecd0c6fc9f264d4ea7c90af1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8953
+  estFirstRun: January 1990
+  pcbClass: NES-EVENT
+  inesMapper: 105
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx08, 74xx30, 74xx4040, 74xx4040, 74xx4040, 74xx4040, 74xx74, MMC1B2
+detailedChipInfo:
+- designation: IC1 HC30
+  maker: Toshiba
+  partNumber: 74HC30AP
+  partNumberSubDetail: 
+  type: 74-30 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8940
+  dateCodeSuffix: H
+  std: 8940
+  misc: 
+- designation: IC10 PRG-ROM
+  maker: Intel
+  partNumber: D27C010-150V10
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 927
+  dateCodeSuffix: U
+  std: 8927
+  misc: 
+- designation: IC11 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8951
+  dateCodeSuffix: 5 AA
+  std: 8951
+  misc: 
+- designation: IC12 CHR-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9J
+  dateCodeSuffix: 08E
+  std: 8940
+  misc: 
+- designation: IC13 PRG-ROM
+  maker: Intel
+  partNumber: D27C010-150V10
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 927
+  dateCodeSuffix: U
+  std: 8927
+  misc: 
+- designation: IC2 HC74
+  maker: Toshiba
+  partNumber: 74HC74AP
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8937
+  dateCodeSuffix: H
+  std: 8937
+  misc: 
+- designation: IC3 HC4040
+  maker: Toshiba
+  partNumber: 74HC4040AP
+  partNumberSubDetail: 
+  type: 74-4040 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8936
+  dateCodeSuffix: H
+  std: 8936
+  misc: 
+- designation: IC4 HC4040
+  maker: Toshiba
+  partNumber: 74HC4040AP
+  partNumberSubDetail: 
+  type: 74-4040 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8940
+  dateCodeSuffix: H
+  std: 8940
+  misc: 
+- designation: IC5 HC08
+  maker: Toshiba
+  partNumber: 74HC08AP
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8909
+  dateCodeSuffix: H
+  std: 8909
+  misc: 
+- designation: IC6 HC4040
+  maker: Toshiba
+  partNumber: 74HC4040AP
+  partNumberSubDetail: 
+  type: 74-4040 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8936
+  dateCodeSuffix: H
+  std: 8936
+  misc: 
+- designation: IC7 HC04
+  maker: Toshiba
+  partNumber: 74HC04AP
+  partNumberSubDetail: 
+  type: 74-04 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8940
+  dateCodeSuffix: H
+  std: 8940
+  misc: 
+- designation: IC8 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9J
+  dateCodeSuffix: 03E
+  std: 8940
+  misc: 
+- designation: IC9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8953
+  dateCodeSuffix: 7 CA
+  std: 8953
+  misc: 

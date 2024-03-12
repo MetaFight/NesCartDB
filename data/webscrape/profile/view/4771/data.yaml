@@ -1,0 +1,107 @@
+metadata:
+  name: Hello Kitty World
+  altName: "ãƒ\x8Fãƒ­ãƒ¼ã‚­ãƒ†ã‚£ãƒ¼ãƒ¯ãƒ¼ãƒ«ãƒ‰"
+  variant: 
+  submittedBy: Ben Boldt
+  submittedOn: 2020-01-06 02:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hello-kitty-world
+releaseInfo:
+  catalogId: CTS-HW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 27, 1992
+  publisher: Character Soft
+  developer: Pax Softnica
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: CTS-HW
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Ben Boldt<br>Linked from profile 0')"
+    filename: /images/175/973d2ba14bf7ba5f8f73d1dad4444674.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Ben Boldt<br>Linked from profile 0')"
+    filename: /images/175/be169141c99dc6a93232271d61c0ccf5.jpg
+romDetails:
+- type: PRG0
+  label: CTS-HW-0 PRG
+  size: 128 KB
+  crc32: 67D5C3F9
+  x: 0
+pcbProperties:
+  name: HVC-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9206
+  estFirstRun: February 1992
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6677
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2BC
+  dateCodeSuffix: 43
+  std: 9206
+  misc: 
+- designation: U2 CHR RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9201
+  dateCodeSuffix: HCK
+  std: 9201
+  misc: 
+- designation: U3 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: ER
+  std: 9139
+  misc: 
+- designation: U4 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9131
+  dateCodeSuffix: H
+  std: 9131
+  misc: 

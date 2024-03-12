@@ -1,0 +1,109 @@
+metadata:
+  name: Ginga no Sannin
+  altName: 銀河の三人
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 01:07:00
+  moreProfiles:
+  - 2169
+  - 3652
+  relatedProfiles: []
+  additionalImages: 
+slug: ginga-no-sannin
+releaseInfo:
+  catalogId: HVC-GT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: HVC-GT
+  backLabelId/Desc: 831018
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2169')"
+    filename: /images/175/c7553f02749775e7e2e1d6268ebcc91a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-GT-0 PRG
+  size: 128 KB
+  crc32: 8A368744
+  x: 2
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8749 - 8749 (2)
+  estFirstRun: December 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 9J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8749
+  dateCodeSuffix: E
+  std: 8749
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7J
+  dateCodeSuffix: 85
+  std: 8740
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 736
+  dateCodeSuffix: J
+  std: 8736
+  misc: 
+- designation: LS32
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7L1
+  dateCodeSuffix: T
+  std: 8745
+  misc: 

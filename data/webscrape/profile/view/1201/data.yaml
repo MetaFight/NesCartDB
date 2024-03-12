@@ -1,0 +1,113 @@
+metadata:
+  name: Balloon Fight
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-02 03:22:00
+  moreProfiles:
+  - 1075
+  - 1201
+  - 2573
+  relatedProfiles:
+  - 2456
+  - 3611
+  additionalImages: 
+slug: balloon-fight
+releaseInfo:
+  catalogId: NES-BF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 3, 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5576d1fccf2abb599979a3b2761877f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b8d96aee48ebec8af80e6dce1224e0ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-BF-0 PRG
+  size: 16 KB
+  crc32: BD2E9025
+  x: 3
+- type: CHR0
+  label: HVC-BF-0 CHR
+  size: 8 KB
+  crc32: C642A1DF
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 401349A8
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a3f4182473018e1a630b90be9583bd2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-02<br>Submitted by: Kinopio<br>Linked from profile 2081')"
+    filename: /images/175/0305ffa8c4a19f1430c29bfe62e1c116.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8652 - 8927 (3)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0561
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6M3
+  dateCodeSuffix: 21
+  std: 8651
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 08
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8652
+  dateCodeSuffix: E
+  std: 8652
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8652
+  dateCodeSuffix: A
+  std: 8652
+  misc: 

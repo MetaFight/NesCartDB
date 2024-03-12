@@ -1,0 +1,86 @@
+metadata:
+  name: Kung Fu
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-07-31 04:46:00
+  moreProfiles:
+  - 245
+  - 1142
+  - 1334
+  - 1441
+  - 1868
+  relatedProfiles:
+  - 2455
+  - 4474
+  - 1458
+  - 1912
+  - 4548
+  - 4549
+  additionalImages: 
+slug: kung-fu
+releaseInfo:
+  catalogId: NES-SX-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Irem
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SX-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 245')"
+    filename: /images/175/60765ab8d6c5052e45e46ee862e1dc1b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1142')"
+    filename: /images/175/0784a50aa3d6f168a4895c703ced6e99.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-SX-0 PRG
+  size: 32 KB
+  crc32: 0516375E
+  x: 5
+- type: CHR0
+  label: NES-SX-0 CHR
+  size: 8 KB
+  crc32: 430B49A4
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: D5C64257
+  x: 5
+pcbProperties:
+  name: NES-NROM-256-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8634 - 8809 (4)
+  estFirstRun: August 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

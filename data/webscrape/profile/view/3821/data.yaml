@@ -1,0 +1,104 @@
+metadata:
+  name: 'Crayon Shin-chan: Ora to Poi Poi'
+  altName: クレヨンしんちゃん オラとポイポイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 05:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: crayon-shin-chan-ora-to-poi-poi
+releaseInfo:
+  catalogId: BA-SHINCHAN
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 27, 1993
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Light Green
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9b823f6f264fa1a2bc7ede3e43d3e91b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a98205b196f169b20cd5e1c6eac3293e.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI'93 SHINCHAN PRG
+  size: 128 KB
+  crc32: B515E7D4
+  x: 1
+- type: CHR0
+  label: BANDAI'93 SHINCHAN CHR
+  size: 128 KB
+  crc32: A4B121A9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DB05106E
+  x: 1
+pcbProperties:
+  name: DRAGON BALL Z-B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DRAGON BALL Z-B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/229e7f47a2b0ac2e17616500c11604a0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9331
+  estFirstRun: August 1993
+  pcbClass: BANDAI-LZ93D50
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FCG-3
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9331
+  dateCodeSuffix: E
+  std: 9331
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9331
+  dateCodeSuffix: E
+  std: 9331
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D50
+  partNumberSubDetail: 
+  type: Bandai FCG-3
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 9324
+  dateCodeSuffix: 5 AA
+  std: 9324
+  misc: 

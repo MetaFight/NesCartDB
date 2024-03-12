@@ -1,0 +1,84 @@
+metadata:
+  name: Spy Hunter
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-08-14 05:19:00
+  moreProfiles:
+  - 26
+  - 263
+  - 292
+  - 486
+  - 859
+  - 1003
+  - 2793
+  relatedProfiles: []
+  additionalImages: 
+slug: spy-hunter
+releaseInfo:
+  catalogId: NES-HU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Sunsoft
+  developer: Midway
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HU-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 26')"
+    filename: /images/175/c3db4fdc853cc72ffc7be56d0186353f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 263')"
+    filename: /images/175/3c79a4b82119a8e4ea7a586d127d5f58.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HU-0 PRG
+  size: 32 KB
+  crc32: FE2DAB28
+  x: 8
+- type: CHR0
+  label: NES-HU-0 CHR
+  size: 32 KB
+  crc32: B87C4D93
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C7197FB1
+  x: 8
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8736 - 8924 (5)
+  estFirstRun: September 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx161
+detailedChipInfo: []

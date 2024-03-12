@@ -1,0 +1,76 @@
+metadata:
+  name: Top Gun
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-04-14 03:59:00
+  moreProfiles:
+  - 86
+  - 288
+  - 341
+  - 556
+  - 799
+  - 850
+  - 888
+  relatedProfiles:
+  - 1022
+  - 2005
+  - 1521
+  additionalImages: 
+slug: top-gun
+releaseInfo:
+  catalogId: NES-TG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1987
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TG-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 07
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 850')"
+    filename: /images/175/bdd5b6aab389018f825c43710e8d36fb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 850')"
+    filename: /images/175/5d22ab3b4219b67192527a204451bed2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TG-1 PRG
+  size: 128 KB
+  crc32: CF6D0D7A
+  x: 4
+pcbProperties:
+  name: NES-UN-ROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8744 - 8826 (4)
+  estFirstRun: November 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

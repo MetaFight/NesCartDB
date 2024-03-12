@@ -1,0 +1,120 @@
+metadata:
+  name: Famista '91
+  altName: ファミスタ’９１
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-23 01:38:00
+  moreProfiles:
+  - 1603
+  - 2657
+  - 3259
+  - 3260
+  - 3261
+  relatedProfiles: []
+  additionalImages: 
+slug: famista-91
+releaseInfo:
+  catalogId: NAM-F91-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 21, 1990
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8b09e9a67e151203a5b9a5d5574733ff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c90d47102f3dcff9201c74b1fccdb276.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 8E1E1181
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: C5526943
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 808606F0
+  x: 5
+pcbProperties:
+  name: LROG063-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG063-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a8dae1482cab3a5ed07a47931d22836.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG063-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8fa8f0ce668c2398bf778d95704125f4.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 9045 - 9048 (5)
+  estFirstRun: November 1990
+  pcbClass: NAMCOT-175
+  inesMapper: 210
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 175
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG063
+  partNumberSubDetail: F91
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9045
+  dateCodeSuffix: 6
+  std: 9045
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP175
+  type: Namcot 175
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

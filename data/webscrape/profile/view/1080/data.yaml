@@ -1,0 +1,110 @@
+metadata:
+  name: Stack-Up
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-09 06:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 991
+  - 1641
+  additionalImages: 
+slug: stack-up
+releaseInfo:
+  catalogId: NES-BL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller,R. O. B.
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e66f1d5c89297f53a906ac55ce89b7c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5a2f07a2c9fb08f19fa06eec2a87defb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-BL-0 PRG
+  size: 32 KB
+  crc32: 4EE735C1
+  x: 3
+- type: CHR0
+  label: HVC-BL-0 CHR
+  size: 8 KB
+  crc32: 41F4B527
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: DF67DAA1
+  x: 3
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6958382d5a64b0c0db0aa9cd4bcb6207.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: ortizimo<br>Linked from profile 0')"
+    filename: /images/175/465d06ed4b0d6534cd47194824a6eb83.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8539
+  estFirstRun: September 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: U1
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8539
+  dateCodeSuffix: A
+  std: 8539
+  misc: 
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0053
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5G3
+  dateCodeSuffix: 20
+  std: 8529
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 14
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8529
+  dateCodeSuffix: D
+  std: 8529
+  misc: 

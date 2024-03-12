@@ -1,0 +1,122 @@
+metadata:
+  name: Monster in My Pocket
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-06 06:02:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4425
+  - 76
+  additionalImages: 
+slug: monster-in-my-pocket
+releaseInfo:
+  catalogId: NES-1Y-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Palcom
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-1Y-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-EAI-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/2723f913958de57c4b2da723151319a5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/9099aad791188a5e8e4cb91492a79e04.jpg
+romDetails:
+- type: PRG0
+  label: PAL-1Y-0 PRG
+  size: 128 KB
+  crc32: C1CD15DD
+  x: 2
+- type: CHR0
+  label: PAL-1Y-0 CHR
+  size: 128 KB
+  crc32: 3558DAC8
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 80250D64
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/48ef3394c3fba465f4260bb5a1ae7ebf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9301
+  estFirstRun: January 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6693
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3AC
+  dateCodeSuffix: 10
+  std: 9301
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0164
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3AC
+  dateCodeSuffix: 10
+  std: 9301
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9214
+  dateCodeSuffix: A
+  std: 9214
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9245
+  dateCodeSuffix: EP001
+  std: 9245
+  misc: 

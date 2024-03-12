@@ -1,0 +1,125 @@
+metadata:
+  name: F-15 Strike Eagle
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-01-22 18:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 979
+  - 4499
+  - 2111
+  - 1860
+  - 227
+  additionalImages: 
+slug: f-15-strike-eagle
+releaseInfo:
+  catalogId: NES-8F-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: December 13, 1992
+  publisher: Microprose
+  developer: Microprose
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8F-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-EAI-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7706b11bd46f6a02c962937154c29ead.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3f395c7dc8117df902c49a46a567d524.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/9099aad791188a5e8e4cb91492a79e04.jpg
+romDetails:
+- type: PRG0
+  label: PAL-8F-0 PRG
+  size: 256 KB
+  crc32: 0C312787
+  x: 1
+- type: CHR0
+  label: PAL-8F-0 CHR
+  size: 256 KB
+  crc32: 727F8BC3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 989C1019
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/316ee49afed5fe6386fa0ff4f6b47170.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e0563e640c0af9a57b2fa83063b39a16.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9250
+  estFirstRun: December 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W84
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9250
+  dateCodeSuffix: XD019
+  std: 9250
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W85
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9250
+  dateCodeSuffix: XD021
+  std: 9250
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9209
+  dateCodeSuffix: A
+  std: 9209
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9249
+  dateCodeSuffix: 1 A
+  std: 9249
+  misc: 

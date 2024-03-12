@@ -1,0 +1,111 @@
+metadata:
+  name: Family Circuit
+  altName: ファミリーサーキット
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-28 23:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2293
+  - 3218
+  - 3219
+  - 3220
+  - 3221
+  - 3222
+  - 3335
+  additionalImages: 
+slug: family-circuit
+releaseInfo:
+  catalogId: NAM-FC-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 6, 1988
+  publisher: Namco
+  developer: Game Studio
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2293')"
+    filename: /images/175/f740983b200c994eb329c248cae06224.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2293')"
+    filename: /images/175/ce267bef54050db13d4d5b7b3c9e7137.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT FC PRG
+  size: 128 KB
+  crc32: A50C51FB
+  x: 7
+- type: CHR0
+  label: NAMCOT FC CHR
+  size: 32 KB
+  crc32: 888E4DFB
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 9CBC8253
+  x: 7
+pcbProperties:
+  name: 3415
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3415<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c8cf8081acf571746d6f5fc172795f29.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3415<br>Submitted by: bootgod<br>Linked from profile 1790')"
+    filename: /images/175/9c21cf4a883f111b30240bb98152f458.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8749 - 8912 (7)
+  estFirstRun: December 1987
+  pcbClass: NAMCOT-3415
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118
+detailedChipInfo:
+- designation: P
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8752
+  dateCodeSuffix: E
+  std: 8752
+  misc: 
+- designation: C
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2451
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7M3
+  dateCodeSuffix: A1
+  std: 8752
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 7
+  dateCodeSuffix: ''
+  std: 8750
+  misc: 

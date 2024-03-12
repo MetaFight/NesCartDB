@@ -1,0 +1,120 @@
+metadata:
+  name: Hokuto no Ken
+  altName: 北斗の拳
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 23:19:00
+  moreProfiles:
+  - 1496
+  - 2214
+  - 3410
+  relatedProfiles: []
+  additionalImages: 
+slug: hokuto-no-ken
+releaseInfo:
+  catalogId: TDF-HK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 10, 1986
+  publisher: Toei Animation
+  developer: Shouei System
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TDF-HK
+  backLabelId/Desc: 860410
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2214')"
+    filename: /images/175/8ee994e0bd2ab9ca07296d1caa2b244c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 43E95611
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: B4C1BFB4
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 60A3B803
+  x: 3
+pcbProperties:
+  name: 097
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>097<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/878d756502c5b92d9ab4e2e7aa463618.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>097<br>Submitted by: bootgod<br>Linked from profile 3352')"
+    filename: /images/175/e7d1542875ad19a6bb4e8f2734174e55.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8628 - 8631 (3)
+  estFirstRun: July 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: TDF-HK
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 68
+  dateCodeSuffix: 10
+  std: 8631
+  misc: 12H-AX
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74161
+  type: 74-161 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,114 @@
+metadata:
+  name: War In The Gulf
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-11-04 03:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4247
+  additionalImages: 
+slug: war-in-the-gulf
+releaseInfo:
+  catalogId: C7-1135
+  region: Brazil (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: CCE
+  developer: MegaSoft
+  players: 1
+  peripherals: NES Controller
+  country: Brazil
+cartProperties:
+  cartProducer: 
+  color: Blue
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae5ca864dbe11fd946d1b476875d1c0b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98729b6f327a4df6ad8d25fa58630fb4.jpg
+romDetails:
+- type: PRG0
+  label: ND961-P
+  size: 128 KB
+  crc32: A586AD54
+  x: 2
+- type: CHR0
+  label: ND962-C
+  size: 128 KB
+  crc32: 3AC3BDDD
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 638DBC52
+  x: 2
+pcbProperties:
+  name: TH2394-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>TH2394-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/58bab8a82dd8bbec2ede616ddd36e5cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>TH2394-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/79bb74b680d59758fbca1fbdb073aa05.jpg
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9132
+  estFirstRun: August 1991
+  pcbClass: NTDEC-TC-112
+  inesMapper: 193
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx00, TC-112
+detailedChipInfo:
+- designation: U1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: TC-112
+  partNumberSubDetail: 
+  type: NTDEC TC-112
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5
+  maker: Hitachi
+  partNumber: HD74LS00P
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 1H1
+  dateCodeSuffix: 6
+  std: 9132
+  misc: 

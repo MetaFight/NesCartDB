@@ -1,0 +1,122 @@
+metadata:
+  name: 'The Flintstones:  The Rescue of Dino & Hoppy'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-18 21:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2608
+  - 1925
+  additionalImages: 
+slug: the-flintstones-the-rescue-of-dino-hoppy
+releaseInfo:
+  catalogId: NES-5Z-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-5Z-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29476a7f1bbe6069df88c21cae894b01.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/40159b403b9efa93df3585239b2b48bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-5Z-0 PRG
+  size: 128 KB
+  crc32: 0AF937D1
+  x: 1
+- type: CHR0
+  label: NES-5Z-0 CHR
+  size: 256 KB
+  crc32: DC53CEFA
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 2FE20D79
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f0b71cc3db840acb5f51559e14a3ab3f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146
+  estFirstRun: November 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 4Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: E
+  std: 9144
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: D
+  std: 9146
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 139
+  dateCodeSuffix: C
+  std: 9139
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9111
+  dateCodeSuffix: KP236
+  std: 9111
+  misc: 

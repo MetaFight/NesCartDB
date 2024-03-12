@@ -1,0 +1,116 @@
+metadata:
+  name: Golf
+  altName: 
+  variant: (Revision M)
+  submittedBy: Kinopio
+  submittedOn: 2007-11-02 16:23:00
+  moreProfiles:
+  - 2125
+  - 2513
+  - 2516
+  relatedProfiles:
+  - 2385
+  - 4429
+  - 1472
+  - 2090
+  - 100
+  additionalImages: 
+slug: golf
+releaseInfo:
+  catalogId: NES-GF-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: November 15, 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  revision: M
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0851863149acf01a2389562b1dd8960d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/cad881e59ea9eab9b44094315077a272.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-GFm0 PRG
+  size: 16 KB
+  crc32: 10BBD4BA
+  x: 5
+- type: CHR0
+  label: HVC-GF-0 CHR
+  size: 8 KB
+  crc32: 7DFA75A8
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 565B1BDB
+  x: 5
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a14a4eb35f845f624a64243b0e9eef17.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8646 - 9023 (3)
+  estFirstRun: November 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 37
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8743
+  dateCodeSuffix: E
+  std: 8743
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: R2
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8743
+  dateCodeSuffix: B
+  std: 8743
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 

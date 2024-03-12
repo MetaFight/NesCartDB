@@ -1,0 +1,81 @@
+metadata:
+  name: 'Double Dragon III: The Sacred Stones'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-26 23:19:00
+  moreProfiles:
+  - 557
+  - 1234
+  relatedProfiles:
+  - 1717
+  - 2452
+  - 2028
+  - 4476
+  additionalImages: 
+slug: double-dragon-iii-the-sacred-stones
+releaseInfo:
+  catalogId: NES-3W-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Acclaim
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3W-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1234')"
+    filename: /images/175/b111e758b45e7c12916ea2e72c228a90.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1234')"
+    filename: /images/175/53e2471939759f75d573a3c9ec966861.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: NES-3W-0 PRG
+  size: 128 KB
+  crc32: AC9817E3
+  x: 3
+- type: CHR0
+  label: NES-3W-0 CHR
+  size: 128 KB
+  crc32: 1E3FE47F
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 50FD0CC6
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9121
+  estFirstRun: May 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

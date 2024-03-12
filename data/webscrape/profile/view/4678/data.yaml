@@ -1,0 +1,115 @@
+metadata:
+  name: Hyper Olympic Gentaiban!
+  altName: ハイパーオリンピック 限定版！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-12-11 03:11:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hyper-olympic-gentaiban
+releaseInfo:
+  catalogId: KON-RC800LE
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 21, 1985
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Konami HyperShot,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC800
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0834dc3af384127844299a9d963ec5d3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f11b05190ceb2ff8baf089f682d19cb4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: 800JX1P
+  size: 32 KB
+  crc32: DB9418E8
+  x: 1
+- type: CHR0
+  label: 800JXC
+  size: 16 KB
+  crc32: FFC4EEDE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 21F85681
+  x: 1
+pcbProperties:
+  name: 302017A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>302017A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/423775c7a6f6a876418a529894575191.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>302017A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b8699770197cce49f39c2d13369715d3.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8542
+  estFirstRun: October 1985
+  pcbClass: KONAMI-74*139/74
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: IC1
+  maker: Hitachi
+  partNumber: HN27256G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8532
+  dateCodeSuffix: ''
+  std: 8532
+  misc: 00009SS0
+- designation: IC2
+  maker: Hitachi
+  partNumber: HN4827128G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8542
+  dateCodeSuffix: ''
+  std: 8542
+  misc: 00009SS0
+- designation: IC3
+  maker: Toshiba
+  partNumber: TC74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8508
+  dateCodeSuffix: H
+  std: 8508
+  misc: 
+- designation: IC4
+  maker: NEC
+  partNumber: D74HC74C
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8506
+  dateCodeSuffix: A7
+  std: 8506
+  misc: 

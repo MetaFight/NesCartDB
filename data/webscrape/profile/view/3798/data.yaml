@@ -1,0 +1,104 @@
+metadata:
+  name: Front Line
+  altName: フロントライン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 03:28:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: front-line
+releaseInfo:
+  catalogId: TFC-FL-4500-03
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 1, 1985
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 2 Screws
+  frontLabelId: Not Present
+  sequence#: 03
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0fe1558f45c18c3569d62fc8eba65459.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1762')"
+    filename: /images/175/60ef901bbd2699f338377fe0dcef5998.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F59DA73C
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: CF22CD4C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: CF4DBDBE
+  x: 1
+pcbProperties:
+  name: 1A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>1A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa1fa10bb54b4d3c4ba14bed6dea81ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>1A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/340b1a5f3edac314a9b726c2a852af50.jpg
+  pcbProducer: Taito
+  manufacturer: OKI
+  mfgRange: 8540
+  estFirstRun: October 1985
+  pcbClass: TAITO-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: 
+  partNumberSubDetail: TFC-FL
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5X
+  dateCodeSuffix: 051
+  std: 8540
+  misc: 3V-K1
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

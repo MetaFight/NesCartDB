@@ -1,0 +1,128 @@
+metadata:
+  name: 'Bio Senshi Dan: Increaser tono Tatakai'
+  altName: バイオ戦士DAN　インクリーザーとの闘い
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 19:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4612
+  additionalImages: 
+slug: bio-senshi-dan-increaser-tono-tatakai
+releaseInfo:
+  catalogId: JF-14
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 22, 1987
+  publisher: Jaleco
+  developer: Atlus
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Bright Green
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-14
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/73384eaaa3e9d05a077f9083b1d7872e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/78bc835be12895526f1e308c369890a2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: FA6580E6
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: ABA17DF7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EC40E71B
+  x: 1
+pcbProperties:
+  name: JF-14
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-14<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc35f1f2a14fa02e38c78aecb3c65b8a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-14<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f5eb6d89e6ece5bc2c8d631ccf039fb.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8735
+  estFirstRun: September 1987
+  pcbClass: JALECO-JF-14
+  inesMapper: 140
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx174, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: D23C1010C
+  partNumberSubDetail: W87
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8735
+  dateCodeSuffix: KX730
+  std: 8735
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D23C1010C
+  partNumberSubDetail: W88
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8735
+  dateCodeSuffix: KX718
+  std: 8735
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC139C
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8715
+  dateCodeSuffix: B7
+  std: 8715
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC174C
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8733
+  dateCodeSuffix: F7
+  std: 8733
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 648
+  dateCodeSuffix: 4D2
+  std: 8648
+  misc: 

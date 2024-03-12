@@ -1,0 +1,68 @@
+metadata:
+  name: 'Super Cartridge Version 1: 4 in 1'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-05 00:17:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: super-cartridge-version-1-4-in-1
+releaseInfo:
+  catalogId: TC-SC1
+  region: Taiwan (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 
+  publisher: Sachen / Joy Van
+  developer: Sachen / Joy Van
+  players: 1
+  peripherals: NES Controller
+  country: Taiwan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/19a2a73c44dcf0d616b30ae7fafbd9f0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: 
+  size: 128 KB
+  crc32: F3B48944
+  x: 1
+- type: CHR0
+  label: 
+  size: 256 KB
+  crc32: A8AF3B2D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: FB3439FC
+  x: 1
+pcbProperties:
+  name: TC-30-2
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  pcbClass: SACHEN-8259A
+  inesMapper: 141
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: SA8259A
+detailedChipInfo: []

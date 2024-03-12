@@ -1,0 +1,116 @@
+metadata:
+  name: Road Fighter
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2013-03-09 13:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4437
+  - 4363
+  - 1567
+  - 2475
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-AL-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9919dbd01814cccc9e030a6a9eef144b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-AL-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/16995a461a22ccb423657e9b82867308.jpg
+slug: road-fighter
+releaseInfo:
+  catalogId: NES-39-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: June 18, 1992
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-39-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e51259180ab04f07b76e2e956806b25f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-39-0 PRG
+  size: 16 KB
+  crc32: F51C7D02
+  x: 4
+- type: CHR0
+  label: PAL-39-0 CHR
+  size: 8 KB
+  crc32: A148C520
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 719571B3
+  x: 4
+pcbProperties:
+  name: NES-NROM-128-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/87960bf42153c0c6134bebf6f4d3b0f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-06<br>Submitted by: Kinopio<br>Linked from profile 2149')"
+    filename: /images/175/abdf62981f5a19219bb98380dc69c625.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9206
+  estFirstRun: February 1992
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 2Y
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9206
+  dateCodeSuffix: B
+  std: 9206
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 7A
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9206
+  dateCodeSuffix: B
+  std: 9206
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9149
+  dateCodeSuffix: C
+  std: 9149
+  misc: 

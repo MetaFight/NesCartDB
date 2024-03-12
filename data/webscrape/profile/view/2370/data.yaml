@@ -1,0 +1,114 @@
+metadata:
+  name: Faxanadu
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-25 02:04:00
+  moreProfiles:
+  - 616
+  - 1195
+  - 2370
+  - 2928
+  relatedProfiles: []
+  additionalImages: 
+slug: faxanadu
+releaseInfo:
+  catalogId: NES-FX-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1989
+  publisher: Nintendo
+  developer: Hudson Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FX-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de57c0aa60d2aeb434f98f9f7b64c5d0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1195')"
+    filename: /images/175/9a4035be625747ab5a540e7e17fb810f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-FX-0 PRG
+  size: 256 KB
+  crc32: 57DD23D1
+  x: 4
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924 - 9024 (3)
+  estFirstRun: June 1989
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8930
+  dateCodeSuffix: R20
+  std: 8930
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9G
+  dateCodeSuffix: 12Y
+  std: 8926
+  misc: 
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8928
+  dateCodeSuffix: 3 A
+  std: 8928
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8929
+  dateCodeSuffix: 5 AA
+  std: 8929
+  misc: 

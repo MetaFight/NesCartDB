@@ -1,0 +1,127 @@
+metadata:
+  name: Takahashi Meijin no Boukenjima
+  altName: 高橋名人の冒険島
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 07:12:00
+  moreProfiles:
+  - 1501
+  - 2311
+  - 3352
+  - 3353
+  - 3354
+  - 3355
+  - 3684
+  relatedProfiles:
+  - 1428
+  - 1939
+  - 59
+  additionalImages: 
+slug: takahashi-meijin-no-boukenjima
+releaseInfo:
+  catalogId: HFC-TB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 12, 1986
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-TB
+  backLabelId/Desc: 860410
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1501')"
+    filename: /images/175/ae273d89756e90a0bc0b2b1829794ace.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 8090E3D6
+  x: 7
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: A90FB063
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 6A457A43
+  x: 7
+pcbProperties:
+  name: 097-1A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>097-1A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/50ce4dcb1ee8ce1c87db5b3bf13ce3f2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>097-1A<br>Submitted by: bootgod<br>Linked from profile 3353')"
+    filename: /images/175/83625cbe38fd745dd6c07794a1036bd9.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8624 - 8636 (7)
+  estFirstRun: June 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HFC-TB
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 69
+  dateCodeSuffix: 30
+  std: 8636
+  misc: 12H-BB
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74161
+  type: 74-161 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

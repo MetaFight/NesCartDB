@@ -1,0 +1,119 @@
+metadata:
+  name: Joy Mech Fight
+  altName: ジョイメカファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 05:02:00
+  moreProfiles:
+  - 3638
+  - 3710
+  relatedProfiles: []
+  additionalImages: 
+slug: joy-mech-fight
+releaseInfo:
+  catalogId: HVC-JM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 21, 1993
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Blue
+  formFactor: Small
+  frontLabelId: HVC-JM
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c0403ad16ee5d9755f9cd6cb735e48f6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-JM-0 PRG
+  size: 256 KB
+  crc32: 6DAAA704
+  x: 2
+- type: CHR0
+  label: HVC-JM-0 CHR
+  size: 256 KB
+  crc32: F15EC6E5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 708EA2BE
+  x: 2
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8b09ef45dc2d06933211f15b1f0943b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9317 - 9318 (2)
+  estFirstRun: April 1993
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9317
+  dateCodeSuffix: T07
+  std: 9317
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9316
+  dateCodeSuffix: T05
+  std: 9316
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9245
+  dateCodeSuffix: EP014
+  std: 9245
+  misc: 
+- designation: U4 W-RAM
+  maker: Motorola
+  partNumber: MCM60L64P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9249
+  dateCodeSuffix: HCK
+  std: 9249
+  misc: 

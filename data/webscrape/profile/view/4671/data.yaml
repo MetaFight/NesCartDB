@@ -1,0 +1,113 @@
+metadata:
+  name: Double Moon Densetsu
+  altName: ダブル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 06:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/69e4778a7ffd26de997825a54a5f3ee0.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0169d5f8aa3bbdcfa2e3d2aa03d3311.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d7a377035cd4d8dc9cd2a764b98f4148.jpg
+slug: double-moon-densetsu
+releaseInfo:
+  catalogId: NCS-1T
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 30, 1992
+  publisher: Masaya
+  developer: Masaya
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NCS-1T
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/309612ba00c6de3e73ee19bb3e850d56.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: NCS-1T-0 PRG
+  size: 512 KB
+  crc32: A60FBA51
+  x: 1
+pcbProperties:
+  name: HVC-TNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9239
+  estFirstRun: September 1992
+  pcbClass: HVC-TNROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534J
+  partNumberSubDetail: 0L
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9239
+  dateCodeSuffix: D
+  std: 9239
+  misc: 
+- designation: U2 CHR
+  maker: LSI Logic
+  partNumber: LH5168FB-10TL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 232
+  dateCodeSuffix: D
+  std: 9232
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9237
+  dateCodeSuffix: 3 T
+  std: 9237
+  misc: 
+- designation: U4 W-RAM
+  maker: LSI Logic
+  partNumber: LH5168FB-10TL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 232
+  dateCodeSuffix: D
+  std: 9232
+  misc: 

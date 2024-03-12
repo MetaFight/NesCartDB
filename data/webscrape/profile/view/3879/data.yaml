@@ -1,0 +1,110 @@
+metadata:
+  name: Willow
+  altName: ウィロー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 01:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1870
+  - 1859
+  - 2628
+  - 1004
+  additionalImages: 
+slug: willow
+releaseInfo:
+  catalogId: CAP-WI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 18, 1989
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CAP-WI
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/091e325619b0aab9a28e34e4ab4954f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: CAP-WI-0 PRG
+  size: 128 KB
+  crc32: 595B2B26
+  x: 1
+- type: CHR0
+  label: CAP-WI-0 CHR
+  size: 128 KB
+  crc32: 3DB94936
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 752743EC
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ed84f43d558f0985b2479d058bb40a0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924
+  estFirstRun: June 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B1-H
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 5Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: E
+  std: 8923
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 6L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8924
+  dateCodeSuffix: E
+  std: 8924
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B1-H
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8924
+  dateCodeSuffix: T
+  std: 8924
+  misc: 

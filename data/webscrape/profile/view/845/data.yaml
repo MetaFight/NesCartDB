@@ -1,0 +1,130 @@
+metadata:
+  name: Predator
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 20:33:00
+  moreProfiles:
+  - 623
+  - 845
+  - 1165
+  relatedProfiles:
+  - 4059
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PL USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1899f8eda021756faccc3b97627c8594.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PL USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ecf20c2f522ef776c0d1e38b2fd21e6.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-PL-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d612b636cdc36181f4913ad14bdc7b79.jpg
+slug: predator
+releaseInfo:
+  catalogId: NES-PL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1989
+  publisher: Activision
+  developer: KLON
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PL-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1165')"
+    filename: /images/175/09d30bca68af0fa2f5b4087629088fe0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/21a76afe26aeaff3530f87f7cb66205f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-PL-0 PRG
+  size: 128 KB
+  crc32: 47ED7979
+  x: 3
+- type: CHR0
+  label: NES-PL-0 CHR
+  size: 128 KB
+  crc32: E220308A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A7DE65E4
+  x: 3
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4013a29b36c337dfc0cf819a3c50669a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8922 - 9014 (2)
+  estFirstRun: June 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 72
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: E
+  std: 8922
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 4D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8922
+  dateCodeSuffix: D
+  std: 8922
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8917
+  dateCodeSuffix: 1 AA
+  std: 8917
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8922
+  dateCodeSuffix: 3 A
+  std: 8922
+  misc: 

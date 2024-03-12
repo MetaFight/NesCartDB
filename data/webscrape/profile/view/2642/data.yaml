@@ -1,0 +1,119 @@
+metadata:
+  name: Cosmos Cop
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-23 13:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/31d556ae76b072a29361a0c1f334a5ac.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/6c908fae141dfee3ee23f87bdce09b2d.jpg
+slug: cosmos-cop
+releaseInfo:
+  catalogId: CN-09
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: January 1, 1991
+  publisher: Gluk Video
+  developer: Caltron
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/8c0a1c24bb4370465bc61888cdaa75af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 20204CFE
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 486EFDB8
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: E9AD2163
+  x: 2
+pcbProperties:
+  name: N715061
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N715061<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/63b842d7a8d87b50eda005bf112c09c1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9246
+  estFirstRun: November 1992
+  pcbClass: NTDEC-N715061
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1
+  maker: Texas Instruments
+  partNumber: TMS27C256-20L
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9211
+  dateCodeSuffix: LP
+  std: 9211
+  misc: 
+- designation: U2
+  maker: Toshiba
+  partNumber: TC57256AD-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8829
+  dateCodeSuffix: EAI
+  std: 8829
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9246
+  dateCodeSuffix: ''
+  std: 9246
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: KC5373B-010
+  partNumberSubDetail: 
+  type: NTDEC CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

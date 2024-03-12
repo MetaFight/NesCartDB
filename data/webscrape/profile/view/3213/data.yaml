@@ -1,0 +1,95 @@
+metadata:
+  name: Galaga
+  altName: ギャラガ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-25 23:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1594
+  - 2668
+  - 3213
+  additionalImages: 
+slug: galaga
+releaseInfo:
+  catalogId: NAM-NGG-4500-05
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 15, 1985
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1594')"
+    filename: /images/175/4d252f2b9bbada2c1448ee282e8108d0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1594')"
+    filename: /images/175/27823c7f10b1727e036b2dcab2d265a4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT GG PRG
+  size: 16 KB
+  crc32: AA97D0A0
+  x: 3
+- type: CHR0
+  label: NAMCOT GG CHR
+  size: 8 KB
+  crc32: E2D5964E
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E911BCC4
+  x: 3
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f5f6789805b9a3ed2ac02d48d12dee4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8507 - 8507 (3)
+  estFirstRun: February 1985
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 145P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 507
+  dateCodeSuffix: 104
+  std: 8507
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 206P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 506
+  dateCodeSuffix: 10M
+  std: 8506
+  misc: 

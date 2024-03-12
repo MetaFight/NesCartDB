@@ -1,0 +1,107 @@
+metadata:
+  name: 'Satsui no Kaisou: Power Soft Satsujin Jiken'
+  altName: 殺意の階層 ソフトハウス連続殺人事件
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 02:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: satsui-no-kaisou-power-soft-satsujin-jiken
+releaseInfo:
+  catalogId: HAL-PB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 7, 1988
+  publisher: HAL Laboratory
+  developer: Hyperware
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HAL-PB
+  backLabelId/Desc: 870417
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/865e8a2a80ff892ab27c565f634411b5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HAL-PB-0 PRG
+  size: 256 KB
+  crc32: 2858933B
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8751
+  estFirstRun: December 1987
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 11
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8751
+  dateCodeSuffix: D
+  std: 8751
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8748
+  dateCodeSuffix: M5
+  std: 8748
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8749
+  dateCodeSuffix: A
+  std: 8749
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8749
+  dateCodeSuffix: 5 D
+  std: 8749
+  misc: 

@@ -1,0 +1,125 @@
+metadata:
+  name: The Lord of King
+  altName: ザ・ロード・オブ・キング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 03:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1937
+  - 2011
+  - 68
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d906178707c7e5229e456d82389be181.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/419fda15f7c412349c732fc7313c4f44.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/af1137d609366962a955d6f0167afbf4.jpg
+slug: the-lord-of-king
+releaseInfo:
+  catalogId: JF-25
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 21, 1989
+  publisher: Jaleco
+  developer: Aicom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-25
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/351a68e93fcf95692724df324a04a4ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/53d148c3c58e797fbf9d5bdd08ff0bd6.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: EFB1DF9E
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 7A2DCF20
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D0EB749F
+  x: 1
+pcbProperties:
+  name: JF-25
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-25<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2d3ed0691dd8d25462e5cfe1d0313ab5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-25<br>Submitted by: bootgod<br>Linked from profile 2289')"
+    filename: /images/175/537460ff4178ae850f49640b3858a15f.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8947
+  estFirstRun: November 1989
+  pcbClass: JALECO-JF-25
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: R70
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8945
+  dateCodeSuffix: KX778
+  std: 8945
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: R71
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: EX763
+  std: 8944
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 947
+  dateCodeSuffix: 357
+  std: 8947
+  misc: 
+- designation: IC5
+  maker: Motorola
+  partNumber: SN74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8911
+  dateCodeSuffix: J
+  std: 8911
+  misc: 

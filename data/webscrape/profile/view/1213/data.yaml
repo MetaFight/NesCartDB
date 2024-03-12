@@ -1,0 +1,99 @@
+metadata:
+  name: Quattro Adventure
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-03 03:23:00
+  moreProfiles:
+  - 361
+  - 1213
+  relatedProfiles:
+  - 553
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 361')"
+    filename: /images/175/5789b839c9e1216a8bef81f73667f58f.jpg
+slug: quattro-adventure
+releaseInfo:
+  catalogId: CAM-QA
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Camerica
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Gold
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 361')"
+    filename: /images/175/dc816a42217925b5ffe471a44f1f0268.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1225')"
+    filename: /images/175/5b6e8d7ad57ac6a14f4122371f9bc95a.jpg
+romDetails:
+- type: PRG0
+  label: COBIC 7405-QA
+  size: 256 KB
+  crc32: B89888C9
+  x: 6
+pcbProperties:
+  name: BIC-48
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9147 - 9152 (2)
+  estFirstRun: November 1991
+  pcbClass: CAMERICA-BF9096
+  inesMapper: 232
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9096
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9096
+  partNumberSubDetail: 
+  type: Camerica BF9096
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9147
+  dateCodeSuffix: T
+  std: 9147
+  misc: 
+- designation: U2
+  maker: Hyundai
+  partNumber: 
+  partNumberSubDetail: HY232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: Hyundai
+  partNumber: HY6264P-C
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9140
+  dateCodeSuffix: ''
+  std: 9140
+  misc: 

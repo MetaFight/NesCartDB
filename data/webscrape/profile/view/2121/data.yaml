@@ -1,0 +1,127 @@
+metadata:
+  name: Die Schlümpfe
+  altName: The Smurfs
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-02 03:59:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-SF-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/338eff22543b5a543e4d17649370f435.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-SF-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0bab320785ec86abd45372c27967122b.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-SF-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/743174dcb66b54c6fc7b88d53a7bce00.jpg
+slug: die-schluempfe
+releaseInfo:
+  catalogId: NES-SF-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: December 23, 1995
+  publisher: Infogrames
+  developer: Bit Managers
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SF-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ced8cbb31e515f8d5e14ff277755e9b2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d76424aef207da09293f805ba23da829.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-SF-0 PRG
+  size: 128 KB
+  crc32: 4022C94E
+  x: 2
+pcbProperties:
+  name: NES-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9508
+  estFirstRun: February 1995
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1T
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9508
+  dateCodeSuffix: E
+  std: 9508
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9234
+  dateCodeSuffix: EJ
+  std: 9234
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9505
+  dateCodeSuffix: B
+  std: 9505
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9343
+  dateCodeSuffix: ''
+  std: 9343
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9332
+  dateCodeSuffix: ''
+  std: 9332
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: Samsara Naga
+  altName: サンサーラ・ナーガ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 07:25:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: samsara-naga
+releaseInfo:
+  catalogId: VFR-Q1-08
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 23, 1990
+  publisher: Victor
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: VFR-Q1-08
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0778a900b3126cda7c9124d62286d280.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: VFR-Q1-0 PRG
+  size: 256 KB
+  crc32: 181EC6B4
+  x: 1
+- type: CHR0
+  label: VFR-Q1-0 CHR
+  size: 128 KB
+  crc32: 0DB7DACE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: EBCF8419
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d56dc8578d3a861385fefa9665f11d00.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004
+  estFirstRun: January 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T47
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9002
+  dateCodeSuffix: PY700
+  std: 9002
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T75
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9002
+  dateCodeSuffix: EY719
+  std: 9002
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9004
+  dateCodeSuffix: KP005
+  std: 9004
+  misc: 
+- designation: U4 W-RAM
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9004
+  dateCodeSuffix: KT29
+  std: 9004
+  misc: L

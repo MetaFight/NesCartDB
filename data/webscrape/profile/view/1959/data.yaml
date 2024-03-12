@@ -1,0 +1,140 @@
+metadata:
+  name: Shadowgate
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 12:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2144
+  - 4666
+  - 4375
+  - 1815
+  - 208
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-3S-NOE/FRG<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/ffed11a3c71437219678ba2f7a565a33.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-3S-NOE/FRG<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/74228df45251adcbb8718cc0cd5f4315.jpg
+slug: shadowgate
+releaseInfo:
+  catalogId: NES-3S-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: January 3, 1992
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3S-NOE/FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS (Battery)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/8bbf5b36228566a86dac38aea043656b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2138')"
+    filename: /images/175/566abb2e618029e91b7fdfbf7fd89132.jpg
+romDetails:
+- type: PRG0
+  label: FRG-3S-0 PRG
+  size: 128 KB
+  crc32: C3D9302B
+  x: 1
+- type: CHR0
+  label: FRG-3S-0 CHR
+  size: 128 KB
+  crc32: D14067A6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B64078F3
+  x: 1
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7b22a30bab5b6423291940764bdc10ea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9202
+  estFirstRun: January 1992
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6672
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2AF
+  dateCodeSuffix: 13
+  std: 9202
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0150
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2AC
+  dateCodeSuffix: 12
+  std: 9201
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9144
+  dateCodeSuffix: C
+  std: 9144
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9151
+  dateCodeSuffix: EP021
+  std: 9151
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9151
+  dateCodeSuffix: KT99
+  std: 9151
+  misc: 

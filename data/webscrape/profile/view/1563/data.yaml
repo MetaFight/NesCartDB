@@ -1,0 +1,132 @@
+metadata:
+  name: The Goonies
+  altName: グーニーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-13 23:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1563
+  - 1777
+  - 2268
+  - 3065
+  - 3066
+  - 3312
+  additionalImages: 
+slug: the-goonies
+releaseInfo:
+  catalogId: KON-RC809
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 21, 1986
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC809
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6114dd610fa5ba40620aecdbf646d08c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/96705447581d5515fec436d6295f6128.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: EFEB0C34
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 0F9C7F49
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: E6DF6616
+  x: 6
+pcbProperties:
+  name: MF4034
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MF4034<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd2e479e270e6c3a97603f12579ae0c4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MF4034<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b87cc552edcf6f44de4a97035411c696.jpg
+  pcbProducer: Konami
+  manufacturer: Mitsubishi
+  mfgRange: 8544 - 8606 (6)
+  estFirstRun: November 1985
+  pcbClass: KONAMI-74*139/74
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PCB
+  maker: Mitsubishi
+  partNumber: RC809J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Y
+  dateCodeSuffix: 04
+  std: 8544
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74139
+  type: 74-139 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP7474
+  type: 74-74 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

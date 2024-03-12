@@ -1,0 +1,126 @@
+metadata:
+  name: Swords and Serpents
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-19 03:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2907
+  - 2888
+  - 4448
+  - 2430
+  - 4407
+  additionalImages: 
+slug: swords-and-serpents
+releaseInfo:
+  catalogId: NES-WP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1990
+  publisher: Acclaim
+  developer: Interplay
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WP-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4c4b9576053cb758ba4c7e874ad628d9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/21ed3787ec4cb87ca34f95e8151f9a0c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WP-0 PRG
+  size: 128 KB
+  crc32: 3417EC46
+  x: 1
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9030
+  estFirstRun: July 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NTB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: B3
+  std: 9030
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5160F-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9026
+  dateCodeSuffix: 1 SB
+  std: 9026
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9028
+  dateCodeSuffix: 3 AA
+  std: 9028
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9017
+  dateCodeSuffix: ''
+  std: 9017
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32A
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9009
+  dateCodeSuffix: N A
+  std: 9009
+  misc: 

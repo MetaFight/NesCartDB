@@ -1,0 +1,107 @@
+metadata:
+  name: Maniac Mansion
+  altName: マニアックマンション
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-09 03:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: maniac-mansion
+releaseInfo:
+  catalogId: JF-18
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 13, 1988
+  publisher: Jaleco
+  developer: LucasFilm Games
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: White
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-18
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/34b2c8b06df2b02021da02c999e1d4c6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ed88449329c12892784dfa2441f86723.jpg
+romDetails:
+- type: PRG0
+  label: JF-18 MM
+  size: 256 KB
+  crc32: 3DA2085E
+  x: 1
+pcbProperties:
+  name: JF-18
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8836
+  estFirstRun: September 1988
+  pcbClass: JALECO-JF-18
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8836
+  dateCodeSuffix: D
+  std: 8836
+  misc: 
+- designation: 6264
+  maker: Hitachi
+  partNumber: HM6264LP-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8811
+  dateCodeSuffix: ''
+  std: 8811
+  misc: U0427880
+- designation: HC161
+  maker: NEC
+  partNumber: D74HC161C
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8751
+  dateCodeSuffix: J7
+  std: 8751
+  misc: 
+- designation: HC32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8751
+  dateCodeSuffix: T7
+  std: 8751
+  misc: 

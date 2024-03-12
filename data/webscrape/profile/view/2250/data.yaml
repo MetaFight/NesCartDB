@@ -1,0 +1,106 @@
+metadata:
+  name: 'Akuma-kun: Makai no Wana'
+  altName: 悪魔くん　魔界の
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-23 06:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2250
+  - 3297
+  additionalImages: 
+slug: akuma-kun-makai-no-wana
+releaseInfo:
+  catalogId: BA-AKUMA
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 24, 1990
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e91b31d7b9558b1a0dfbffbd8dfb42ec.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/382e914edf8630bfa87ba53dd6016cba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8eb90e0d9b38e3728ee4fcc87f2eccac.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI.89 AKUMA-PRG
+  size: 128 KB
+  crc32: E699A97C
+  x: 2
+- type: CHR0
+  label: BANDAI.89 AKUMA-CHR
+  size: 128 KB
+  crc32: DFA83B7E
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2C4421B2
+  x: 2
+pcbProperties:
+  name: BA-アクマ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-アクマ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f98019ac0335d6d2c83c84d80e69554.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-アクマ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b12337895f0c7bb52b44d7055b4e22c.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9003 - 9003 (2)
+  estFirstRun: January 1990
+  pcbClass: BANDAI-FCG-2
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FCG-2
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9003
+  dateCodeSuffix: E
+  std: 9003
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9002
+  dateCodeSuffix: E
+  std: 9002
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FCG-2
+  partNumberSubDetail: 
+  type: Bandai FCG-2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8952
+  dateCodeSuffix: 5 T
+  std: 8952
+  misc: 

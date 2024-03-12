@@ -1,0 +1,108 @@
+metadata:
+  name: Skull & Crossbones
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-03 03:06:00
+  moreProfiles:
+  - 323
+  - 4241
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf7bafae08bc2f055f2de2168946b143.jpg
+slug: skull-crossbones
+releaseInfo:
+  catalogId: TGN-020-SK
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2fec076b780ce8024a16a2e27e80dde5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335020-1011 SKPRG
+  size: 128 KB
+  crc32: 0857DF48
+  x: 3
+- type: CHR0
+  label: 335020-1012 SKCHR
+  size: 64 KB
+  crc32: D0BF8C50
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: B422A67A
+  x: 3
+pcbProperties:
+  name: 800032 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/686a8f3706d627bbc2a7a8114c3093a5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800032 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3067f9631a297e88bc7dbb264c92fbee.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9039
+  estFirstRun: September 1990
+  pcbClass: TENGEN-800032
+  inesMapper: 64
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9039
+  dateCodeSuffix: MAQ
+  std: 9039
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9039
+  dateCodeSuffix: MAF
+  std: 9039
+  misc: 
+- designation: RAMBO 1
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8933
+  dateCodeSuffix: F836279R
+  std: 8933
+  misc: NCR0381301

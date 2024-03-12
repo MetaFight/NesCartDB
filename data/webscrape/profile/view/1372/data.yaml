@@ -1,0 +1,114 @@
+metadata:
+  name: 'Kid Niki: Radical Ninja'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-02 04:12:00
+  moreProfiles:
+  - 406
+  - 1372
+  relatedProfiles:
+  - 3801
+  additionalImages: 
+slug: kid-niki-radical-ninja
+releaseInfo:
+  catalogId: NES-KD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1987
+  publisher: Data East
+  developer: Irem
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KD-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6ad154afdabfe1d2e7469ea302eef28.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2fb0e81240da58fb316281666fe1bde6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-KD-0 PRG
+  size: 256 KB
+  crc32: 8192D2E7
+  x: 1
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8742 - 8814 (2)
+  estFirstRun: October 1987
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: MMC1
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 07
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8742
+  dateCodeSuffix: D
+  std: 8742
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Sharp
+  partNumber: LH5164D3
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8741
+  dateCodeSuffix: 5 D
+  std: 8741
+  misc: 
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8742
+  dateCodeSuffix: A
+  std: 8742
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8741
+  dateCodeSuffix: A
+  std: 8741
+  misc: 

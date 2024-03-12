@@ -1,0 +1,124 @@
+metadata:
+  name: 'Iron Tank: The Invasion of Normandy'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 04:34:00
+  moreProfiles:
+  - 706
+  - 1313
+  - 2946
+  relatedProfiles:
+  - 4420
+  - 4508
+  additionalImages: 
+slug: iron-tank-the-invasion-of-normandy
+releaseInfo:
+  catalogId: NES-IT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1988
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IT-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5a822965d2a3b79394248e83e784893d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/636608730027536ac8fac6561a30e8ce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-IT-0 PRG
+  size: 128 KB
+  crc32: 77540BB5
+  x: 3
+- type: CHR0
+  label: NES-IT-0 CHR
+  size: 128 KB
+  crc32: C61175CC
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B14EA4D2
+  x: 3
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/956c1e9e9ff8525d8bfe14840ac44a03.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8833
+  estFirstRun: August 1988
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8833
+  dateCodeSuffix: KX
+  std: 8833
+  misc: 
+- designation: CHR-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8831
+  dateCodeSuffix: KY
+  std: 8831
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8833
+  dateCodeSuffix: 5 AA
+  std: 8833
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8832
+  dateCodeSuffix: 1 A
+  std: 8832
+  misc: 

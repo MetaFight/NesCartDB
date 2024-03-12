@@ -1,0 +1,106 @@
+metadata:
+  name: Fudou Myouou Den
+  altName: 不動明王伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-01 01:06:00
+  moreProfiles: []
+  relatedProfiles:
+  - 431
+  additionalImages: 
+slug: fudou-myouou-den
+releaseInfo:
+  catalogId: TFC-FM-5900-17
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 29, 1988
+  publisher: Taito
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 2 Screws
+  frontLabelId: TFC-FM-5900
+  sequence#: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/714aae4de1447288af5d2802cf3dbdf1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/60ef901bbd2699f338377fe0dcef5998.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 9832D15A
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: AAA9ACDD
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 7678F1D5
+  x: 1
+pcbProperties:
+  name: アシユラー
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>アシユラー<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51b99bffe26af5831718fbbbbec8040f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>アシユラー<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43e1671efefd2bd8c6b41a6f028ea4d5.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8813
+  estFirstRun: March 1988
+  pcbClass: TAITO-X1-005
+  inesMapper: 207
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-005
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5321
+  partNumberSubDetail: R1
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8813
+  dateCodeSuffix: D
+  std: 8813
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8813
+  dateCodeSuffix: D
+  std: 8813
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8736
+  dateCodeSuffix: K5
+  std: 8736
+  misc: BB

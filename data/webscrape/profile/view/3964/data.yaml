@@ -1,0 +1,121 @@
+metadata:
+  name: Power Blazer
+  altName: パワーブレイザー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 06:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4361
+  - 1847
+  - 96
+  additionalImages: 
+slug: power-blazer
+releaseInfo:
+  catalogId: TFC-PB-5900-31
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 20, 1990
+  publisher: Taito
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-PB-5900
+  secondaryId: G1000784A
+  backLabelId/Desc: G1000785A
+  sequence#: 31
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b8b3bc9b73f697c1fd587cebfc91de11.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: C37-01
+  size: 128 KB
+  crc32: 07EE6D8F
+  x: 1
+- type: CHR0
+  label: C37-02
+  size: 128 KB
+  crc32: 8C7B2E41
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AEB7FCE9
+  x: 1
+pcbProperties:
+  name: J9100205A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100205A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c33f56048521a25b32cae269ebef0f79.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100205A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ff1122eef143c694dafff465629bbc0.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9007
+  estFirstRun: February 1990
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx245, TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9007
+  dateCodeSuffix: EX742
+  std: 9007
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9007
+  dateCodeSuffix: EX734
+  std: 9007
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8827
+  dateCodeSuffix: KY
+  std: 8827
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS245N
+  partNumberSubDetail: 
+  type: 74-245 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8808
+  dateCodeSuffix: XJAG
+  std: 8808
+  misc: 

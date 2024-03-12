@@ -1,0 +1,122 @@
+metadata:
+  name: Pro Yakyuu Family Stadium '88
+  altName: プロ野球ファミリースタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-03 05:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1791
+  - 3247
+  - 3248
+  - 3249
+  - 3250
+  - 3251
+  - 3321
+  additionalImages: 
+slug: pro-yakyuu-family-stadium-88
+releaseInfo:
+  catalogId: NAM-FS88-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1988
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1791')"
+    filename: /images/175/38348190291e38152019061b2099f181.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1791')"
+    filename: /images/175/d4c7658ee0423e5fa7988f24b70a1c61.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 7E4966E4
+  x: 7
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 09D61F84
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: AE321339
+  x: 7
+pcbProperties:
+  name: LROG048-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG048-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7db43b27d68eb98b5f34929206e61b33.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG048-00<br>Submitted by: bootgod<br>Linked from profile 1791')"
+    filename: /images/175/628034be79e6c2733ac07e85e770047a.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8846 - 8909 (7)
+  estFirstRun: November 1988
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG048
+  partNumberSubDetail: FS88
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8846
+  dateCodeSuffix: 7
+  std: 8846
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

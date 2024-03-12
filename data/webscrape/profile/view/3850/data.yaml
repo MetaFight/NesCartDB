@@ -1,0 +1,104 @@
+metadata:
+  name: 'Kaiketsu Yanchamaru 2: Karakuri Land'
+  altName: 快傑ヤンチャ丸２ からくりランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 05:03:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kaiketsu-yanchamaru-2-karakuri-land
+releaseInfo:
+  catalogId: IF-22
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 30, 1991
+  publisher: Irem
+  developer: Japan System House
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: White
+  formFactor: New Style
+  frontLabelId: IF-22
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3473cff15170b2583e9d4ef42ada994e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3347c1a83b6f124db5c61679c1b50469.jpg
+romDetails:
+- type: PRG0
+  label: IREM-PRG-Y2
+  size: 128 KB
+  crc32: 35E65A8C
+  x: 1
+- type: CHR0
+  label: IREM-CHR-Y2
+  size: 128 KB
+  crc32: 9A399F28
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B979CAD5
+  x: 1
+pcbProperties:
+  name: FC-00-016
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8a303a8cc1c64545c984a6d19f1cf11c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/303531253769082d3663c37bc235d0a0.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9132
+  estFirstRun: August 1991
+  pcbClass: IREM-G101
+  inesMapper: 32
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: G-101
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9132
+  dateCodeSuffix: E
+  std: 9132
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9132
+  dateCodeSuffix: E
+  std: 9132
+  misc: 
+- designation: G-101
+  maker: Mitsubishi
+  partNumber: G-101
+  partNumberSubDetail: 
+  type: Irem G-101
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 043
+  dateCodeSuffix: 101
+  std: 9043
+  misc: 

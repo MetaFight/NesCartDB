@@ -1,0 +1,122 @@
+metadata:
+  name: Magic Johnson's Fast Break
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-18 22:08:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-JF-USA<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/6be374871f8852466ad0b67edba5703b.jpg
+slug: magic-johnsons-fast-break
+releaseInfo:
+  catalogId: NES-JF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Tradewest
+  developer: Software Creations
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JF-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a9bf1e61ffaec41c70e871eb3873fa3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b59194d0ec0ede206b55a83bdf64ff8a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-JF-0 PRG
+  size: 64 KB
+  crc32: 3A9DD55C
+  x: 2
+- type: CHR0
+  label: NES-JF-0 CHR
+  size: 128 KB
+  crc32: 2C8C2D3E
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: C6C2EDB5
+  x: 1
+pcbProperties:
+  name: NES-SCROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SCROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2548be45f4b93cd5e67f55817a11a88f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SCROM-03<br>Submitted by: Kinopio<br>Linked from profile 2102')"
+    filename: /images/175/381235f257576e86f259ec1a32d42987.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9014
+  estFirstRun: April 1990
+  pcbClass: NES-SCROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 31
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9011
+  dateCodeSuffix: E
+  std: 9011
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: D3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9013
+  dateCodeSuffix: D
+  std: 9013
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: 1 BA
+  std: 9014
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9012
+  dateCodeSuffix: 5 AA
+  std: 9012
+  misc: 

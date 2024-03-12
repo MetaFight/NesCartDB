@@ -1,0 +1,112 @@
+metadata:
+  name: Dragon Buster
+  altName: ドラゴンバスター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 02:06:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1806
+  - 1812
+  - 2670
+  - 3184
+  - 3185
+  - 3186
+  - 3187
+  - 3333
+  additionalImages: 
+slug: dragon-buster
+releaseInfo:
+  catalogId: NAM-DB-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 7, 1987
+  publisher: Namco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Gold
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1806')"
+    filename: /images/175/517b7df3c1586b4e1d9575f6c67017fc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1806')"
+    filename: /images/175/bb50fc00d53be0c9cd07659193015d0a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1806')"
+    filename: /images/175/cf17a6efd867853a1c53c9ea04fc1999.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT DB PRG
+  size: 128 KB
+  crc32: C7A79BE2
+  x: 8
+- type: CHR0
+  label: NAMCOT DB CHR
+  size: 32 KB
+  crc32: 9F83FEFA
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 7B6DC772
+  x: 8
+pcbProperties:
+  name: 3425
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3425<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8899ebae41a9de3764e6c6cf95d841fb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3425<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e3261252b600cfad4c08243d13eb7be3.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8649 - 8708 (8)
+  estFirstRun: December 1986
+  pcbClass: NAMCOT-3425
+  inesMapper: 95
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118
+detailedChipInfo:
+- designation: P
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 214P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 704
+  dateCodeSuffix: 109
+  std: 8704
+  misc: 
+- designation: C
+  maker: Sony
+  partNumber: ''
+  partNumberSubDetail: CXK38256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7A
+  dateCodeSuffix: 01
+  std: 8701
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 6
+  dateCodeSuffix: ''
+  std: 8644
+  misc: 

@@ -1,0 +1,102 @@
+metadata:
+  name: Donkey Kong
+  altName: ドンキーコング
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-05-28 23:38:00
+  moreProfiles:
+  - 1450
+  - 2321
+  - 3394
+  - 3545
+  - 3667
+  relatedProfiles:
+  - 1839
+  - 1091
+  additionalImages: 
+slug: donkey-kong
+releaseInfo:
+  catalogId: HVC-DK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HVC-DK
+  backLabelId/Desc: 831018
+  2-DigitCode: 04
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1450')"
+    filename: /images/175/cb610400f662790854f61b6615c73575.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-DK-1 PRG
+  size: 16 KB
+  crc32: F56A5B10
+  x: 7
+- type: CHR0
+  label: HVC-DK-0 CHR
+  size: 8 KB
+  crc32: A21D7C2E
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 6F97C721
+  x: 7
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce265db1922be724118b79540efa729f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/59926225d0eb3ba02a4a753b2c3ccabe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8407 - 8426 (2)
+  estFirstRun: February 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1141
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 407
+  dateCodeSuffix: VA 2126
+  std: 8407
+  misc: RP23128 0043
+- designation: CHR
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 090P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8351
+  dateCodeSuffix: 02
+  std: 8351
+  misc: 

@@ -1,0 +1,128 @@
+metadata:
+  name: Days of Thunder
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-09-17 03:53:00
+  moreProfiles:
+  - 2634
+  - 4179
+  relatedProfiles:
+  - 4331
+  - 614
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-YH-EEC<br>Submitted by: Kinopio<br>Linked from profile 2634')"
+    filename: /images/175/1047eb6d8b94974b2aba56dfda306b42.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-YH-EEC<br>Submitted by: Kinopio<br>Linked from profile 2634')"
+    filename: /images/175/1650f90187b4b304515d0aaf218ccf18.jpg
+slug: days-of-thunder
+releaseInfo:
+  catalogId: NES-YH-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: April 25, 1991
+  publisher: Mindscape
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YH-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2634')"
+    filename: /images/175/76ed15948bb0edc023afc76dba904abb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2634')"
+    filename: /images/175/8de56deb3e3ce174a67c1d54e70329a9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-YH-0 PRG
+  size: 128 KB
+  crc32: 58BDB483
+  x: 3
+- type: CHR0
+  label: NES-YH-0 CHR
+  size: 256 KB
+  crc32: 69827791
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: FA73D3A2
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/de5a8d35515dbcc56f60e6f0eb191352.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9107 - 9107 (2)
+  estFirstRun: February 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S63
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9106
+  dateCodeSuffix: EX708
+  std: 9106
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T62
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9107
+  dateCodeSuffix: PY202
+  std: 9107
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9102
+  dateCodeSuffix: A
+  std: 9102
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: 1 DB
+  std: 9102
+  misc: 

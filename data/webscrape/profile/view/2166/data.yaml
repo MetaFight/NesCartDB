@@ -1,0 +1,106 @@
+metadata:
+  name: Castle Quest
+  altName: キャッスルクエスト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 04:36:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: castle-quest
+releaseInfo:
+  catalogId: HFC-V4
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 18, 1990
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red-Pink
+  formFactor: Small
+  frontLabelId: HFC-V4
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/33fee4d6c64a97c1913c594018b7f59f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-V4-0 PRG
+  size: 128 KB
+  crc32: CBF4CDF6
+  x: 1
+- type: CHR0
+  label: HFC-V4-0 CHR
+  size: 128 KB
+  crc32: 8B66A720
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BF4F4BA6
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2b83758a5924dca47aad0658502c9bfc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9009
+  estFirstRun: March 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 12
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9006
+  dateCodeSuffix: E
+  std: 9006
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: H3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9009
+  dateCodeSuffix: E
+  std: 9009
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9007
+  dateCodeSuffix: KP033
+  std: 9007
+  misc: 

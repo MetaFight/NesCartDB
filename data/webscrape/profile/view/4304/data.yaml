@@ -1,0 +1,102 @@
+metadata:
+  name: Casino Derby
+  altName: カジノ・ダービー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 04:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f2041a3bb7c713f9ebb361dbd08d0510.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a1a56d588dbf040346bd5840f151eee7.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3c36e89325d34e114343a56b8def4ddc.jpg
+slug: casino-derby
+releaseInfo:
+  catalogId: YZW-KD
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 19, 1993
+  publisher: Party Room 21
+  developer: Outback
+  players: 1
+  peripherals: Famicom Controller,Party Tap
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Grey
+  formFactor: Small
+  frontLabelId: YZW-KD
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1b68e1d97a23226d8baafe71e0dc308.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: YZW-KD-0 PRG
+  size: 128 KB
+  crc32: E44001D8
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9307
+  estFirstRun: February 1993
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T32
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9307
+  dateCodeSuffix: KY701
+  std: 9307
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9226
+  dateCodeSuffix: EJ
+  std: 9226
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9242
+  dateCodeSuffix: 5 A 170
+  std: 9242
+  misc: 

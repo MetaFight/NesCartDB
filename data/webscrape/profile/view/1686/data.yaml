@@ -1,0 +1,106 @@
+metadata:
+  name: Flappy
+  altName: フラッピー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 21:47:00
+  moreProfiles:
+  - 1686
+  - 3529
+  relatedProfiles: []
+  additionalImages: 
+slug: flappy
+releaseInfo:
+  catalogId: DBF-FL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 14, 1985
+  publisher: dB-SOFT
+  developer: dB-SOFT
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: dBF-FL
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9763eee86c060fd71cdd070b2a60d97.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: C138CFEA
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 2E61BF44
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: CF701DA4
+  x: 2
+pcbProperties:
+  name: 9011-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6db3e2fafab9fcf06af6da2d4d0c9a8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d7231df8f402a5707e4d9adcadee3589.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8524
+  estFirstRun: June 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ISFL
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 194B015
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,132 @@
+metadata:
+  name: Maniac Mansion
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-06 05:47:00
+  moreProfiles:
+  - 13
+  - 2766
+  - 2801
+  relatedProfiles:
+  - 996
+  - 995
+  - 2008
+  - 2586
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-JM-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebd54db2182dce296508137a23830450.jpg
+  - toolTipJS: "ddrivetip('Insert<br>NES-HB-LF1-Book<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1ef63ffd2930037881a9fe4881681708.jpg
+slug: maniac-mansion
+releaseInfo:
+  catalogId: NES-JM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Jaleco
+  developer: LucasFilm Games
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a7e63971b7ff13bb296ba8e4df9cf79.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5288d0a13baa8806cbec4e6b84981b60.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-JM-0 PRG
+  size: 256 KB
+  crc32: 0D9F5BD1
+  x: 3
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9033 - 9034 (3)
+  estFirstRun: August 1990
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T64
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9030
+  dateCodeSuffix: PY702
+  std: 9030
+  misc: 
+- designation: U2 CHR RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 032
+  dateCodeSuffix: N
+  std: 9032
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9034
+  dateCodeSuffix: 1 AA
+  std: 9034
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9032
+  dateCodeSuffix: B3031
+  std: 9032
+  misc: 
+- designation: U5 W-RAM
+  maker: Sharp
+  partNumber: LH5160YF-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 031
+  dateCodeSuffix: B
+  std: 9031
+  misc: 

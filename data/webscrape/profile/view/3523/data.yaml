@@ -1,0 +1,118 @@
+metadata:
+  name: Dragon Quest
+  altName: ドラゴンクエスト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-21 01:24:00
+  moreProfiles:
+  - 1509
+  - 1635
+  - 1726
+  - 2722
+  - 3388
+  - 3520
+  - 3521
+  - 3522
+  - 3523
+  - 3688
+  - 4585
+  relatedProfiles:
+  - 54
+  additionalImages: 
+slug: dragon-quest
+releaseInfo:
+  catalogId: EFC-DQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 27, 1986
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: EFC-DQ
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1509')"
+    filename: /images/175/593c91b84d4682722256ef209809a16b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: EFC-DQ-0 PRG
+  size: 32 KB
+  crc32: 84EFD927
+  x: 10
+- type: CHR0
+  label: EFC-DQ-0 CHR
+  size: 32 KB
+  crc32: 62CE72F9
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 88053D25
+  x: 10
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/75142be8790738f329e0424480b5c4a4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 2690')"
+    filename: /images/175/2bc135e3bceee088043829b169c499b1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8551 - 9011 (11)
+  estFirstRun: December 1985
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8618
+  dateCodeSuffix: D
+  std: 8618
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 46
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8618
+  dateCodeSuffix: D
+  std: 8618
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8616
+  dateCodeSuffix: H
+  std: 8616
+  misc: 

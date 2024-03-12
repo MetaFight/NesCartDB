@@ -1,0 +1,125 @@
+metadata:
+  name: Super Mario Bros.
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-22 17:05:00
+  moreProfiles:
+  - 270
+  - 1
+  - 823
+  - 836
+  - 3063
+  relatedProfiles:
+  - 2082
+  - 2122
+  - 1486
+  - 2357
+  - 2010
+  - 2459
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-SM USA<br>Submitted by: bootgod<br>Linked from profile 836')"
+    filename: /images/175/4a52b5a6cf6cd23e43e354f61f28dc7c.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-SM USA<br>Submitted by: bootgod<br>Linked from profile 836')"
+    filename: /images/175/c53006ec17397d163295557c6a90142b.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 3063')"
+    filename: /images/175/0c96f5c5e1b3679eb445904800f99fb7.jpg
+slug: super-mario-bros
+releaseInfo:
+  catalogId: NES-SM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 823')"
+    filename: /images/175/a4b8bd68186b8c50531d5c4693886cee.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/853ecd1ca783e4259d6ecdc7b220ecab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-SM-0 PRG
+  size: 32 KB
+  crc32: 5CF548D3
+  x: 15
+- type: CHR0
+  label: HVC-SM-0 CHR
+  size: 8 KB
+  crc32: 867B51AD
+  x: 27
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: D445F698
+  x: 17
+pcbProperties:
+  name: NES-NROM-256-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ea16e048938de741bfe5bc884a496ce0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8638 - 8911 (5)
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 11
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8637
+  dateCodeSuffix: E
+  std: 8637
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 04
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8636
+  dateCodeSuffix: E
+  std: 8636
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8638
+  dateCodeSuffix: DC
+  std: 8638
+  misc: 

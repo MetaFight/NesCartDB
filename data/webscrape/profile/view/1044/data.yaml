@@ -1,0 +1,120 @@
+metadata:
+  name: Double Strike
+  altName: 
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 22:35:00
+  moreProfiles:
+  - 1044
+  - 1374
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1374')"
+    filename: /images/175/27d4d5f38c1117dac997dee16c25ca74.jpg
+slug: double-strike
+releaseInfo:
+  catalogId: AVE-DS
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Sachen / Joy Van
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Square Corner
+  embossedText: American Video Entertainment Made in USA
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43205ab58cdb0f1953603352bbcb5878.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d68aee6765d047b93e77ba9fbf6d70de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3003')"
+    filename: /images/175/8c6bc29d71201d0d4a6968d12dfe548d.jpg
+romDetails:
+- type: PRG0
+  label: DOUB. ST. PGM - R11 9305
+  size: 32 KB
+  crc32: 127436FC
+  x: 1
+- type: CHR0
+  label: DOUB. ST. CHR 846B
+  size: 32 KB
+  crc32: 39536D86
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 1EB4A920
+  x: 1
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a5845f2f3384a3877a60ac2fa4c43488.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/705324f063edc8617c1af3bc80766f99.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9139 - 9144 (2)
+  estFirstRun: September 1991
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-15 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2313O02
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9140
+  dateCodeSuffix: KL
+  std: 9140
+  misc: 2316D02
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9142
+  dateCodeSuffix: ''
+  std: 9142
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9137
+  dateCodeSuffix: ''
+  std: 9137
+  misc: 

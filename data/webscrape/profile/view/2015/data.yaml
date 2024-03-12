@@ -1,0 +1,129 @@
+metadata:
+  name: Shadow Warriors II
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 20:40:00
+  moreProfiles:
+  - 2015
+  - 4388
+  relatedProfiles:
+  - 1431
+  - 1714
+  - 681
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-67-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/aaa739f5ddf311885c17a4cd4ebe8f1b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-67-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/bfb5ce3fadba17f40738ec9bedfa70cc.jpg
+slug: shadow-warriors-ii
+releaseInfo:
+  catalogId: NES-67-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: October 27, 1994
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-67-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 4388')"
+    filename: /images/175/ba1d2d695c67b4cfc7d30df061a2bb5c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b3fa46458b49eb4c84f02ba242d65a54.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-67-0 PRG
+  size: 128 KB
+  crc32: 687E25D6
+  x: 2
+- type: CHR0
+  label: PAL-67-0 CHR
+  size: 128 KB
+  crc32: 8D11C93A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BC25A18B
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/60bef5bd26329ef87bb172b9e63d499c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9222 - 9222 (2)
+  estFirstRun: June 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 8B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9222
+  dateCodeSuffix: E
+  std: 9222
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 93
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9222
+  dateCodeSuffix: E
+  std: 9222
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: A
+  std: 9219
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 3 AB
+  std: 9204
+  misc: 

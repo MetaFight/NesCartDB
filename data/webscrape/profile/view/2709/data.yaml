@@ -1,0 +1,119 @@
+metadata:
+  name: 'Exodus: Journey to the Promised Land'
+  altName: 
+  variant: (Version 5.0)
+  submittedBy: Skrybe
+  submittedOn: 2008-06-18 00:17:00
+  moreProfiles:
+  - 11
+  - 2709
+  - 2921
+  relatedProfiles: []
+  additionalImages: 
+slug: exodus-journey-to-the-promised-land
+releaseInfo:
+  catalogId: WT-EC-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufacture by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/901a38e91f35e3ff05c66e9baa3170ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/bae06d39de42a2203c30a3fc72e13880.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 653F7CD2
+  x: 1
+- type: CHR0
+  label: JOURNEY VER 4.0 VID.
+  size: 128 KB
+  crc32: AB344905
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5F5BFA54
+  x: 1
+pcbProperties:
+  name: BC5
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC5<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/5948123508879657efac1840ad82b0ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC5<br>Submitted by: bootgod<br>Linked from profile 1607')"
+    filename: /images/175/16d4d6a4ad94f374242b1d164c208b7b.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9143 - 9148 (2)
+  estFirstRun: October 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 4051
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: AMD
+  partNumber: AM27C010-200DC
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 112
+  dateCodeSuffix: YMYP
+  std: 9112
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: LND
+  std: 9143
+  misc: 
+- designation: 
+  maker: ST Micro
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9136
+  dateCodeSuffix: 9
+  std: 9136
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: MC14051BCP
+  partNumberSubDetail: 
+  type: 4051
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8923
+  dateCodeSuffix: FFLN
+  std: 8923
+  misc: 

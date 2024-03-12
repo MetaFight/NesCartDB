@@ -1,0 +1,153 @@
+metadata:
+  name: 'Gremlins 2: The New Batch'
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2012-04-05 03:56:00
+  moreProfiles:
+  - 336
+  - 4608
+  relatedProfiles:
+  - 2482
+  - 4716
+  - 1427
+  - 4540
+  - 3805
+  additionalImages: 
+slug: gremlins-2-the-new-batch
+releaseInfo:
+  catalogId: NES-2Z-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/d38cfe1591b777afe0488c92962f8370.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/dbbe085e1872d308e63d57a00f153096.jpg
+romDetails:
+- type: PRG0
+  label: GREMLINS 2 P
+  size: 128 KB
+  crc32: 4D04E95B
+  x: 1
+- type: CHR0
+  label: GREMLINS 2 C1
+  size: 128 KB
+  crc32: 04118A24
+  x: 1
+- type: CHR1
+  label: GREMLINS 2 C0
+  size: 128 KB
+  crc32: 70F2E9D5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: DCEC4A59
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9037
+  estFirstRun: September 1990
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx139, MMC3A
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8832
+  dateCodeSuffix: AAA
+  std: 8832
+  misc: 
+- designation: U10
+  maker: NEC
+  partNumber: D74HCT139C
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8620
+  dateCodeSuffix: A7
+  std: 8620
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8820
+  dateCodeSuffix: E??
+  std: 8820
+  misc: 
+- designation: U6 CHR-ROM
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U8 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8948
+  dateCodeSuffix: EX
+  std: 8948
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8933
+  dateCodeSuffix: 7 BA
+  std: 8933
+  misc: 

@@ -1,0 +1,108 @@
+metadata:
+  name: 'Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai'
+  altName: ダウンタウン 熱血行進曲 それゆけ大運動会
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 11:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7abf7e1965b0d30e79f79faa4f5a4322.jpg
+slug: downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai
+releaseInfo:
+  catalogId: TJC-UH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 12, 1990
+  publisher: Technos
+  developer: Technos
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-UH
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0fc790537a5fc51c71ab6ba1594f5dba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TJC-UH-0 PRG
+  size: 128 KB
+  crc32: 3E078F29
+  x: 1
+- type: CHR0
+  label: TJC-UH-0 CHR
+  size: 128 KB
+  crc32: AF6ED32E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3E470FE0
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dbedc3e01a3a45c038222881671c96b3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9112
+  estFirstRun: March 1991
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 24
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: D
+  std: 9111
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: Y0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9112
+  dateCodeSuffix: D
+  std: 9112
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: 3 DB
+  std: 9102
+  misc: 

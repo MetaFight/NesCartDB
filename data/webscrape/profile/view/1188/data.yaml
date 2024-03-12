@@ -1,0 +1,142 @@
+metadata:
+  name: Bad Dudes
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-28 22:57:00
+  moreProfiles:
+  - 413
+  - 598
+  - 1121
+  - 1188
+  - 1303
+  relatedProfiles:
+  - 4469
+  - 2303
+  - 2655
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-DU-USA<br>Submitted by: bootgod<br>Linked from profile 413')"
+    filename: /images/175/39fb7a13140b8726b2c5a3203476a116.jpg
+slug: bad-dudes
+releaseInfo:
+  catalogId: NES-DU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1990
+  publisher: Data East
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DU-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 413')"
+    filename: /images/175/010153f8f0accb4d7d241546fbfba723.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 413')"
+    filename: /images/175/d90870a1ad36600831ced8140ef21445.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DU-0 PRG
+  size: 128 KB
+  crc32: DE182C88
+  x: 6
+- type: CHR0
+  label: NES-DU-0 CHR
+  size: 128 KB
+  crc32: BA770627
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 161D717B
+  x: 6
+pcbProperties:
+  name: NES-TL1ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TL1ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e4aabee68f2e85967818ca10491bf6c1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924 - 9004 (3)
+  estFirstRun: June 1989
+  pcbClass: NES-TL1ROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: Z17
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8945
+  dateCodeSuffix: Z13
+  std: 8945
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9001
+  dateCodeSuffix: 7 CA
+  std: 9001
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9003
+  dateCodeSuffix: 3 A
+  std: 9003
+  misc: 
+- designation: U5 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8944
+  dateCodeSuffix: HnS
+  std: 8944
+  misc: 663250T

@@ -1,0 +1,79 @@
+metadata:
+  name: Super Dodge Ball
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 05:14:00
+  moreProfiles:
+  - 939
+  - 2905
+  relatedProfiles:
+  - 3937
+  additionalImages: 
+slug: super-dodge-ball
+releaseInfo:
+  catalogId: NES-ND-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Sony (CSG) Imagesoft
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ND-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 939')"
+    filename: /images/175/eb82006324bc9a856dff10857ff98a2b.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-ND-0 PRG
+  size: 128 KB
+  crc32: F51E2FFE
+  x: 2
+- type: CHR0
+  label: NES-ND-0 CHR
+  size: 128 KB
+  crc32: D80AB9CA
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 689971F9
+  x: 2
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9016
+  estFirstRun: April 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

@@ -1,0 +1,69 @@
+metadata:
+  name: Super Pitfall
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 03:40:00
+  moreProfiles:
+  - 374
+  - 795
+  - 1384
+  relatedProfiles:
+  - 1469
+  additionalImages: 
+slug: super-pitfall
+releaseInfo:
+  catalogId: NES-PI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1987
+  publisher: Activision
+  developer: Micronics / Khaos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PI-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 374')"
+    filename: /images/175/554528234aaa63564b328d2c45527ed9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 374')"
+    filename: /images/175/2ea2b3fc981c2500753eff019757feee.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-PI-0 PRG
+  size: 128 KB
+  crc32: 979C5314
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8743 - 8817 (2)
+  estFirstRun: October 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

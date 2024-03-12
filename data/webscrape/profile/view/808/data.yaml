@@ -1,0 +1,80 @@
+metadata:
+  name: Gauntlet II
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-19 04:31:00
+  moreProfiles:
+  - 103
+  - 808
+  relatedProfiles:
+  - 2592
+  - 2023
+  - 2494
+  additionalImages: 
+slug: gauntlet-ii
+releaseInfo:
+  catalogId: NES-2U-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Mindscape
+  developer: Tengen
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2U-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 103')"
+    filename: /images/175/85e95b844db3cde5b8f152495ecc8db4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 103')"
+    filename: /images/175/9751ca049d8766858dd8fba9e305faea.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-2U-0 PRG
+  size: 128 KB
+  crc32: 2C609B52
+  x: 2
+- type: CHR0
+  label: NES-2U-0 CHR
+  size: 128 KB
+  crc32: FD61C9FE
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1B71CCDB
+  x: 2
+pcbProperties:
+  name: NES-TSROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

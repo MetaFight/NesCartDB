@@ -1,0 +1,132 @@
+metadata:
+  name: 'The Simpsons:  Bartman Meets Radioactive Man'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 02:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1057
+  additionalImages: 
+slug: the-simpsons-bartman-meets-radioactive-man
+releaseInfo:
+  catalogId: NES-RN-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 1992
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-RN-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: PERY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/274c616beba9825675bb7c5dd930146d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b57bfb087d8712652d319111957c6d41.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-RN PRG
+  size: 256 KB
+  crc32: D72FB9C8
+  x: 1
+- type: CHR0
+  label: NES-RN CHR
+  size: 128 KB
+  crc32: D52B2DCB
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 5991B9D0
+  x: 1
+pcbProperties:
+  name: 55741
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>55741<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e55d4f98f976d63c76466766017f2450.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>55741<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1cefaa96e7ab6abb2d9eb1b369106859.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9243
+  estFirstRun: October 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx08, MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C2001
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9243
+  dateCodeSuffix: ''
+  std: 9243
+  misc: 
+- designation: U2 CHR
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C1003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9243
+  dateCodeSuffix: ''
+  std: 9243
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 216
+  dateCodeSuffix: C
+  std: 9216
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9241
+  dateCodeSuffix: KVB22
+  std: 9241
+  misc: 
+- designation: U5
+  maker: Toshiba
+  partNumber: 74HC08AP
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9243
+  dateCodeSuffix: H
+  std: 9243
+  misc: 

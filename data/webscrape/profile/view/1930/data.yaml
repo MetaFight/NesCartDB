@@ -1,0 +1,127 @@
+metadata:
+  name: Little Samson
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 23:58:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4078
+  - 1856
+  - 1123
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-LT-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/80f3760c410b581871aead4e5114202b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-LT-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d159c47e7c992647b6e480e73088e839.jpg
+slug: little-samson
+releaseInfo:
+  catalogId: NES-LT-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: December 20, 1992
+  publisher: Taito
+  developer: Takeru
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LT-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e69041804050d502d8634c0e1f71c3a2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-LT-0 PRG
+  size: 256 KB
+  crc32: C26FD31A
+  x: 2
+- type: CHR0
+  label: NES-LT-0 CHR
+  size: 128 KB
+  crc32: C269135D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 5B5AB1F8
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/8f38cf6413e33fdae3e3371607879083.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9243
+  estFirstRun: October 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 99
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9243
+  dateCodeSuffix: D
+  std: 9243
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 6D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9242
+  dateCodeSuffix: E
+  std: 9242
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9236
+  dateCodeSuffix: A
+  std: 9236
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9239
+  dateCodeSuffix: 7 B
+  std: 9239
+  misc: 

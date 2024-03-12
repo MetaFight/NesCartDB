@@ -1,0 +1,115 @@
+metadata:
+  name: Exciting Boxing
+  altName: エキサイティングボクシング
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2012-03-06 05:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: exciting-boxing
+releaseInfo:
+  catalogId: KON-RC250
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 16, 1987
+  publisher: Konami
+  developer: Human Entertainment
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC250
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/d7f9f06fd06bfad367f53b6cd88dd25b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/f259b91affab343e161496cc2bbe0a3e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC250J0P
+  size: 128 KB
+  crc32: 786148B6
+  x: 0
+- type: CHR0
+  label: RC250J0C
+  size: 128 KB
+  crc32: 18A005CF
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AC4BF9DC
+  x: 0
+pcbProperties:
+  name: 350459
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>350459<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/9cf9914c54c397df9a6613483ee286e4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>350459<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/df3ef7d2302bc6532adc18dda3713e42.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8746
+  estFirstRun: November 1987
+  pcbClass: KONAMI-VRC-1
+  inesMapper: 75
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, VRC1
+detailedChipInfo:
+- designation: IC1
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8746
+  dateCodeSuffix: Z10
+  std: 8746
+  misc: 
+- designation: IC2
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8745
+  dateCodeSuffix: Z11
+  std: 8745
+  misc: 
+- designation: IC3
+  maker: Panasonic
+  partNumber: 007506
+  partNumberSubDetail: KNA
+  type: Konami VRC
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 6
+  dateCodeSuffix: ''
+  std: 8644
+  misc: 
+- designation: IC4
+  maker: Fujitsu
+  partNumber: MB74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8619
+  dateCodeSuffix: U88
+  std: 8619
+  misc: 

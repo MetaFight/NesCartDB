@@ -1,0 +1,136 @@
+metadata:
+  name: Dudes with Attitude
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-26 01:15:00
+  moreProfiles:
+  - 365
+  - 2115
+  - 2920
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 2115')"
+    filename: /images/175/586453c0a0a38b5ae6b34c43dd2fef1b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 2115')"
+    filename: /images/175/39cdf9c097895f16cca186a30b3a6100.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 2115')"
+    filename: /images/175/f2aa9245dbd6652d0efb08e391fe2f9e.jpg
+slug: dudes-with-attitude
+releaseInfo:
+  catalogId: AVE-DA
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Micheal Crick
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/28339efee11bcc79946b46804ce85cbe.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/541e29375e84a6ceab67dfdaf11179fd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: C796-PGM
+  size: 32 KB
+  crc32: 627AD380
+  x: 2
+- type: CHR0
+  label: 46E7-CHR
+  size: 32 KB
+  crc32: 9CE10ED4
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: BD29178A
+  x: 2
+pcbProperties:
+  name: MB-91?A?
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MB-91?A?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f4f219b1f699a36d0202a1d0df91e7e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MB-91?A?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dd5faa4b168a91bc66c54bea64fd79e2.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9120 - 9140 (3)
+  estFirstRun: May 1991
+  pcbClass: AVE-MB-91
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: AMI
+  partNumber: MX23256
+  partNumberSubDetail: 1028
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9120
+  dateCodeSuffix: MAD
+  std: 9120
+  misc: 
+- designation: U2
+  maker: AMI
+  partNumber: MX23256
+  partNumberSubDetail: 1027
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9120
+  dateCodeSuffix: MAC
+  std: 9120
+  misc: 
+- designation: U3
+  maker: Matsushita
+  partNumber: 74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .063
+  dateCodeSuffix: N_
+  std: 9024
+  misc: 
+- designation: U4
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .923
+  dateCodeSuffix: ''
+  std: 8907
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9038
+  dateCodeSuffix: ''
+  std: 9038
+  misc: 

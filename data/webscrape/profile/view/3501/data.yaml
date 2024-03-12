@@ -1,0 +1,111 @@
+metadata:
+  name: 'Hokuto no Ken 2: Seikimatsu Kyuuseishu Densetsu'
+  altName: 北斗の拳2 世紀末救世主伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-12 00:38:00
+  moreProfiles:
+  - 2176
+  - 3500
+  - 3501
+  relatedProfiles:
+  - 684
+  additionalImages: 
+slug: hokuto-no-ken-2-seikimatsu-kyuuseishu-densetsu
+releaseInfo:
+  catalogId: TDF-HO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 17, 1987
+  publisher: Toei Animation
+  developer: Shouei System
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TDF-HO
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2176')"
+    filename: /images/175/e2bce22a83ca44c8aa298aa556a2b306.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TDF-HO-0 PRG
+  size: 128 KB
+  crc32: D1F7DF3A
+  x: 3
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8712 - 8714 (3)
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8712
+  dateCodeSuffix: KX
+  std: 8712
+  misc: 
+- designation: CHR RAM
+  maker: Fujitsu
+  partNumber: MB8464-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8643
+  dateCodeSuffix: R93
+  std: 8643
+  misc: BA
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8648
+  dateCodeSuffix: CA
+  std: 8648
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6?
+  dateCodeSuffix: ''
+  std: 8647
+  misc: 

@@ -1,0 +1,83 @@
+metadata:
+  name: Double Dragon
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 04:22:00
+  moreProfiles:
+  - 22
+  - 252
+  - 636
+  - 842
+  - 2776
+  relatedProfiles:
+  - 3862
+  - 1941
+  additionalImages: 
+slug: double-dragon
+releaseInfo:
+  catalogId: NES-WD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1988
+  publisher: Tradewest
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WD-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 22')"
+    filename: /images/175/7f66911ef823fcda958e20f5f567a96c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 252')"
+    filename: /images/175/e1ccb8ddbb37370b3dc2c519df93d04c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WD-0 PRG
+  size: 128 KB
+  crc32: 79149EBF
+  x: 5
+- type: CHR0
+  label: NES-WD-0 CHR
+  size: 128 KB
+  crc32: 5EBE0FD0
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0F1CC048
+  x: 5
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8821 - 9003 (4)
+  estFirstRun: May 1988
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: MMC1A
+detailedChipInfo: []

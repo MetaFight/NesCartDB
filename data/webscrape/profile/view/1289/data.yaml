@@ -1,0 +1,81 @@
+metadata:
+  name: George Foreman's KO Boxing
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-17 05:42:00
+  moreProfiles:
+  - 969
+  - 1267
+  - 1289
+  - 2934
+  relatedProfiles:
+  - 1296
+  additionalImages: 
+slug: george-foremans-ko-boxing
+releaseInfo:
+  catalogId: NES-KB-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 1992
+  publisher: Acclaim
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-KB-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: Q5RY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1267')"
+    filename: /images/175/c6544f120e5b7dd5fb18b3d8f902a1bd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/489439fc9248eaf7680a238a1723d3d9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-KB PRG
+  size: 128 KB
+  crc32: A86AF976
+  x: 4
+- type: CHR0
+  label: NES-KB CHR
+  size: 256 KB
+  crc32: 897CFC76
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: AF05F37E
+  x: 4
+pcbProperties:
+  name: 55741
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9239
+  estFirstRun: September 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx08, MC-ACC
+detailedChipInfo: []

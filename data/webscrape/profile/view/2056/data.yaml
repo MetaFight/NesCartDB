@@ -1,0 +1,115 @@
+metadata:
+  name: Excitebike
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-08-06 07:03:00
+  moreProfiles:
+  - 2056
+  - 2432
+  - 2439
+  relatedProfiles:
+  - 2149
+  - 1467
+  - 1960
+  - 18
+  additionalImages: 
+slug: excitebike
+releaseInfo:
+  catalogId: NES-EB-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: February 8, 1989
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EB-EEC
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6fe76d5334847aaf3995f98afdfb0e77.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/420e6f58535fae5f4879c26af07b63c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-EB-0 PRG
+  size: 16 KB
+  crc32: 0B5667E9
+  x: 5
+- type: CHR0
+  label: HVC-EB-0 CHR
+  size: 8 KB
+  crc32: E5F72401
+  x: 22
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 8A0C7337
+  x: 5
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f69a1b623f366ce33d5e96aa8533f918.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4d2ba057fb9442e3c06fe0fef293acbd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8628 - 8917 (3)
+  estFirstRun: July 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0562
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9D4
+  dateCodeSuffix: 30
+  std: 8917
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2003
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9B2
+  dateCodeSuffix: 53
+  std: 8907
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8914
+  dateCodeSuffix: A
+  std: 8914
+  misc: 

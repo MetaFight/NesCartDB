@@ -1,0 +1,80 @@
+metadata:
+  name: Ring King
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-19 04:24:00
+  moreProfiles:
+  - 696
+  - 807
+  - 2833
+  relatedProfiles:
+  - 1589
+  additionalImages: 
+slug: ring-king
+releaseInfo:
+  catalogId: NES-RK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Data East
+  developer: Woodplace
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RK-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2833')"
+    filename: /images/175/8ac1440925687f82fad0b4455d62cd6c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2833')"
+    filename: /images/175/de73f839d6bb0f742b243a9c12c321c8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-RK-0 PRG
+  size: 64 KB
+  crc32: 4EBE8A31
+  x: 3
+- type: CHR0
+  label: NES-RK-0 CHR
+  size: 64 KB
+  crc32: C91FA9C9
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5BB62688
+  x: 3
+pcbProperties:
+  name: NES-DEROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8737 - 8823 (2)
+  estFirstRun: September 1987
+  pcbClass: NES-DEROM
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 109
+detailedChipInfo: []

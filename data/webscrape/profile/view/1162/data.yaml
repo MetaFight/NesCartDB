@@ -1,0 +1,69 @@
+metadata:
+  name: 'Battletoads & Double Dragon: The Ultimate Team'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-07 00:57:00
+  moreProfiles:
+  - 1162
+  - 2847
+  relatedProfiles:
+  - 4531
+  additionalImages: 
+slug: battletoads-double-dragon-the-ultimate-team
+releaseInfo:
+  catalogId: NES-U8-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1993
+  publisher: Tradewest
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U8-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2847')"
+    filename: /images/175/66991199e134f726a649b40b03fea90b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2847')"
+    filename: /images/175/fb07558dfcc6c3534f881a53c41a2ca5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-U8-0 PRG
+  size: 256 KB
+  crc32: CEB65B06
+  x: 2
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9337
+  estFirstRun: September 1993
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

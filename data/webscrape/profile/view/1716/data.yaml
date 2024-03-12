@@ -1,0 +1,109 @@
+metadata:
+  name: Championship Lode Runner
+  altName: チャンピオンシップロードランナー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 02:18:00
+  moreProfiles:
+  - 1500
+  - 1716
+  - 3414
+  - 3677
+  relatedProfiles: []
+  additionalImages: 
+slug: championship-lode-runner
+releaseInfo:
+  catalogId: HFC-CR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 17, 1985
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-CR
+  backLabelId/Desc: 850610
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1500')"
+    filename: /images/175/fc0fffacef1642fc46d92a9fb9c694e6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 74452E18
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: DD53A3E0
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: ADB5D0B3
+  x: 4
+pcbProperties:
+  name: 2I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4c3b1c1e3bc75f0ccf29f88b7039f8cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2I<br>Submitted by: bootgod<br>Linked from profile 3404')"
+    filename: /images/175/f339357587de5ee2f7493a861c9b992e.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8509 - 8522 (4)
+  estFirstRun: March 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-CR
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 56
+  dateCodeSuffix: 08
+  std: 8522
+  misc: 2H-E9
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

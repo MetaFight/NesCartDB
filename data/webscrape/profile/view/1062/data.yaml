@@ -1,0 +1,68 @@
+metadata:
+  name: Flight of the Intruder
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-08 23:45:00
+  moreProfiles:
+  - 748
+  - 1062
+  relatedProfiles:
+  - 4045
+  additionalImages: 
+slug: flight-of-the-intruder
+releaseInfo:
+  catalogId: NES-4F-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1991
+  publisher: Mindscape
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4F-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 748')"
+    filename: /images/175/16db01e7d9f91ccf490bde4f2ced224a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 748')"
+    filename: /images/175/4b528fe9a94d9b9310c0c3ec0c5d30c5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-4F-0 PRG
+  size: 128 KB
+  crc32: F92BE7F2
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9207
+  estFirstRun: February 1992
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

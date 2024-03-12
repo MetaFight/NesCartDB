@@ -1,0 +1,123 @@
+metadata:
+  name: Famista '90
+  altName: ファミスタ’９０
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-23 01:29:00
+  moreProfiles:
+  - 1602
+  - 2659
+  - 1830
+  - 3254
+  - 3255
+  - 3256
+  - 3257
+  - 3258
+  relatedProfiles: []
+  additionalImages: 
+slug: famista-90
+releaseInfo:
+  catalogId: NAM-F90-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 19, 1989
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac0b9a5918af5a52e55adc8aebf75b53.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6b086780d9ac8adb9d7526c15d84f86.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 429FD177
+  x: 8
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 11AEABDB
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0C1792DA
+  x: 8
+pcbProperties:
+  name: LROG053-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG053-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/073505620af6015df5ba8cda9fe27293.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG053-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/888ea14cc7bee865761350cc93fb00b8.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8946 - 8952 (8)
+  estFirstRun: November 1989
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG060
+  partNumberSubDetail: F90
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8950
+  dateCodeSuffix: 4
+  std: 8950
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,124 @@
+metadata:
+  name: Ring King
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-14 23:37:00
+  moreProfiles:
+  - 696
+  - 807
+  - 2833
+  relatedProfiles:
+  - 1589
+  additionalImages: 
+slug: ring-king
+releaseInfo:
+  catalogId: NES-RK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Data East
+  developer: Woodplace
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RK-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ac1440925687f82fad0b4455d62cd6c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de73f839d6bb0f742b243a9c12c321c8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-RK-0 PRG
+  size: 64 KB
+  crc32: 4EBE8A31
+  x: 3
+- type: CHR0
+  label: NES-RK-0 CHR
+  size: 64 KB
+  crc32: C91FA9C9
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5BB62688
+  x: 3
+pcbProperties:
+  name: NES-DEROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-DEROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3d56625f9aa5ce1582626773b4173d1f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8737 - 8823 (2)
+  estFirstRun: September 1987
+  pcbClass: NES-DEROM
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 109
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: KX
+  std: 8819
+  misc: 
+- designation: CHR ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: KX
+  std: 8819
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8823
+  dateCodeSuffix: 5 AA
+  std: 8823
+  misc: 
+- designation: CAS 108/109
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: B
+  std: 8814
+  misc: 

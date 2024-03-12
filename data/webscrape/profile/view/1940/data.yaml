@@ -1,0 +1,128 @@
+metadata:
+  name: 'The Simpsons:  Bart vs. The Space Mutants'
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 10:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2402
+  - 2436
+  - 4394
+  - 28
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-Q5-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4c910164bcf92627e70bc0642b5325b7.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-Q5-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7b134ed194ec1309395dbcc33166022a.jpg
+slug: the-simpsons-bart-vs-the-space-mutants
+releaseInfo:
+  catalogId: NES-Q5-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: December 12, 1991
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Q5-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f7c7a8bfb1eb469f7c74cd1619a0ba7c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-Q5-0 PRG
+  size: 128 KB
+  crc32: BB2E87AA
+  x: 5
+- type: CHR0
+  label: PAL-Q5-0 CHR
+  size: 128 KB
+  crc32: 13A6A2D9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DE7E4629
+  x: 5
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2a7f564431258c77e105bc41a500fc92.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9142
+  estFirstRun: October 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 0J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9141
+  dateCodeSuffix: E
+  std: 9141
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 57
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9142
+  dateCodeSuffix: E
+  std: 9142
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9136
+  dateCodeSuffix: C
+  std: 9136
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9119
+  dateCodeSuffix: 3 AA
+  std: 9119
+  misc: 

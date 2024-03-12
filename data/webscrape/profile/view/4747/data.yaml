@@ -1,0 +1,124 @@
+metadata:
+  name: Baseball
+  altName: ベースボール
+  variant: 
+  submittedBy: plgDavid
+  submittedOn: 2019-01-16 03:33:00
+  moreProfiles:
+  - 1449
+  - 1627
+  - 2185
+  - 2710
+  - 2715
+  - 3363
+  - 3364
+  - 3365
+  - 3446
+  - 3447
+  - 3675
+  - 4747
+  relatedProfiles:
+  - 4255
+  - 4530
+  - 107
+  additionalImages: 
+slug: baseball
+releaseInfo:
+  catalogId: HVC-BA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Midnight Blue
+  formFactor: Small
+  frontLabelId: HVC-BA
+  backLabelId/Desc: 831018
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2185')"
+    filename: /images/175/ab42e483f7595107b1f14b0bc79add5b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-BA-0 PRG-A
+  size: 8 KB
+  crc32: 16CFCBD4
+  x: 0
+- type: PRG1
+  label: HVC-BA-0 PRG-B
+  size: 8 KB
+  crc32: 3EAE077B
+  x: 0
+- type: CHR0
+  label: HVC-BA-0 CHR
+  size: 8 KB
+  crc32: C27EEF20
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 78A48B23
+  x: 11
+pcbProperties:
+  name: HVC-STROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8401 - 8614 (11)
+  estFirstRun: January 1984
+  pcbClass: HVC-STROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1 PRG ROM A
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: S4
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47B
+  dateCodeSuffix: 2
+  std: 8428
+  misc: 
+- designation: IC2 PRG ROM B
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: S5
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47B
+  dateCodeSuffix: 2
+  std: 8428
+  misc: 
+- designation: IC3 CHR ROM
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: R5
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47C
+  dateCodeSuffix: 2
+  std: 8429
+  misc: 

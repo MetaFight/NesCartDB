@@ -1,0 +1,96 @@
+metadata:
+  name: 'Hon Shougi: Naitou 9 Dan Shougi Hiden'
+  altName: 本将棋 内藤九段将棋秘伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-15 23:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2309
+  - 3067
+  - 3068
+  - 3275
+  additionalImages: 
+slug: hon-shougi-naitou-9-dan-shougi-hiden
+releaseInfo:
+  catalogId: KKS-SF (01)
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 10, 1985
+  publisher: Seta
+  developer: Random House
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Seta
+  color: Orange
+  formFactor: Original
+  frontLabelId: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/f51b0965f853b2aa833100d619070b43.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/024314b51575a0153e5e92e5be546e26.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/0b2b7820b9556797218b195316324da3.jpg
+romDetails:
+- type: PRG0
+  label: X3-001
+  size: 16 KB
+  crc32: F00355A0
+  x: 4
+- type: CHR0
+  label: X3-002
+  size: 8 KB
+  crc32: 7AFBB18C
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FFD9DB04
+  x: 4
+pcbProperties:
+  name: P3-016
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/24a86f1e7beec86430111ccc07938f65.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Seta
+  manufacturer: Not Specified
+  mfgRange: 8504 - 8632 (4)
+  estFirstRun: January 1985
+  pcbClass: SETA-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Hitachi
+  partNumber: 3128P
+  partNumberSubDetail: HN61
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 5L1
+  dateCodeSuffix: ''
+  std: 8545
+  misc: P P P
+- designation: CH
+  maker: Hitachi
+  partNumber: 364P
+  partNumberSubDetail: HN61
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 5L3
+  dateCodeSuffix: ''
+  std: 8547
+  misc: C C C C C C

@@ -1,0 +1,107 @@
+metadata:
+  name: Exed Exes
+  altName: エグゼド　エグゼス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 05:20:00
+  moreProfiles:
+  - 2175
+  - 3654
+  relatedProfiles: []
+  additionalImages: 
+slug: exed-exes
+releaseInfo:
+  catalogId: GTS-EE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1985
+  publisher: Tokuma Shoten
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: GTS-EE
+  backLabelId/Desc: 850610
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd772aa08d979bee14a8e2a11e120adc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 7B82400F
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: B0DB8096
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: C05A365B
+  x: 2
+pcbProperties:
+  name: 9011-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c69345a1a922d11a8e1932854b156b7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 1458')"
+    filename: /images/175/368603c7c521ccf6ccb6069756bc0a7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8549
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: IEE
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 302267
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,122 @@
+metadata:
+  name: Thundercade
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-28 00:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: thundercade
+releaseInfo:
+  catalogId: NES-UD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1989
+  publisher: Sammy
+  developer: Seta
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UD-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c43f46a115f17457b4a3f6af623a12f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9bce0b08e1309056ee1f16324c209a3b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-UD-0 PRG
+  size: 128 KB
+  crc32: AFB46DD6
+  x: 1
+pcbProperties:
+  name: NES-UNROM-08
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8941
+  estFirstRun: October 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8931
+  dateCodeSuffix: Z12
+  std: 8931
+  misc: 
+- designation: U2 CHR RAM
+  maker: Fujitsu
+  partNumber: MB8464A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8934
+  dateCodeSuffix: KT22
+  std: 8934
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8941
+  dateCodeSuffix: 5 CA
+  std: 8941
+  misc: 
+- designation: U4 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8927
+  dateCodeSuffix: HnS
+  std: 8927
+  misc: 649790T
+- designation: U5 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8927
+  dateCodeSuffix: HnS
+  std: 8927
+  misc: 648420T

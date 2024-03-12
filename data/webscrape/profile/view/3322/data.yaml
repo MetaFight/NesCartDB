@@ -1,0 +1,120 @@
+metadata:
+  name: Family Tennis
+  altName: ファミリーテニス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 04:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1816
+  - 3197
+  - 3198
+  - 3199
+  - 3322
+  additionalImages: 
+slug: family-tennis
+releaseInfo:
+  catalogId: NAM-FT-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 11, 1987
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1816')"
+    filename: /images/175/7a30045725c138428c780f45096562cb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1816')"
+    filename: /images/175/480cc4b84478e90cb5f4d42f44551cdc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 481608A9
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: FF1297D8
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: A49253C6
+  x: 5
+pcbProperties:
+  name: 60-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d41298ce6d14a66b82ccba88bfe97ef6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-10<br>Submitted by: bootgod<br>Linked from profile 1816')"
+    filename: /images/175/ab6f14ccc4277ae081ac6824b332b2e4.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8747 - 8807 (5)
+  estFirstRun: November 1987
+  pcbClass: NAMCOT-3414
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FT
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 749
+  dateCodeSuffix: K05
+  std: 8749
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP108
+  type: Namcot 108
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

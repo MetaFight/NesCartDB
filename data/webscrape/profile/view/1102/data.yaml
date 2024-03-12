@@ -1,0 +1,127 @@
+metadata:
+  name: Alpha Mission
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-11 02:49:00
+  moreProfiles:
+  - 1102
+  - 1103
+  - 1728
+  relatedProfiles:
+  - 981
+  - 4503
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-AM-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ee656c2f8b5984d0ad9c1a1a72807e90.jpg
+slug: alpha-mission
+releaseInfo:
+  catalogId: NES-AM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1987
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AM-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca428f6c1a8d594bba26d4899c483aea.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4db63d98da89625c173f847ab615657a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-AM-0 PRG
+  size: 32 KB
+  crc32: 8A9586F5
+  x: 3
+- type: CHR0
+  label: NES-AM-0 CHR
+  size: 32 KB
+  crc32: A6A1A853
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: DBF90772
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f591bed3325fe1bc5e34000431c5fcab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-04<br>Submitted by: Skrybe<br>Linked from profile 4649')"
+    filename: /images/175/b28a50ede1ef85ee1f2e6f714d087f32.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8740 - 8745 (3)
+  estFirstRun: October 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2029
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7K4
+  dateCodeSuffix: A3
+  std: 8744
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2030
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7L1
+  dateCodeSuffix: 12
+  std: 8745
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8743
+  dateCodeSuffix: A
+  std: 8743
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8724
+  dateCodeSuffix: CA
+  std: 8724
+  misc: 

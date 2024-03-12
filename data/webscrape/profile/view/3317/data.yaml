@@ -1,0 +1,118 @@
+metadata:
+  name: Youkai Douchuuki
+  altName: 妖怪道中記
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 03:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1820
+  - 2295
+  - 3317
+  additionalImages: 
+slug: youkai-douchuuki
+releaseInfo:
+  catalogId: NAM-YD-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 24, 1988
+  publisher: Namco
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1820')"
+    filename: /images/175/e47dd49e0038d561d05be1e22a4cd7f4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1820')"
+    filename: /images/175/7c559002223364c91466c28abe25c717.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 17421900
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 0229471A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C811DC7A
+  x: 3
+pcbProperties:
+  name: LROG040-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG040-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/812b6d5d88875deed03a5e95fb6de978.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG040-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/84369a0469e863083ff65fcd2857c9d2.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8816 - 8818 (3)
+  estFirstRun: April 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG040
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8817
+  dateCodeSuffix: 3
+  std: 8817
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 163
+  partNumberSubDetail: 
+  type: Namcot 163
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 8818
+  dateCodeSuffix: Z46
+  std: 8818
+  misc: 

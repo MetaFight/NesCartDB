@@ -1,0 +1,130 @@
+metadata:
+  name: Shin Moero!! Pro Yakyuu
+  altName: 新・燃えろ！！プロ野球
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 02:10:00
+  moreProfiles:
+  - 1730
+  - 3028
+  - 3029
+  relatedProfiles: []
+  additionalImages: 
+slug: shin-moero-pro-yakyuu
+releaseInfo:
+  catalogId: JF-23
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 13, 1989
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-23
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5adcfa9eb2358714f5a6906dec1385ee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/002ee1e6401b7b717b28d51d434932c1.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 142F7F3F
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 81BF8283
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 4AE58F5D
+  x: 3
+pcbProperties:
+  name: JF-23A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-23A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/037502c5c9ced85b39b6979e5deb5bea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-23A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bfb474e9aa66f377d964971166710c24.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8920 - 8923 (3)
+  estFirstRun: May 1989
+  pcbClass: JALECO-JF-23
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, D7756C, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C2001C
+  partNumberSubDetail: T38
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8921
+  dateCodeSuffix: PY744
+  std: 8921
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: T98
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8917
+  dateCodeSuffix: EX846
+  std: 8917
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 920
+  dateCodeSuffix: 386
+  std: 8920
+  misc: 
+- designation: IC4
+  maker: NEC
+  partNumber: D7756C
+  partNumberSubDetail: 220
+  type: ADPCM Speech Chip
+  typeSubDetail: 256 kb
+  package: DIP-18
+  dateCodePrefix: 8912
+  dateCodeSuffix: PY002
+  std: 8912
+  misc: 
+- designation: IC5
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8G4
+  dateCodeSuffix: T
+  std: 8830
+  misc: 

@@ -1,0 +1,117 @@
+metadata:
+  name: 'Dragon Spirit: Aratanaru Densetsu'
+  altName: ドラゴンスピリット 新たなる伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 23:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2307
+  - 3328
+  additionalImages: 
+slug: dragon-spirit-aratanaru-densetsu
+releaseInfo:
+  catalogId: NAM-DS-5200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 14, 1989
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3c80473b1277293c4f96ad710aa4b22d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/09f2efc35893e0f18edb977270bb3d52.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/861c774d9e67cf825774e93b51d29e59.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTDSPR
+  size: 128 KB
+  crc32: 6231E6DF
+  x: 2
+- type: CHR0
+  label: NAMCOTDSCH
+  size: 128 KB
+  crc32: 58216CF2
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D2699893
+  x: 2
+pcbProperties:
+  name: 3433
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3433<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c9f70f55ecde23df89b8892307bfd78.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3433<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1d39d532527b6e03eef0e788974bf84f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8909 - 8910 (2)
+  estFirstRun: March 1989
+  pcbClass: NAMCOT-3433
+  inesMapper: 88
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: 831010-20
+  partNumberSubDetail: 2A9 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8910
+  dateCodeSuffix: Z37
+  std: 8910
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 831010-20
+  partNumberSubDetail: 3A0 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8909
+  dateCodeSuffix: Z24
+  std: 8909
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8
+  dateCodeSuffix: ''
+  std: 8834
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8847
+  dateCodeSuffix: D39
+  std: 8847
+  misc: 

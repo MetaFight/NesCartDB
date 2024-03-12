@@ -1,0 +1,132 @@
+metadata:
+  name: RoboCop
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-08 03:06:00
+  moreProfiles:
+  - 466
+  - 846
+  - 863
+  - 1185
+  - 1864
+  relatedProfiles:
+  - 2487
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-CP USA<br>Submitted by: bootgod<br>Linked from profile 863')"
+    filename: /images/175/db9ccfc129318101457f9765411762bd.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-CP USA<br>Submitted by: bootgod<br>Linked from profile 863')"
+    filename: /images/175/fc1a2158415460e823fe666aa75a670b.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-CP-USA<br>Submitted by: bootgod<br>Linked from profile 846')"
+    filename: /images/175/e2e790e13164c964d2563a06e9e34367.jpg
+slug: robocop
+releaseInfo:
+  catalogId: NES-CP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Data East
+  developer: Sakata SAS
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CP-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a96a2b34eb010905a3a6eca1c3b327db.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f1a1ac8457ea0bebeb641494f0ab61b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-CP-0 PRG
+  size: 128 KB
+  crc32: 468DB9A0
+  x: 5
+- type: CHR0
+  label: NES-CP-0 CHR
+  size: 128 KB
+  crc32: 1C682415
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 192D546F
+  x: 5
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b4df6d6c52a3ef20889080cc52eb8df.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002 - 9016 (3)
+  estFirstRun: January 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5432
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0DB
+  dateCodeSuffix: 49
+  std: 9014
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 9D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9013
+  dateCodeSuffix: E
+  std: 9013
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9016
+  dateCodeSuffix: 3 BA
+  std: 9016
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9012
+  dateCodeSuffix: KX046
+  std: 9012
+  misc: 

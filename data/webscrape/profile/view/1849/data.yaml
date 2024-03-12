@@ -1,0 +1,127 @@
+metadata:
+  name: Adventures of Lolo 2
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-07-29 04:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1876
+  - 3419
+  - 1092
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-A4-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0c87ce8952823c049798867f3ba0bb99.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-A4-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/574fde4d02571abf775fef014c2d8e52.jpg
+slug: adventures-of-lolo-2
+releaseInfo:
+  catalogId: NES-A4-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: February 21, 1991
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-A4-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/094db2250d2253e4b0f906b8bfd4a4a8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fde0cfd3c73b25ad59094dd527084036.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-A4-0 PRG
+  size: 32 KB
+  crc32: 7159F060
+  x: 2
+- type: CHR0
+  label: PAL-A4-0 CHR
+  size: 32 KB
+  crc32: DDA05424
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 853FEEA4
+  x: 2
+pcbProperties:
+  name: NES-TEROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TEROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9d1e7c35395f75ff66b06589256d3239.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TEROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ff535ea46ae757f31a52d10cffaa4d09.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9046
+  estFirstRun: November 1990
+  pcbClass: NES-TEROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3201
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0LC
+  dateCodeSuffix: 10
+  std: 9045
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3202
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0LC
+  dateCodeSuffix: 11
+  std: 9045
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: A
+  std: 9046
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9040
+  dateCodeSuffix: KP054
+  std: 9040
+  misc: 

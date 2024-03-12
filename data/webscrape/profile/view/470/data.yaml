@@ -1,0 +1,122 @@
+metadata:
+  name: Lee Trevino's Fighting Golf
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-08 03:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2534
+  - 3506
+  additionalImages: 
+slug: lee-trevinos-fighting-golf
+releaseInfo:
+  catalogId: NES-FI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1988
+  publisher: SNK
+  developer: SNK
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FI-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fec03a62b18b6b42dc3c780f0f42b147.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c13a32b96ada276cd659dae3e19f220.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-FI-0 PRG
+  size: 128 KB
+  crc32: 2CDEF25F
+  x: 1
+- type: CHR0
+  label: NES-FI-0 CHR
+  size: 128 KB
+  crc32: 719845ED
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 88E1A5F4
+  x: 1
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad78b865300ab3fa1a66c809cf45115a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8952
+  estFirstRun: December 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: EX
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8951
+  dateCodeSuffix: KY
+  std: 8951
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8952
+  dateCodeSuffix: 3 BA
+  std: 8952
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8950
+  dateCodeSuffix: B3059
+  std: 8950
+  misc: 

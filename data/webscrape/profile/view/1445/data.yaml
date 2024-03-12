@@ -1,0 +1,130 @@
+metadata:
+  name: 'Ultima: Exodus'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-22 06:49:00
+  moreProfiles:
+  - 472
+  - 1445
+  relatedProfiles:
+  - 1626
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-UL-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a8ce35ebb13d98e1f0b2e0389fc54af.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-UL-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/352e886c66f82aa5de490e29f548afe9.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-UL-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5f64f6b0bf560457c0663c2ff7c9482e.jpg
+slug: ultima-exodus
+releaseInfo:
+  catalogId: NES-UL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1989
+  publisher: FCI
+  developer: Origin Systems
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UL-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 472')"
+    filename: /images/175/3b84f08cf134df827d47bc93e5dfd012.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/13e625f223e1ded449de4c7d5dd8a659.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-UL-0 PRG
+  size: 256 KB
+  crc32: A4062017
+  x: 3
+pcbProperties:
+  name: NES-SNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8933 - 8947 (2)
+  estFirstRun: August 1989
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8928
+  dateCodeSuffix: PY
+  std: 8928
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8932
+  dateCodeSuffix: M5
+  std: 8932
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8933
+  dateCodeSuffix: 7 BA
+  std: 8933
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8927
+  dateCodeSuffix: 7 A
+  std: 8927
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8932
+  dateCodeSuffix: 7 Y
+  std: 8932
+  misc: 

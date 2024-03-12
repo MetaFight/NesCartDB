@@ -1,0 +1,82 @@
+metadata:
+  name: Bubble Bobble
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-03 03:37:00
+  moreProfiles:
+  - 458
+  - 2757
+  - 2923
+  relatedProfiles:
+  - 2103
+  - 2404
+  - 1927
+  - 2104
+  additionalImages: 
+slug: bubble-bobble
+releaseInfo:
+  catalogId: NES-B2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-B2-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2757')"
+    filename: /images/175/126837ea40bc114ed26057465164b137.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2757')"
+    filename: /images/175/30e2cdd8e5fcec0dfbdd7ea299e2ea56.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-B2-0 PRG
+  size: 128 KB
+  crc32: B1378C99
+  x: 3
+- type: CHR0
+  label: NES-B2-0 CHR
+  size: 32 KB
+  crc32: A6AA53AC
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 5E900522
+  x: 3
+pcbProperties:
+  name: NES-SFROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8946
+  estFirstRun: November 1989
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

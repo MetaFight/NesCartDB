@@ -1,0 +1,125 @@
+metadata:
+  name: 'Godzilla: Monster of Monsters!'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-15 04:11:00
+  moreProfiles:
+  - 4432
+  - 4436
+  relatedProfiles:
+  - 4012
+  - 4539
+  - 479
+  additionalImages: 
+slug: godzilla-monster-of-monsters
+releaseInfo:
+  catalogId: NES-GZ-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Toho
+  developer: Compile
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GZ-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH-1
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f2137aeed900a8cd392a891decfcea57.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/545400d3b7f5fb1acf23ac72dc919fb1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4386')"
+    filename: /images/175/4eb994e122a75be2471a222ad5b2e599.jpg
+romDetails:
+- type: PRG0
+  label: PAL-GZ-0 PRG
+  size: 128 KB
+  crc32: D76A57BF
+  x: 3
+- type: CHR0
+  label: NES-GZ-0 CHR
+  size: 128 KB
+  crc32: E5C2BC99
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 46480432
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/5f49fb4563f6df1e49b775230f2876a6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9206 - 9207 (2)
+  estFirstRun: February 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W79
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9206
+  dateCodeSuffix: K9034
+  std: 9206
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9206
+  dateCodeSuffix: KY014
+  std: 9206
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9141
+  dateCodeSuffix: C
+  std: 9141
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9207
+  dateCodeSuffix: 5 A 170
+  std: 9207
+  misc: 

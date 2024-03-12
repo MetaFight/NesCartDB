@@ -1,0 +1,128 @@
+metadata:
+  name: Disney's The Jungle Book
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-06 02:23:00
+  moreProfiles:
+  - 2463
+  - 4249
+  relatedProfiles:
+  - 1931
+  - 881
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-JJ-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/36ad808fa886c74d6e4cb3ad34ee564a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-JJ-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ed78f836445942dcad395d6851d2ce8d.jpg
+slug: disneys-the-jungle-book
+releaseInfo:
+  catalogId: NES-JJ-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: August 25, 1994
+  publisher: Virgin Games
+  developer: Eurocom
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JJ-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/cffbd852ac916d5e5977d759e3a23196.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9f7dc82f0d180f146bbbd0da1901754f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-JJ-0 PRG
+  size: 128 KB
+  crc32: A40E47F0
+  x: 4
+- type: CHR0
+  label: PAL-JJ-0 CHR
+  size: 128 KB
+  crc32: 22BB5B08
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7DA77F11
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/72dafbfb5c44c26ccee0dc0eb3c35893.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9425 - 9425 (2)
+  estFirstRun: June 1994
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1V
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9424
+  dateCodeSuffix: E
+  std: 9424
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 1F
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9425
+  dateCodeSuffix: E
+  std: 9425
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9414
+  dateCodeSuffix: 7 B
+  std: 9414
+  misc: 

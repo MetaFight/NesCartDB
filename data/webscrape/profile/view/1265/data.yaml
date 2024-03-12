@@ -1,0 +1,120 @@
+metadata:
+  name: Best Play Pro Yakyuu
+  altName: ベストプレープロ野球
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2006-12-25 03:05:00
+  moreProfiles:
+  - 1265
+  - 1659
+  relatedProfiles: []
+  additionalImages: 
+slug: best-play-pro-yakyuu
+releaseInfo:
+  catalogId: HSP-11
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1988
+  publisher: ASCII
+  developer: ASCII
+  players: 2
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-11
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/998c816c2eb5b950e1710807fd1b1285.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-11-1 PRG
+  size: 128 KB
+  crc32: E792DE94
+  x: 1
+- type: CHR0
+  label: HSP-11-0 CHR
+  size: 32 KB
+  crc32: 13DE672A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: E19293A2
+  x: 1
+pcbProperties:
+  name: HVC-SJROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SJROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/edc32ed91ecc7783ce7fa3c3218eb764.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SJROM-03<br>Submitted by: bootgod<br>Linked from profile 3556')"
+    filename: /images/175/d0a755c08e72752b802bb7a933e84586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8827 - 8848 (2)
+  estFirstRun: July 1988
+  pcbClass: HVC-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5303
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8L4
+  dateCodeSuffix: A2
+  std: 8848
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: 7 Y
+  std: 8847
+  misc: 
+- designation: U3 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2085
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8L2
+  dateCodeSuffix: A2
+  std: 8846
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8848
+  dateCodeSuffix: 5 A
+  std: 8848
+  misc: 

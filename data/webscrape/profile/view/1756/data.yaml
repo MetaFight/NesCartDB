@@ -1,0 +1,107 @@
+metadata:
+  name: 'Fantasy Zone II: Opa-Opa no Namida'
+  altName: ファンタジーゾーンⅡ オパオパの涙
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-29 03:19:00
+  moreProfiles:
+  - 1756
+  - 3274
+  relatedProfiles: []
+  additionalImages: 
+slug: fantasy-zone-ii-opa-opa-no-namida
+releaseInfo:
+  catalogId: SUN-FZII-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 20, 1988
+  publisher: Sunsoft
+  developer: Sega
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/829e905955a41a5691bf38ab731c1001.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/724463e8006f4f82b0c7b5eb508238e7.jpg
+romDetails:
+- type: PRG0
+  label: SUNSOFT-FZII PRG
+  size: 128 KB
+  crc32: 7F2A04BF
+  x: 2
+- type: CHR0
+  label: SUNSOFT-FZII CHR
+  size: 128 KB
+  crc32: 4B593A27
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0C5A6297
+  x: 2
+pcbProperties:
+  name: UNK-SUNSOFT-FZII
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-SUNSOFT-FZII<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c57933921aa36f170cde9d27eb20ab0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-SUNSOFT-FZII<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4eafac28634ba95a5acff90e3b5fbc71.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8847 - 8850 (2)
+  estFirstRun: November 1988
+  pcbClass: SUNSOFT-3
+  inesMapper: 67
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-3
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: E
+  std: 8847
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: D
+  std: 8847
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: SUNSOFT-3
+  partNumberSubDetail: 
+  type: Sunsoft-3
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8829
+  dateCodeSuffix: A
+  std: 8829
+  misc: 

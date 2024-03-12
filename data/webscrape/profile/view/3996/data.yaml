@@ -1,0 +1,133 @@
+metadata:
+  name: Daikoukai Jidai
+  altName: 大航海時代
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 22:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1052
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/59f4dbdd1a5b72865b33108941a69fb9.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a462763ff3bc123d7d8823674c08d2d.jpg
+slug: daikoukai-jidai
+releaseInfo:
+  catalogId: KOE-QK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 15, 1991
+  publisher: Koei
+  developer: Koei
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-QK
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1f1263ba1639970075a8f07a57fbbd82.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-QK-0 PRG
+  size: 512 KB
+  crc32: F4CD4998
+  x: 1
+- type: CHR0
+  label: KOE-QK-0 CHR
+  size: 128 KB
+  crc32: 54BEF15B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 640 KB
+  crc32: FE3488D1
+  x: 1
+pcbProperties:
+  name: HVC-ETROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-ETROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2291732c55c12c3ec5b3ade1bc573058.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-ETROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/febac913c03a855c2d8fa71f03fd6e9f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9105
+  estFirstRun: February 1991
+  pcbClass: HVC-ETROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013C
+  partNumberSubDetail: W08
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9105
+  dateCodeSuffix: EY003
+  std: 9105
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R27
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9105
+  dateCodeSuffix: EY020
+  std: 9105
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9043
+  dateCodeSuffix: AA001
+  std: 9043
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 
+- designation: U5 W-RAM-1
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 

@@ -1,0 +1,81 @@
+metadata:
+  name: Karate Champ
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-11-27 01:34:00
+  moreProfiles:
+  - 630
+  - 1177
+  - 1357
+  - 1371
+  - 2802
+  relatedProfiles: []
+  additionalImages: 
+slug: karate-champ
+releaseInfo:
+  catalogId: NES-KC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1986
+  publisher: Data East
+  developer: Sakata SAS
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KC-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2802')"
+    filename: /images/175/00b1a20520c31574b35540399cdd8c96.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2802')"
+    filename: /images/175/8e1c47e1c2e4b76ed98a6671c3942671.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-KC-1 PRG
+  size: 32 KB
+  crc32: 5077A2D7
+  x: 4
+- type: CHR0
+  label: NES-KC-1 CHR
+  size: 32 KB
+  crc32: DEA6799A
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: F42B0DBD
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8643 - 8833 (4)
+  estFirstRun: October 1986
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx161
+detailedChipInfo: []

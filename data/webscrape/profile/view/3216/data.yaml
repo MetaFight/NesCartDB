@@ -1,0 +1,111 @@
+metadata:
+  name: Family Mahjong
+  altName: ファミリーマージャン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-26 00:04:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1795
+  - 2298
+  - 3214
+  - 3215
+  - 3216
+  - 3217
+  - 3320
+  additionalImages: 
+slug: family-mahjong
+releaseInfo:
+  catalogId: NAM-FM-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 11, 1987
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 3215')"
+    filename: /images/175/1ffa6c5f0066e98a364cd911b32b1acc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2298')"
+    filename: /images/175/fa3c6e9d36362d45b4ca2f3065519643.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTFMPR
+  size: 128 KB
+  crc32: A941EEFA
+  x: 6
+- type: CHR0
+  label: NAMCOTFMCH
+  size: 64 KB
+  crc32: 237825CF
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: C6557E02
+  x: 6
+pcbProperties:
+  name: 3406
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3406<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35bb4eb99fcc80fcd5fd8a9bac3a86ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3406<br>Submitted by: bootgod<br>Linked from profile 1585')"
+    filename: /images/175/08d976116ed744c9abc350746b4b5a27.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8731 - 8826 (7)
+  estFirstRun: August 1987
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 118
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: 831000-15
+  partNumberSubDetail: 637 BK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8732
+  dateCodeSuffix: Z20
+  std: 8732
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: MB83512-15
+  partNumberSubDetail: 229 AK
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8732
+  dateCodeSuffix: Z10
+  std: 8732
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 118
+  partNumberSubDetail: 
+  type: Namcot 118
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 7
+  dateCodeSuffix: ''
+  std: 8728
+  misc: 

@@ -1,12 +1,19 @@
 .vs
 
-data
+# only selectively include scraped data
+data/**/*.*
+!data/**/*.yaml
+!data/**/img/*.jpg
+
+# exclude data used for local development
 localDev-data
 
+# exclude site build artifacts
 _site
 cache
 temp
 wwwroot
 
+# exclude dotnet build artifacts
 bin
 obj

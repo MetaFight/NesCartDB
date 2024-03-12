@@ -1,0 +1,107 @@
+metadata:
+  name: 'Kame no Ongaeshi: Urashima Densetsu'
+  altName: 亀の恩返し ウラシマ伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 143
+  additionalImages: 
+slug: kame-no-ongaeshi-urashima-densetsu
+releaseInfo:
+  catalogId: HFC-KO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 26, 1988
+  publisher: Hudson Soft
+  developer: Atlus
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-KO
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/420634d66d62e2e244c671e829258ca3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-KO-0 PRG
+  size: 128 KB
+  crc32: 2A601192
+  x: 1
+- type: CHR0
+  label: HFC-KO-0 CHR
+  size: 128 KB
+  crc32: 520B6BB8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 489D19AB
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1ba7946811ce1c275e634410806f53cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8831
+  estFirstRun: August 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 8B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8831
+  dateCodeSuffix: D
+  std: 8831
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 67
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8831
+  dateCodeSuffix: D
+  std: 8831
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8829
+  dateCodeSuffix: 1 A
+  std: 8829
+  misc: 

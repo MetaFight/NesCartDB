@@ -1,0 +1,108 @@
+metadata:
+  name: 'Kaiketsu Yanchamaru 3: Taiketsu! Zouringen'
+  altName: 快傑ヤンチャ丸３ 対決！ゾウリンゲン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-02-08 06:06:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/29250695d08293a5c9b7071708532a50.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b77ad7ec3fb0a9154eed9a7f506296c7.jpg
+slug: kaiketsu-yanchamaru-3-taiketsu-zouringen
+releaseInfo:
+  catalogId: IF-28
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 30, 1993
+  publisher: Irem
+  developer: Micronics / Khaos
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Green
+  formFactor: New Style
+  frontLabelId: IF-28
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa93634f86608b9bf60acc868dc58a57.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c867556005907c4201bfb51956483e49.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: E30B7F64
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: AF5FD6B5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9E898385
+  x: 1
+pcbProperties:
+  name: FC-00-017B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-017B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5cccfc6252dc0091ee01bc1659babde3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-017B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ff852765b0b445f472002dd8d5661331.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9311
+  estFirstRun: March 1993
+  pcbClass: IREM-H3001
+  inesMapper: 65
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: IF-H3001
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: T36
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9311
+  dateCodeSuffix: KY004
+  std: 9311
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: T35
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9311
+  dateCodeSuffix: KY002
+  std: 9311
+  misc: 
+- designation: H3001
+  maker: NEC
+  partNumber: IF-H3001
+  partNumberSubDetail: 
+  type: Irem H3001
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9126
+  dateCodeSuffix: K5005
+  std: 9126
+  misc: 

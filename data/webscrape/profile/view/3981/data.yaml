@@ -1,0 +1,105 @@
+metadata:
+  name: Toukon Club
+  altName: 闘魂倶楽部
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 05:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: toukon-club
+releaseInfo:
+  catalogId: JF-37
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 24, 1992
+  publisher: Jaleco
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-37
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a6942c3e6e9ab52c30d5522f2ec1e77.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f2d76d9ea4a51741c206015d3c5cba8.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: A54D9086
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: 22D4A6E8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: EA3E78DD
+  x: 1
+pcbProperties:
+  name: JF-37
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-37<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b1ba3538f853db7b280cc5f75a43240.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-37<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c39b5c99ab3df2e41eb1b347db611fc.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9228
+  estFirstRun: July 1992
+  pcbClass: JALECO-JF-37
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1001EACZ
+  partNumberSubDetail: W06
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9228
+  dateCodeSuffix: EY002
+  std: 9228
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C2001ECZ
+  partNumberSubDetail: W24
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9228
+  dateCodeSuffix: XD002
+  std: 9228
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 145
+  dateCodeSuffix: 184
+  std: 9145
+  misc: 

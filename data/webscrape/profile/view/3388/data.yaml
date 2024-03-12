@@ -1,0 +1,129 @@
+metadata:
+  name: Dragon Quest
+  altName: ドラゴンクエスト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 17:45:00
+  moreProfiles:
+  - 1509
+  - 1635
+  - 1726
+  - 2722
+  - 3388
+  - 3520
+  - 3521
+  - 3522
+  - 3523
+  - 3688
+  - 4585
+  relatedProfiles:
+  - 54
+  additionalImages: 
+slug: dragon-quest
+releaseInfo:
+  catalogId: EFC-DQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 27, 1986
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: EFC-DQ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1509')"
+    filename: /images/175/593c91b84d4682722256ef209809a16b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 84EFD927
+  x: 10
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 62CE72F9
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 88053D25
+  x: 10
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad102c10fa855db510bbd0080563f0b4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8551 - 9011 (11)
+  estFirstRun: December 1985
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 1JDQ
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: K
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9011
+  dateCodeSuffix: ''
+  std: 9011
+  misc: 

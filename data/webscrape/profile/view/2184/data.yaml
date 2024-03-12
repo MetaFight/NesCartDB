@@ -1,0 +1,117 @@
+metadata:
+  name: 'SD Gundam Gachapon Senshi 5: Battle of Universal Century'
+  altName: ＳＤガンダ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 01:03:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sd-gundam-gachapon-senshi-5-battle-of-universal-century
+releaseInfo:
+  catalogId: SHI-P5
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 22, 1992
+  publisher: Yutaka
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Violet
+  formFactor: Small
+  frontLabelId: SHI-P5
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3723f9e9c8734292d7b30f8d490f7520.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-P5-0 PRG
+  size: 128 KB
+  crc32: 8EE6463A
+  x: 1
+- type: CHR0
+  label: SHI-P5-0 CHR
+  size: 128 KB
+  crc32: 3CC75993
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6C940A59
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8d35c656f56011519f55aabb1c98d1d9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9246
+  estFirstRun: November 1992
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6708
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2LC
+  dateCodeSuffix: 40
+  std: 9245
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0173
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2LC
+  dateCodeSuffix: 43
+  std: 9245
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9246
+  dateCodeSuffix: 5 A
+  std: 9246
+  misc: 
+- designation: U4 W-RAM
+  maker: Rohm
+  partNumber: XLJ6265-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 243
+  dateCodeSuffix: 111
+  std: 9243
+  misc: 

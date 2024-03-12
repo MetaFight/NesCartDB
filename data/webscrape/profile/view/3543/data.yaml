@@ -1,0 +1,113 @@
+metadata:
+  name: Gekitou Puroresu!! Toukon Densetsu
+  altName: 激闘プロレス!! 闘魂伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-28 06:25:00
+  moreProfiles:
+  - 3543
+  - 3711
+  relatedProfiles:
+  - 2595
+  - 4698
+  - 2496
+  - 1888
+  - 418
+  additionalImages: 
+slug: gekitou-puroresu-toukon-densetsu
+releaseInfo:
+  catalogId: TCF-PZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 1, 1989
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TCF-PZ
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4ce06a529fdc1d5ab331981a09169a5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TCF-PZ-0 PRG
+  size: 128 KB
+  crc32: BF968B1E
+  x: 2
+- type: CHR0
+  label: TCF-PZ-0 CHR
+  size: 128 KB
+  crc32: 0BFB3130
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 50893B58
+  x: 2
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bb0d8ce60440c06fb59ede1510a4f48f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8931 - 8931 (2)
+  estFirstRun: August 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NWY
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: 53
+  std: 8930
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NWZ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9
+  dateCodeSuffix: 52
+  std: 8931
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8929
+  dateCodeSuffix: 7 A
+  std: 8929
+  misc: 

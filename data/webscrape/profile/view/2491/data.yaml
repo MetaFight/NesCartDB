@@ -1,0 +1,133 @@
+metadata:
+  name: Rygar
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-12 03:05:00
+  moreProfiles:
+  - 2491
+  - 4149
+  - 4276
+  - 4460
+  relatedProfiles:
+  - 4696
+  - 3580
+  - 4041
+  - 284
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RY-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7b4e212e49b80ffb8edecb99da12dd16.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RY-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7c064960f36e57782c622f6c9c4196c4.jpg
+slug: rygar
+releaseInfo:
+  catalogId: NES-RY-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: March 30, 1990
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RY-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a9b83d468616feb06a34f5a834238318.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6b2de10e5a1d04d169ac5a6857b65178.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RY-0 PRG
+  size: 128 KB
+  crc32: 8F197B0A
+  x: 6
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9031 (4)
+  estFirstRun: January 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5410
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0A4
+  dateCodeSuffix: 71
+  std: 9004
+  misc: 
+- designation: U2 CHR RAM
+  maker: Samsung
+  partNumber: KM6264AL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 001
+  dateCodeSuffix: N
+  std: 9001
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8945
+  dateCodeSuffix: A
+  std: 8945
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8952
+  dateCodeSuffix: ''
+  std: 8952
+  misc: 

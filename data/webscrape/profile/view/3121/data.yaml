@@ -1,0 +1,97 @@
+metadata:
+  name: 'Obake no Q Tarou: Wanwan Panic'
+  altName: オバケのＱ太郎 ワンワンパニック
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 23:26:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1736
+  - 2247
+  - 3120
+  - 3121
+  - 3293
+  additionalImages: 
+slug: obake-no-q-tarou-wanwan-panic
+releaseInfo:
+  catalogId: BA-OBQ
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 16, 1985
+  publisher: Bandai
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Yellow
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2247')"
+    filename: /images/175/85ce76c619b0c9d52b73bab46d7e01b8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2247')"
+    filename: /images/175/7cdaab4dee661b0eb9b7e62bb8c65a8d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1736')"
+    filename: /images/175/b00cadfaab204966c3a066c10dcdb547.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 85 OBQ
+  size: 32 KB
+  crc32: 6756763B
+  x: 5
+- type: CHR0
+  label: BANDAI 85 OBQ
+  size: 8 KB
+  crc32: 7BCF6DE9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 330DE468
+  x: 5
+pcbProperties:
+  name: UNK-BANDAI-OBQ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-BANDAI-OBQ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/66dc9aa4a933df4a0397dd2e52ed8784.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-BANDAI-OBQ<br>Submitted by: bootgod<br>Linked from profile 2247')"
+    filename: /images/175/5004cbd648a1c8c9120484a78e2bf640.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8546 - 8609 (5)
+  estFirstRun: November 1985
+  pcbClass: BANDAI-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 072P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 549
+  dateCodeSuffix: 104
+  std: 8549
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2764
+  partNumberSubDetail: 283P
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 548
+  dateCodeSuffix: 10C
+  std: 8548
+  misc: 

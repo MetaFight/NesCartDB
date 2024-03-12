@@ -1,0 +1,82 @@
+metadata:
+  name: Ferrari Grand Prix Challenge
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 06:23:00
+  moreProfiles:
+  - 2912
+  - 4421
+  relatedProfiles:
+  - 4447
+  - 2141
+  - 4285
+  - 693
+  additionalImages: 
+slug: ferrari-grand-prix-challenge
+releaseInfo:
+  catalogId: NES-FG-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Acclaim
+  developer: System 3
+  players: 1
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FG-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 4421')"
+    filename: /images/175/333e39e843a2fdf0f5e6f1edea4eb8fd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4421')"
+    filename: /images/175/cd47c90e09226ea8f0192f51b1eae958.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-FG-0 PRG
+  size: 128 KB
+  crc32: 8B73FB1B
+  x: 4
+- type: CHR0
+  label: NES-FG-0 CHR
+  size: 128 KB
+  crc32: 13D6708E
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 53A9B53A
+  x: 4
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9251
+  estFirstRun: December 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B3
+detailedChipInfo: []

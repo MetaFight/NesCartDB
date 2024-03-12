@@ -1,0 +1,119 @@
+metadata:
+  name: Jajamaru no Daibouken
+  altName: じゃじゃ丸の大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-12 07:57:00
+  moreProfiles:
+  - 1733
+  - 3004
+  - 3005
+  relatedProfiles: []
+  additionalImages: 
+slug: jajamaru-no-daibouken
+releaseInfo:
+  catalogId: JF-09
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 22, 1986
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Aqua
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1733')"
+    filename: /images/175/7155266af12e61827067084d36804e0f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1732')"
+    filename: /images/175/5596237bbfb5a8c8934679235e84e7e0.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: E6F5FDD2
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 957C94AE
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 61B4295A
+  x: 3
+pcbProperties:
+  name: JF-09
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-09<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/990c6d001e75fcbbedd0044f4a6be302.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-09<br>Submitted by: bootgod<br>Linked from profile 3004')"
+    filename: /images/175/e7a8cfa7f378c3904f6d04f692f70a0b.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8631 - 8632 (3)
+  estFirstRun: August 1986
+  pcbClass: JALECO-JF-09
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 61
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8632
+  dateCodeSuffix: E
+  std: 8632
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 60
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8632
+  dateCodeSuffix: D
+  std: 8632
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 612
+  dateCodeSuffix: 101
+  std: 8612
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74HC74P
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 613
+  dateCodeSuffix: 1A0
+  std: 8613
+  misc: 

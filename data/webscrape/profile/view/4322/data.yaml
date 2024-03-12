@@ -1,0 +1,134 @@
+metadata:
+  name: Mike Tyson's Punch-Out!!
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2011-02-21 19:32:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2381
+  - 2445
+  - 2562
+  - 4552
+  - 3750
+  - 4329
+  - 4593
+  - 4554
+  - 155
+  - 317
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PT-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e5ea4ad8055d9b73847cf2f65d3f81bd.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MZ-NOE<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f62589e5ca8fd4920a91873f3c2363ae.jpg
+slug: mike-tysons-punch-out
+releaseInfo:
+  catalogId: NES-PT-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: December 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PT-ESP
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: ESP
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b8d1a3c9c4d8d909ce7c14b34637a92b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-PT-0 PRG
+  size: 128 KB
+  crc32: 4C09E6B8
+  x: 4
+- type: CHR0
+  label: NES-PT-0 CHR
+  size: 128 KB
+  crc32: 570B48EA
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3A4D4D10
+  x: 4
+pcbProperties:
+  name: NES-PEEOROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-PEEOROM-01<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7169b4f6fe91a538a8ac779a28ff504c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-PEEOROM-01<br>Submitted by: Kinopio<br>Linked from profile 2493')"
+    filename: /images/175/d57709d0937102a81d2c63fbaaba5edf.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8746
+  estFirstRun: November 1987
+  pcbClass: NES-PEEOROM
+  inesMapper: 9
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC2
+detailedChipInfo:
+- designation: U1 PRG ROM
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NXJ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7N3
+  dateCodeSuffix: BT
+  std: 8746
+  misc: 
+- designation: U2 CHR ROM
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NXG
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 7
+  dateCodeSuffix: 50
+  std: 8745
+  misc: 
+- designation: U3 MMC2
+  maker: Panasonic
+  partNumber: RD387-001
+  partNumberSubDetail: 
+  type: Nintendo MMC2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 7
+  dateCodeSuffix: ''
+  std: 8746
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8746
+  dateCodeSuffix: A
+  std: 8746
+  misc: 

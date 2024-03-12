@@ -1,0 +1,110 @@
+metadata:
+  name: Bucky O'Hare
+  altName: バッキーオヘア
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 04:59:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2034
+  - 2489
+  - 4533
+  - 399
+  additionalImages: 
+slug: bucky-ohare
+releaseInfo:
+  catalogId: KDS-1V
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 31, 1992
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-1V
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/2a8713ad55342a4eb2b8c97a9d71e5be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/158b7263f9b948199d93b540f78feb8a.jpg
+romDetails:
+- type: PRG0
+  label: KDS-1V-0 PRG
+  size: 128 KB
+  crc32: EAFC4944
+  x: 0
+- type: CHR0
+  label: KDS-1V-0 CHR
+  size: 128 KB
+  crc32: 0FDAF4E3
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 26E82008
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/c32383977746098c7e7e47babeedc324.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/c1b071b6f344adf8993163eb3240dd76.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9150
+  estFirstRun: December 1991
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W70
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9150
+  dateCodeSuffix: K9704
+  std: 9150
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W59
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9150
+  dateCodeSuffix: KY711
+  std: 9150
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9149
+  dateCodeSuffix: 3 AB
+  std: 9149
+  misc: 

@@ -1,0 +1,80 @@
+metadata:
+  name: Double Dragon
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 10:46:00
+  moreProfiles:
+  - 1941
+  - 2053
+  relatedProfiles:
+  - 3862
+  - 22
+  additionalImages: 
+slug: double-dragon
+releaseInfo:
+  catalogId: NES-WD-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: March 21, 1992
+  publisher: Nintendo
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WD-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2053')"
+    filename: /images/175/eb42b34b7b863b8b880cabf01fb287b8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/422e7b9db51d0dc4955b9c6caf021e25.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-WD-0 PRG
+  size: 128 KB
+  crc32: 144CA9E5
+  x: 2
+- type: CHR0
+  label: NES-WD-0 CHR
+  size: 128 KB
+  crc32: 5EBE0FD0
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A1A0C13F
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9212
+  estFirstRun: March 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

@@ -1,0 +1,109 @@
+metadata:
+  name: Wild Gunman
+  altName: ワイルドガンマン
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 22:46:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2360
+  - 2546
+  - 306
+  additionalImages: 
+slug: wild-gunman
+releaseInfo:
+  catalogId: HVC-WG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 18, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Violet
+  formFactor: Small
+  frontLabelId: HVC-WG
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/22aca0adf76c3b4e94e15a8af53c6e77.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 389960DB
+  x: 7
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A5E04856
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5112DC21
+  x: 7
+pcbProperties:
+  name: 2I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51c3ece338b37e0ad9a93fbb5a2a3cd3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f339357587de5ee2f7493a861c9b992e.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8409
+  estFirstRun: March 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-WG
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 43
+  dateCodeSuffix: 57
+  std: 8409
+  misc: 2H-51
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

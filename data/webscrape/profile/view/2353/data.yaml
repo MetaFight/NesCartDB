@@ -1,0 +1,74 @@
+metadata:
+  name: 'Rad Racket: Deluxe Tennis II'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-12-11 05:26:00
+  moreProfiles:
+  - 1363
+  - 2353
+  relatedProfiles: []
+  additionalImages: 
+slug: rad-racket-deluxe-tennis-ii
+releaseInfo:
+  catalogId: AVE-RR
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: AVE
+  developer: Idea-Tek
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/5e4c2f272587879548af695c69c4e183.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/09a88b5ef033e62c240ae5c2882c1b3a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1241')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: 
+  size: 32 KB
+  crc32: A397028A
+  x: 2
+- type: CHR0
+  label: 
+  size: 32 KB
+  crc32: DE0853DB
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: BDE7A7B5
+  x: 2
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo: []

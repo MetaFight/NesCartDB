@@ -1,0 +1,118 @@
+metadata:
+  name: Wild Gunman
+  altName: 
+  variant: (Revision A)
+  submittedBy: Kinopio
+  submittedOn: 2009-06-28 04:39:00
+  moreProfiles:
+  - 2360
+  - 3753
+  relatedProfiles:
+  - 3404
+  - 2546
+  - 306
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>EEC<br>Submitted by: Kinopio<br>Linked from profile 2360')"
+    filename: /images/175/25d27c7bc41a2c0786de20ef1bf575c9.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>EEC<br>Submitted by: Kinopio<br>Linked from profile 2360')"
+    filename: /images/175/601f1ac0c6c227c9a5e34e2a88013d42.jpg
+slug: wild-gunman
+releaseInfo:
+  catalogId: NES-WG-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: February 15, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2360')"
+    filename: /images/175/4277ecf09670ef949ff4710c2a137160.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2360')"
+    filename: /images/175/d1c10028084737d2739fb30a45eaa908.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-WG-1 PRG
+  size: 16 KB
+  crc32: 389960DB
+  x: 7
+- type: CHR0
+  label: HVC-WG-0 CHR
+  size: 8 KB
+  crc32: A5E04856
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5112DC21
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/33bfef5f905b4546e53e42d7132c0f96.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8746 - 8746 (2)
+  estFirstRun: November 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0563
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7K4
+  dateCodeSuffix: 41
+  std: 8744
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2007
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7L1
+  dateCodeSuffix: 17
+  std: 8745
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8746
+  dateCodeSuffix: A
+  std: 8746
+  misc: 

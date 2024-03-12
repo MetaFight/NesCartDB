@@ -1,0 +1,119 @@
+metadata:
+  name: 'Aoki Ookami to Shiroki Mejika: Genghis Khan'
+  altName: 蒼き狼と白き牝鹿 ジンギスカン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 20:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 919
+  additionalImages: 
+slug: aoki-ookami-to-shiroki-mejika-genghis-khan
+releaseInfo:
+  catalogId: KOE-GX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 20, 1989
+  publisher: Koei
+  developer: Koei
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-GX
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90b33a1bf8673f3dba02a91d2d643aea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-GX-0 PRG
+  size: 256 KB
+  crc32: FB69743A
+  x: 1
+pcbProperties:
+  name: HVC-SOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8907
+  estFirstRun: February 1989
+  pcbClass: HVC-SOROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 38
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8907
+  dateCodeSuffix: D
+  std: 8907
+  misc: 
+- designation: U2 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8905
+  dateCodeSuffix: MX
+  std: 8905
+  misc: 
+- designation: U3
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8907
+  dateCodeSuffix: 5 Y
+  std: 8907
+  misc: 
+- designation: U4 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8905
+  dateCodeSuffix: MX
+  std: 8905
+  misc: 
+- designation: U5 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8906
+  dateCodeSuffix: 1 A
+  std: 8906
+  misc: 

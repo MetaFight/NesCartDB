@@ -1,0 +1,78 @@
+metadata:
+  name: Super Jeopardy!
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-28 01:01:00
+  moreProfiles:
+  - 579
+  - 1021
+  - 1439
+  relatedProfiles: []
+  additionalImages: 
+slug: super-jeopardy
+releaseInfo:
+  catalogId: NES-7J-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1991
+  publisher: GameTek
+  developer: GameTek
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7J-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1021')"
+    filename: /images/175/7e94ab867e937ceaaaabb99dccbe1990.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1439')"
+    filename: /images/175/41dbc2f6939a3d2155eca3accb172310.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-7J-0 PRG
+  size: 128 KB
+  crc32: D3428E2E
+  x: 3
+- type: CHR0
+  label: NES-7J-0 CHR
+  size: 128 KB
+  crc32: FA029DBF
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CF4487A2
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9136 - 9214 (2)
+  estFirstRun: September 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

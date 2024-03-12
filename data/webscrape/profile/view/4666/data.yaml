@@ -1,0 +1,122 @@
+metadata:
+  name: Shadowgate
+  altName: シャドウゲイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:58:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2144
+  - 1959
+  - 4375
+  - 1815
+  - 208
+  additionalImages: 
+slug: shadowgate
+releaseInfo:
+  catalogId: KSC-3S
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 31, 1989
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-3S
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/95619c386bc7af14c614aa62b702f2ef.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-3S-0 PRG
+  size: 128 KB
+  crc32: 6B403C04
+  x: 1
+- type: CHR0
+  label: KSC-3S-0 CHR
+  size: 128 KB
+  crc32: 761E8444
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CF40B1C5
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c40a0a64d877025ce73144852828d304.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-01<br>Submitted by: bootgod<br>Linked from profile 3553')"
+    filename: /images/175/f7b3daf5e4db0352755edf3e45f1039d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8912
+  estFirstRun: March 1989
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: D
+  std: 8912
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8911
+  dateCodeSuffix: E
+  std: 8911
+  misc: 
+- designation: U3 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8911
+  dateCodeSuffix: 1 Y
+  std: 8911
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8852
+  dateCodeSuffix: KP
+  std: 8852
+  misc: 

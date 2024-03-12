@@ -1,0 +1,113 @@
+metadata:
+  name: Indora no Hikari
+  altName: インドラの光
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 03:24:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca8883cd1b3013f5435bc5490000ef58.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/74709d5209b17123b9f615e842337810.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/61753db2e2af5d8221ad06fc2fe48f71.jpg
+slug: indora-no-hikari
+releaseInfo:
+  catalogId: KSC-IN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 20, 1987
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-IN
+  backLabelId/Desc: 870417
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/28ea090c68351e20aaf15fc856c75874.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-IN-0 PRG
+  size: 128 KB
+  crc32: 174F860A
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8739
+  estFirstRun: September 1987
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: KX
+  std: 8739
+  misc: 
+- designation: CHR
+  maker: Sony
+  partNumber: CXK5864PN-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7I
+  dateCodeSuffix: 35
+  std: 8736
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 
+- designation: 
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7H
+  dateCodeSuffix: 31
+  std: 8732
+  misc: 

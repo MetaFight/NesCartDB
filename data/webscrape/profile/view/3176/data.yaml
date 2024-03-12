@@ -1,0 +1,96 @@
+metadata:
+  name: Pac-Land
+  altName: パックランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-19 04:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1799
+  - 3176
+  - 3177
+  - 3319
+  additionalImages: 
+slug: pac-land
+releaseInfo:
+  catalogId: NAM-NPL-4500-10
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 21, 1985
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 10
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1799')"
+    filename: /images/175/2abda2b90d704f0797aad37c5fcd8cae.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d2bcdc3917a793555ead2a19db5b4718.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT PL PRG
+  size: 32 KB
+  crc32: 6E53EAA9
+  x: 4
+- type: CHR0
+  label: NAMCOT PL CHR
+  size: 8 KB
+  crc32: 80AE65C2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 89D42098
+  x: 4
+pcbProperties:
+  name: 3305
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3305<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2fe1fb9863e35aa6b3a983ff4ee5e14f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3305<br>Submitted by: bootgod<br>Linked from profile 1577')"
+    filename: /images/175/3d02a9bf10fa8a47857965e1e8638949.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8540 - 8544 (4)
+  estFirstRun: October 1985
+  pcbClass: NAMCOT-3305
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Toshiba
+  partNumber: TMM24256P
+  partNumberSubDetail: 3001
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8540
+  dateCodeSuffix: ABA
+  std: 8540
+  misc: 
+- designation: CH
+  maker: Toshiba
+  partNumber: TMM2464P
+  partNumberSubDetail: 1001
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8540
+  dateCodeSuffix: ADA
+  std: 8540
+  misc: 

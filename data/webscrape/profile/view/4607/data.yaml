@@ -1,0 +1,118 @@
+metadata:
+  name: Mike Tyson's Punch-Out!!
+  altName: マイクタイソン・パンチアウト！！
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2012-03-16 19:16:00
+  moreProfiles:
+  - 3750
+  - 4607
+  relatedProfiles:
+  - 2381
+  - 2445
+  - 2562
+  - 4552
+  - 4322
+  - 4329
+  - 4593
+  - 4554
+  - 155
+  - 317
+  additionalImages: 
+slug: mike-tysons-punch-out
+releaseInfo:
+  catalogId: HVC-PT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HVC-PT
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3750')"
+    filename: /images/175/a221eb8a6e5b6fc1ff6e6f228a6c826e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-PT-0 PRG
+  size: 128 KB
+  crc32: 8DB6D11F
+  x: 4
+- type: CHR0
+  label: NES-PT-0 CHR
+  size: 128 KB
+  crc32: 570B48EA
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 92A2185C
+  x: 4
+pcbProperties:
+  name: HVC-PEEOROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-PEEOROM-02<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/12ef6bb431a3b0c0ec8401943cbaae25.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-PEEOROM-02<br>Submitted by: bootgod<br>Linked from profile 3750')"
+    filename: /images/175/59f49cc683758e2ba67e6626cdcf4330.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8746 - 8747 (2)
+  estFirstRun: November 1987
+  pcbClass: HVC-PEEOROM
+  inesMapper: 9
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: RD387-001
+detailedChipInfo:
+- designation: U1 PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8744
+  dateCodeSuffix: KX
+  std: 8744
+  misc: 
+- designation: U2 CHR ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8746
+  dateCodeSuffix: KY
+  std: 8746
+  misc: 
+- designation: U3 MMC2
+  maker: Panasonic
+  partNumber: RD387-001
+  partNumberSubDetail: 
+  type: Nintendo MMC2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 7N?6
+  dateCodeSuffix: ''
+  std: 8747
+  misc: 

@@ -1,0 +1,119 @@
+metadata:
+  name: 'Family Mahjong II: Shanghai e no Michi'
+  altName: ファミリーマージャンII 上海への道
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-18 05:21:00
+  moreProfiles:
+  - 1581
+  - 2669
+  - 3232
+  - 3233
+  relatedProfiles: []
+  additionalImages: 
+slug: family-mahjong-ii-shanghai-e-no-michi
+releaseInfo:
+  catalogId: NAM-FMII-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 25, 1988
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1581')"
+    filename: /images/175/f1cbf25641d803879f47f92615cfb69a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 3AE06D19
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: BC58C66E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: DD29FD59
+  x: 4
+pcbProperties:
+  name: LROG046-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG046-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a726e864bcd92413cd4ec508c5c00d1d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG046-01<br>Submitted by: bootgod<br>Linked from profile 1581')"
+    filename: /images/175/26940365ea70eac4e55dd735018e05b0.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8838 - 9118 (4)
+  estFirstRun: September 1988
+  pcbClass: NAMCOT-3406
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG046A
+  partNumberSubDetail: FMII
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9118
+  dateCodeSuffix: 5
+  std: 9118
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,122 @@
+metadata:
+  name: Solomon no Kagi
+  altName: ソロモンの鍵
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 18:59:00
+  moreProfiles:
+  - 3398
+  - 3399
+  relatedProfiles:
+  - 2596
+  - 2652
+  - 900
+  additionalImages: 
+slug: solomon-no-kagi
+releaseInfo:
+  catalogId: TCF-SK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 30, 1986
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: TCF-SK
+  backLabelId/Desc: 860410
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3398')"
+    filename: /images/175/da33114972bde0979234e7094d1844a1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 54B0E5DD
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: EBCA054B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: D821A1C6
+  x: 2
+pcbProperties:
+  name: 097-1A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>097-1A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f00e0af2ce97dcd57beb3a4fc8fcd23e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>097-1A<br>Submitted by: bootgod<br>Linked from profile 3353')"
+    filename: /images/175/83625cbe38fd745dd6c07794a1036bd9.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8627 - 8627 (2)
+  estFirstRun: July 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: TCF-SK
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 67
+  dateCodeSuffix: 09
+  std: 8627
+  misc: 12V-AU
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74161
+  type: 74-161 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

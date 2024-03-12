@@ -1,0 +1,117 @@
+metadata:
+  name: 'Magical Taruruuto-kun: Fantastic World!!'
+  altName: まじかるタルるートくん ファンタジックワールド！！
+  variant: (Version 2.0)
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 22:05:00
+  moreProfiles:
+  - 1747
+  - 2244
+  relatedProfiles: []
+  additionalImages: 
+slug: magical-taruruuto-kun-fantastic-world
+releaseInfo:
+  catalogId: BA-MT
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 21, 1991
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Blue
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32a8938bb9d9ddfae6744bfb32fe2ea0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aafe90ad8239254e6569cfc1659712be.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI '91 TARURUTO PRG 2
+  size: 128 KB
+  crc32: E1404F15
+  x: 1
+- type: CHR0
+  label: BANDAI '91 TARURUTO CHR
+  size: 128 KB
+  crc32: 75BFB291
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DCB972CE
+  x: 1
+pcbProperties:
+  name: DRAGON BALL Z-B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DRAGON BALL Z-B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/343558f2810a42bf52050ef7513c77c9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 9116 - 9144 (2)
+  estFirstRun: April 1991
+  pcbClass: BANDAI-LZ93D50+24C01
+  inesMapper: 159
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 24C01, FCG-3
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: E
+  std: 9144
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9143
+  dateCodeSuffix: E
+  std: 9143
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LZ93D50
+  partNumberSubDetail: 
+  type: Bandai FCG-3
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 9124
+  dateCodeSuffix: 5 A
+  std: 9124
+  misc: 
+- designation: 
+  maker: Xicor
+  partNumber: X24C01P
+  partNumberSubDetail: 
+  type: Serial EEPROM
+  typeSubDetail: 1 kb
+  package: DIP-8
+  dateCodePrefix: 121
+  dateCodeSuffix: ''
+  std: 9121
+  misc: 

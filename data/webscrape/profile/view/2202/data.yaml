@@ -1,0 +1,117 @@
+metadata:
+  name: 'Mickey Mouse III: Yume Fuusen'
+  altName: ミッキーマウスⅢ　夢ふうせん
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 05:29:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mickey-mouse-iii-yume-fuusen
+releaseInfo:
+  catalogId: KTB-MD
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 30, 1992
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KTB-MD
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7cd2f4a831a4573be71af2d296fc3544.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KTB-MD-0 PRG
+  size: 128 KB
+  crc32: 8635FED1
+  x: 1
+- type: CHR0
+  label: KTB-MD-0 CHR
+  size: 128 KB
+  crc32: 5621B02C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 57D162F1
+  x: 1
+pcbProperties:
+  name: HVC-TSROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/73392b628e6269932ccc7c18567e3973.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 3526')"
+    filename: /images/175/5299001d10a3a3e357b683d303029451.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9236
+  estFirstRun: September 1992
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: DA
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9234
+  dateCodeSuffix: E
+  std: 9234
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 5A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9236
+  dateCodeSuffix: E
+  std: 9236
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9217
+  dateCodeSuffix: 3 A
+  std: 9217
+  misc: 
+- designation: U4 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9223
+  dateCodeSuffix: EJ
+  std: 9223
+  misc: 

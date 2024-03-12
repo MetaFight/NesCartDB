@@ -1,0 +1,96 @@
+metadata:
+  name: Zippy Race
+  altName: ジッピーレース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 05:07:00
+  moreProfiles:
+  - 2257
+  - 3127
+  - 3128
+  - 3860
+  relatedProfiles: []
+  additionalImages: 
+slug: zippy-race
+releaseInfo:
+  catalogId: IF-01
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 18, 1985
+  publisher: Irem
+  developer: Irem
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original wo/ LED
+  frontLabelId: IF-1
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/448bf2524360a777f6d0ec9fff22091d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3801')"
+    filename: /images/175/21c8d04e47a09a9a80a44bae17527b76.jpg
+romDetails:
+- type: PRG0
+  label: IF-01 P
+  size: 16 KB
+  crc32: E16BB5FE
+  x: 4
+- type: CHR0
+  label: IF-01 C
+  size: 8 KB
+  crc32: 45ABD80E
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E492D45A
+  x: 4
+pcbProperties:
+  name: IREM-01-H
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>IREM-01-H<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a2e6b6253879d3b9d71201f0253aa460.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8517 - 8936 (4)
+  estFirstRun: April 1985
+  pcbClass: IREM-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: 
+  maker: OKI
+  partNumber: 
+  partNumberSubDetail: M38128
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 99
+  dateCodeSuffix: 09
+  std: 8936
+  misc: 
+- designation: 
+  maker: OKI
+  partNumber: 
+  partNumberSubDetail: M3864
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 99
+  dateCodeSuffix: 02
+  std: 8936
+  misc: 

@@ -1,0 +1,116 @@
+metadata:
+  name: Slalom
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-01 00:11:00
+  moreProfiles:
+  - 285
+  - 1358
+  - 4242
+  relatedProfiles:
+  - 2140
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e99e84d3c281b53c2538c37093da3af.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32e785ad24f8facf2f3699e02d7312cc.jpg
+slug: slalom
+releaseInfo:
+  catalogId: NES-SL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1987
+  publisher: Nintendo
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4fe703e341c444742c08a2ec83d2d1d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/44aad6f99445464642a1ff50086c42cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-SL-0 PRG
+  size: 32 KB
+  crc32: B7F485D8
+  x: 4
+- type: CHR0
+  label: NES-SL-0 CHR
+  size: 8 KB
+  crc32: 2F836491
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 86670C93
+  x: 4
+pcbProperties:
+  name: NES-NROM-256-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/494db71c9608194285d5cabb0902cecb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-02<br>Submitted by: Kinopio<br>Linked from profile 2082')"
+    filename: /images/175/0ea8c5a8b89e87fd3f22e7b063eea033.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8652 - 8741 (2)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: E4
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8652
+  dateCodeSuffix: E
+  std: 8652
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 82
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8652
+  dateCodeSuffix: B
+  std: 8652
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8644
+  dateCodeSuffix: A
+  std: 8644
+  misc: 

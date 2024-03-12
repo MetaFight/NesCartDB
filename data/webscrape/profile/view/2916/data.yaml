@@ -1,0 +1,77 @@
+metadata:
+  name: Yoshi's Cookie
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-10-24 05:46:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2156
+  - 2636
+  - 251
+  additionalImages: 
+slug: yoshis-cookie
+releaseInfo:
+  catalogId: NES-CH-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: April 1993
+  publisher: Nintendo
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CH-CAN-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: foldor<br>Linked from profile 0')"
+    filename: /images/175/027bf20f40955b2a19a61d83868ead68.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: foldor<br>Linked from profile 0')"
+    filename: /images/175/b5ba2cc06f3a489735e5f2e90ac90657.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: foldor<br>Linked from profile 0')"
+    filename: /images/175/4be8026f71e0450e39142e8479826a93.jpg
+romDetails:
+- type: PRG0
+  label: NES-CH-0 PRG
+  size: 128 KB
+  crc32: 1CBA7EB4
+  x: 2
+- type: CHR0
+  label: NES-CH-0 CHR
+  size: 64 KB
+  crc32: 19A70DDA
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 52B58732
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: foldor<br>Linked from profile 0')"
+    filename: /images/175/073c7051b2780107999dbbc7928a6378.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: foldor<br>Linked from profile 0')"
+    filename: /images/175/fb1520b059d76bec2b233e6f604ddf9b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

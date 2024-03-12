@@ -1,0 +1,103 @@
+metadata:
+  name: Pescatore
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-22 21:35:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: pescatore
+releaseInfo:
+  catalogId: UNR-PS-JPN
+  region: Japan (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Sunsoft
+  developer: Tierheit
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: 8/22 1
+  size: 128 KB
+  crc32: 5D40C08A
+  x: 1
+pcbProperties:
+  name: HVC-UNEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sony
+  partNumber: CXK27C1000DQ-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8912
+  dateCodeSuffix: T66
+  std: 8912
+  misc: 
+- designation: 
+  maker: Signetics
+  partNumber: 74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8413
+  dateCodeSuffix: ''
+  std: 8413
+  misc: 733W1729L1
+- designation: 
+  maker: Samsung
+  partNumber: KS74AHCT32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 637
+  dateCodeSuffix: ''
+  std: 8637
+  misc: 

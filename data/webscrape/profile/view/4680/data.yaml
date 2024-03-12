@@ -1,0 +1,111 @@
+metadata:
+  name: 'Hiryuu no Ken: Ougi no Sho'
+  altName: 飛龍の拳 奥義の書
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2013-02-10 21:49:00
+  moreProfiles:
+  - 1719
+  - 4679
+  - 4680
+  relatedProfiles:
+  - 917
+  additionalImages: 
+slug: hiryuu-no-ken-ougi-no-sho
+releaseInfo:
+  catalogId: NFC-HR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 14, 1987
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CBF-HR
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/730b1ef082af5872ae8d0cb1013c79d4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: NFC-HR-0 PRG
+  size: 128 KB
+  crc32: 0B8E8649
+  x: 3
+pcbProperties:
+  name: HVC-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8704 - 8943 (3)
+  estFirstRun: January 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0206
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9K4
+  dateCodeSuffix: A2
+  std: 8943
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: D4364C-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8936
+  dateCodeSuffix: M5019
+  std: 8936
+  misc: 
+- designation: U3 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8927
+  dateCodeSuffix: HnS
+  std: 8927
+  misc: 650560T
+- designation: U4 HC32
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8935
+  dateCodeSuffix: HnS
+  std: 8935
+  misc: 651510T

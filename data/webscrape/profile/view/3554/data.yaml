@@ -1,0 +1,109 @@
+metadata:
+  name: 'Keiba Simulation: Honmei'
+  altName: 競馬シミュレーション本命
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-01 03:08:00
+  moreProfiles:
+  - 3554
+  - 3555
+  relatedProfiles: []
+  additionalImages: 
+slug: keiba-simulation-honmei
+releaseInfo:
+  catalogId: NBF-KH (08)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 28, 1989
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-KH
+  secondaryId: 08
+  backLabelId/Desc: NBF-KH
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/431b6b3f0af66ce307d08cf9404246be.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NBF-KH-0 PRG
+  size: 128 KB
+  crc32: A9065101
+  x: 2
+- type: CHR0
+  label: NBF-KH-0 CHR
+  size: 128 KB
+  crc32: A7BF4BF0
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 93A7D26C
+  x: 2
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9858ed0f74e5fc8e455aab8316b3f504.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e47f7cbfef953cb325053380b2a37efe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8908 - 8922 (2)
+  estFirstRun: February 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: PX
+  std: 8908
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8907
+  dateCodeSuffix: EY
+  std: 8907
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8903
+  dateCodeSuffix: KP
+  std: 8903
+  misc: 

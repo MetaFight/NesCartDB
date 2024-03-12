@@ -1,0 +1,133 @@
+metadata:
+  name: Over Horizon
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-11 04:41:00
+  moreProfiles:
+  - 2146
+  - 4377
+  relatedProfiles: []
+  additionalImages: 
+slug: over-horizon
+releaseInfo:
+  catalogId: NES-Z6-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: September 13, 1992
+  publisher: Takara
+  developer: Pixel
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Z6-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2146')"
+    filename: /images/175/7547dc5c8c2e3f93dd21e55520fb5ee3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2146')"
+    filename: /images/175/cc57fc2494b0058e4dcd558fd9785eb3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-Z6-0 PRG
+  size: 128 KB
+  crc32: 9D07708D
+  x: 2
+- type: CHR0
+  label: PAL-Z6-0 CHR
+  size: 128 KB
+  crc32: CFF1A7BF
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9237B447
+  x: 2
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a75de747a4a076a384e8ccd2ea1ebe22.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9238 - 9238 (2)
+  estFirstRun: September 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: E2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9237
+  dateCodeSuffix: E
+  std: 9237
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 6A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9238
+  dateCodeSuffix: D
+  std: 9238
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9231
+  dateCodeSuffix: C
+  std: 9231
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9219
+  dateCodeSuffix: 3 A
+  std: 9219
+  misc: 
+- designation: U5 W-RAM
+  maker: Sony
+  partNumber: CXK5864BPX-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 225
+  dateCodeSuffix: A71X
+  std: 9225
+  misc: 

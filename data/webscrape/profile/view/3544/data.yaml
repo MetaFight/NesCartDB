@@ -1,0 +1,99 @@
+metadata:
+  name: Donkey Kong 3
+  altName: ドンキーコング３
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-28 23:32:00
+  moreProfiles:
+  - 3397
+  - 3544
+  - 3708
+  relatedProfiles:
+  - 4537
+  - 1105
+  additionalImages: 
+slug: donkey-kong-3
+releaseInfo:
+  catalogId: HVC-DT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 4, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Red
+  formFactor: Small
+  frontLabelId: HVC-DT
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3397')"
+    filename: /images/175/a31a2da60a19fbfcf6d741dd95ddfe9b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-DT-0 PRG
+  size: 16 KB
+  crc32: 5EF4F30C
+  x: 6
+- type: CHR0
+  label: HVC-DT-0 CHR
+  size: 8 KB
+  crc32: 85D06C57
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: B3D74C0D
+  x: 6
+pcbProperties:
+  name: HVC-SROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56f8fcc9c1e733423e9bcb2095852af3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb5e1beb787d77a81b57843b3084ce61.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8430 - 8430 (2)
+  estFirstRun: July 1984
+  pcbClass: HVC-SROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1228
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 430
+  dateCodeSuffix: VA 3785
+  std: 8430
+  misc: RP23128 0316
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: S8
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47C
+  dateCodeSuffix: 5
+  std: 8429
+  misc: 

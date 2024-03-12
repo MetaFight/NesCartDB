@@ -1,0 +1,127 @@
+metadata:
+  name: Schtroumpfs, Les
+  altName: The Smurfs
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-06-09 21:09:00
+  moreProfiles:
+  - 1615
+  - 1933
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-SF-FRA<br>Submitted by: piteta<br>Linked from profile 1933')"
+    filename: /images/175/ef03c898e78c938bebcf23d4f046ad9b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-SF-FRA<br>Submitted by: piteta<br>Linked from profile 1933')"
+    filename: /images/175/c63fa90e7b26a580c8774ebba01ff81a.jpg
+slug: schtroumpfs-les
+releaseInfo:
+  catalogId: NES-SF-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1994
+  publisher: Infogrames
+  developer: Bit Managers
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SF-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/094a7e706e90da07dd7ee99e00f5fd49.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4743')"
+    filename: /images/175/c9d47ebdc2990bb39cb5d01eeed2fe8c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-SF-0 PRG
+  size: 128 KB
+  crc32: 4022C94E
+  x: 2
+pcbProperties:
+  name: NES-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9445 - 9508 (2)
+  estFirstRun: November 1994
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1T
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9508
+  dateCodeSuffix: E
+  std: 9508
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9234
+  dateCodeSuffix: EJ
+  std: 9234
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9505
+  dateCodeSuffix: B
+  std: 9505
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9343
+  dateCodeSuffix: ''
+  std: 9343
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9338
+  dateCodeSuffix: ''
+  std: 9338
+  misc: 

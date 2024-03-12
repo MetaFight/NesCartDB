@@ -1,0 +1,94 @@
+metadata:
+  name: Mashou
+  altName: 魔鐘
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 01:28:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mashou
+releaseInfo:
+  catalogId: IF-05
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 15, 1986
+  publisher: Irem
+  developer: Lenar
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original w/ LED
+  frontLabelId: IF-05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0004e87c49ba7880f619f019fbe364f7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a0fd384d189cf553f253d94086aed093.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23e78231940df471c38a175299852918.jpg
+romDetails:
+- type: PRG0
+  label: IREM-MS
+  size: 128 KB
+  crc32: A21E675C
+  x: 1
+pcbProperties:
+  name: IREM-I-IM
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8644
+  estFirstRun: November 1986
+  pcbClass: IREM-BNROM
+  inesMapper: 34
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sony
+  partNumber: CXK381000
+  partNumberSubDetail: 003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 6K
+  dateCodeSuffix: 16
+  std: 8644
+  misc: 
+- designation: 
+  maker: Sony
+  partNumber: CXK5864PN-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 5K
+  dateCodeSuffix: 10
+  std: 8544
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 6H2
+  dateCodeSuffix: 1
+  std: 8633
+  misc: 

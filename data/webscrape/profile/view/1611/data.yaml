@@ -1,0 +1,133 @@
+metadata:
+  name: Nintendo World Cup
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-06-02 04:49:00
+  moreProfiles:
+  - 1611
+  - 4326
+  - 4327
+  relatedProfiles:
+  - 1983
+  - 2075
+  - 2237
+  - 500
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-XZ-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/44045dfdd222182ca6d564d41cd93f2d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-XZ-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/047d5c236468fb99ee3a8da22ed2e860.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-XZ-SCN-1<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d01589b729f028f0f4ddb0a492c0ff38.jpg
+slug: nintendo-world-cup
+releaseInfo:
+  catalogId: NES-XZ-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: June 27, 1991
+  publisher: Nintendo
+  developer: Technos
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XZ-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1d52e5b6dcc105dcfa3ec567c19ea892.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ef6c442d3dbed5552ba6e0aa7cb9fd98.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-XZ-0 PRG
+  size: 128 KB
+  crc32: 725B0234
+  x: 5
+- type: CHR0
+  label: NES-XZ-0 CHR
+  size: 128 KB
+  crc32: 92477D53
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8DA6667D
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/43a88facd89f25ad6667d9182a59e8e0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/166736c0b4c2520e9ca6a7d239256289.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9114 - 9114 (3)
+  estFirstRun: April 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6619
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1CM
+  dateCodeSuffix: 41
+  std: 9111
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0098
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1DB
+  dateCodeSuffix: 4A
+  std: 9114
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9047
+  dateCodeSuffix: A
+  std: 9047
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9038
+  dateCodeSuffix: KP045
+  std: 9038
+  misc: 

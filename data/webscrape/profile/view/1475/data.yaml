@@ -1,0 +1,114 @@
+metadata:
+  name: Mach Rider
+  altName: マッハライダー
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 04:06:00
+  moreProfiles:
+  - 1475
+  - 1625
+  - 3524
+  - 3525
+  relatedProfiles:
+  - 2376
+  - 2055
+  - 1991
+  - 611
+  additionalImages: 
+slug: mach-rider
+releaseInfo:
+  catalogId: HVC-MR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: HVC-MR
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4093d409f8eef7e577c7274617169381.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 3ACD4BF1
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 33A2B41A
+  x: 13
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 38810A91
+  x: 2
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de0e4a7b7bb75d39f7fcbc1f55f0115a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3376')"
+    filename: /images/175/a9cbe6ee6c764c7058c51f0924fd3029.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8546 - 8548 (4)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-MR
+  partNumberSubDetail: A
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Z
+  dateCodeSuffix: 02
+  std: 8548
+  misc: 0H-K2
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

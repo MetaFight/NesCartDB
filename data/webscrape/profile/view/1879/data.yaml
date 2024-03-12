@@ -1,0 +1,127 @@
+metadata:
+  name: Shadow Warriors
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 18:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1700
+  - 2505
+  - 2014
+  - 116
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-66-UKV<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/25e0c8994d2724535cf5216968ff13d7.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-66-UKV<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b0000d604ae046a3a32b02da2c5d58b8.jpg
+slug: shadow-warriors
+releaseInfo:
+  catalogId: NES-66-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: August 15, 1991
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-66-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7cf2af98ee0246309626f6f219c9d10e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-66-0 PRG
+  size: 128 KB
+  crc32: D7679A0E
+  x: 4
+- type: CHR0
+  label: PAL-66-0 CHR
+  size: 128 KB
+  crc32: 5C5C9DC7
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 709C9399
+  x: 4
+pcbProperties:
+  name: NES-SLRROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLRROM-01<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/172c3d581c9f32359e0223534b3690fc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLRROM-01<br>Submitted by: Kinopio<br>Linked from profile 2496')"
+    filename: /images/175/0b514b57a136d9cdffabfb3a9b099769.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9128
+  estFirstRun: July 1991
+  pcbClass: NES-SLRROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 38
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9128
+  dateCodeSuffix: E
+  std: 9128
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 03
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9127
+  dateCodeSuffix: D
+  std: 9127
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9128
+  dateCodeSuffix: A
+  std: 9128
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9050
+  dateCodeSuffix: B3019
+  std: 9050
+  misc: 

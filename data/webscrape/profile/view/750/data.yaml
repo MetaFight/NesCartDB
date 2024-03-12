@@ -1,0 +1,126 @@
+metadata:
+  name: Sky Shark
+  altName: 
+  variant: (Revision 0A)
+  submittedBy: bootgod
+  submittedOn: 2006-04-12 02:45:00
+  moreProfiles:
+  - 439
+  - 750
+  - 2540
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-2S-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6a736d553c4ec265fcfb7e07e963610.jpg
+slug: sky-shark
+releaseInfo:
+  catalogId: NES-2S-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Taito
+  developer: Toaplan
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2S-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 439')"
+    filename: /images/175/276a7f23910257a79eb6cf30a13e9161.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 439')"
+    filename: /images/175/9ff937471a63e2c15e10ae688e4f6542.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-2S-0 PRG
+  size: 64 KB
+  crc32: F76C815E
+  x: 4
+- type: CHR0
+  label: NES-2S-0 CHR
+  size: 128 KB
+  crc32: 57CD5C0C
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 9FFE2F55
+  x: 4
+pcbProperties:
+  name: NES-SCROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SCROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7f1da0e610078d0ee51c52c8d9cc3e60.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934 - 8938 (3)
+  estFirstRun: August 1989
+  pcbClass: NES-SCROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 18
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8933
+  dateCodeSuffix: E
+  std: 8933
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 7L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8934
+  dateCodeSuffix: E
+  std: 8934
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8936
+  dateCodeSuffix: 3 BA
+  std: 8936
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8934
+  dateCodeSuffix: 1 A
+  std: 8934
+  misc: 

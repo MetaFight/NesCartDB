@@ -1,0 +1,111 @@
+metadata:
+  name: 'Saint Seiya: Ougon Densetsu Kanketsu-hen'
+  altName: 聖闘士星矢　黄金伝説　完結編
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-06 05:56:00
+  moreProfiles:
+  - 2203
+  - 2310
+  - 3595
+  - 3766
+  relatedProfiles:
+  - 2406
+  additionalImages: 
+slug: saint-seiya-ougon-densetsu-kanketsu-hen
+releaseInfo:
+  catalogId: SHI-OK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 30, 1988
+  publisher: Shinsei
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Sky Blue
+  formFactor: Small
+  frontLabelId: SHI-OK
+  backLabelId/Desc: SHI-OK
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2203')"
+    filename: /images/175/dfbc6349855cb77b7c428826ffb87e12.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-OK-0 PRG
+  size: 128 KB
+  crc32: BB375ED2
+  x: 4
+- type: CHR0
+  label: SHI-OK-0 CHR
+  size: 128 KB
+  crc32: 311FB99F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9561798D
+  x: 4
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1f4f56e4946879a7a01331287583ecf1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8818 - 8824 (4)
+  estFirstRun: May 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8816
+  dateCodeSuffix: EX
+  std: 8816
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8816
+  dateCodeSuffix: KY
+  std: 8816
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8818
+  dateCodeSuffix: A
+  std: 8818
+  misc: 

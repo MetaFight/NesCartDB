@@ -1,0 +1,82 @@
+metadata:
+  name: RoboCop 2
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-04-21 20:23:00
+  moreProfiles:
+  - 620
+  - 815
+  - 1280
+  relatedProfiles:
+  - 4374
+  - 4064
+  - 1881
+  additionalImages: 
+slug: robocop-2
+releaseInfo:
+  catalogId: NES-2C-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1991
+  publisher: Data East
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2C-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 27
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 620')"
+    filename: /images/175/e6538d7a8ef891db8ced60ddbce6a9b7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 620')"
+    filename: /images/175/222f9b792dba9c313bb49cc08f3d58e8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-2C-1 PRG
+  size: 128 KB
+  crc32: 3951AFEC
+  x: 2
+- type: CHR0
+  label: NES-2C-0 CHR
+  size: 128 KB
+  crc32: 086FBCB2
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 990985C0
+  x: 2
+pcbProperties:
+  name: NES-SLRROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9113 - 9122 (2)
+  estFirstRun: March 1991
+  pcbClass: NES-SLRROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

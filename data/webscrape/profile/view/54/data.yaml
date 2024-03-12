@@ -1,0 +1,148 @@
+metadata:
+  name: Dragon Warrior
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2005-10-02 02:43:00
+  moreProfiles:
+  - 54
+  - 279
+  - 714
+  - 2760
+  - 764
+  - 1068
+  - 3064
+  relatedProfiles:
+  - 1509
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-DQ-USA<br>Submitted by: bootgod<br>Linked from profile 3064')"
+    filename: /images/175/a18bc0df196032298732ec4aeb1584ee.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-DQ-USA<br>Submitted by: bootgod<br>Linked from profile 3064')"
+    filename: /images/175/24f2b51f1ffc1d49d509c2289ebae0a7.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-DQ-USA-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/981be25695807c2e497413f9f4884f81.jpg
+  - toolTipJS: "ddrivetip('Insert<br>NES-DQA-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb0da88ea52814e600bd77fbe8e647c8.jpg
+slug: dragon-warrior
+releaseInfo:
+  catalogId: NES-DQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1989
+  publisher: Nintendo
+  developer: Chunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DQ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 01
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/364fc43938266f5d50a479a45ab09faa.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 279')"
+    filename: /images/175/fdfafad66b6a235591bbcf7a8542d02d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-DQ-1 PRG
+  size: 64 KB
+  crc32: C38B1AAE
+  x: 6
+- type: CHR0
+  label: NES-DQ-0 CHR
+  size: 16 KB
+  crc32: 6F6ACAD9
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 80 KB
+  crc32: 2545214C
+  x: 6
+pcbProperties:
+  name: NES-SAROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SAROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b06a86edc025d61b6d427deced879f0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8928 - 8949 (5)
+  estFirstRun: July 1989
+  pcbClass: NES-SAROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 24
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: E
+  std: 8944
+  misc: 
+- designation: U2 CHR
+  maker: OKI
+  partNumber: M38128B
+  partNumberSubDetail: 20
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9Y
+  dateCodeSuffix: 43
+  std: 8944
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8949
+  dateCodeSuffix: 5 AA
+  std: 8949
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8949
+  dateCodeSuffix: 3 AA
+  std: 8949
+  misc: 
+- designation: U5 W-RAM
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8946
+  dateCodeSuffix: KT24
+  std: 8946
+  misc: L

@@ -1,0 +1,124 @@
+metadata:
+  name: R.C. Pro-Am
+  altName: 
+  variant: (Revision A)
+  submittedBy: _zane
+  submittedOn: 2007-12-29 21:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1614
+  - 4715
+  - 24
+  additionalImages: 
+slug: rc-pro-am
+releaseInfo:
+  catalogId: NES-PM-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: November 15, 1988
+  publisher: Nintendo
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PM-CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 08
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/69ec62a6d14a17411f174f366248c3c9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/c5f7aedd80773ab29a4a2285630a5803.jpg
+romDetails:
+- type: PRG0
+  label: NES-PM-1 PRG
+  size: 32 KB
+  crc32: 82CFDE25
+  x: 7
+- type: CHR0
+  label: NES-PM-0 CHR
+  size: 32 KB
+  crc32: 83C90D47
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: AAED295C
+  x: 6
+pcbProperties:
+  name: NES-SEROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-02<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/23c5d525d0116c0fda43e5b4d9dda0db.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-02<br>Submitted by: Skrybe<br>Linked from profile 4731')"
+    filename: /images/175/8ca873d44724c6112a3410a2b5978a0c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8849
+  estFirstRun: December 1988
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: DY
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8846
+  dateCodeSuffix: B
+  std: 8846
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: HA
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: B
+  std: 8847
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8849
+  dateCodeSuffix: 1 A
+  std: 8849
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8842
+  dateCodeSuffix: 1 AB
+  std: 8842
+  misc: 

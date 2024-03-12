@@ -1,0 +1,115 @@
+metadata:
+  name: Captain Tsubasa
+  altName: キャプテン翼
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 02:45:00
+  moreProfiles:
+  - 1463
+  - 2748
+  - 2340
+  - 3609
+  - 3610
+  - 3700
+  relatedProfiles:
+  - 1858
+  - 1048
+  - 293
+  additionalImages: 
+slug: captain-tsubasa
+releaseInfo:
+  catalogId: TCF-TP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 28, 1988
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange-Red
+  formFactor: Small
+  frontLabelId: TCF-TP
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5387c678cf34a57cab3dfd6707180dbe.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-TP-0 PRG
+  size: 128 KB
+  crc32: 92873F0E
+  x: 6
+- type: CHR0
+  label: TCF-TP-0 CHR
+  size: 128 KB
+  crc32: 462F6575
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F3F1269D
+  x: 6
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3a67c46c8ab53586f8fd719af156e0a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8814 - 8837 (6)
+  estFirstRun: April 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: EX
+  std: 8814
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8812
+  dateCodeSuffix: KY
+  std: 8812
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8817
+  dateCodeSuffix: A
+  std: 8817
+  misc: 

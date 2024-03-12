@@ -1,0 +1,207 @@
+metadata:
+  name: Maxi 15
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-13 04:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1362
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/70e201ead92ece4d9b641dc3c7355d03.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b229a5f20b4e5345ca6051b4f1fd6c4e.jpg
+slug: maxi-15
+releaseInfo:
+  catalogId: HES-MG
+  region: Australia (PAL)
+  class: Unlicensed  » Multi-cart
+  releaseDate: November 8, 1992
+  publisher: HES
+  developer: AVE
+  players: 2
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: HES
+  color: Black
+  formFactor: Pass-Thru
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d43e55ac70750b7a9237c829ac608c70.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PGR15
+  size: 512 KB
+  crc32: 5C0E2F89
+  x: 1
+- type: CHR0
+  label: CHR15
+  size: 512 KB
+  crc32: 00232705
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 1024 KB
+  crc32: 93484CC9
+  x: 1
+pcbProperties:
+  name: HESI-992
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HESI-992<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/25db88bf79b1d154540199fc4938847c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: HES
+  manufacturer: Not Specified
+  mfgRange: 9249
+  estFirstRun: December 1992
+  pcbClass: MLT-MAXI15
+  inesMapper: 234
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 4053, 74xx04, 74xx08, 74xx138, 74xx138, 74xx175, 74xx273, 74xx30, 74xx32, 74xx32
+detailedChipInfo:
+- designation: U1 CHR
+  maker: __Unknown
+  partNumber: 30523
+  partNumberSubDetail: 60
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U11 138
+  maker: ST Micro
+  partNumber: T74LS138B1
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9135
+  dateCodeSuffix: 9
+  std: 9135
+  misc: 
+- designation: U12 175
+  maker: ST Micro
+  partNumber: T74LS175B1
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9032
+  dateCodeSuffix: 9
+  std: 9032
+  misc: 
+- designation: U13 138
+  maker: ST Micro
+  partNumber: T74LS138B1
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9135
+  dateCodeSuffix: 9
+  std: 9135
+  misc: 
+- designation: U14 4053
+  maker: Phillips
+  partNumber: HEF4053BP
+  partNumberSubDetail: 
+  type: 4053
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9245
+  dateCodeSuffix: Hnn
+  std: 9245
+  misc: 839180T
+- designation: U15 08
+  maker: Phillips
+  partNumber: PC74HC08P
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9245
+  dateCodeSuffix: Hnn
+  std: 9245
+  misc: 835620T
+- designation: U2 PRG
+  maker: __Unknown
+  partNumber: 30523
+  partNumberSubDetail: 57
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5 04
+  maker: Phillips
+  partNumber: PC74HC04P
+  partNumberSubDetail: 
+  type: 74-04 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9245
+  dateCodeSuffix: Hnn
+  std: 9245
+  misc: 839580T
+- designation: U6 273
+  maker: Zytrex
+  partNumber: ZX74HCT273-2N
+  partNumberSubDetail: 
+  type: 74-273 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8420
+  dateCodeSuffix: ''
+  std: 8420
+  misc: 
+- designation: U7 30
+  maker: Phillips
+  partNumber: PC74HCT30P
+  partNumberSubDetail: 
+  type: 74-30 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9249
+  dateCodeSuffix: Hnn
+  std: 9249
+  misc: 818940T
+- designation: U8 32
+  maker: Phillips
+  partNumber: PC74HCT32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9245
+  dateCodeSuffix: Hnn
+  std: 9245
+  misc: 801890T
+- designation: U9 32
+  maker: Phillips
+  partNumber: PC74HCT32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9245
+  dateCodeSuffix: Hnn
+  std: 9245
+  misc: 801890T

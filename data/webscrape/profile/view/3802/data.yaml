@@ -1,0 +1,104 @@
+metadata:
+  name: 'Dragon Scroll: Yomigaerishi Maryuu'
+  altName: ドラゴンスクロール 甦りし魔竜
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-26 19:26:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: dragon-scroll-yomigaerishi-maryuu
+releaseInfo:
+  catalogId: KON-RC823
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 4, 1987
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC823
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d89ad0f134965a541dbd8f310197d83.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c86d33aaa3d3cc775b5da957ec6b8b2f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC823J0P
+  size: 128 KB
+  crc32: F60F6667
+  x: 1
+- type: CHR0
+  label: RC823J0C
+  size: 128 KB
+  crc32: 46CC6146
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AC9895CC
+  x: 1
+pcbProperties:
+  name: 350603
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>350603<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1e69c96f030e7e123a193377daecbc66.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>350603<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a76315c6a4fd6aed999fd8ed663b3ec.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8747
+  estFirstRun: November 1987
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: D
+  std: 8747
+  misc: 
+- designation: IC2
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: D
+  std: 8747
+  misc: 
+- designation: IC3
+  maker: Fujitsu
+  partNumber: 051705 VRC II
+  partNumberSubDetail: 
+  type: Konami VRC II
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8725
+  dateCodeSuffix: Z16
+  std: 8725
+  misc: 

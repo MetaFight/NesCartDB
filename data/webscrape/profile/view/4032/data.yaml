@@ -1,0 +1,107 @@
+metadata:
+  name: Matendouji
+  altName: 魔天童子
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-01-17 04:35:00
+  moreProfiles: []
+  relatedProfiles:
+  - 663
+  additionalImages: 
+slug: matendouji
+releaseInfo:
+  catalogId: BTC-7M
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 24, 1990
+  publisher: Bothtec (Quest)
+  developer: Bothtec (Quest)
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BTC-7M
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0069da56be7aae943a9c13cfce651a21.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: BTC-7M-0 PRG
+  size: 128 KB
+  crc32: 8685F366
+  x: 1
+- type: CHR0
+  label: BTC-7M-0 CHR
+  size: 128 KB
+  crc32: E87AA5EF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F2594374
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3941ad6179dd2beccc7ba449da729be8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9029
+  estFirstRun: July 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S15
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9028
+  dateCodeSuffix: EX058
+  std: 9028
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R04
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9028
+  dateCodeSuffix: EY014
+  std: 9028
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9029
+  dateCodeSuffix: 1 DA
+  std: 9029
+  misc: 

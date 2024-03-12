@@ -1,0 +1,117 @@
+metadata:
+  name: 'Hokkaidou Rensa Satsujin: Okhotsu ni Shoyu'
+  altName: 北海道連鎖殺人 オホーツクに消ゆ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-22 22:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hokkaidou-rensa-satsujin-okhotsu-ni-shoyu
+releaseInfo:
+  catalogId: HSP-07
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 27, 1987
+  publisher: Login Soft
+  developer: Pax Softnica
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-07
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc36931a3f7a8ea66f139950549edbb5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-07-0 PR1
+  size: 128 KB
+  crc32: 803519D0
+  x: 1
+- type: PRG1
+  label: HSP-07-0 PR2
+  size: 128 KB
+  crc32: 51867A62
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 992AF039
+  x: 1
+pcbProperties:
+  name: HVC-SMROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SMROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7cba1cecf938cb3a6f685d91cb4cf552.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SMROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbefa667bc635079766841df82626a9d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8723
+  estFirstRun: June 1987
+  pcbClass: HVC-SMROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8722
+  dateCodeSuffix: KY
+  std: 8722
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8722
+  dateCodeSuffix: KY
+  std: 8722
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8719
+  dateCodeSuffix: MX
+  std: 8719
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8723
+  dateCodeSuffix: A
+  std: 8723
+  misc: 

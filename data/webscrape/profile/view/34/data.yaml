@@ -1,0 +1,121 @@
+metadata:
+  name: 'Cybernoid: The Fighting Machine'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-09-30 04:13:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: cybernoid-the-fighting-machine
+releaseInfo:
+  catalogId: NES-YN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Acclaim
+  developer: Hewson
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YN-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aca78859b5bcd3e3bd43d74b31708a73.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0470aea8d1de0bf21c679ff859311a21.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YN-0 PRG
+  size: 32 KB
+  crc32: 34D5FC6E
+  x: 2
+- type: CHR0
+  label: NES-YN-0 CHR
+  size: 32 KB
+  crc32: 89E13D77
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: AC8DCDEA
+  x: 2
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e04f46c355c1b2727b01596251387c95.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-06<br>Submitted by: Kinopio<br>Linked from profile 2416')"
+    filename: /images/175/6526643e34551950de7631f5d758442f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8947
+  estFirstRun: November 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2836
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9K3
+  dateCodeSuffix: 12
+  std: 8942
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 4D
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: B
+  std: 8947
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8947
+  dateCodeSuffix: 1 AA
+  std: 8947
+  misc: 
+- designation: U4 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8935
+  dateCodeSuffix: HnS
+  std: 8935
+  misc: 647580T

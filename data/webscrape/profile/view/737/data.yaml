@@ -1,0 +1,116 @@
+metadata:
+  name: Soccer
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 04:59:00
+  moreProfiles:
+  - 737
+  - 766
+  - 1172
+  relatedProfiles:
+  - 2378
+  - 2498
+  - 1966
+  - 1451
+  - 1972
+  additionalImages: 
+slug: soccer
+releaseInfo:
+  catalogId: NES-SC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a35eeb25aa05d787d15419a066ba997.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56e7b0cf55172383c07578996bc6e8a8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-SC-0 PRG
+  size: 32 KB
+  crc32: 32E37DCB
+  x: 13
+- type: CHR0
+  label: HVC-SC-0 CHR
+  size: 8 KB
+  crc32: 307B19AB
+  x: 19
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 657F7875
+  x: 13
+pcbProperties:
+  name: NES-NROM-256-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c23f0b35cba874b7a20723bd8e1479b8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-02<br>Submitted by: Kinopio<br>Linked from profile 2082')"
+    filename: /images/175/0ea8c5a8b89e87fd3f22e7b063eea033.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8717
+  estFirstRun: April 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0050
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7D2
+  dateCodeSuffix: A0
+  std: 8716
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 16
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8717
+  dateCodeSuffix: E
+  std: 8717
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8716
+  dateCodeSuffix: A
+  std: 8716
+  misc: 

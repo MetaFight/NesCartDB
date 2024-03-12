@@ -1,0 +1,130 @@
+metadata:
+  name: Blaster Master
+  altName: 
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-15 22:13:00
+  moreProfiles:
+  - 168
+  - 231
+  - 448
+  - 796
+  - 4615
+  relatedProfiles:
+  - 1873
+  - 1909
+  - 3923
+  - 2365
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>* NES-VM-USA<br>Submitted by: bootgod<br>Linked from profile 168')"
+    filename: /images/175/a617ab46a7d1d901ba7168b92feda016.jpg
+slug: blaster-master
+releaseInfo:
+  catalogId: NES-VM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/b94fae06bb4e68422c22d879fd93be90.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PRG
+  size: 128 KB
+  crc32: 7705CB0B
+  x: 1
+- type: CHR0
+  label: CHR
+  size: 128 KB
+  crc32: 0908CA25
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B683A856
+  x: 1
+pcbProperties:
+  name: NES-SKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/7139f430505e08a773bc8df1216c7f56.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 4623')"
+    filename: /images/175/125e843dbf8707b6c3d904feb8b125c8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919 - 8953 (3)
+  estFirstRun: May 1989
+  pcbClass: NES-SKEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC3 CHR
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC5 3193
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

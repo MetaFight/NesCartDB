@@ -1,0 +1,78 @@
+metadata:
+  name: 'Base Wars: Cyber Stadium Series'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 06:31:00
+  moreProfiles:
+  - 648
+  - 1026
+  relatedProfiles: []
+  additionalImages: 
+slug: base-wars-cyber-stadium-series
+releaseInfo:
+  catalogId: NES-5B-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1991
+  publisher: Ultra Games
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-5B-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1026')"
+    filename: /images/175/19522d115a7c9464f4f6a083956f6f44.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1026')"
+    filename: /images/175/66f898cc7301c5ff246b7b266722fac6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-5B-0 PRG
+  size: 128 KB
+  crc32: EFFD40C3
+  x: 2
+- type: CHR0
+  label: NES-5B-0 CHR
+  size: 128 KB
+  crc32: 4E4A3A8B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F00584B6
+  x: 2
+pcbProperties:
+  name: NES-TKROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9138
+  estFirstRun: September 1991
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

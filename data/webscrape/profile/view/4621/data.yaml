@@ -1,0 +1,103 @@
+metadata:
+  name: The Escape From Atlantis
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2012-04-17 01:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-escape-from-atlantis
+releaseInfo:
+  catalogId: UNR-EA-81013
+  region: USA (NTSC)
+  class: Unlicensed  » Unreleased
+  releaseDate: 
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/fff3bb4faa6af9b17d4d519cf6b8e40d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/3ebd3cd5a7c494b60a2851f41d51c8f3.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: EAC3B336
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 4B527565
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 0AEA38F7
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/87054baa10fc405cf023fd1810464cc5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/3f16afb151651c77b046a882fe8748e8.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Intel
+  partNumber: D27512-200V05
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 016
+  dateCodeSuffix: U
+  std: 9016
+  misc: 
+- designation: U2
+  maker: Intel
+  partNumber: D27512-200V05
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 016
+  dateCodeSuffix: U
+  std: 9016
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

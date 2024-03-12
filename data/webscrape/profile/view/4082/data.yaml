@@ -1,0 +1,123 @@
+metadata:
+  name: Sanada Juu Yuushi
+  altName: 真田十勇士
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:21:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92358c67e2fdc5149d051f861d0145f4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6b5b3aa4a7b231a23e2a17caf7534ac.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ea38e22ce0b0a9221ca95609a0d56233.jpg
+slug: sanada-juu-yuushi
+releaseInfo:
+  catalogId: KSC-JY
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 27, 1988
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-JY
+  backLabelId/Desc: 880304
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/def23826798b4ec0299170c5395571f0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-JY-0 PRG
+  size: 128 KB
+  crc32: 3403B1FC
+  x: 1
+- type: CHR0
+  label: KSC-JY-0 CHR
+  size: 128 KB
+  crc32: F0E412CF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0902C8F0
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/37ef65438ab258fc1797f1fe355d8b65.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 3619')"
+    filename: /images/175/d9586b9efaa8190e18f3fbd7f0c0922d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8824
+  estFirstRun: June 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 1J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8824
+  dateCodeSuffix: E
+  std: 8824
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 58
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8824
+  dateCodeSuffix: D
+  std: 8824
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8824
+  dateCodeSuffix: 3 A
+  std: 8824
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8824
+  dateCodeSuffix: 3 DA
+  std: 8824
+  misc: 

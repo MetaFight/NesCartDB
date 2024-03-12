@@ -1,0 +1,118 @@
+metadata:
+  name: Kaijuu Monogatari
+  altName: 貝獣物語
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 04:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1599
+  - 1819
+  - 3324
+  additionalImages: 
+slug: kaijuu-monogatari
+releaseInfo:
+  catalogId: NAM-KM-5500
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 18, 1988
+  publisher: Namco
+  developer: Birthday
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/0b734ea48e71e0318e0e9f9e701e71a3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/5c54dd17fc123c35571fe5ac543d2e34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B1B9E187
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 1009E2A2
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BC11E61A
+  x: 3
+pcbProperties:
+  name: 60-16
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-16<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/881b91be737dd53e5eb7140dedef5674.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-16<br>Submitted by: bootgod<br>Linked from profile 1599')"
+    filename: /images/175/b530f95d691962f4822add9187ffa73f.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8839 - 8925 (3)
+  estFirstRun: September 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: KM
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 841
+  dateCodeSuffix: K13
+  std: 8841
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

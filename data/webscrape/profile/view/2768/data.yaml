@@ -1,0 +1,127 @@
+metadata:
+  name: Mega Man 5
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-25 02:17:00
+  moreProfiles:
+  - 1114
+  - 2686
+  - 2768
+  relatedProfiles:
+  - 990
+  - 1419
+  - 3632
+  - 2110
+  additionalImages: 
+slug: mega-man-5
+releaseInfo:
+  catalogId: NES-MZ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MZ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1114')"
+    filename: /images/175/d02a4e5d9761606b77a0b65579f92812.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1114')"
+    filename: /images/175/9dee0146fa185e3d48cef854f80c870c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-MZ-0 PRG
+  size: 256 KB
+  crc32: F3C743AA
+  x: 3
+- type: CHR0
+  label: NES-MZ-0 CHR
+  size: 256 KB
+  crc32: 25E0AE72
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 3EDCF7E8
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d99d553cd64a25b23f80cb546722d74.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9247 - 9248 (3)
+  estFirstRun: November 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 1B
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9247
+  dateCodeSuffix: E
+  std: 9247
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 0Y
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9247
+  dateCodeSuffix: D
+  std: 9247
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9237
+  dateCodeSuffix: 7 BB
+  std: 9237
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9220
+  dateCodeSuffix: EP034
+  std: 9220
+  misc: 

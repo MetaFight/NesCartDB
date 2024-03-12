@@ -1,0 +1,118 @@
+metadata:
+  name: Golf
+  altName: 
+  variant: (Revision M)
+  submittedBy: piteta
+  submittedOn: 2007-09-03 16:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2385
+  - 2125
+  - 4429
+  - 1472
+  - 100
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-GF-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/1d4b594ded2575be33c8fd8d132db345.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-GF-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b3f30e2b31b15575c3b11f94a1c2d53c.jpg
+slug: golf
+releaseInfo:
+  catalogId: NES-GF-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: June 13, 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GF-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  revision: M
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c84c4c9c64e359fd2e3ac330b6ffa2a3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-GFm0 PRG
+  size: 16 KB
+  crc32: 10BBD4BA
+  x: 5
+- type: CHR0
+  label: HVC-GF-0 CHR
+  size: 8 KB
+  crc32: 7DFA75A8
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 565B1BDB
+  x: 5
+pcbProperties:
+  name: NES-NROM-128-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/4bf0bebb341d4d6c5b2b103ddf4d81c4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-06<br>Submitted by: Kinopio<br>Linked from profile 2149')"
+    filename: /images/175/abdf62981f5a19219bb98380dc69c625.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9124
+  estFirstRun: June 1991
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 37
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9124
+  dateCodeSuffix: B
+  std: 9124
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 5S
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9124
+  dateCodeSuffix: B
+  std: 9124
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9123
+  dateCodeSuffix: C
+  std: 9123
+  misc: 

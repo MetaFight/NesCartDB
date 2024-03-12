@@ -1,0 +1,127 @@
+metadata:
+  name: Bases Loaded 4
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-11 01:39:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3980
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-BD USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a57b8c878c117957137b36e0a22a9301.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-BD USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c9d8c10fe562c7934720c185b9f8c491.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-BD-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab6e8388f4a5ed808e66dc2328b2068a.jpg
+slug: bases-loaded-4
+releaseInfo:
+  catalogId: NES-BD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1993
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BD-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa6319e9643313cfab8de2294e1a352e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fe4c6158cecdc98a4373221d67b0e930.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-BD-0 PRG
+  size: 256 KB
+  crc32: A025344D
+  x: 1
+- type: CHR0
+  label: NES-BD-0 CHR
+  size: 128 KB
+  crc32: 920BCBFF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 28F9B41F
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ee3573ef0c37d05127ab09d128a5eae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9308
+  estFirstRun: February 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W90
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9308
+  dateCodeSuffix: XY017
+  std: 9308
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: T09
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9308
+  dateCodeSuffix: ED018
+  std: 9308
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9252
+  dateCodeSuffix: 1 BB
+  std: 9252
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9304
+  dateCodeSuffix: 5 B
+  std: 9304
+  misc: 

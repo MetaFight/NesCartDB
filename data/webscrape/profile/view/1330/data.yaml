@@ -1,0 +1,129 @@
+metadata:
+  name: Athena
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 00:10:00
+  moreProfiles:
+  - 250
+  - 303
+  - 517
+  - 1330
+  relatedProfiles:
+  - 4060
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-AN-USA<br>Submitted by: bootgod<br>Linked from profile 250')"
+    filename: /images/175/66c877e6eab2bbd1dab696e19feccc20.jpg
+slug: athena
+releaseInfo:
+  catalogId: NES-AN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1987
+  publisher: SNK
+  developer: SNK
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AN-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c60730aa9718b7c45330b68c32b67a2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/45b079793f058fa92b7de9c50ed6a5ff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-AN-0 PRG
+  size: 128 KB
+  crc32: 27DDF227
+  x: 5
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8734 - 8741 (3)
+  estFirstRun: August 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 84
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8741
+  dateCodeSuffix: D
+  std: 8741
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7H
+  dateCodeSuffix: 36
+  std: 8731
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8741
+  dateCodeSuffix: A
+  std: 8741
+  misc: 
+- designation: LS161N
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8728
+  dateCodeSuffix: CA
+  std: 8728
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8737
+  dateCodeSuffix: H
+  std: 8737
+  misc: 

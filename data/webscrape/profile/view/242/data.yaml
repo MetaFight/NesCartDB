@@ -1,0 +1,144 @@
+metadata:
+  name: Track & Field II
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2005-10-06 04:01:00
+  moreProfiles:
+  - 242
+  - 329
+  - 2762
+  relatedProfiles:
+  - 1944
+  - 1661
+  - 2423
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/666366cd3ec1844ea512457e56b03f0f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5003edd53acd7e51e31b9f627cdc40e7.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-F2-USA-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00e76e4750a9d88a5c06849e8e5f6093.jpg
+slug: track-field-ii
+releaseInfo:
+  catalogId: NES-F2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-F2-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00864cfe237602eb2f47ee86192f1ff8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/053420461b11178567ae1e86a95eb5f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: RD014N3P
+  size: 128 KB
+  crc32: 22EE7772
+  x: 1
+- type: CHR0
+  label: RD014N3C
+  size: 128 KB
+  crc32: B65E6472
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7FA191E7
+  x: 1
+pcbProperties:
+  name: 351908
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351908<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5bd539363c6b3edd26d98d0c3c29937e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8909 - 8953 (3)
+  estFirstRun: March 1989
+  pcbClass: KONAMI-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: 
+  maker: Konami
+  partNumber: ''
+  partNumberSubDetail: KD231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 8S1B1
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8937
+  dateCodeSuffix: E
+  std: 8937
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8953
+  dateCodeSuffix: 1 CA
+  std: 8953
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8948
+  dateCodeSuffix: 5 AA
+  std: 8948
+  misc: 
+- designation: 
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8940
+  dateCodeSuffix: HnS
+  std: 8940
+  misc: 650650T

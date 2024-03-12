@@ -1,0 +1,114 @@
+metadata:
+  name: Donkey Kong Jr.
+  altName: ドンキーコングＪｒ
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-03-19 00:28:00
+  moreProfiles:
+  - 1391
+  - 1640
+  - 2334
+  - 3424
+  - 3723
+  - 4002
+  - 4749
+  relatedProfiles:
+  - 1840
+  - 912
+  additionalImages: 
+slug: donkey-kong-jr
+releaseInfo:
+  catalogId: HVC-JR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-JR
+  backLabelId/Desc: 830901
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1391')"
+    filename: /images/175/5b017a8a0772d481e5310e9f39689d75.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: CF6C88B6
+  x: 10
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 852778AB
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 4864C304
+  x: 10
+pcbProperties:
+  name: 9011-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f27a11b1dfb742770f5fc286e6e786ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-04<br>Submitted by: bootgod<br>Linked from profile 1466')"
+    filename: /images/175/f541a0b8788c607e451c3b9b684bbf41.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8405 - 8435 (4)
+  estFirstRun: February 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: DJR
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 112871
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

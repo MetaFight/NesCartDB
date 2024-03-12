@@ -1,0 +1,125 @@
+metadata:
+  name: Chris Evert & Ivan Lendl in Top Players' Tennis
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-17 03:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2093
+  - 4705
+  - 1974
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-W1-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f32edc9b08acf0df7709a763747ed371.jpg
+slug: chris-evert-ivan-lendl-in-top-players-tennis
+releaseInfo:
+  catalogId: NES-W1-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Asmik
+  developer: Home Data
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-W1-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/94d1de6206396b6d1eb3c11f9b2e458a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0e0465d0e1135cc8c901edb22ad42de1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-W1-0 PRG
+  size: 128 KB
+  crc32: DD564975
+  x: 1
+- type: CHR0
+  label: NES-W1-0 CHR
+  size: 128 KB
+  crc32: DB2AF89D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F99E37EB
+  x: 1
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e3bfce98717c7b40f832e7357689e850.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8953
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5368
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L2
+  dateCodeSuffix: 71
+  std: 8946
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: A7
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8947
+  dateCodeSuffix: E
+  std: 8947
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8953
+  dateCodeSuffix: 7 CA
+  std: 8953
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8946
+  dateCodeSuffix: B3063
+  std: 8946
+  misc: 

@@ -1,0 +1,135 @@
+metadata:
+  name: The Incredible Crash Dummies
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-11 02:53:00
+  moreProfiles:
+  - 1226
+  - 2687
+  relatedProfiles:
+  - 2154
+  - 2366
+  additionalImages: 
+slug: the-incredible-crash-dummies
+releaseInfo:
+  catalogId: NES-CQ-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 1994
+  publisher: LJN
+  developer: Software Creations
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-CQ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: VCRX
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d96a3f2e26aa811442b4b95099c5977.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9726e4bab8e19e51bc4829affa4e6587.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-CQ PRG
+  size: 128 KB
+  crc32: 86277361
+  x: 2
+- type: CHR0
+  label: NES-CQ CHR
+  size: 256 KB
+  crc32: 0F2564DE
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: A80A0F01
+  x: 2
+pcbProperties:
+  name: 55741
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>55741<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8488c9a87196bd9edc3603a4ac790684.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>55741<br>Submitted by: bootgod<br>Linked from profile 669')"
+    filename: /images/175/1cefaa96e7ab6abb2d9eb1b369106859.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9316 - 9316 (2)
+  estFirstRun: April 1993
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx08, MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C1003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9316
+  dateCodeSuffix: ''
+  std: 9316
+  misc: 
+- designation: U2 CHR
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C2001
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9316
+  dateCodeSuffix: ''
+  std: 9316
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9314
+  dateCodeSuffix: 3 CB
+  std: 9314
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9236
+  dateCodeSuffix: KVC17
+  std: 9236
+  misc: 
+- designation: U5
+  maker: Toshiba
+  partNumber: 74HC08AP
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9307
+  dateCodeSuffix: H
+  std: 9307
+  misc: 

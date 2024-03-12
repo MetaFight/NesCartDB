@@ -1,0 +1,107 @@
+metadata:
+  name: 'Toki no Tabibito: Time Stranger'
+  altName: 時空の旅人 TIME STRANGER
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 04:17:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: toki-no-tabibito-time-stranger
+releaseInfo:
+  catalogId: KSC-TS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 26, 1986
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Steel Blue
+  formFactor: Small
+  frontLabelId: KSC-TS
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7fd59801922fda3299e2617c79585ac5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-TS-0 PRG
+  size: 128 KB
+  crc32: C5CFE54E
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8651
+  estFirstRun: December 1986
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 23
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8651
+  dateCodeSuffix: D
+  std: 8651
+  misc: 
+- designation: CHR RAM
+  maker: Mitsubishi
+  partNumber: M5M5165P-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 645
+  dateCodeSuffix: 117
+  std: 8645
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8649
+  dateCodeSuffix: CA
+  std: 8649
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6?
+  dateCodeSuffix: ''
+  std: 8648
+  misc: 

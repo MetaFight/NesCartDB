@@ -1,0 +1,120 @@
+metadata:
+  name: Trolls on Treasure Island
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 18:54:00
+  moreProfiles:
+  - 1043
+  - 2598
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1043')"
+    filename: /images/175/a8f3a9646423b055afb2d6e796a99e34.jpg
+slug: trolls-on-treasure-island
+releaseInfo:
+  catalogId: AVE-TR
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: AVE
+  developer: Micheal Crick
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1043')"
+    filename: /images/175/6ee5f4cfdde82df5e93efd56a6b879ba.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1043')"
+    filename: /images/175/749f97fa8f471f51259f224f427b788e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: TROLLS PGM 04BC
+  size: 32 KB
+  crc32: 08EBDE64
+  x: 2
+- type: CHR0
+  label: TROLLS CHR EAF4
+  size: 32 KB
+  crc32: D54E5F88
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C47EFC0E
+  x: 2
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/99f7e54ae9c88ece56cd06a8902919c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9144 - 9222 (2)
+  estFirstRun: November 1991
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2314802
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: KL
+  std: 9144
+  misc: 2316D01
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9138
+  dateCodeSuffix: ''
+  std: 9138
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9138
+  dateCodeSuffix: ''
+  std: 9138
+  misc: 

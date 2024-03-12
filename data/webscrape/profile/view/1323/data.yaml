@@ -1,0 +1,70 @@
+metadata:
+  name: WWF WrestleMania Challenge
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:58:00
+  moreProfiles:
+  - 411
+  - 1169
+  - 1323
+  relatedProfiles:
+  - 4440
+  - 1982
+  additionalImages: 
+slug: wwf-wrestlemania-challenge
+releaseInfo:
+  catalogId: NES-W9-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: LJN
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-W9-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 411')"
+    filename: /images/175/9a921f17d637e0159e66c471c0a93a08.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 411')"
+    filename: /images/175/6a490920ce9670ca1f23f12a18583e37.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-W9-0 PRG
+  size: 128 KB
+  crc32: A0230D75
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9113
+  estFirstRun: March 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

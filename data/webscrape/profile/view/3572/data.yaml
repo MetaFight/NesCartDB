@@ -1,0 +1,110 @@
+metadata:
+  name: Matsumoto Tooru no Kabushiki Hisshou Gaku 2
+  altName: 松本亨の
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-21 21:55:00
+  moreProfiles:
+  - 1522
+  - 3571
+  - 3572
+  relatedProfiles: []
+  additionalImages: 
+slug: matsumoto-tooru-no-kabushiki-hisshou-gaku-2
+releaseInfo:
+  catalogId: IMA-K2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 31, 1989
+  publisher: Imagineer
+  developer: Infinity
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: IMA-K2
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1522')"
+    filename: /images/175/68cafc6c93caebd181020bb8958e19c5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: IMA-K2-0 PRG
+  size: 256 KB
+  crc32: 1208E754
+  x: 3
+pcbProperties:
+  name: HVC-SNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8907 - 8909 (3)
+  estFirstRun: February 1989
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8905
+  dateCodeSuffix: EY
+  std: 8905
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8907
+  dateCodeSuffix: 1 Y
+  std: 8907
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8904
+  dateCodeSuffix: MU
+  std: 8904
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8907
+  dateCodeSuffix: 3 A
+  std: 8907
+  misc: 

@@ -1,0 +1,142 @@
+metadata:
+  name: 'P.O.W.: Prisoners of War'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-28 02:08:00
+  moreProfiles:
+  - 412
+  - 1442
+  relatedProfiles:
+  - 4449
+  - 3817
+  - 1875
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-EW-USA<br>Submitted by: bootgod<br>Linked from profile 1442')"
+    filename: /images/175/8734e768a5f56a2aae209e5672f31f29.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-EW-USA<br>Submitted by: bootgod<br>Linked from profile 1442')"
+    filename: /images/175/4f6a7f8553a12e029bd2437fc23a4968.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-EW-USA<br>Submitted by: bootgod<br>Linked from profile 1442')"
+    filename: /images/175/46b314f2903f93fd4bdd3161144092aa.jpg
+slug: pow-prisoners-of-war
+releaseInfo:
+  catalogId: NES-EW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EW-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1442')"
+    filename: /images/175/3dbd172e1dc8dbc2a76b7e5f60e6a819.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1442')"
+    filename: /images/175/0d12d4cd4277d162ad8a42b7300a6d30.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EW-0 PRG
+  size: 128 KB
+  crc32: A7B0BC87
+  x: 2
+- type: CHR0
+  label: NES-EW-0 CHR
+  size: 128 KB
+  crc32: EB19CF1F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 75255F88
+  x: 2
+pcbProperties:
+  name: NES-SL1ROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SL1ROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac4b5d30dbb51067d73d0ff6066dbc5f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8948 - 9003 (2)
+  estFirstRun: December 1989
+  pcbClass: NES-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: EX
+  std: 8944
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: EX
+  std: 8944
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9003
+  dateCodeSuffix: 1 AA
+  std: 9003
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9001
+  dateCodeSuffix: 7 AA
+  std: 9001
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8929
+  dateCodeSuffix: QJGH
+  std: 8929
+  misc: 

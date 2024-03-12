@@ -1,0 +1,130 @@
+metadata:
+  name: 'GeGeGe no Kitarou 2: Youkai Gundan no Chousen'
+  altName: ゲゲゲの鬼太郎２ 妖怪軍団の挑戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 03:06:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1539
+  - 2622
+  - 3092
+  - 3093
+  additionalImages: 
+slug: gegege-no-kitarou-2-youkai-gundan-no-chousen
+releaseInfo:
+  catalogId: BA-ONI2
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1987
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1539')"
+    filename: /images/175/853d570d6aa525db39f6ab38a5da4d83.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1539')"
+    filename: /images/175/0e0c6b1bee2fa188b34b26154e72a0de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/ba2cc5408003eaede63130f26fb0713c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI KITAROP
+  size: 128 KB
+  crc32: 48F8D55E
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 9D5CB85A
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BDA8F8E4
+  x: 4
+pcbProperties:
+  name: BA オニ-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA オニ-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6a05c4b4184a4ce0efe295e3176a7518.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA オニ-2<br>Submitted by: bootgod<br>Linked from profile 1539')"
+    filename: /images/175/55af1b2468d678826dc95b966c57cefb.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8749 - 8752 (4)
+  estFirstRun: December 1987
+  pcbClass: BANDAI-74*161/161/32
+  inesMapper: 152
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Hitachi
+  partNumber: HN62321EP
+  partNumberSubDetail: Y10
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7M1
+  dateCodeSuffix: ''
+  std: 8750
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HN62321EP
+  partNumberSubDetail: Y11
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7M3
+  dateCodeSuffix: ''
+  std: 8752
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6L4
+  dateCodeSuffix: 1
+  std: 8648
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 743
+  dateCodeSuffix: 4L3
+  std: 8743
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 743
+  dateCodeSuffix: 4L3
+  std: 8743
+  misc: 

@@ -1,0 +1,137 @@
+metadata:
+  name: Air Fortress
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2011-02-21 20:14:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4426
+  - 80
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-AI-EEC<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/714202af7f88bf0a1862b187a15032d4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-AI-EEC<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/781c1a45876f5d88b8c3d67a2ae74074.jpg
+slug: air-fortress
+releaseInfo:
+  catalogId: NES-AI-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: 1989
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AI-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: No
+  backLabelId/Desc: DAS
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/97339e53e00dc7fdce594739aa8786d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AI-0 PRG
+  size: 128 KB
+  crc32: 991CBDF2
+  x: 2
+- type: CHR0
+  label: PAL-AI-0 CHR
+  size: 32 KB
+  crc32: 3EEBD9C5
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: A1F90826
+  x: 2
+pcbProperties:
+  name: NES-SJROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SJROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/62ca297c059f1801ae9f19e4a764fd23.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SJROM-03<br>Submitted by: Kinopio<br>Linked from profile 2119')"
+    filename: /images/175/533e8e625e8d96b22d606eca5484a74d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9046
+  estFirstRun: November 1990
+  pcbClass: NES-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6612
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0LM
+  dateCodeSuffix: 40
+  std: 9046
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2818
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0KM
+  dateCodeSuffix: 10
+  std: 9042
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: A
+  std: 9046
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9042
+  dateCodeSuffix: B3100
+  std: 9042
+  misc: 
+- designation: U5 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: HCK
+  std: 9032
+  misc: 

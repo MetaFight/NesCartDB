@@ -1,0 +1,123 @@
+metadata:
+  name: R.B.I. Baseball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-22 06:40:00
+  moreProfiles:
+  - 656
+  - 2835
+  relatedProfiles:
+  - 1591
+  - 321
+  additionalImages: 
+slug: rbi-baseball
+releaseInfo:
+  catalogId: NES-RS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: 1988
+  publisher: Tengen
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RS-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9660677368a3b84bf73e8724fcda378.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a79d551eba88840cc2250b2a8b7d02fd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-RS-0 PRG
+  size: 64 KB
+  crc32: 42607A97
+  x: 3
+- type: CHR0
+  label: NES-RS-0 CHR
+  size: 32 KB
+  crc32: C36B03AE
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 3C5C81D4
+  x: 3
+pcbProperties:
+  name: NES-DEROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-DEROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/93e36c9ddfee1e79b292991d605f275b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8817
+  estFirstRun: April 1988
+  pcbClass: NES-DEROM
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 109
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH5313
+  partNumberSubDetail: T3
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8817
+  dateCodeSuffix: D
+  std: 8817
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: N9
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8817
+  dateCodeSuffix: B
+  std: 8817
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8809
+  dateCodeSuffix: A
+  std: 8809
+  misc: 
+- designation: CAS 108/109
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: B
+  std: 8808
+  misc: 

@@ -1,0 +1,127 @@
+metadata:
+  name: Konami Hyper Soccer
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 12:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4267
+  - 2096
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-86-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/202ca47c3d5ba13ecdc1ce437eaa9384.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-86-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/b08aeb8927681d969e52c61dd0d73fbf.jpg
+slug: konami-hyper-soccer
+releaseInfo:
+  catalogId: NES-86-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-86-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0a70d830e4a3463f2150f7b289fffb3d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-86-0 PRG
+  size: 128 KB
+  crc32: D7B35F7D
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9202
+  estFirstRun: January 1992
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6666
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2AC
+  dateCodeSuffix: K9 N
+  std: 9201
+  misc: 
+- designation: U2 CHR RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9201
+  dateCodeSuffix: A
+  std: 9201
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9202
+  dateCodeSuffix: C
+  std: 9202
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 136
+  dateCodeSuffix: ER
+  std: 9136
+  misc: 
+- designation: U5 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9123
+  dateCodeSuffix: H
+  std: 9123
+  misc: 

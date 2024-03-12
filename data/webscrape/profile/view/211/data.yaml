@@ -1,0 +1,140 @@
+metadata:
+  name: Monster Party
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-24 05:43:00
+  moreProfiles:
+  - 211
+  - 2821
+  - 1317
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a05cf84909f9eaac7e8bb6850dc3c961.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/187200ad9adaed0cc62ac6e8de238fd2.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-P1-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/52f9dd7be34f95d313c8042d71d2ef03.jpg
+slug: monster-party
+releaseInfo:
+  catalogId: NES-P1-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-P1-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8bb2a08b81b89118c6819b7907b0a662.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/afdc08631414cf4e3d88ecbae7346f9d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-P1-0 PRG
+  size: 128 KB
+  crc32: 1FC5740D
+  x: 3
+- type: CHR0
+  label: NES-P1-0 CHR
+  size: 128 KB
+  crc32: 18D7FCE0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 02B9E7C2
+  x: 3
+pcbProperties:
+  name: NES-SL1ROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SL1ROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41a0615b0ade1b938b558469b5412b7a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8951 - 8951 (2)
+  estFirstRun: December 1989
+  pcbClass: NES-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8942
+  dateCodeSuffix: XX710
+  std: 8942
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: EX018
+  std: 8947
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8951
+  dateCodeSuffix: 1 BA
+  std: 8951
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8951
+  dateCodeSuffix: 5 AA
+  std: 8951
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8944
+  dateCodeSuffix: ''
+  std: 8944
+  misc: 

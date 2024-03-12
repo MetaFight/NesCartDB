@@ -1,0 +1,125 @@
+metadata:
+  name: 'Rescue: The Embassy Mission'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 23:58:00
+  moreProfiles:
+  - 688
+  - 1164
+  - 2902
+  relatedProfiles:
+  - 2495
+  - 4069
+  additionalImages: 
+slug: rescue-the-embassy-mission
+releaseInfo:
+  catalogId: NES-HZ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HZ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e9c52d16094c7a19f1a7a2d3d4881f9d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8bd43aba601179f96caa1f37bfe66f2a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HZ-0 PRG
+  size: 128 KB
+  crc32: 8015CB0A
+  x: 3
+- type: CHR0
+  label: NES-HZ-0 CHR
+  size: 128 KB
+  crc32: 31ED51A8
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 63FCC0DD
+  x: 3
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e84176cc33b5bdebc4a2455c50b15128.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-04<br>Submitted by: Kinopio<br>Linked from profile 2422')"
+    filename: /images/175/dcc49909419dbfd669adf95e140e460c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8952
+  estFirstRun: December 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: LD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: E
+  std: 8944
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: A4
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8944
+  dateCodeSuffix: E
+  std: 8944
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8952
+  dateCodeSuffix: 5 CA
+  std: 8952
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8947
+  dateCodeSuffix: 3 AA
+  std: 8947
+  misc: 

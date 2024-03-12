@@ -1,0 +1,82 @@
+metadata:
+  name: Ice Hockey
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:56:00
+  moreProfiles:
+  - 3
+  - 613
+  - 2796
+  - 1193
+  - 1322
+  - 2941
+  relatedProfiles:
+  - 2508
+  - 2059
+  additionalImages: 
+slug: ice-hockey
+releaseInfo:
+  catalogId: NES-HY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1988
+  publisher: Nintendo
+  developer: Pax Softnica
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HY-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 3')"
+    filename: /images/175/e0c4dc68152004227b33f6a4cecd5682.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3')"
+    filename: /images/175/93692be23c47428a8a8a6ecfdfb3464e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-HY-0 PRG
+  size: 32 KB
+  crc32: 82DFF13D
+  x: 6
+- type: CHR0
+  label: NES-HY-0 CHR
+  size: 8 KB
+  crc32: F10FC90A
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: AE64CA77
+  x: 6
+pcbProperties:
+  name: NES-NROM-256-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8804 - 8824 (4)
+  estFirstRun: January 1988
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

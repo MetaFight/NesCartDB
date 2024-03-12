@@ -1,0 +1,119 @@
+metadata:
+  name: TwinBee
+  altName: ツインビー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-25 05:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1771
+  - 2271
+  - 3043
+  - 3044
+  additionalImages: 
+slug: twinbee
+releaseInfo:
+  catalogId: KON-RC807
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 4, 1986
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC807
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1771')"
+    filename: /images/175/df827501457c593a2f70ee596d4f02d0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/470c7890f1b6c5095207d785c48d05e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: 807J0P
+  size: 32 KB
+  crc32: 932A077A
+  x: 4
+- type: CHR0
+  label: 807J0C
+  size: 16 KB
+  crc32: EBF022EB
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 985B1D05
+  x: 4
+pcbProperties:
+  name: 302030A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>302030A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f1a2362120349b0740c8d05b4bf23947.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>302030A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/84bbb32f6b256a35a9f884e04b8ade1e.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8531 - 8550 (4)
+  estFirstRun: August 1985
+  pcbClass: KONAMI-74*139/74
+  inesMapper: 87
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: IC1
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8546
+  dateCodeSuffix: P9
+  std: 8546
+  misc: 
+- designation: IC2
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C128
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8546
+  dateCodeSuffix: K7
+  std: 8546
+  misc: 
+- designation: IC3
+  maker: Motorola
+  partNumber: MC74HC139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8519
+  dateCodeSuffix: N J
+  std: 8519
+  misc: 
+- designation: IC4
+  maker: Motorola
+  partNumber: MC74HC74N
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8432
+  dateCodeSuffix: D
+  std: 8432
+  misc: 

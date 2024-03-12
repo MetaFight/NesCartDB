@@ -1,0 +1,95 @@
+metadata:
+  name: Thexder
+  altName: テグザー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 04:22:00
+  moreProfiles:
+  - 3456
+  - 3457
+  relatedProfiles: []
+  additionalImages: 
+slug: thexder
+releaseInfo:
+  catalogId: SQF-TX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 19, 1985
+  publisher: Square
+  developer: Game Arts
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SQF-TX
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3456')"
+    filename: /images/175/29f30431e003634df47371490c98e25e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SQF-TX-0 PRG
+  size: 32 KB
+  crc32: E73F60DC
+  x: 2
+- type: CHR0
+  label: SQF-TX-0 CHR
+  size: 8 KB
+  crc32: 473FE2CF
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 06F15215
+  x: 2
+pcbProperties:
+  name: HVC-NROM-256K-02S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8739c3fd4341505b0a3b0dcbadf814c4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8334f808d8455e94a0ca64d4b9dbb9f6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8549 - 8549 (2)
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613256P
+  partNumberSubDetail: CS7
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5M1
+  dateCodeSuffix: ''
+  std: 8549
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 42
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8548
+  dateCodeSuffix: D
+  std: 8548
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: 'Mickey Mouse: Fushigi no Kuni no Daibouken'
+  altName: ミッキーマウス 不思議の国の大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 01:37:00
+  moreProfiles:
+  - 1499
+  - 1636
+  - 2729
+  - 2744
+  - 3401
+  - 3402
+  - 3661
+  - 3695
+  relatedProfiles:
+  - 332
+  additionalImages: 
+slug: mickey-mouse-fushigi-no-kuni-no-daibouken
+releaseInfo:
+  catalogId: HFC-MI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 6, 1987
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-MI
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1499')"
+    filename: /images/175/2b753c062351ad716634178e77e91b26.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-MI-0 PRG
+  size: 32 KB
+  crc32: 706C3BD1
+  x: 8
+- type: CHR0
+  label: HFC-MI-0 CHR
+  size: 32 KB
+  crc32: F0AB71AE
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9E4701CB
+  x: 8
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6d648e39a72a8b23754402d34f5057dd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 2690')"
+    filename: /images/175/2bc135e3bceee088043829b169c499b1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8646 - 8708 (8)
+  estFirstRun: November 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: E8
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8706
+  dateCodeSuffix: E
+  std: 8706
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: E7
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8707
+  dateCodeSuffix: E
+  std: 8707
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8652
+  dateCodeSuffix: CA
+  std: 8652
+  misc: 

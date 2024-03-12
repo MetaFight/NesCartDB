@@ -1,0 +1,108 @@
+metadata:
+  name: Double Dragon
+  altName: 双載龍
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 05:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1941
+  - 22
+  additionalImages: 
+slug: double-dragon
+releaseInfo:
+  catalogId: TJC-WD
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 8, 1988
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-WD
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/59a7b693dc79c343df6e0c9e6b666a33.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TJC-WD-0 PRG
+  size: 128 KB
+  crc32: 87BAD69B
+  x: 1
+- type: CHR0
+  label: TJC-WD-0 CHR
+  size: 128 KB
+  crc32: 17CF68A0
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6DCE4B23
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0af849f66557b7348492cf71afcd1d18.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8812
+  estFirstRun: March 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0230
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8C3
+  dateCodeSuffix: A8
+  std: 8812
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 46
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8812
+  dateCodeSuffix: D
+  std: 8812
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8812
+  dateCodeSuffix: A
+  std: 8812
+  misc: 

@@ -1,0 +1,125 @@
+metadata:
+  name: Advanced Dungeons & Dragons Dragons of Flame
+  altName: ＡＤ＆Ｄ ドラゴンオブフレイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 11:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ffc4606bd54d9ceb861270c07db11ee.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4904049ae83fd0bf923f620ad1b0fb07.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8b2e36d9adce1da6a81e032fd41fd0c5.jpg
+slug: advanced-dungeons-dragons-dragons-of-flame
+releaseInfo:
+  catalogId: PNF-OF (R68V5941)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 21, 1992
+  publisher: Pony Canyon
+  developer: Strategic Simulations
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: PNF-OF
+  secondaryId: R68V5941
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6870c67aac82d8b8a637582419ba9e71.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-OF-0 PRG
+  size: 128 KB
+  crc32: 1E0C7EA3
+  x: 1
+- type: CHR0
+  label: PNF-OF-0 CHR
+  size: 128 KB
+  crc32: EA637671
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E616FF0A
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/370dcbadcc69be89fef8da5d1d83e32e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 3459')"
+    filename: /images/175/7626a4d83d7a9f45742ab1e7a2b46085.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9202
+  estFirstRun: January 1992
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6671
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2AC
+  dateCodeSuffix: 40
+  std: 9202
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0149
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1MB
+  dateCodeSuffix: 40
+  std: 9149
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9202
+  dateCodeSuffix: 7 TA
+  std: 9202
+  misc: 
+- designation: U4 W-RAM
+  maker: Sanyo
+  partNumber: LC3564PL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0C
+  dateCodeSuffix: 470
+  std: 9049
+  misc: 

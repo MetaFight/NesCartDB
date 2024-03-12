@@ -1,0 +1,133 @@
+metadata:
+  name: Skate or Die!
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-27 03:05:00
+  moreProfiles:
+  - 1432
+  - 2537
+  - 4316
+  - 4317
+  relatedProfiles:
+  - 4406
+  - 2583
+  - 157
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-DI-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fd2bcb62e14dbb92c84313c1e7392ee5.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-DI-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1435871cccfeb413a524223b5e327a41.jpg
+slug: skate-or-die
+releaseInfo:
+  catalogId: NES-DI-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: August 17, 1990
+  publisher: Palcom
+  developer: Electronic Arts
+  portedBy: 
+  players: 8
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DI-EEC
+  sealOfQuality: 'PAL: Round (Official)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8c9cbdf06b8126675b0bf3428d19b97a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/46ef9774c1431da59c1f2e8063784000.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-DI-0 PRG
+  size: 128 KB
+  crc32: 66EBDB64
+  x: 5
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9019 - 9021 (4)
+  estFirstRun: May 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5441
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0DC
+  dateCodeSuffix: 44
+  std: 9014
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9006
+  dateCodeSuffix: 5 DB
+  std: 9006
+  misc: NES
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9019
+  dateCodeSuffix: A
+  std: 9019
+  misc: 
+- designation: U4 HC161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8940
+  dateCodeSuffix: HnS
+  std: 8940
+  misc: 663170T
+- designation: U5 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 008
+  dateCodeSuffix: GN
+  std: 9008
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: Barcode World
+  altName: バーコードワールド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-06 21:06:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: barcode-world
+releaseInfo:
+  catalogId: SUN-BBW-7200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 18, 1992
+  publisher: Sunsoft
+  developer: Epoch
+  players: 1
+  peripherals: Barcode Battler,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b503b668b57e2d96d092a7e92f631d0d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1d12161ff991b0be73d0eade3d38fd39.jpg
+romDetails:
+- type: PRG0
+  label: BBW PRG
+  size: 128 KB
+  crc32: 67898319
+  x: 1
+- type: CHR0
+  label: BBW CHR
+  size: 256 KB
+  crc32: 407F50E9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 48CA0EE1
+  x: 1
+pcbProperties:
+  name: BBW-E301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BBW-E301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/460f07853923bd53cfd968028a5e3537.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BBW-E301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31709aca40a9d961731068ae3bef1f9a.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9247
+  estFirstRun: November 1992
+  pcbClass: SUNSOFT-FME-7
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FME-7
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9247
+  dateCodeSuffix: EY701
+  std: 9247
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9247
+  dateCodeSuffix: XD004
+  std: 9247
+  misc: 
+- designation: 
+  maker: Sanyo
+  partNumber: LC3564QL-10N
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 25
+  dateCodeSuffix: 475
+  std: 9218
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9238
+  dateCodeSuffix: AA
+  std: 9238
+  misc: 

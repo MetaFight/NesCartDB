@@ -1,0 +1,92 @@
+metadata:
+  name: Sqoon
+  altName: スクーン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-29 02:12:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sqoon
+releaseInfo:
+  catalogId: IF-04
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 26, 1986
+  publisher: Irem
+  developer: Home Data
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original w/ LED
+  frontLabelId: IF-04
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e37a0fcb8e3c3178f9bfc6186ea6160f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/03f00da43fbaed72e5c310f1fb740c9b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6886496ccad25c96992ae2bb140069b2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: C4482B58
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 846C2BA4
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 4DFD949E
+  x: 1
+pcbProperties:
+  name: IREM-01-H
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>IREM-01-H<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca59c8fb1e792d5e89870ca85d925bab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>IREM-01-H<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6bb7ca4d2ff12a6250a791e68d80cbea.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8622
+  estFirstRun: June 1986
+  pcbClass: IREM-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 52
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8622
+  dateCodeSuffix: D
+  std: 8622
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 65
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8622
+  dateCodeSuffix: E
+  std: 8622
+  misc: 

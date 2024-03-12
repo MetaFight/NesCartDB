@@ -1,0 +1,125 @@
+metadata:
+  name: Rad Racer
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-02 05:50:00
+  moreProfiles:
+  - 2124
+  - 4159
+  - 4438
+  relatedProfiles:
+  - 2389
+  - 1433
+  - 1967
+  - 3918
+  - 1943
+  - 243
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RC-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/5863d91a0abddb4a4ca4870fd47bf4c5.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RC-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/bec49589283e3cf24fbbb92b46991b6a.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-RC-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/36f1e48c5467afbd3fd224e8ab14602e.jpg
+slug: rad-racer
+releaseInfo:
+  catalogId: NES-RC-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: July 12, 1990
+  publisher: Nintendo
+  developer: Square
+  players: 1
+  peripherals: NES Controller,3-D Glasses
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RC-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9390abadd4e0e5060e9e2820062ba93f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/31bbf1206dba0e58569c3a1e096c2d3b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RC-0 PRG
+  size: 128 KB
+  crc32: 654F4E90
+  x: 8
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9029 - 9213 (3)
+  estFirstRun: July 1990
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5393
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0GL
+  dateCodeSuffix: 77
+  std: 9028
+  misc: 
+- designation: U2 CHR RAM
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9026
+  dateCodeSuffix: KT46
+  std: 9026
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9024
+  dateCodeSuffix: 7 TA
+  std: 9024
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9029
+  dateCodeSuffix: A
+  std: 9029
+  misc: 

@@ -1,0 +1,130 @@
+metadata:
+  name: "Moe Pro! '90: Kandou-hen"
+  altName: 燃えプロ！’９０感動編
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-22 00:07:00
+  moreProfiles:
+  - 2287
+  - 3034
+  relatedProfiles:
+  - 721
+  additionalImages: 
+slug: moe-pro-90-kandou-hen
+releaseInfo:
+  catalogId: JF-29
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 27, 1990
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-29
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/30308f9efad6ac1a9ca6bfbd65da4748.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7d5fe263ba20133d4b7bc9e00caa52a.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: C2222BB1
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 7375D251
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 9DC96EC7
+  x: 2
+pcbProperties:
+  name: JF-29A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-29A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bf7caf2ec729064e4ca80f4fa014623b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-29A<br>Submitted by: bootgod<br>Linked from profile 2287')"
+    filename: /images/175/f722c6c12f78bb40443f2b07d9d6cd7d.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9028 - 9034 (2)
+  estFirstRun: July 1990
+  pcbClass: JALECO-JF-29
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, D7756C, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C2001C
+  partNumberSubDetail: T73
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9028
+  dateCodeSuffix: XY705
+  std: 9028
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S16
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9028
+  dateCodeSuffix: EX017
+  std: 9028
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 950
+  dateCodeSuffix: 367
+  std: 8950
+  misc: 
+- designation: IC4
+  maker: NEC
+  partNumber: D7756C
+  partNumberSubDetail: 220
+  type: ADPCM Speech Chip
+  typeSubDetail: 256 kb
+  package: DIP-18
+  dateCodePrefix: 8907
+  dateCodeSuffix: PY026
+  std: 8907
+  misc: 
+- designation: IC5
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8817
+  dateCodeSuffix: D7
+  std: 8817
+  misc: 

@@ -1,0 +1,112 @@
+metadata:
+  name: Great Tank
+  altName: グレートタンク
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-09-09 03:39:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4420
+  - 706
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b78ecc75c9bdc1ae90cf6f98c14a3f65.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9fc9bf2c130935d661b52204a5c259b4.jpg
+slug: great-tank
+releaseInfo:
+  catalogId: SFX-TV
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 29, 1988
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: SFX-TV
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02b15106bfe487bfc61eec036f231437.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFX-TV-0 PRG
+  size: 128 KB
+  crc32: 3ECAA6A3
+  x: 1
+- type: CHR0
+  label: SFX-TV-0 CHR
+  size: 128 KB
+  crc32: 2C46D759
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D09B74DC
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92252dfa0b4dffaceb226090d06c8219.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8827
+  estFirstRun: July 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 3H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8827
+  dateCodeSuffix: E
+  std: 8827
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 61
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8826
+  dateCodeSuffix: D
+  std: 8826
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8822
+  dateCodeSuffix: 1 A
+  std: 8822
+  misc: 

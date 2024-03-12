@@ -1,0 +1,81 @@
+metadata:
+  name: Athletic World
+  altName: 
+  variant: 
+  submittedBy: Quietust
+  submittedOn: 2006-03-07 23:39:00
+  moreProfiles:
+  - 602
+  - 935
+  - 1356
+  relatedProfiles:
+  - 2415
+  - 2915
+  - 1738
+  additionalImages: 
+slug: athletic-world
+releaseInfo:
+  catalogId: NES-AW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Power Pad
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AW-USA-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 935')"
+    filename: /images/175/c819dcf79304bfcc8e102287f4e3c82e.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-AW-0 PRG
+  size: 32 KB
+  crc32: BC5F6C94
+  x: 3
+- type: CHR0
+  label: NES-AW-0 CHR
+  size: 32 KB
+  crc32: 51BF1FC5
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 1771EA8F
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8717 - 8908 (2)
+  estFirstRun: April 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx161
+detailedChipInfo: []

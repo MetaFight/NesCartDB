@@ -1,0 +1,98 @@
+metadata:
+  name: Field Combat
+  altName: フィールドコンバット
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-19 07:02:00
+  moreProfiles:
+  - 3025
+  - 3026
+  - 3027
+  - 4583
+  relatedProfiles: []
+  additionalImages: 
+slug: field-combat
+releaseInfo:
+  catalogId: JF-04
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 9, 1985
+  publisher: Jaleco
+  developer: Jaleco
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Green
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/11f6eccb81c91b614d98f74b01d8ae19.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4970c4d5e5f988fe84dc4e4a88ab9a2.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: E90D4A9F
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 0E060C68
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 1B45A73E
+  x: 3
+pcbProperties:
+  name: JF
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/939f0bacf8cc0dfbb842032e7694b5e3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8524 - 8529 (4)
+  estFirstRun: June 1985
+  pcbClass: JALECO-JF-04
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27128
+  partNumberSubDetail: 179P
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 523
+  dateCodeSuffix: 10E
+  std: 8523
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2764
+  partNumberSubDetail: 237P
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 524
+  dateCodeSuffix: 104
+  std: 8524
+  misc: 

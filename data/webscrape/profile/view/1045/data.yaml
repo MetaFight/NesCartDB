@@ -1,0 +1,117 @@
+metadata:
+  name: 'Mermaids of Atlantis: The Riddle of the Magic Bubble'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 22:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1838
+  additionalImages: 
+slug: mermaids-of-atlantis-the-riddle-of-the-magic-bubble
+releaseInfo:
+  catalogId: AVE-MA
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: AVE
+  developer: C & E
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Square Corner
+  embossedText: American Video Entertainment Made in USA
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a3e9a511cccf6b2698765aed44482f54.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/34037f6284dfe2bb96e5bd1a11b5cd29.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3003')"
+    filename: /images/175/8c6bc29d71201d0d4a6968d12dfe548d.jpg
+romDetails:
+- type: PRG0
+  label: 852B-PGM
+  size: 64 KB
+  crc32: 460A9CB0
+  x: 2
+- type: CHR0
+  label: ED50-CHR
+  size: 64 KB
+  crc32: A5591AD5
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: F05870D5
+  x: 2
+pcbProperties:
+  name: NINA-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3ef5f2f44237cc75ae27ccff1178b7d7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-06<br>Submitted by: bootgod<br>Linked from profile 965')"
+    filename: /images/175/7f495f8596b31629c06e0472869134f9.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9218
+  estFirstRun: May 1992
+  pcbClass: AVE-NINA-06
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx174
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: MX23512
+  partNumberSubDetail: 1017
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9218
+  dateCodeSuffix: VDF
+  std: 9218
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: MX23512
+  partNumberSubDetail: 1016
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9218
+  dateCodeSuffix: VWF
+  std: 9218
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74HC138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9205
+  dateCodeSuffix: ''
+  std: 9205
+  misc: 
+- designation: U4
+  maker: ST Micro
+  partNumber: T74LS174B1
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9038
+  dateCodeSuffix: 9
+  std: 9038
+  misc: 

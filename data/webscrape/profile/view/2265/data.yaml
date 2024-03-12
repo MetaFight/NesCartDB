@@ -1,0 +1,128 @@
+metadata:
+  name: Nantettatte!! Baseball
+  altName: なんてったって！！ベースボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 03:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2265
+  - 4702
+  additionalImages: 
+slug: nantettatte-baseball
+releaseInfo:
+  catalogId: SUN-NTB-5900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 26, 1990
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Dual Cassette
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 4702')"
+    filename: /images/175/6c33582b2b1d78388fcc8b2fbcf3dcfe.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4702')"
+    filename: /images/175/316b63e87255e957177ff035ed20443f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4702')"
+    filename: /images/175/b8990b2242fb9724d1221332d896db95.jpg
+romDetails:
+- type: PRG0
+  label: NTB-PRG-0
+  size: 128 KB
+  crc32: BDDBC3B0
+  x: 2
+- type: CHR0
+  label: NTB-CHR-0
+  size: 128 KB
+  crc32: C70A7C8E
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A2623BC1
+  x: 2
+pcbProperties:
+  name: NTB-ROM-PCB
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NTB-ROM-PCB<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ace10ec6e626f98d302eee2b81cd4344.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NTB-ROM-PCB<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/390feb513f0e562f9af4a89959e5ff61.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9039 - 9039 (2)
+  estFirstRun: September 1990
+  pcbClass: SUNSOFT-4
+  inesMapper: 68
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, Sunsoft-4
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9039
+  dateCodeSuffix: D
+  std: 9039
+  misc: 
+- designation: IC2
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8927
+  dateCodeSuffix: E
+  std: 8927
+  misc: 
+- designation: IC3
+  maker: Sanyo
+  partNumber: LC3664NL-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9G
+  dateCodeSuffix: 03
+  std: 8926
+  misc: 
+- designation: IC4
+  maker: NEC
+  partNumber: SUNSOFT-4
+  partNumberSubDetail: 
+  type: Sunsoft-4
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8909
+  dateCodeSuffix: KP
+  std: 8909
+  misc: 
+- designation: IC5
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 024
+  dateCodeSuffix: GN
+  std: 9024
+  misc: 

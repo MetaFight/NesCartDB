@@ -1,0 +1,124 @@
+metadata:
+  name: 'Operation Wolf: Take no Prisoners'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-11 04:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2910
+  - 3959
+  - 1923
+  - 180
+  additionalImages: 
+slug: operation-wolf-take-no-prisoners
+releaseInfo:
+  catalogId: NES-OW-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1989
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: NES Controller,Zapper Light Gun
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OW-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/65ec632a78fbad8e60d1a0e6e4c27baf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2ab325be7f0a9a0f0720a5734487184a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4367')"
+    filename: /images/175/af14a7e9f42101b30e26d2aec5df323c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-OW-0 PRG
+  size: 128 KB
+  crc32: 54C34223
+  x: 3
+- type: CHR0
+  label: NES-OW-1 CHR
+  size: 128 KB
+  crc32: B6C77A38
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5529431F
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/add1e34a96afe3c605a39f1e29ea7921.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9216
+  estFirstRun: April 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6687
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2DM
+  dateCodeSuffix: 41
+  std: 9216
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0159
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2DM
+  dateCodeSuffix: 40
+  std: 9216
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9214
+  dateCodeSuffix: A
+  std: 9214
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9216
+  dateCodeSuffix: 1 A 170
+  std: 9216
+  misc: 

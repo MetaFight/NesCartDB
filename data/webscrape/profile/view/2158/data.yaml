@@ -1,0 +1,110 @@
+metadata:
+  name: Bomberman II
+  altName: ボンバーマンⅡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-12 03:33:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4466
+  - 1934
+  - 1148
+  additionalImages: 
+slug: bomberman-ii
+releaseInfo:
+  catalogId: HFC-2X
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 28, 1991
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: HFC-2X
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d7b304132f93bb056535d4ff78bd550e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-2X-0 PRG
+  size: 128 KB
+  crc32: 0C401790
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9119
+  estFirstRun: May 1991
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 6634
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1EC
+  dateCodeSuffix: K0 N
+  std: 9118
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9042
+  dateCodeSuffix: MD
+  std: 9042
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9119
+  dateCodeSuffix: 3 AA
+  std: 9119
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 

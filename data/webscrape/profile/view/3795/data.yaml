@@ -1,0 +1,109 @@
+metadata:
+  name: 'Hiryuu no Ken Special: Fighting Wars'
+  altName: 飛龍の拳スペシャル ファイティングウォーズ
+  variant: (Prototype)
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 02:32:00
+  moreProfiles:
+  - 1519
+  - 3566
+  - 3567
+  - 3568
+  - 3795
+  relatedProfiles: []
+  additionalImages: 
+slug: hiryuu-no-ken-special-fighting-wars
+releaseInfo:
+  catalogId: CBF-4N
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 21, 1991
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: CBF-4N
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c3446b8f19eac55bf9a2b9090aa24ca1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: "ã‚«ãƒ«ãƒ\x81ãƒ¤ PRG"
+  size: 128 KB
+  crc32: 770C360A
+  x: 1
+- type: CHR0
+  label: "ã‚«ãƒ«ãƒ\x81ãƒ¤ CHR"
+  size: 128 KB
+  crc32: 5482F0C6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 14374128
+  x: 1
+pcbProperties:
+  name: HVC-SKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKEPROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/83a8282784f9fab5f55fdb92513ed7f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKEPROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6c355fcce852e771babe58a295b35b5.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9120 - 9121 (4)
+  estFirstRun: May 1991
+  pcbClass: HVC-SKEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: AMD
+  partNumber: AM27C100-155DC
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 050
+  dateCodeSuffix: YJ6Z
+  std: 9050
+  misc: 
+- designation: IC3 CHR
+  maker: AMD
+  partNumber: AM27C100-155DC
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 050
+  dateCodeSuffix: YJ6Z
+  std: 9050
+  misc: 
+- designation: IC4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9109
+  dateCodeSuffix: 3 AA
+  std: 9109
+  misc: 

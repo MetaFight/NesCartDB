@@ -1,0 +1,109 @@
+metadata:
+  name: New York Nyankies
+  altName: ニューヨークニャンキーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 05:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2512
+  - 1963
+  - 1230
+  additionalImages: 
+slug: new-york-nyankies
+releaseInfo:
+  catalogId: ATL-7A
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 5, 1991
+  publisher: Atlus
+  developer: Atlus
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: ATL-7A
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/01385b1c6b98c3c3549445dad13a4d51.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: ATL-7A-0 PRG
+  size: 128 KB
+  crc32: A7481C4B
+  x: 1
+- type: CHR0
+  label: ATL-7A-0 CHR
+  size: 128 KB
+  crc32: 9F3D2CA3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2DC331A2
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/567f26ef304c931d4a826f8792e10a1f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9111
+  estFirstRun: March 1991
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: E
+  std: 9111
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: U0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9111
+  dateCodeSuffix: D
+  std: 9111
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9102
+  dateCodeSuffix: 3 DB
+  std: 9102
+  misc: 

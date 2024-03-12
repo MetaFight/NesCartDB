@@ -1,0 +1,78 @@
+metadata:
+  name: WCW World Championship Wrestling
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:54:00
+  moreProfiles:
+  - 404
+  - 1321
+  relatedProfiles:
+  - 3547
+  additionalImages: 
+slug: wcw-world-championship-wrestling
+releaseInfo:
+  catalogId: NES-S9-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1990
+  publisher: FCI
+  developer: Nichibutsu
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-S9-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 404')"
+    filename: /images/175/9d0fad784ac8b0e34403708910d069e1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 404')"
+    filename: /images/175/56d2491ac2912b9d2172890fe7d103a8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-S9-0 PRG
+  size: 128 KB
+  crc32: 44BB1665
+  x: 2
+- type: CHR0
+  label: NES-S9-0 CHR
+  size: 128 KB
+  crc32: 47458336
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5EA7D410
+  x: 2
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9037
+  estFirstRun: September 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

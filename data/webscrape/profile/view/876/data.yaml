@@ -1,0 +1,119 @@
+metadata:
+  name: Hogan's Alley
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-29 02:36:00
+  moreProfiles:
+  - 307
+  - 876
+  - 2938
+  relatedProfiles:
+  - 1841
+  - 3726
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-HA USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/09262ad7aa0214b01db9c0e8c8e9a3b7.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-HA USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/827049be3a19f2e17b9ac24ba5d2e879.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-HA-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f747957ad054c4b3706ae143760817db.jpg
+slug: hogans-alley
+releaseInfo:
+  catalogId: NES-HA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HA-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf5ad44d99d8ec883659029dc5e5c169.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/75977f1319fbfdff860c9d2818f583ee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: HVC-HA-0 PRG
+  size: 16 KB
+  crc32: 8963AE6E
+  x: 6
+- type: CHR0
+  label: HVC-HA-0 CHR
+  size: 8 KB
+  crc32: 5DF42FC4
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FF24D794
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eaee4eeecb3a5a862cd31877572f197d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 2056')"
+    filename: /images/175/4d2ba057fb9442e3c06fe0fef293acbd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8642 - 8909 (2)
+  estFirstRun: October 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: OKI
+  partNumber: M38128B
+  partNumberSubDetail: FF
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 92
+  dateCodeSuffix: 63
+  std: 8905
+  misc: 
+- designation: U2 CHR
+  maker: OKI
+  partNumber: M3864B
+  partNumberSubDetail: FF
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 92
+  dateCodeSuffix: 16
+  std: 8905
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8909
+  dateCodeSuffix: 3 AA
+  std: 8909
+  misc: 

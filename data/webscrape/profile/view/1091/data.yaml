@@ -1,0 +1,111 @@
+metadata:
+  name: Donkey Kong
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2006-10-10 05:12:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1839
+  - 1450
+  additionalImages: 
+slug: donkey-kong
+releaseInfo:
+  catalogId: NES-DK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9ac3b3d6d91bc37a125c31be889bb8f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/539f6cc22f61fa85c5c952df1508676a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-DK-1 PRG
+  size: 16 KB
+  crc32: F56A5B10
+  x: 7
+- type: CHR0
+  label: HVC-DK-0 CHR
+  size: 8 KB
+  crc32: A21D7C2E
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 6F97C721
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51a962a5951bec45d793ca5365148866.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 2359')"
+    filename: /images/175/e01688d9f95c56e49846a555c056012d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8622
+  estFirstRun: June 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: RP2D129
+  partNumberSubDetail: 0043
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6E4
+  dateCodeSuffix: 11
+  std: 8622
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 63
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8621
+  dateCodeSuffix: E
+  std: 8621
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8542
+  dateCodeSuffix: A
+  std: 8542
+  misc: 

@@ -1,0 +1,126 @@
+metadata:
+  name: Disney's Darkwing Duck
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 19:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2068
+  - 2453
+  - 477
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-DZ-UKV<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/6aaa294c63b90bfa5909a470fe26a52d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-DZ-UKV<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/3581a2c7fd607b753e952857e1a1989f.jpg
+slug: disneys-darkwing-duck
+releaseInfo:
+  catalogId: NES-DZ-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: December 9, 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DZ-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/3ca8a1d71d568dcf18ed1cd8d844c35a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: PAL-DZ-0 PRG
+  size: 128 KB
+  crc32: 895CBAF8
+  x: 2
+- type: CHR0
+  label: PAL-DZ-0 CHR
+  size: 128 KB
+  crc32: DB32ADEC
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 66F6A39E
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7f6b5a0b3fc2ef2291036ffacc53cb39.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9334
+  estFirstRun: August 1993
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6731
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3HY
+  dateCodeSuffix: 43
+  std: 9334
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0190
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3HU
+  dateCodeSuffix: 43
+  std: 9333
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9142
+  dateCodeSuffix: A
+  std: 9142
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9104
+  dateCodeSuffix: B3093
+  std: 9104
+  misc: 

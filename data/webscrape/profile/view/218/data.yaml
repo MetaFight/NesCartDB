@@ -1,0 +1,94 @@
+metadata:
+  name: MIG-29 Soviet Fighter
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-27 05:21:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mig-29-soviet-fighter
+releaseInfo:
+  catalogId: CAM-MG
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Camerica
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Silver
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43808cb7e3c2b3e0389c5fd7cbdf28b2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 350')"
+    filename: /images/175/510848d48d07bd25d232272a7fd8191d.jpg
+romDetails:
+- type: PRG0
+  label: COBIC MG-V1
+  size: 128 KB
+  crc32: E62E3382
+  x: 1
+pcbProperties:
+  name: BIC-48
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9205
+  estFirstRun: February 1992
+  pcbClass: CAMERICA-BF9093
+  inesMapper: 71
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9093
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9093
+  partNumberSubDetail: 
+  type: Camerica BF9093
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9205
+  dateCodeSuffix: T
+  std: 9205
+  misc: 
+- designation: U2
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C1003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: Hyundai
+  partNumber: HM6265L-90
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9109
+  dateCodeSuffix: A
+  std: 9109
+  misc: 

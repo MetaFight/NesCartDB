@@ -1,0 +1,95 @@
+metadata:
+  name: Elevator Action
+  altName: エレベーターアクション
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 01:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 98
+  additionalImages: 
+slug: elevator-action
+releaseInfo:
+  catalogId: TFC-EA-4900-04
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 28, 1985
+  publisher: Taito
+  developer: Taito
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 3 Screws
+  frontLabelId: Not Present
+  sequence#: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d117aa1e2e1ac7b084cc32292d54926f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1557')"
+    filename: /images/175/deb7b504717a15e3710b506bf9062bef.jpg
+romDetails:
+- type: PRG0
+  label: ELEVATORACTION
+  size: 32 KB
+  crc32: A6DE7024
+  x: 1
+- type: CHR0
+  label: ELEVATORACTION
+  size: 8 KB
+  crc32: FAC01D0F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: FCDACA80
+  x: 1
+pcbProperties:
+  name: FC008
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC008<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/935f79ff793dc327da7055135b12be89.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8522
+  estFirstRun: June 1985
+  pcbClass: TAITO-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M23256
+  partNumberSubDetail: 058P
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 522
+  dateCodeSuffix: 10L
+  std: 8522
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 225P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 522
+  dateCodeSuffix: 101
+  std: 8522
+  misc: 

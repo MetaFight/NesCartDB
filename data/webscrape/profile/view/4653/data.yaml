@@ -1,0 +1,112 @@
+metadata:
+  name: 'Mahou no Princess Minky Momo: Remember Dream'
+  altName: 魔法のプリンセス ミンキーモモ リメンバードリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 01:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbde9df6d48225d39302342e4c540de5.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b4add817f7b929d00835bab135bc6217.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f131e3385bc267a4caba06c993167699.jpg
+slug: mahou-no-princess-minky-momo-remember-dream
+releaseInfo:
+  catalogId: SHI-61
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 29, 1992
+  publisher: Yutaka
+  developer: Bits Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Pink
+  formFactor: Small
+  frontLabelId: SHI-61
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c0bbd1fc8aab65113b5bb86007e64a2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-61-0 PRG
+  size: 128 KB
+  crc32: 515F738A
+  x: 1
+- type: CHR0
+  label: SHI-61-0 CHR
+  size: 128 KB
+  crc32: 232958F3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2D2F91B8
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c949809a13011e31348b42e74291f4f5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9227
+  estFirstRun: July 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T08
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9227
+  dateCodeSuffix: K9008
+  std: 9227
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W93
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9227
+  dateCodeSuffix: KY006
+  std: 9227
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9208
+  dateCodeSuffix: B3014
+  std: 9208
+  misc: 

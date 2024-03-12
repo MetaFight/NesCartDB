@@ -1,0 +1,103 @@
+metadata:
+  name: Popeye
+  altName: ポパイ
+  variant: 
+  submittedBy: plgDavid
+  submittedOn: 2019-01-16 03:41:00
+  moreProfiles:
+  - 1392
+  - 2328
+  - 3411
+  - 3589
+  - 3697
+  - 4748
+  relatedProfiles:
+  - 2499
+  - 980
+  - 2539
+  - 622
+  additionalImages: 
+slug: popeye
+releaseInfo:
+  catalogId: HVC-PP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime Green
+  formFactor: Small
+  frontLabelId: HVC-PP
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1392')"
+    filename: /images/175/32a748672c2893908157556625e0d32c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-PP-0 PRG
+  size: 16 KB
+  crc32: F1FFD9F8
+  x: 5
+- type: CHR0
+  label: HVC-PP-0 CHR
+  size: 8 KB
+  crc32: A5FD8D98
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5581E835
+  x: 6
+pcbProperties:
+  name: HVC-VROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-VROM-01<br>Submitted by: plgDavid<br>Linked from profile 0')"
+    filename: /images/175/3ae1ff9c8ed897e6097d2e2275201ee6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-VROM-01<br>Submitted by: plgDavid<br>Linked from profile 0')"
+    filename: /images/175/b2ca2e178ad6dcba1b45e7d3f896e36c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8347 - 8429 (3)
+  estFirstRun: November 1983
+  pcbClass: HVC-VROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Yamaha
+  partNumber: YM2211
+  partNumberSubDetail: 22809
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 3Y 22
+  dateCodeSuffix: 40 B
+  std: 8347
+  misc: 
+- designation: CHR
+  maker: Yamaha
+  partNumber: YM2212
+  partNumberSubDetail: 22901
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 3Y 23
+  dateCodeSuffix: 40 B
+  std: 8347
+  misc: 

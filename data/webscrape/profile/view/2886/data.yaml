@@ -1,0 +1,67 @@
+metadata:
+  name: Disney's Der König der Löwen
+  altName: The Lion King
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-20 07:58:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2037
+  - 2704
+  - 4500
+  additionalImages: 
+slug: disneys-der-koenig-der-loewen
+releaseInfo:
+  catalogId: NES-KL-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1994
+  publisher: Virgin Games
+  developer: Dark Technologies
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KL-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-KL-0 PRG
+  size: 256 KB
+  crc32: 89984244
+  x: 5
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo: []

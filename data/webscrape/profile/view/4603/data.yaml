@@ -1,0 +1,110 @@
+metadata:
+  name: Jigoku Gokuraku Maru
+  altName: 地獄極楽丸
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2012-03-06 05:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2123
+  - 2501
+  - 2551
+  - 92
+  additionalImages: 
+slug: jigoku-gokuraku-maru
+releaseInfo:
+  catalogId: PAC-9Z
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1990
+  publisher: Pack-In-Video
+  developer: Human Entertainment
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: PAC-9Z
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/02258b3386c4f4d9c1a6cad9d0d8aede.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: PAC-9Z-0 PRG
+  size: 128 KB
+  crc32: 170739CF
+  x: 0
+- type: CHR0
+  label: PAC-9Z-0 CHR
+  size: 128 KB
+  crc32: 14789120
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 045E8CD8
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/938e2504b9d7822392c7b41161afa002.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/663123101ae696282092d2de9eebc9ea.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9046
+  estFirstRun: November 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 88
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9046
+  dateCodeSuffix: E
+  std: 9046
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: P6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9044
+  dateCodeSuffix: E
+  std: 9044
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9045
+  dateCodeSuffix: KP060
+  std: 9045
+  misc: 

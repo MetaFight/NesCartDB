@@ -1,0 +1,110 @@
+metadata:
+  name: Tanigawa Kouji no Shougi Shinan II
+  altName: 谷川浩司の将棋指南Ⅱ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 02:04:00
+  moreProfiles:
+  - 1462
+  - 3607
+  relatedProfiles: []
+  additionalImages: 
+slug: tanigawa-kouji-no-shougi-shinan-ii
+releaseInfo:
+  catalogId: PNF-T2 (R55V5914)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 18, 1988
+  publisher: Pony Canyon
+  developer: Pony Canyon
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: PNF-T2
+  secondaryId: R55V5914
+  backLabelId/Desc: 870417
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1462')"
+    filename: /images/175/bf6f02ba77def87e611e7a69a3483bf3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-T2-0 PRG
+  size: 128 KB
+  crc32: 3836EEAC
+  x: 2
+pcbProperties:
+  name: HVC-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8813 - 8817 (2)
+  estFirstRun: March 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: EX
+  std: 8808
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH5264D4
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8813
+  dateCodeSuffix: 5 Y
+  std: 8813
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8813
+  dateCodeSuffix: A
+  std: 8813
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8813
+  dateCodeSuffix: 1 DA
+  std: 8813
+  misc: 

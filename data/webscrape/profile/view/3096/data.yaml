@@ -1,0 +1,100 @@
+metadata:
+  name: 'Kinnikuman: MUSCLE Tag Match'
+  altName: キン肉マン　マッスルタッグマッチ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 03:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1538
+  - 1735
+  - 2618
+  - 3094
+  - 3095
+  - 3096
+  - 3289
+  - 4582
+  additionalImages: 
+slug: kinnikuman-muscle-tag-match
+releaseInfo:
+  catalogId: BA-KIN
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 8, 1985
+  publisher: Bandai
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Red
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/c178d7c7b99d72b5d739e6fb0603a8e5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/577ca2db1ff7390ea1b6b6960322ab45.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4089')"
+    filename: /images/175/69c920aed17c1cccd6549618d0b2b16a.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI-85-KIN
+  size: 16 KB
+  crc32: F5563F2E
+  x: 4
+- type: CHR0
+  label: BANDAI-85-KIN
+  size: 8 KB
+  crc32: FDC5C38E
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: A07C1F81
+  x: 4
+pcbProperties:
+  name: UNK-BANDAI-KIN
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-BANDAI-KIN<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/18fa9b7230db51e14c363b4d25e13852.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-BANDAI-KIN<br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/fadfd5ebc3aa737c784b9136a7931401.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8536 - 8601 (8)
+  estFirstRun: September 1985
+  pcbClass: BANDAI-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 13
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8548
+  dateCodeSuffix: D
+  std: 8548
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 45
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8548
+  dateCodeSuffix: E
+  std: 8548
+  misc: 

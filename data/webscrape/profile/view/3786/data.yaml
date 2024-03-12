@@ -1,0 +1,107 @@
+metadata:
+  name: The Best Play Pro Yakyuu II
+  altName: ベストプレープロ野球II
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 01:43:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-best-play-pro-yakyuu-ii
+releaseInfo:
+  catalogId: HSP-33
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 30, 1990
+  publisher: ASCII
+  developer: ASCII
+  players: 2
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-33
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80b5ac35e14ab807fae56ddae7d13093.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-33-0 PRG
+  size: 256 KB
+  crc32: C2EF3422
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9006
+  estFirstRun: February 1990
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9002
+  dateCodeSuffix: R30
+  std: 9002
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8920
+  dateCodeSuffix: M5
+  std: 8920
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9003
+  dateCodeSuffix: 7 AA
+  std: 9003
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: 51
+  std: 9006
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: Baseball
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-06 02:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1449
+  - 4255
+  - 107
+  additionalImages: 
+slug: baseball
+releaseInfo:
+  catalogId: NES-BA-GBR
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: May 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: GBR
+  sealOfQuality: 'PAL: Dual'
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/8c78202e11e595e36cacf9ea1726f0de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-BA-0 PRG
+  size: 16 KB
+  crc32: 39D1FA03
+  x: 7
+- type: CHR0
+  label: NES-BA-0 CHR
+  size: 8 KB
+  crc32: CDE71B82
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: AFDCBD24
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/c7f497449dd7a47771e35d5510f646b1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8719
+  estFirstRun: May 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 07
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8717
+  dateCodeSuffix: E
+  std: 8717
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 06
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8716
+  dateCodeSuffix: E
+  std: 8716
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8719
+  dateCodeSuffix: B
+  std: 8719
+  misc: 

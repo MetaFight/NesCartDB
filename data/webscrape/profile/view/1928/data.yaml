@@ -1,0 +1,127 @@
+metadata:
+  name: Wrath of the Black Manta
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 23:47:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2500
+  - 3933
+  - 294
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-WK-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f275569b7ca9ec04d6270cf0a1489d1f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-WK-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/fdfac394663787336733d2c9119f7c04.jpg
+slug: wrath-of-the-black-manta
+releaseInfo:
+  catalogId: NES-WK-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: November 1, 1991
+  publisher: Taito
+  developer: A.I
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WK-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/79ff6eb596c0407e0f1af5da20134e12.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-WK-0 PRG
+  size: 128 KB
+  crc32: CF8E4CA4
+  x: 3
+- type: CHR0
+  label: PAL-WK-0 CHR
+  size: 128 KB
+  crc32: 05DE1723
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 06689AA4
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/409a3579af7f5ca418da0954bceb4afe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 58
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: E
+  std: 9144
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 23
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9144
+  dateCodeSuffix: D
+  std: 9144
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9133
+  dateCodeSuffix: C
+  std: 9133
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9114
+  dateCodeSuffix: 3 AA
+  std: 9114
+  misc: 

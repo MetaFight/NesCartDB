@@ -1,0 +1,107 @@
+metadata:
+  name: Atlantis no Nazo
+  altName: アトランチスの謎
+  variant: (Prototype)
+  submittedBy: bootgod
+  submittedOn: 2008-04-17 04:53:00
+  moreProfiles:
+  - 1544
+  - 2694
+  - 3272
+  relatedProfiles: []
+  additionalImages: 
+slug: atlantis-no-nazo
+releaseInfo:
+  catalogId: SUN-ATL-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 17, 1986
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0d07db0996666138e25675d01b002238.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 436A2EA6
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 33D76D26
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 5062A34B
+  x: 1
+pcbProperties:
+  name: UNK-SUNSOFT-ATL
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-SUNSOFT-ATL<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47f078a2b7f5bf130779b723d69a8fa2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-SUNSOFT-ATL<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f08f7326fb2b51f23d90e87da210d53b.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8613 - 8617 (2)
+  estFirstRun: March 1986
+  pcbClass: SUNSOFT-1
+  inesMapper: 184
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-1
+detailedChipInfo:
+- designation: IC1
+  maker: Mitsubishi
+  partNumber: M5L27256K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 552
+  dateCodeSuffix: 11P
+  std: 8552
+  misc: 
+- designation: IC2
+  maker: Hitachi
+  partNumber: HN4827128G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8538
+  dateCodeSuffix: ''
+  std: 8538
+  misc: 00109SS0
+- designation: IC3
+  maker: Mitsubishi
+  partNumber: SUNSOFT-1
+  partNumberSubDetail: 
+  type: Sunsoft-1
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 609
+  dateCodeSuffix: 100
+  std: 8609
+  misc: 

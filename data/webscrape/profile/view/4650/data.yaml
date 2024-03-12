@@ -1,0 +1,112 @@
+metadata:
+  name: 'Hyokkori Hyoutanjima: Nazo no Kaizokusen'
+  altName: ひょっこりひょうたん島　なぞのかいぞくせん
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 01:45:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a0533c91bd01de58469c0ae16eab98b7.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/09d7ae0e6f6a59370c16c23b6da6edff.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2a53ef564fcef80e3b333baaf98ad723.jpg
+slug: hyokkori-hyoutanjima-nazo-no-kaizokusen
+releaseInfo:
+  catalogId: SHI-HV
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 25, 1992
+  publisher: Yutaka
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Cyan
+  formFactor: Small
+  frontLabelId: SHI-HV
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d93b49fa0c205dab586ba8714560060b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-HV-0 PRG
+  size: 128 KB
+  crc32: AF16EE39
+  x: 1
+- type: CHR0
+  label: SHI-HV-0 CHR
+  size: 128 KB
+  crc32: D0599FC8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0B13658B
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7833172603f5084741fc5c7ed7107251.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9212
+  estFirstRun: March 1992
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: A7
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9212
+  dateCodeSuffix: E
+  std: 9212
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 0Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9211
+  dateCodeSuffix: D
+  std: 9211
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9209
+  dateCodeSuffix: 3 A 170
+  std: 9209
+  misc: 

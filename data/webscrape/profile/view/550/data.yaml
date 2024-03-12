@@ -1,0 +1,110 @@
+metadata:
+  name: Quattro Sports
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-26 02:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 359
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b5903f01d4b6db8588f2080b78ce5015.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d5fb64e1a171ba62fe716ed29f4ff049.jpg
+slug: quattro-sports
+releaseInfo:
+  catalogId: ALG-QS
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: November 1992
+  publisher: Camerica
+  developer: Codemasters
+  players: 2
+  peripherals: NES Controller,Aladdin Deck Enhancer
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Black
+  formFactor: Aladdin Cart
+  embossedText: U.S. & Canadian design applications pending. Made in the U.K.
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2992877a90e3e29e709402f5684d4062.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 553')"
+    filename: /images/175/0790e9a6d0ccfd33cd8924ca958c1a09.jpg
+romDetails:
+- type: PRG0
+  label: COBIC 7408-QS
+  size: 256 KB
+  crc32: CCCAF368
+  x: 5
+pcbProperties:
+  name: ALGQV1-1
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9315
+  estFirstRun: April 1993
+  pcbClass: CAMERICA-ALGQ
+  inesMapper: 232
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: PIC16C54
+  hardware: CCU_V2.00
+detailedChipInfo:
+- designation: 
+  maker: Macronix
+  partNumber: MX232096
+  partNumberSubDetail: 1043
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9208
+  dateCodeSuffix: B
+  std: 9208
+  misc: DK49025
+- designation: 
+  maker: Samsung
+  partNumber: KM6264BLS-8
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 210
+  dateCodeSuffix: ''
+  std: 9210
+  misc: 
+- designation: 
+  maker: Microchip
+  partNumber: PIC16C54-HS/P
+  partNumberSubDetail: 
+  type: PIC16C54
+  typeSubDetail: 
+  package: DIP-18
+  dateCodePrefix: 9315
+  dateCodeSuffix: CFA
+  std: 9315
+  misc: 
+- designation: 
+  maker: Code Masters
+  partNumber: CF30288
+  partNumberSubDetail: 
+  type: Aladdin MMC
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 9241
+  dateCodeSuffix: N X
+  std: 9241
+  misc: 

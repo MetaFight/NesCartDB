@@ -1,0 +1,108 @@
+metadata:
+  name: Kunio-kun no Nekketsu Soccer League
+  altName: くにおくんの熱血サッカーリーグ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 01:41:00
+  moreProfiles:
+  - 2163
+  - 3601
+  relatedProfiles: []
+  additionalImages: 
+slug: kunio-kun-no-nekketsu-soccer-league
+releaseInfo:
+  catalogId: TJC-NV
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 23, 1993
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: 4-Player Adapter,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-NV
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2163')"
+    filename: /images/175/18171caad826c4d94696885344355b01.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TJC-NV-0 PRG
+  size: 128 KB
+  crc32: DEDDD5E5
+  x: 2
+- type: CHR0
+  label: TJC-NV-0 CHR
+  size: 128 KB
+  crc32: 72F2C864
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4B5177E9
+  x: 2
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9b064e59f9a8ce7e94cc8326d71a0dee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9312 - 9312 (2)
+  estFirstRun: March 1993
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: H7
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9312
+  dateCodeSuffix: E
+  std: 9312
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: A3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9312
+  dateCodeSuffix: D
+  std: 9312
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9301
+  dateCodeSuffix: EP005
+  std: 9301
+  misc: 

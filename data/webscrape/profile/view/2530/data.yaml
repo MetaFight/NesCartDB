@@ -1,0 +1,126 @@
+metadata:
+  name: Sword Master
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-27 01:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1894
+  - 1285
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-8S-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3ed9c978c2e0fcd71d8cd0dd925cbd06.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-8S-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/24bd8e39085b157a7f8749497d520cbc.jpg
+slug: sword-master
+releaseInfo:
+  catalogId: NES-8S-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: January 21, 1993
+  publisher: Activision
+  developer: Athena
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8S-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f48195489426b7be391f9bf3ee5bb9b9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2d765fb7eef9ed27590e8aca2e30f864.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-8S-0 PRG
+  size: 128 KB
+  crc32: 36002ED2
+  x: 2
+- type: CHR0
+  label: NES-8S-0 CHR
+  size: 128 KB
+  crc32: 5170E390
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 66066326
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b8f2f12e72ebce87c566859ebab6bb65.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9241
+  estFirstRun: October 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: AD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9241
+  dateCodeSuffix: E
+  std: 9241
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 77
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9241
+  dateCodeSuffix: E
+  std: 9241
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9237
+  dateCodeSuffix: A
+  std: 9237
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9237
+  dateCodeSuffix: EP016
+  std: 9237
+  misc: 

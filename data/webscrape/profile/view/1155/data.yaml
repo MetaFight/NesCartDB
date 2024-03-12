@@ -1,0 +1,133 @@
+metadata:
+  name: Advanced Dungeons & Dragons Pool of Radiance
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 18:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4515
+  additionalImages: 
+slug: advanced-dungeons-dragons-pool-of-radiance
+releaseInfo:
+  catalogId: NES-QA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1992
+  publisher: FCI
+  developer: Strategic Simulations
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QA-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5facd78db9a5b1a10f4dacf4909512e8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/016aa46a59a55ea5675c3acf59a4e983.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-QA-0 PRG
+  size: 512 KB
+  crc32: 9ACDED0E
+  x: 1
+- type: CHR0
+  label: NES-QA-0 CHR
+  size: 128 KB
+  crc32: 34B0EBC5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 640 KB
+  crc32: 25952141
+  x: 1
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cce4f2b7be3e2ef989dd4870c018cbce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9209
+  estFirstRun: March 1992
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013ACZ
+  partNumberSubDetail: W21
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9209
+  dateCodeSuffix: EP701
+  std: 9209
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W72
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9208
+  dateCodeSuffix: KY003
+  std: 9208
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 201
+  dateCodeSuffix: C
+  std: 9201
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: EP031
+  std: 9204
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9205
+  dateCodeSuffix: KT46
+  std: 9205
+  misc: 

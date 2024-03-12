@@ -1,0 +1,96 @@
+metadata:
+  name: Gyrodine
+  altName: ジャイロダイン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-18 01:23:00
+  moreProfiles:
+  - 1761
+  - 3162
+  relatedProfiles: []
+  additionalImages: 
+slug: gyrodine
+releaseInfo:
+  catalogId: TFC-GD-4900-06
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 13, 1986
+  publisher: Taito
+  developer: Crux
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / No Battery Door
+  frontLabelId: Not Present
+  sequence#: 06
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1761')"
+    filename: /images/175/681cfeb278199c85150cae727b0dfc29.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1558')"
+    filename: /images/175/7ed10f69fe670283a75014d295ce9716.jpg
+romDetails:
+- type: PRG0
+  label: X3-005 P
+  size: 32 KB
+  crc32: 23E6D471
+  x: 2
+- type: CHR0
+  label: X3-006 CCC
+  size: 8 KB
+  crc32: 4329BB4D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 29E173FF
+  x: 2
+pcbProperties:
+  name: P3-016B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-016B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1af2e6b944e1800f56da4c4457d654b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-016B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/305acf3f55d8e3f615bab2fd5738c1fd.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8606 - 8608 (2)
+  estFirstRun: February 1986
+  pcbClass: TAITO-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0300
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6A5
+  dateCodeSuffix: 10
+  std: 8606
+  misc: 
+- designation: CH
+  maker: Ricoh
+  partNumber: RP2D70
+  partNumberSubDetail: 0040
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6A5
+  dateCodeSuffix: 22
+  std: 8606
+  misc: 

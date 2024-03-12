@@ -1,0 +1,79 @@
+metadata:
+  name: Pac-Man
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 02:17:00
+  moreProfiles:
+  - 570
+  - 2824
+  relatedProfiles:
+  - 1592
+  - 320
+  - 1025
+  additionalImages: 
+slug: pac-man
+releaseInfo:
+  catalogId: NES-PQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PQ-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2824')"
+    filename: /images/175/a666b2054e83a5954c1f7560d460d017.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2824')"
+    filename: /images/175/a459b189bf8d37e06d2eef671be2c49c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: NES-PQ-0 PRG
+  size: 16 KB
+  crc32: E35321BC
+  x: 2
+- type: CHR0
+  label: NES-PQ-0 CHR
+  size: 8 KB
+  crc32: 49ABEEE6
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: A9BBF44F
+  x: 2
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8842
+  estFirstRun: October 1988
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

@@ -1,0 +1,111 @@
+metadata:
+  name: Millipede
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-12 20:53:00
+  moreProfiles:
+  - 58
+  - 485
+  - 559
+  relatedProfiles: []
+  additionalImages: 
+slug: millipede
+releaseInfo:
+  catalogId: NES-ML-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1988
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ML-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 58')"
+    filename: /images/175/a98e97ff9dce98c95ef6db63faaaaabf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aca4f49349f503ee485ff44d00056d2f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-ML-0 PRG
+  size: 16 KB
+  crc32: 0AB06C51
+  x: 4
+- type: CHR0
+  label: NES-ML-0 CHR
+  size: 8 KB
+  crc32: 3D3DAE3F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: AE52DECE
+  x: 4
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/01f188e6b68cff483792bbf463fd8869.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 2056')"
+    filename: /images/175/4d2ba057fb9442e3c06fe0fef293acbd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8842 - 8921 (2)
+  estFirstRun: October 1988
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: OKI
+  partNumber: M38128B
+  partNumberSubDetail: FB
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8X
+  dateCodeSuffix: 20
+  std: 8839
+  misc: 
+- designation: U2 CHR
+  maker: OKI
+  partNumber: M3864B
+  partNumberSubDetail: FB
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8X
+  dateCodeSuffix: 16
+  std: 8839
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8842
+  dateCodeSuffix: 7 AA
+  std: 8842
+  misc: 

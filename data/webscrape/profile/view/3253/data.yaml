@@ -1,0 +1,119 @@
+metadata:
+  name: "Famista '89: Kaimaku Ban!!"
+  altName: ファミスタ’８９　開幕版！！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-06 00:54:00
+  moreProfiles:
+  - 1789
+  - 3252
+  - 3253
+  - 3341
+  relatedProfiles: []
+  additionalImages: 
+slug: famista-89-kaimaku-ban
+releaseInfo:
+  catalogId: NAM-FS89-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 28, 1989
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1789')"
+    filename: /images/175/86684b4afd2c1c45931e98d40c944194.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1602')"
+    filename: /images/175/c6b086780d9ac8adb9d7526c15d84f86.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: BDBAE3E0
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 4F08E260
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 4F2F1846
+  x: 4
+pcbProperties:
+  name: 60-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/26143bf263b17e6ebdd0938f5429cf65.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8920 - 8922 (4)
+  estFirstRun: May 1989
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FS89
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 922
+  dateCodeSuffix: K13
+  std: 8922
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP108
+  type: Namcot 108
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

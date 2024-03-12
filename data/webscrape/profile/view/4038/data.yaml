@@ -1,0 +1,154 @@
+metadata:
+  name: Holy Diver
+  altName: ホーリーダイヴァー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-02-08 06:26:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e5c2cbc93424b5b2f73254ee561d7c8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/25dc92311a5b37b237647b2608eb67b0.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/05f9e3055f7d4445bffa0fccc108c72a.jpg
+slug: holy-diver
+releaseInfo:
+  catalogId: IF-12
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 28, 1989
+  publisher: Irem
+  developer: Irem
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Black
+  formFactor: New Style
+  frontLabelId: IF-12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ccd22f66789500a959aba2c0b8cb9c53.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4011e9e6cd06c2e4dc2995238b775835.jpg
+romDetails:
+- type: PRG0
+  label: IRFM P-1
+  size: 128 KB
+  crc32: BC1197A4
+  x: 1
+- type: CHR0
+  label: IREM C-1
+  size: 128 KB
+  crc32: BE4A4753
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BA51AC6F
+  x: 1
+pcbProperties:
+  name: UNK-IF-12
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-IF-12<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ccb58acaf84d787f2cce03ce4bcc0900.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-IF-12<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/805e266e84831c0e5930bf6f687c349d.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8908
+  estFirstRun: February 1989
+  pcbClass: IREM-HOLYDIVER
+  inesMapper: 78
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx00, 74xx161, 74xx161, 74xx245, 74xx32
+detailedChipInfo:
+- designation: PRG
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: ''
+  std: 8908
+  misc: 
+- designation: CHR
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: ''
+  std: 8908
+  misc: 
+- designation: HC161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8J2
+  dateCodeSuffix: T
+  std: 8837
+  misc: 
+- designation: HC161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8J2
+  dateCodeSuffix: T
+  std: 8837
+  misc: 
+- designation: HC32
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8J2
+  dateCodeSuffix: T
+  std: 8837
+  misc: 
+- designation: 
+  maker: Rohm
+  partNumber: BU74HC00
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 851
+  dateCodeSuffix: 126
+  std: 8851
+  misc: 
+- designation: HC245
+  maker: Hitachi
+  partNumber: HD74HC245P
+  partNumberSubDetail: 
+  type: 74-245 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8C3
+  dateCodeSuffix: T
+  std: 8812
+  misc: 

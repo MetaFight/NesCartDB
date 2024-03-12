@@ -1,0 +1,94 @@
+metadata:
+  name: Chack 'n Pop
+  altName: ちゃっくんぽっぷ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-16 03:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: chack-n-pop
+releaseInfo:
+  catalogId: TFC-CP-4500-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: May 24, 1985
+  publisher: Taito
+  developer: Taito
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 2 Screws
+  frontLabelId: Not Present
+  sequence#: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/edb4f0a96887785d56ff401a7e172e50.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7c2cb654d9162b578c02069b21ab8201.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 4BA78222
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 59EAC78D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 622F059D
+  x: 1
+pcbProperties:
+  name: PLT192AS1Y
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>PLT192AS1Y<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/36d4e1a8b8776d470f250e368f5cbb3c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>PLT192AS1Y<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b3aa8ef3721b12ad022fcef0eda801a2.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8517
+  estFirstRun: April 1985
+  pcbClass: TAITO-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: NEC
+  partNumber: D23128EC
+  partNumberSubDetail: 142
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8517
+  dateCodeSuffix: KX
+  std: 8517
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: D2364EC
+  partNumberSubDetail: 196
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8516
+  dateCodeSuffix: X7
+  std: 8516
+  misc: 

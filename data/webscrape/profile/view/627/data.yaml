@@ -1,0 +1,133 @@
+metadata:
+  name: Bases Loaded
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2006-03-11 05:04:00
+  moreProfiles:
+  - 627
+  - 628
+  - 745
+  - 2806
+  - 874
+  relatedProfiles:
+  - 1549
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-LD USA-1<br>Submitted by: bootgod<br>Linked from profile 628')"
+    filename: /images/175/007d3948edb5a3d66f83391b19810976.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-LD USA-1<br>Submitted by: bootgod<br>Linked from profile 628')"
+    filename: /images/175/a4286c40793deb20cecc1cd4b5efcfbe.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-LD-USA-1<br>Submitted by: bootgod<br>Linked from profile 628')"
+    filename: /images/175/0a0369cef5bdebfd5337f40e7935146f.jpg
+slug: bases-loaded
+releaseInfo:
+  catalogId: NES-LD-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1988
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LD-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 874')"
+    filename: /images/175/d6cd89cd99958d1020fad4e047fb2a46.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 628')"
+    filename: /images/175/3e6c790ab8722f6dfc1bf872a42514fd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4741')"
+    filename: /images/175/ad00db9923d49b428ee0df399cfd4c81.jpg
+romDetails:
+- type: PRG0
+  label: NES-LD-1 PRG
+  size: 256 KB
+  crc32: 778AAF25
+  x: 2
+- type: CHR0
+  label: NES-LD-0 CHR
+  size: 64 KB
+  crc32: E472EC23
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 320 KB
+  crc32: DAEE19F2
+  x: 2
+pcbProperties:
+  name: NES-SFROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b5f5cc6582ad51a9b3d803a05e33144a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8826 - 8947 (5)
+  estFirstRun: June 1988
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T34
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8940
+  dateCodeSuffix: PY700
+  std: 8940
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 09
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: E
+  std: 8941
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8947
+  dateCodeSuffix: 5 CA
+  std: 8947
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8942
+  dateCodeSuffix: 3 AA
+  std: 8942
+  misc: 

@@ -1,0 +1,143 @@
+metadata:
+  name: 'Batman: Return of the Joker'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-06-11 03:05:00
+  moreProfiles:
+  - 1620
+  - 4118
+  relatedProfiles:
+  - 2074
+  - 3857
+  - 1905
+  - 657
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-48-SCN<br>Submitted by: Kinopio<br>Linked from profile 1620')"
+    filename: /images/175/9b9747bed2a2a4e08babe5dac63b38d6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-48-SCN<br>Submitted by: Kinopio<br>Linked from profile 1620')"
+    filename: /images/175/4cd9e20ef5617b8268a386ab8e9642e1.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-48-SCN<br>Submitted by: Kinopio<br>Linked from profile 1620')"
+    filename: /images/175/cd6c309a550cc5103539b69eecf4ac55.jpg
+slug: batman-return-of-the-joker
+releaseInfo:
+  catalogId: NES-48-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: November 19, 1992
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-48-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1620')"
+    filename: /images/175/3d9d1b25a05ab5da63fabad85b3ae071.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1620')"
+    filename: /images/175/b6919a344c2a54b9b8409586d2cd70e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-48-0 PRG
+  size: 128 KB
+  crc32: 5E74AAFC
+  x: 4
+- type: CHR0
+  label: PAL-48-0 CHR
+  size: 256 KB
+  crc32: AE83FD09
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: BA327FD9
+  x: 4
+pcbProperties:
+  name: NES-JSROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-JSROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0ae55504536d1460d66534cfa7544147.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-JSROM-01<br>Submitted by: Kinopio<br>Linked from profile 1620')"
+    filename: /images/175/fc7a42d6804e07cdc879f889a2782eda.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9233 - 9233 (2)
+  estFirstRun: August 1992
+  pcbClass: NES-JSROM
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: FME-7
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: D4
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9233
+  dateCodeSuffix: E
+  std: 9233
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 92
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9233
+  dateCodeSuffix: D
+  std: 9233
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9231
+  dateCodeSuffix: C
+  std: 9231
+  misc: 
+- designation: U4 FME-7
+  maker: Sharp
+  partNumber: FME-7
+  partNumberSubDetail: 
+  type: Sunsoft FME-7
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9231
+  dateCodeSuffix: AA
+  std: 9231
+  misc: 
+- designation: U5 SRAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9217
+  dateCodeSuffix: EJ
+  std: 9217
+  misc: 

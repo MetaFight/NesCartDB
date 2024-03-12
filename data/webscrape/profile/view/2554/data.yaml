@@ -1,0 +1,122 @@
+metadata:
+  name: Orb 3-D
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-06 05:12:00
+  moreProfiles:
+  - 95
+  - 2554
+  relatedProfiles: []
+  additionalImages: 
+slug: orb-3-d
+releaseInfo:
+  catalogId: NES-5H-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Hi Tech Expressions
+  developer: The Software Toolworks
+  players: 1
+  peripherals: NES Controller,3-D Glasses
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-5H-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 95')"
+    filename: /images/175/bc4457a200e5839c81cd6ff2965909ba.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 95')"
+    filename: /images/175/90e841ed77b3976bf1949dbf1d77a5a3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-5H-0 PRG
+  size: 64 KB
+  crc32: 84B930A9
+  x: 2
+- type: CHR0
+  label: NES-5H-0 CHR
+  size: 128 KB
+  crc32: 321F0492
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 958E4BAE
+  x: 2
+pcbProperties:
+  name: NES-SCROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SCROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/606db0dc6677c843e217f5b535e7f620.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SCROM-03<br>Submitted by: Kinopio<br>Linked from profile 2102')"
+    filename: /images/175/381235f257576e86f259ec1a32d42987.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9036 - 9036 (2)
+  estFirstRun: September 1990
+  pcbClass: NES-SCROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 50
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9036
+  dateCodeSuffix: E
+  std: 9036
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: Y3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9036
+  dateCodeSuffix: D
+  std: 9036
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9034
+  dateCodeSuffix: 3 AA
+  std: 9034
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9016
+  dateCodeSuffix: B3016
+  std: 9016
+  misc: 

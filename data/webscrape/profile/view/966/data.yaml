@@ -1,0 +1,131 @@
+metadata:
+  name: Puzzle
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 23:33:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e024b819a5b68bc2a6ed7c1c6fc10d19.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/960babc87d25ed32126dfc18e573414e.jpg
+slug: puzzle
+releaseInfo:
+  catalogId: AVE-PZ
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Idea-Tek
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/95f63dd3dca766895fe320b0bee0e146.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0464642d3bd7c62621d1e8f74ccc2c13.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1269')"
+    filename: /images/175/818454343a4135a12b4bad8f20ea4f94.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 0C871B42
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 65825E30
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: EA19080A
+  x: 1
+pcbProperties:
+  name: NINA-03 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cdcf047b55b39d8df7ae59934d77dc3d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 1375')"
+    filename: /images/175/ba39c04386d4d07c727a8aab1d5c872c.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: AVE-NINA-03
+  inesMapper: 79
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: ST Micro
+  partNumber: M27256-2F1
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8822
+  dateCodeSuffix: A8
+  std: 8822
+  misc: 
+- designation: U2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: Hitachi
+  partNumber: HD74LS138P
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 0H1
+  dateCodeSuffix: 6
+  std: 9032
+  misc: 
+- designation: U4
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .917
+  dateCodeSuffix: ''
+  std: 8903
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9036
+  dateCodeSuffix: ''
+  std: 9036
+  misc: 

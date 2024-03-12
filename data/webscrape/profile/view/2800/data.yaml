@@ -1,0 +1,128 @@
+metadata:
+  name: Shadow of the Ninja
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-06-22 04:55:00
+  moreProfiles:
+  - 198
+  - 2799
+  - 2800
+  relatedProfiles:
+  - 1926
+  - 4764
+  - 2393
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-JL-USA<br>Submitted by: bootgod<br>Linked from profile 198')"
+    filename: /images/175/06639e89a323ac8da6c04dc54459cde1.jpg
+slug: shadow-of-the-ninja
+releaseInfo:
+  catalogId: NES-JL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Natsume
+  developer: Natsume
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JL-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 198')"
+    filename: /images/175/b5e3d81105658691a396cf9fea36abcc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 198')"
+    filename: /images/175/dd54aa1f9a563e64b7406cabdcef5f83.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-JL-0 PRG
+  size: 128 KB
+  crc32: D6AE4AB5
+  x: 3
+- type: CHR0
+  label: NES-JL-0 CHR
+  size: 128 KB
+  crc32: 30B96BF4
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DDD90C39
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d148e2bd287e3174fde9c4267c1c690.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9046 - 9047 (3)
+  estFirstRun: November 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 6606
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0LF
+  dateCodeSuffix: 74
+  std: 9045
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0109
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0KM
+  dateCodeSuffix: 71
+  std: 9041
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9042
+  dateCodeSuffix: 3 AB
+  std: 9042
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9046
+  dateCodeSuffix: 3 DB
+  std: 9046
+  misc: 

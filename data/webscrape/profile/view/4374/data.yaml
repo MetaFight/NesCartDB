@@ -1,0 +1,123 @@
+metadata:
+  name: RoboCop 2
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-11 04:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4064
+  - 1881
+  - 620
+  additionalImages: 
+slug: robocop-2
+releaseInfo:
+  catalogId: NES-2C-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1991
+  publisher: Ocean
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2C-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b9c2f189274583bf5cf3a9b9a4a137af.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a96546b342806b2e8c261cffd7a750f3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4367')"
+    filename: /images/175/af14a7e9f42101b30e26d2aec5df323c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-2C-0 PRG
+  size: 128 KB
+  crc32: 40C9E3EE
+  x: 3
+- type: CHR0
+  label: PAL-2C-0 CHR
+  size: 128 KB
+  crc32: 698FE8AB
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 89821E2B
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/9953950b8956ca0403cf0f5d57c10d0b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146
+  estFirstRun: November 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W58
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: K9700
+  std: 9146
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W50
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9146
+  dateCodeSuffix: KY024
+  std: 9146
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9141
+  dateCodeSuffix: A
+  std: 9141
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9106
+  dateCodeSuffix: 3 AA
+  std: 9106
+  misc: 

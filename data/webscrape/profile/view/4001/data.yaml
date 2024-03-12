@@ -1,0 +1,102 @@
+metadata:
+  name: Aa Yakyuu Jinsei Icchokusen
+  altName: 嗚呼！野球人生一直線
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 23:06:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6ba548b95be0c28681ebc8c00f47e4bb.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47a8d9065c9bf91be401ff95439d6572.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90ec0722fb287af64ae5fb90b442d266.jpg
+slug: aa-yakyuu-jinsei-icchokusen
+releaseInfo:
+  catalogId: SAC-YA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 25, 1992
+  publisher: Sammy
+  developer: Sammy
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Blue
+  formFactor: Small
+  frontLabelId: SAC-YA
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/86e809b7cdf9bd183c02023e7f240d9c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SAC-YA-0 PRG
+  size: 512 KB
+  crc32: B7773A07
+  x: 1
+pcbProperties:
+  name: HVC-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9248
+  estFirstRun: December 1992
+  pcbClass: HVC-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534J
+  partNumberSubDetail: 2L
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9248
+  dateCodeSuffix: E
+  std: 9248
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9214
+  dateCodeSuffix: EJ
+  std: 9214
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9220
+  dateCodeSuffix: EP015
+  std: 9220
+  misc: 

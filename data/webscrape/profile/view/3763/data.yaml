@@ -1,0 +1,109 @@
+metadata:
+  name: 'Golgo 13: Dai 1 Shou: Kamigami no Tasogare'
+  altName: ゴルゴ13　第一
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-06 05:39:00
+  moreProfiles:
+  - 1644
+  - 3763
+  relatedProfiles:
+  - 200
+  additionalImages: 
+slug: golgo-13-dai-1-shou-kamigami-no-tasogare
+releaseInfo:
+  catalogId: VIC-G3
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 26, 1988
+  publisher: Vic Tokai
+  developer: Vic Tokai
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: VIC-G3
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1644')"
+    filename: /images/175/842a840c225a1a4de7a78c767e99fe62.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VIC-G3-0 PRG
+  size: 128 KB
+  crc32: 92D5E3DC
+  x: 2
+- type: CHR0
+  label: VIC-G3-0 CHR
+  size: 128 KB
+  crc32: EE14E27B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A0006B26
+  x: 2
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ee43317ca5f128711033c9eae73de5b5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8811 - 8812 (2)
+  estFirstRun: March 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0229
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8C1
+  dateCodeSuffix: B5
+  std: 8810
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 45
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8811
+  dateCodeSuffix: D
+  std: 8811
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8749
+  dateCodeSuffix: A
+  std: 8749
+  misc: 

@@ -1,0 +1,86 @@
+metadata:
+  name: Batman
+  altName: 
+  variant: 
+  submittedBy: Cowering
+  submittedOn: 2007-03-19 18:53:00
+  moreProfiles:
+  - 165
+  - 223
+  - 232
+  - 1144
+  - 1396
+  - 4614
+  relatedProfiles:
+  - 2434
+  - 1421
+  - 2054
+  - 3145
+  - 1904
+  additionalImages: 
+slug: batman
+releaseInfo:
+  catalogId: NES-B4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-B4-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 10
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 223')"
+    filename: /images/175/913358c17edd863285c31634da4e58e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 165')"
+    filename: /images/175/4cb091f9e6da17e3a34d2700a2e92d41.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-B4-0 PRG
+  size: 128 KB
+  crc32: 5A3E41D8
+  x: 4
+- type: CHR0
+  label: NES-B4-0 CHR
+  size: 128 KB
+  crc32: F3B41C18
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 13C6617E
+  x: 4
+pcbProperties:
+  name: NES-TL2ROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8949 - 9024 (4)
+  estFirstRun: December 1989
+  pcbClass: NES-TL2ROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo: []

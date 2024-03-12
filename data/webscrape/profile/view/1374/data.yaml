@@ -1,0 +1,131 @@
+metadata:
+  name: Double Strike
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-02 04:22:00
+  moreProfiles:
+  - 1044
+  - 1374
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27d4d5f38c1117dac997dee16c25ca74.jpg
+slug: double-strike
+releaseInfo:
+  catalogId: AVE-DS
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Sachen / Joy Van
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/68ec8d5ad1e84a67d106fe1c594c0ce9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6be9333d2adf75269bbe9620cea8c777.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: EF344C6F
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 39536D86
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 36B35988
+  x: 1
+pcbProperties:
+  name: MB-91?J?
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>MB-91?J?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e69bcdb7d63ddd3e8b7ffc1a562f7232.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>MB-91?J?<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7069cafbddf1e1f5c5f8b70d97ada3c1.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9139 - 9144 (2)
+  estFirstRun: September 1991
+  pcbClass: AVE-MB-91
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-12 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: KL
+  std: 9135
+  misc: KLQ8625
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-15 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: KL
+  std: 9135
+  misc: 2314801
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9131
+  dateCodeSuffix: ''
+  std: 9131
+  misc: 
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: ''
+  std: 9039
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9139
+  dateCodeSuffix: ''
+  std: 9139
+  misc: 

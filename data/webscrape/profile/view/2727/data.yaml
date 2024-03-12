@@ -1,0 +1,110 @@
+metadata:
+  name: Miracle Ropit's Adventure in 2100
+  altName: ミラクルロピット ～２１００年の冒険～
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 22:51:00
+  moreProfiles:
+  - 1639
+  - 2727
+  relatedProfiles: []
+  additionalImages: 
+slug: miracle-ropits-adventure-in-2100
+releaseInfo:
+  catalogId: KIN-GM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 7, 1987
+  publisher: King Records
+  developer: Micronics / Khaos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: KIN-GM
+  secondaryId: KIN-1
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1639')"
+    filename: /images/175/4a8ab465f60ec81ba8bca87b4aadefed.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KIM-GM-0 PRG
+  size: 128 KB
+  crc32: 9F8336DB
+  x: 2
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8728 - 8728 (2)
+  estFirstRun: July 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 80
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8728
+  dateCodeSuffix: D
+  std: 8728
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5264D4
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8724
+  dateCodeSuffix: 7 Y
+  std: 8724
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8726
+  dateCodeSuffix: CA
+  std: 8726
+  misc: 
+- designation: LS32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8721
+  dateCodeSuffix: C7
+  std: 8721
+  misc: 

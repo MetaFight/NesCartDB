@@ -1,0 +1,143 @@
+metadata:
+  name: Nobunaga's Ambition II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-14 23:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3169
+  additionalImages: 
+slug: nobunagas-ambition-ii
+releaseInfo:
+  catalogId: NES-NU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1991
+  publisher: Koei
+  developer: Koei
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-NU-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/394b2e920daca36d2b6a6665c86f895e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a82ae47b6a99274ab11aaf7011c7433b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-NU-0 PRG
+  size: 256 KB
+  crc32: B56958D1
+  x: 1
+- type: CHR0
+  label: NES-NU-0 CHR
+  size: 128 KB
+  crc32: A22A8B4F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 8CE478DB
+  x: 1
+pcbProperties:
+  name: NES-ETROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1f808647317bebac74af182c32d8a25c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9107
+  estFirstRun: February 1991
+  pcbClass: NES-ETROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T90
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9107
+  dateCodeSuffix: PY204
+  std: 9107
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R29
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9107
+  dateCodeSuffix: EY701
+  std: 9107
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9042
+  dateCodeSuffix: AA025
+  std: 9042
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 034
+  dateCodeSuffix: N
+  std: 9034
+  misc: 
+- designation: U5 W-RAM-1
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 039
+  dateCodeSuffix: N
+  std: 9039
+  misc: 
+- designation: U6 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9048
+  dateCodeSuffix: 3 BB
+  std: 9048
+  misc: 

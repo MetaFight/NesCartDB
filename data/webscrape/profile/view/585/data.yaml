@@ -1,0 +1,132 @@
+metadata:
+  name: Legend of the Ghost Lion
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 03:36:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4665
+  additionalImages: 
+slug: legend-of-the-ghost-lion
+releaseInfo:
+  catalogId: NES-LL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1992
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LL-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6037a753c5b57bb145be7399a446bf38.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a77f65cf16f7ff5b3841665f24a66c9c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-LL-0 PRG
+  size: 128 KB
+  crc32: 8D94797F
+  x: 1
+- type: CHR0
+  label: NES-LL-0 CHR
+  size: 128 KB
+  crc32: A73F53AE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 04766130
+  x: 1
+pcbProperties:
+  name: NES-SKROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4eddec3c97d986372a4cebca5c94c663.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9236
+  estFirstRun: September 1992
+  pcbClass: NES-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: DS
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9236
+  dateCodeSuffix: E
+  std: 9236
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 5H
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9236
+  dateCodeSuffix: D
+  std: 9236
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: 7 BB
+  std: 9234
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9234
+  dateCodeSuffix: 1 A 170
+  std: 9234
+  misc: 
+- designation: U5 W-RAM
+  maker: Sony
+  partNumber: CXK5864BPX-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 225
+  dateCodeSuffix: A71X
+  std: 9225
+  misc: 

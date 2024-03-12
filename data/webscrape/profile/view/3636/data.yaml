@@ -1,0 +1,98 @@
+metadata:
+  name: Reigen Doushi
+  altName: 霊幻道士
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 04:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 386
+  additionalImages: 
+slug: reigen-doushi
+releaseInfo:
+  catalogId: PNF-KY (R59V5917)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 16, 1988
+  publisher: Pony Canyon
+  developer: Marionette
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Brown
+  formFactor: Small
+  frontLabelId: PNF-KY
+  secondaryId: R59V5917
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bfd6427fa5fd2c7c3208460d88b63208.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-KY-0 PRG
+  size: 256 KB
+  crc32: 0021ED29
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8827
+  estFirstRun: July 1988
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8827
+  dateCodeSuffix: EY
+  std: 8827
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8827
+  dateCodeSuffix: B5
+  std: 8827
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8818
+  dateCodeSuffix: A
+  std: 8818
+  misc: 

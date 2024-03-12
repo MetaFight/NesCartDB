@@ -1,0 +1,107 @@
+metadata:
+  name: Teenage Mutant Ninja Turtles
+  altName: チイーネーソ　ミュータント　ニンジャ　タートルス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-25 06:20:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1773
+  - 2270
+  - 3045
+  additionalImages: 
+slug: teenage-mutant-ninja-turtles
+releaseInfo:
+  catalogId: KON-RC853
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 7, 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC853
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1773')"
+    filename: /images/175/f21825364f27b5d828c534b9b9abf295.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1773')"
+    filename: /images/175/f0e2535cc6f851989c7b17d4e6b56f09.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC853J00P
+  size: 256 KB
+  crc32: EA74C587
+  x: 3
+- type: CHR0
+  label: RC853J0.0C
+  size: 256 KB
+  crc32: E1D75471
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 4A601A2C
+  x: 3
+pcbProperties:
+  name: 352400
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352400<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac3438db3ad79b4ae51d433d3d8e9c37.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>352400<br>Submitted by: bootgod<br>Linked from profile 2270')"
+    filename: /images/175/085ccacca5ad65b1f7bab113daf6f0d6.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9044 - 9108 (3)
+  estFirstRun: November 1990
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 25
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9107
+  dateCodeSuffix: PY003
+  std: 9107
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9108
+  dateCodeSuffix: T07
+  std: 9108
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 052784 VRC IV
+  partNumberSubDetail: 
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9108
+  dateCodeSuffix: Z31
+  std: 9108
+  misc: 

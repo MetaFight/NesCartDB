@@ -1,0 +1,108 @@
+metadata:
+  name: 'Zoids 2: Zenebasu no Gyakushuu'
+  altName: ゾイド2　ゼネバスの逆襲
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 01:55:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: zoids-2-zenebasu-no-gyakushuu
+releaseInfo:
+  catalogId: TFS-Z2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 27, 1989
+  publisher: Toemiland
+  developer: Micronics / Khaos
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TFS-Z2
+  secondaryId: FS-2009G
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/681b1cb145956578c721d74c3ef190b9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFS-Z2-0 PRG
+  size: 256 KB
+  crc32: 89E085FE
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8853
+  estFirstRun: January 1989
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8850
+  dateCodeSuffix: EY
+  std: 8850
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8853
+  dateCodeSuffix: 1 Y
+  std: 8853
+  misc: 
+- designation: U3 CHR
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8A
+  dateCodeSuffix: 71
+  std: 8801
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8853
+  dateCodeSuffix: 1 A
+  std: 8853
+  misc: 

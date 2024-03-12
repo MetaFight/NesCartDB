@@ -1,0 +1,171 @@
+metadata:
+  name: 'Chester Field: Ankoku Shin e no Chousen'
+  altName: チェスター・フィールド 箱・説明書無し
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 00:17:00
+  moreProfiles:
+  - 3812
+  - 4617
+  relatedProfiles: []
+  additionalImages: 
+slug: chester-field-ankoku-shin-e-no-chousen
+releaseInfo:
+  catalogId: VIC-CF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 30, 1987
+  publisher: Vic Tokai
+  developer: Vic Tokai
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: HVC-023 RAM Adapter
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/0d96f5ce7b7e2bdefc77d689944bd0bc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/8f7737599fc9145fdce1a82e91d928e1.jpg
+romDetails:
+- type: PRG3
+  label: 4
+  size: 32 KB
+  crc32: 485ABE58
+  x: 1
+- type: PRG2
+  label: 3
+  size: 32 KB
+  crc32: AF624FC1
+  x: 1
+- type: PRG1
+  label: 2
+  size: 32 KB
+  crc32: D859983B
+  x: 1
+- type: PRG0
+  label: 1
+  size: 32 KB
+  crc32: ED3A98DE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 53328FC4
+  x: 1
+pcbProperties:
+  name: UNK-HVC-023-PROTO
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8728
+  estFirstRun: July 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx139, 74xx161, 74xx32
+detailedChipInfo:
+- designation: IC1 256K ROM
+  maker: Hitachi
+  partNumber: HN27256G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8542
+  dateCodeSuffix: ''
+  std: 8542
+  misc: 
+- designation: IC10 64K CHR RAM
+  maker: Hitachi
+  partNumber: HM6264LP-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8712
+  dateCodeSuffix: ''
+  std: 8712
+  misc: 
+- designation: IC2 256K ROM
+  maker: Hitachi
+  partNumber: HN27256G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8542
+  dateCodeSuffix: ''
+  std: 8542
+  misc: 
+- designation: IC3 256K ROM
+  maker: Hitachi
+  partNumber: HN27256G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8542
+  dateCodeSuffix: ''
+  std: 8542
+  misc: 
+- designation: IC4 256K ROM
+  maker: Hitachi
+  partNumber: HN27256G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8542
+  dateCodeSuffix: ''
+  std: 8542
+  misc: 
+- designation: IC6 LS161
+  maker: Hitachi
+  partNumber: HD74LS161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 5M1
+  dateCodeSuffix: 1
+  std: 8549
+  misc: 
+- designation: IC7 LS32
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 5A2
+  dateCodeSuffix: 1
+  std: 8503
+  misc: 
+- designation: IC8 LS139
+  maker: Hitachi
+  partNumber: HD74LS139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 5D3
+  dateCodeSuffix: T
+  std: 8516
+  misc: 

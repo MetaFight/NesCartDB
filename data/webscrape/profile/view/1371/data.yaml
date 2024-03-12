@@ -1,0 +1,125 @@
+metadata:
+  name: Karate Champ
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-02 04:09:00
+  moreProfiles:
+  - 630
+  - 1177
+  - 1357
+  - 1371
+  - 2802
+  relatedProfiles: []
+  additionalImages: 
+slug: karate-champ
+releaseInfo:
+  catalogId: NES-KC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1986
+  publisher: Data East
+  developer: Sakata SAS
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KC-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0399340f8da4e98801bf60a950b92a1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb227069bd7f4986aed75c82a1b46c7a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-KC-0 PRG
+  size: 32 KB
+  crc32: 508EFA07
+  x: 1
+- type: CHR0
+  label: NES-KC-0 CHR
+  size: 32 KB
+  crc32: 4B7318E6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: ACA145D8
+  x: 1
+pcbProperties:
+  name: NES-CN-ROM-256-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bcd3cd1076d9772508cafadd27887ad1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8643 - 8833 (4)
+  estFirstRun: October 1986
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 79
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8642
+  dateCodeSuffix: D
+  std: 8642
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 78
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8643
+  dateCodeSuffix: D
+  std: 8643
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8643
+  dateCodeSuffix: A
+  std: 8643
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 65D
+  dateCodeSuffix: 5
+  std: 8622
+  misc: 

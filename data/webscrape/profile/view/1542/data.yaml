@@ -1,0 +1,97 @@
+metadata:
+  name: Route 16 Turbo
+  altName: ルート16ターボ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-06 20:59:00
+  moreProfiles:
+  - 1542
+  - 2603
+  - 3136
+  - 3137
+  - 3270
+  relatedProfiles: []
+  additionalImages: 
+slug: route-16-turbo
+releaseInfo:
+  catalogId: SUN-R16-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 4, 1985
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1bef83d42867b1d5754e1b359773c166.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/457384bdb2a847860b3e12aed612ee2b.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 76FFF9D5
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 403315DD
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 728BFA8D
+  x: 5
+pcbProperties:
+  name: UNK-SUNSOFT-R16
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-SUNSOFT-R16<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/916ef93c75597724211b96f9551defee.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-SUNSOFT-R16<br>Submitted by: bootgod<br>Linked from profile 2603')"
+    filename: /images/175/cbc5451f467442895739b89f3b65512d.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8532 - 8535 (5)
+  estFirstRun: August 1985
+  pcbClass: SUNSOFT-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: IC1
+  maker: Fujitsu
+  partNumber: MBM27256-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8522
+  dateCodeSuffix: R52
+  std: 8522
+  misc: 
+- designation: IC2
+  maker: OKI
+  partNumber: M3864
+  partNumberSubDetail: 88
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 59
+  dateCodeSuffix: 15
+  std: 8535
+  misc: 

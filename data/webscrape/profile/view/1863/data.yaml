@@ -1,0 +1,81 @@
+metadata:
+  name: Guerrilla War
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-07-31 03:42:00
+  moreProfiles:
+  - 228
+  - 1863
+  - 2892
+  relatedProfiles:
+  - 4450
+  - 3550
+  additionalImages: 
+slug: guerrilla-war
+releaseInfo:
+  catalogId: NES-GW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: SNK
+  developer: SNK
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GW-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 228')"
+    filename: /images/175/71ddade40eaebd6377cfdcf2355e9372.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 228')"
+    filename: /images/175/e8076f3c2c084984e3fbba693ac1556e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-GW-0 PRG
+  size: 128 KB
+  crc32: 1554FD9D
+  x: 3
+- type: CHR0
+  label: NES-GW-0 CHR
+  size: 128 KB
+  crc32: DE1B8EA3
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6DECD886
+  x: 3
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8933
+  estFirstRun: August 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1B1
+detailedChipInfo: []

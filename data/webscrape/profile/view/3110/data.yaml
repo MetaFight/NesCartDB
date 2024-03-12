@@ -1,0 +1,133 @@
+metadata:
+  name: 'Saint Seiya: Ougon Densetsu'
+  altName: 聖闘士星矢　黄金伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 21:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1741
+  - 2624
+  - 3108
+  - 3109
+  - 3110
+  - 3111
+  - 3292
+  additionalImages: 
+slug: saint-seiya-ougon-densetsu
+releaseInfo:
+  catalogId: BA-SEIYA
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 10, 1987
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Light Blue
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1741')"
+    filename: /images/175/c350f36bde7c9714f2e2e193d3818f03.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1741')"
+    filename: /images/175/9b9e7d0c42974800128fccea466a7317.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1741')"
+    filename: /images/175/6c6dee3754d458ea8606dcceab1f5e84.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 87 SEIYA P
+  size: 128 KB
+  crc32: 3BF15767
+  x: 7
+- type: CHR0
+  label: BANDAI 87 SEIYA C
+  size: 128 KB
+  crc32: E7C63C56
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 026C5FCA
+  x: 7
+pcbProperties:
+  name: BA ワラ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA ワラ<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7b77de6d5d518cc5e390aa8aeabe32f9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA ワラ<br>Submitted by: bootgod<br>Linked from profile 1741')"
+    filename: /images/175/349dc2323bcf4720733bbbcb7581d98d.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8731 - 8738 (7)
+  estFirstRun: August 1987
+  pcbClass: BANDAI-74*161/161/32
+  inesMapper: 152
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2315
+  partNumberSubDetail: 71
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8738
+  dateCodeSuffix: D
+  std: 8738
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2315
+  partNumberSubDetail: 70
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8737
+  dateCodeSuffix: D
+  std: 8737
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 648
+  dateCodeSuffix: 4D0
+  std: 8648
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8716
+  dateCodeSuffix: J
+  std: 8716
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8716
+  dateCodeSuffix: J
+  std: 8716
+  misc: 

@@ -1,0 +1,96 @@
+metadata:
+  name: Space Invaders
+  altName: スペースインベーダー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-30 04:39:00
+  moreProfiles:
+  - 1759
+  - 3165
+  relatedProfiles: []
+  additionalImages: 
+slug: space-invaders
+releaseInfo:
+  catalogId: TFC-SI-4500-01
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 17, 1985
+  publisher: Taito
+  developer: Taito
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Short Label / Logo 1 / 3 Screws
+  frontLabelId: Not Present
+  sequence#: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8ce0927b4a6ea508e8a45e5504090ab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8e34e19891490e2dcc8929f3d39236c1.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 50920B03
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: A1C6A8F4
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D9C093B1
+  x: 2
+pcbProperties:
+  name: FC007
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC007<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3506c49be5670ae99ff162a6c024e3a9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC007<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00801348d053ca16f220868acc8e31a3.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8822 - 8851 (2)
+  estFirstRun: June 1988
+  pcbClass: TAITO-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: OKI
+  partNumber: M27128AZB
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 86
+  dateCodeSuffix: 3015
+  std: 8822
+  misc: 
+- designation: CH
+  maker: OKI
+  partNumber: M2764Z
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 77
+  dateCodeSuffix: 3010
+  std: 8727
+  misc: 

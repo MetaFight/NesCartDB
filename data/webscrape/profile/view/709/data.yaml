@@ -1,0 +1,121 @@
+metadata:
+  name: Adventures of Lolo
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-26 04:47:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2407
+  additionalImages: 
+slug: adventures-of-lolo
+releaseInfo:
+  catalogId: NES-AV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 20, 1989
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AV-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e521afeac459828045e6ac830ad755fb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/64ffdcd645ffd2619af5ab0d1b8ab2ce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-AV-0 PRG
+  size: 32 KB
+  crc32: E5682E52
+  x: 1
+- type: CHR0
+  label: NES-AV-0 CHR
+  size: 32 KB
+  crc32: 8700C250
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 71BF075F
+  x: 1
+pcbProperties:
+  name: NES-SEROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/700d8ee978f57164ea015cab4706eac9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8911
+  estFirstRun: March 1989
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2809
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9C1
+  dateCodeSuffix: 12
+  std: 8910
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2810
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9C2
+  dateCodeSuffix: 18
+  std: 8911
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8909
+  dateCodeSuffix: 1 A
+  std: 8909
+  misc: 
+- designation: U4 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8909
+  dateCodeSuffix: 7 BA
+  std: 8909
+  misc: 

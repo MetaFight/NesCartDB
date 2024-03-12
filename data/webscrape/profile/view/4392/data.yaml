@@ -1,0 +1,124 @@
+metadata:
+  name: The Magic of Scheherazade
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-12 03:11:00
+  moreProfiles:
+  - 142
+  - 4392
+  - 4401
+  relatedProfiles:
+  - 3778
+  additionalImages: 
+slug: the-magic-of-scheherazade
+releaseInfo:
+  catalogId: NES-AS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Culture Brain
+  developer: Culture Brain
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AS-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 142')"
+    filename: /images/175/2f6480dc5129e8709a9d6ebe8e8e33e0.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c2a217236d9ed2847da0c7121236b8bb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/796f3615625a769a390b7d6853b846f2.jpg
+romDetails:
+- type: PRG0
+  label: NES-AS-0 PRG
+  size: 128 KB
+  crc32: A848A2B1
+  x: 3
+- type: CHR0
+  label: NES-AS-0 CHR
+  size: 128 KB
+  crc32: 57629424
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 92197173
+  x: 3
+pcbProperties:
+  name: NES-SLROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2431d7c8625a8eefdeb5ff7354bd3619.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-05<br>Submitted by: Kinopio<br>Linked from profile 2351')"
+    filename: /images/175/dcdd639e5d822b312094788ffc87ae2e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8947 - 9013 (3)
+  estFirstRun: November 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5372
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L3
+  dateCodeSuffix: 72
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: A9
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8946
+  dateCodeSuffix: E
+  std: 8946
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8953
+  dateCodeSuffix: 1 CA
+  std: 8953
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8948
+  dateCodeSuffix: B3002
+  std: 8948
+  misc: 

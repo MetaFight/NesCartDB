@@ -1,0 +1,122 @@
+metadata:
+  name: 'Wizardry: Proving Grounds of the Mad Overlord'
+  altName: ウィザードリィ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-02 00:23:00
+  moreProfiles:
+  - 1516
+  - 1723
+  - 2341
+  relatedProfiles:
+  - 1100
+  additionalImages: 
+slug: wizardry-proving-grounds-of-the-mad-overlord
+releaseInfo:
+  catalogId: HSP-09
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 22, 1987
+  publisher: ASCII
+  developer: Sir-Tech Software
+  portedBy: 
+  players: 1
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-09
+  backLabelId/Desc: 870417
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1516')"
+    filename: /images/175/e7cc23b31b98eab9917bdab9c96c1ef0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-09-0 PRG
+  size: 128 KB
+  crc32: 343E9146
+  x: 3
+- type: CHR0
+  label: HSP-09-0 CHR
+  size: 128 KB
+  crc32: F711D19D
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 498187B6
+  x: 3
+pcbProperties:
+  name: HVC-SKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2a5e833d11045e78abe47879c8246108.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-01<br>Submitted by: bootgod<br>Linked from profile 3619')"
+    filename: /images/175/d9586b9efaa8190e18f3fbd7f0c0922d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8749 - 8849 (3)
+  estFirstRun: December 1987
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: KX
+  std: 8747
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8749
+  dateCodeSuffix: KY
+  std: 8749
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8746
+  dateCodeSuffix: A
+  std: 8746
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8749
+  dateCodeSuffix: 7 D
+  std: 8749
+  misc: 

@@ -1,0 +1,106 @@
+metadata:
+  name: Mahjong RPG Dora Dora Dora
+  altName: ドラ！ドラ！ドラ！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 01:34:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mahjong-rpg-dora-dora-dora
+releaseInfo:
+  catalogId: NAT-3R
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: January 25, 1991
+  publisher: Natsume
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: NAT-3R
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3f6ede302fef7cb4fd7bd9fa5cb2ee1e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: NAT-3R-0 PRG
+  size: 128 KB
+  crc32: DA40E4A2
+  x: 1
+- type: CHR0
+  label: NAT-3R-0 CHR
+  size: 128 KB
+  crc32: 60468570
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 099B8CAA
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6062e399b7e7db257515e50a5c7f9fe4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 97
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9049
+  dateCodeSuffix: E
+  std: 9049
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: R2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9049
+  dateCodeSuffix: D
+  std: 9049
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9049
+  dateCodeSuffix: 3 AA
+  std: 9049
+  misc: 

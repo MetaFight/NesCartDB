@@ -1,0 +1,131 @@
+metadata:
+  name: The Karate Kid
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-29 02:19:00
+  moreProfiles:
+  - 476
+  - 643
+  - 873
+  - 1071
+  - 2803
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-KK USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f1feb08b4e3fbed6cf4926a4f2ecb1d1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-KK USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b1d5f763c274aa7a6e0a9746ef06643.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-KK-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8100e7f4842a23ab9edca60e61bdae59.jpg
+slug: the-karate-kid
+releaseInfo:
+  catalogId: NES-KK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1987
+  publisher: LJN
+  developer: Atlus
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KK-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2803')"
+    filename: /images/175/07417c2c4ca2f82de26d34672ce45582.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/192a72b19620e96ac493fedbb0de0bf7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-KK-0 PRG
+  size: 32 KB
+  crc32: 268D566D
+  x: 5
+- type: CHR0
+  label: NES-KK-0 CHR
+  size: 32 KB
+  crc32: 0031031B
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 983948A5
+  x: 5
+pcbProperties:
+  name: NES-CN-ROM-256-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc5074b6559b221450e97f2936680c44.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-04<br>Submitted by: Skrybe<br>Linked from profile 4649')"
+    filename: /images/175/b28a50ede1ef85ee1f2e6f714d087f32.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8746 - 8939 (3)
+  estFirstRun: November 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: 34
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8746
+  dateCodeSuffix: E
+  std: 8746
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: 33
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8744
+  dateCodeSuffix: E
+  std: 8744
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8741
+  dateCodeSuffix: C
+  std: 8741
+  misc: 
+- designation: LS161
+  maker: Motorola
+  partNumber: MC74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8732
+  dateCodeSuffix: N A
+  std: 8732
+  misc: 

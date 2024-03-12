@@ -1,0 +1,118 @@
+metadata:
+  name: Super Sprint
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-04 03:23:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4067
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dc2322fc46de3867b0c3b61f5947aba1.jpg
+slug: super-sprint
+releaseInfo:
+  catalogId: TGN-005-SS
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1988
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a69018d07fae11af44a39ac87949cb86.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 326')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335005-1011
+  size: 64 KB
+  crc32: 314790C9
+  x: 1
+- type: CHR0
+  label: 335005-1012
+  size: 64 KB
+  crc32: 8370F9C9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5F2C3195
+  x: 1
+pcbProperties:
+  name: 800002-01 REV D
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800002-01 REV D<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/10c37d42e8fd9e4e272e8614327db5d3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800002-01 REV D<br>Submitted by: bootgod<br>Linked from profile 447')"
+    filename: /images/175/8209e8d1f4ffa6443d9c664872739604.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8926
+  estFirstRun: June 1989
+  pcbClass: TENGEN-800002
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8926
+  dateCodeSuffix: NDD
+  std: 8926
+  misc: 
+- designation: CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8925
+  dateCodeSuffix: HED
+  std: 8925
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8905
+  dateCodeSuffix: ILZD
+  std: 8905
+  misc: 
+- designation: 337001
+  maker: Motorola
+  partNumber: 337001-001
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8915
+  dateCodeSuffix: ZKZKAD
+  std: 8915
+  misc: 

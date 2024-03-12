@@ -1,0 +1,119 @@
+metadata:
+  name: Best Play Pro Yakyuu
+  altName: ベストプレープロ野球
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 20:56:00
+  moreProfiles:
+  - 1265
+  - 1659
+  relatedProfiles: []
+  additionalImages: 
+slug: best-play-pro-yakyuu
+releaseInfo:
+  catalogId: HSP-11
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1988
+  publisher: ASCII
+  developer: ASCII
+  players: 2
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-11
+  backLabelId/Desc: 880606
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de5d84fd59ce4047f2753af8acc1b7bc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-11-0 PRG
+  size: 128 KB
+  crc32: F79D684A
+  x: 1
+- type: CHR0
+  label: HSP-11-0 CHR
+  size: 32 KB
+  crc32: 13DE672A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 3BBFF3A6
+  x: 1
+pcbProperties:
+  name: HVC-SJROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5f6c40438ffb6a4c9caf0465f5807999.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SJROM-01<br>Submitted by: bootgod<br>Linked from profile 2691')"
+    filename: /images/175/ba7f1dd8941d6a3203956f3826c900cf.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8827 - 8848 (2)
+  estFirstRun: July 1988
+  pcbClass: HVC-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 2D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8827
+  dateCodeSuffix: D
+  std: 8827
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: AS
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8827
+  dateCodeSuffix: B
+  std: 8827
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8824
+  dateCodeSuffix: 3 A
+  std: 8824
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8826
+  dateCodeSuffix: 3 DA
+  std: 8826
+  misc: 

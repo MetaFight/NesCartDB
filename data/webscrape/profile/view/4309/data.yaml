@@ -1,0 +1,123 @@
+metadata:
+  name: 'Palamedes II: Star Twinkles'
+  altName: パラメデスⅡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 04:56:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/22b25c319c3be9d0c688472592757a02.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/871ba258a2e29f1298957afb1bfd70b1.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1263124ea3437c130e54b825ce9437f6.jpg
+slug: palamedes-ii-star-twinkles
+releaseInfo:
+  catalogId: GAM-Z5-08
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 7, 1991
+  publisher: HOT?B
+  developer: Natsume
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Steel Blue
+  formFactor: Small
+  frontLabelId: GAM-Z5-08
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ebd50b9dda6cf7ee5ca304c67fa2b913.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 1E9EBB00
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 30C91974
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 31957AE4
+  x: 1
+pcbProperties:
+  name: SE-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/07edf8f7fe24161ad841b2550a7de667.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/772ee726769902dea5337b5ee1a3ee95.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9114
+  estFirstRun: April 1991
+  pcbClass: HVC-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: LZ5
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: B
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9114
+  dateCodeSuffix: 7 AA
+  std: 9114
+  misc: 

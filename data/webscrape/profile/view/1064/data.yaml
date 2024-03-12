@@ -1,0 +1,80 @@
+metadata:
+  name: 'Galaga: Demons of Death'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-08 23:56:00
+  moreProfiles:
+  - 333
+  - 1064
+  - 2782
+  relatedProfiles:
+  - 2547
+  - 1594
+  additionalImages: 
+slug: galaga-demons-of-death
+releaseInfo:
+  catalogId: NES-AG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1988
+  publisher: Bandai
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AG-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2782')"
+    filename: /images/175/84e619fec41f3c2af24d1a99f097894a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2782')"
+    filename: /images/175/fcdca2e43f005eb09baf1b14fcb4f4e6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-AG-0 PRG
+  size: 32 KB
+  crc32: 982189A2
+  x: 3
+- type: CHR0
+  label: NES-AG-0 CHR
+  size: 8 KB
+  crc32: E2D5964E
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 1DB07C0D
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8832 - 8906 (2)
+  estFirstRun: August 1988
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

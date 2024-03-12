@@ -1,0 +1,109 @@
+metadata:
+  name: Baseball
+  altName: ベースボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-08 04:47:00
+  moreProfiles:
+  - 1449
+  - 1627
+  - 2185
+  - 2710
+  - 2715
+  - 3363
+  - 3364
+  - 3365
+  - 3446
+  - 3447
+  - 3675
+  - 4747
+  relatedProfiles:
+  - 4255
+  - 4530
+  - 107
+  additionalImages: 
+slug: baseball
+releaseInfo:
+  catalogId: HVC-BA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Midnight Blue
+  formFactor: Small
+  frontLabelId: HVC-BA
+  backLabelId/Desc: 831018
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1627')"
+    filename: /images/175/f6fb78d3f4d4319d1d611173bd925985.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-BA-0 PRG
+  size: 16 KB
+  crc32: D18A3DDE
+  x: 11
+- type: CHR0
+  label: HVC-BA-0 CHR
+  size: 8 KB
+  crc32: C27EEF20
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 78A48B23
+  x: 11
+pcbProperties:
+  name: HVC-RROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38be8382d149a780bbf2d39d6b1cd825.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 3446')"
+    filename: /images/175/f924c55de70e8be8d53b7bafd544da7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8401 - 8614 (10)
+  estFirstRun: January 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Hitachi
+  partNumber: HN613128P
+  partNumberSubDetail: D61
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 5B1
+  dateCodeSuffix: ''
+  std: 8506
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2361
+  partNumberSubDetail: 03
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 52D
+  dateCodeSuffix: 5
+  std: 8509
+  misc: 

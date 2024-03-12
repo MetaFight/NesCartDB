@@ -1,0 +1,121 @@
+metadata:
+  name: Dr. Mario
+  altName: ドクターマリオ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 03:58:00
+  moreProfiles:
+  - 1494
+  - 1667
+  - 2751
+  - 2312
+  - 3349
+  - 3350
+  - 3351
+  - 3385
+  - 3386
+  - 3693
+  relatedProfiles:
+  - 1945
+  - 2465
+  - 1899
+  - 174
+  - 4687
+  additionalImages: 
+slug: dr-mario
+releaseInfo:
+  catalogId: HVC-VU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 27, 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-VU
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/b486e6ac5ae97cf2fb26789ce766eae6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-VU-0 PRG
+  size: 32 KB
+  crc32: CB02A930
+  x: 12
+- type: CHR0
+  label: HVC-VU-0 CHR
+  size: 32 KB
+  crc32: 064D4AB3
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 198C2F41
+  x: 12
+pcbProperties:
+  name: HVC-SEROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SEROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd7b5dba2b57520eb3a665a8f82b5ffe.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9022 - 9239 (10)
+  estFirstRun: June 1990
+  pcbClass: HVC-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2892
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0FC
+  dateCodeSuffix: 1D
+  std: 9023
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2893
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0FC
+  dateCodeSuffix: 1B
+  std: 9023
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9019
+  dateCodeSuffix: 5 AA
+  std: 9019
+  misc: 

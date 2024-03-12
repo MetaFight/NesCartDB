@@ -1,0 +1,101 @@
+metadata:
+  name: 'Momotarou Densetsu: Peach Boy Legend'
+  altName: 桃太郎伝説 ～Peach Boy Legend～
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 01:27:00
+  moreProfiles:
+  - 1504
+  - 2338
+  - 3596
+  - 3597
+  - 3598
+  relatedProfiles: []
+  additionalImages: 
+slug: momotarou-densetsu-peach-boy-legend
+releaseInfo:
+  catalogId: HFC-MO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 26, 1987
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-MO
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1504')"
+    filename: /images/175/0eb828ab1b2b57dc4623576308fc8806.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-MO-0 PRG
+  size: 256 KB
+  crc32: B5576820
+  x: 5
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8742 - 8749 (5)
+  estFirstRun: October 1987
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 08
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8749
+  dateCodeSuffix: D
+  std: 8749
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8746
+  dateCodeSuffix: MX
+  std: 8746
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8749
+  dateCodeSuffix: A
+  std: 8749
+  misc: 

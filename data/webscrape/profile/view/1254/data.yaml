@@ -1,0 +1,120 @@
+metadata:
+  name: The Last Starfighter
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-25 00:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-last-starfighter
+releaseInfo:
+  catalogId: NES-LM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: Mindscape
+  developer: Graftgold
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/07eb4e4a9defc3961b9b8389d23da253.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/75594ccde3f0dc1faf116b38ffd449ff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LM-0 PRG
+  size: 32 KB
+  crc32: CAF9CC4C
+  x: 1
+- type: CHR0
+  label: NES-LM-0 CHR
+  size: 32 KB
+  crc32: F6EFA754
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 6997F5E1
+  x: 1
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d32e18e554215646cecc16c54b8ca939.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-07<br>Submitted by: Kinopio<br>Linked from profile 1844')"
+    filename: /images/175/1ff348e674e093ddf58f8efc4774c29d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9017
+  estFirstRun: April 1990
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 6L
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9017
+  dateCodeSuffix: B
+  std: 9017
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 6S
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9017
+  dateCodeSuffix: B
+  std: 9017
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9014
+  dateCodeSuffix: 5 BA
+  std: 9014
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 005
+  dateCodeSuffix: EN
+  std: 9005
+  misc: 

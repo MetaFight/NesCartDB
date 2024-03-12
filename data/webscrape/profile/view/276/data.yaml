@@ -1,0 +1,144 @@
+metadata:
+  name: High Speed
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-31 20:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1056
+  - 4468
+  additionalImages: 
+slug: high-speed
+releaseInfo:
+  catalogId: NES-8H-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1991
+  publisher: Tradewest
+  developer: Rare
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8H-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/40c123448f3a770de8b27c273d898847.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/46c109349eaff37a3b4aa06c35430959.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-8H-0 PRG
+  size: 128 KB
+  crc32: 1255036F
+  x: 1
+- type: CHR0
+  label: NES-8H-0 CHR
+  size: 64 KB
+  crc32: 028F3D82
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 383CABBF
+  x: 1
+pcbProperties:
+  name: NES-TQROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TQROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5f20a57ea9521951abce439e324c49e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TQROM-01<br>Submitted by: Kinopio<br>Linked from profile 4369')"
+    filename: /images/175/a555a2672fb9d211892e505133ba8189.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9126
+  estFirstRun: June 1991
+  pcbClass: NES-TQROM
+  inesMapper: 119
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 82
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9126
+  dateCodeSuffix: E
+  std: 9126
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 59
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9126
+  dateCodeSuffix: E
+  std: 9126
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: 1 AB
+  std: 9046
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9123
+  dateCodeSuffix: 3 DB
+  std: 9123
+  misc: 
+- designation: U5 CHR RAM
+  maker: Sanyo
+  partNumber: LC3564PL-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 07
+  dateCodeSuffix: 127
+  std: 9026
+  misc: 
+- designation: U6 HC32
+  maker: Motorola
+  partNumber: MC74HC32AN
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9108
+  dateCodeSuffix: RJCB
+  std: 9108
+  misc: 

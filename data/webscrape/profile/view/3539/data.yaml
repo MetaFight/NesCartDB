@@ -1,0 +1,133 @@
+metadata:
+  name: Super Mario Bros. 3
+  altName: スーパーマリオブラザーズ３
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-05-28 05:14:00
+  moreProfiles:
+  - 1487
+  - 1651
+  - 1663
+  - 2324
+  - 3539
+  - 3540
+  - 3541
+  - 3694
+  relatedProfiles:
+  - 1288
+  - 1616
+  - 1872
+  - 2435
+  - 1897
+  - 2913
+  - 5
+  additionalImages: 
+slug: super-mario-bros-3
+releaseInfo:
+  catalogId: HVC-UM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 23, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: HVC-UM
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 09
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1487')"
+    filename: /images/175/18428b2d402dd1d5c28548f4a204c7ac.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-UM-1 PRG
+  size: 256 KB
+  crc32: E386DA54
+  x: 7
+- type: CHR0
+  label: HVC-UM-0 CHR
+  size: 128 KB
+  crc32: A0AE2B4B
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 52E2B5E0
+  x: 7
+pcbProperties:
+  name: HVC-TSROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de94bac993e10a7a97e96efd6c6cb499.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 3526')"
+    filename: /images/175/5299001d10a3a3e357b683d303029451.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8841 - 9114 (8)
+  estFirstRun: October 1988
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 09
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9103
+  dateCodeSuffix: D
+  std: 9103
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 0Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9101
+  dateCodeSuffix: E
+  std: 9101
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9103
+  dateCodeSuffix: 3 DB
+  std: 9103
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264P-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9031
+  dateCodeSuffix: DA
+  std: 9031
+  misc: 

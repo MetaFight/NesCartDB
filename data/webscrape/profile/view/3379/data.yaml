@@ -1,0 +1,113 @@
+metadata:
+  name: F1 Race
+  altName: Ｆ１レース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 08:27:00
+  moreProfiles:
+  - 1476
+  - 2742
+  - 1677
+  - 2325
+  - 3378
+  - 3379
+  - 3491
+  - 3492
+  - 3660
+  relatedProfiles: []
+  additionalImages: 
+slug: f1-race
+releaseInfo:
+  catalogId: HVC-FR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 2, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lavender
+  formFactor: Small
+  frontLabelId: HVC-FR
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1476')"
+    filename: /images/175/ee89a8153a018a283b3bdf70e311d8e2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 57970078
+  x: 9
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: E653DBCB
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E0604F76
+  x: 9
+pcbProperties:
+  name: 9011-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97d1a60762311cae4293cc2e7b3c95ad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 1495')"
+    filename: /images/175/fb0f27f98153da273c21f54120d1c639.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8444 - 8506 (6)
+  estFirstRun: November 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GFR
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 590169
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,75 @@
+metadata:
+  name: 'Exodus: Journey to the Promised Land'
+  altName: 
+  variant: (Version 4.0)
+  submittedBy: crade
+  submittedOn: 2008-10-25 03:19:00
+  moreProfiles:
+  - 11
+  - 2709
+  - 2921
+  relatedProfiles: []
+  additionalImages: 
+slug: exodus-journey-to-the-promised-land
+releaseInfo:
+  catalogId: WT-EC-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufacture by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 2709')"
+    filename: /images/175/901a38e91f35e3ff05c66e9baa3170ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 2709')"
+    filename: /images/175/bae06d39de42a2203c30a3fc72e13880.jpg
+romDetails:
+- type: PRG0
+  label: JOURNEY VER 4.0 PRG.
+  size: 128 KB
+  crc32: 3CED963A
+  x: 2
+- type: CHR0
+  label: JOURNEY VER 4.0 VID.
+  size: 128 KB
+  crc32: AB344905
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0AB26DB6
+  x: 2
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9143 - 9148 (2)
+  estFirstRun: October 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo: []

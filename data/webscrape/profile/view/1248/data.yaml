@@ -1,0 +1,138 @@
+metadata:
+  name: 'Double Dragon II: The Revenge'
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2006-12-25 00:16:00
+  moreProfiles:
+  - 126
+  - 1176
+  - 1248
+  relatedProfiles:
+  - 2909
+  - 2420
+  - 1413
+  - 2901
+  - 4767
+  - 4347
+  - 1874
+  - 4676
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 126')"
+    filename: /images/175/5735052d38f372ef3b8f278b5345c7c6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 126')"
+    filename: /images/175/bc65ba7eb8c1e218afe321cbfe243165.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-W2-USA<br>Submitted by: bootgod<br>Linked from profile 126')"
+    filename: /images/175/fa3bcc7bdc5ca94cfed6bb3ab2cba775.jpg
+slug: double-dragon-ii-the-revenge
+releaseInfo:
+  catalogId: NES-W2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Acclaim
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-W2-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d999fd909be5f3e78b9ea107771bfd4.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a3dddaf1bba1eb29cc96a17ab124cefd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4741')"
+    filename: /images/175/ad00db9923d49b428ee0df399cfd4c81.jpg
+romDetails:
+- type: PRG0
+  label: NES-W2-1 PRG
+  size: 128 KB
+  crc32: 7BE93173
+  x: 2
+- type: CHR0
+  label: NES-W2-0 CHR
+  size: 128 KB
+  crc32: E0B9A5FF
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8A640AEF
+  x: 2
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b7b82602eb5eb9ee50bff490c3f616db.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: Kinopio<br>Linked from profile 2420')"
+    filename: /images/175/d1bacf71e2370be8ba2be7a73f3e248c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8948 - 9014 (3)
+  estFirstRun: December 1989
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5389
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0A4
+  dateCodeSuffix: H9
+  std: 9004
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: D2
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9013
+  dateCodeSuffix: D
+  std: 9013
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9012
+  dateCodeSuffix: 3 CA
+  std: 9012
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9014
+  dateCodeSuffix: 1 DA
+  std: 9014
+  misc: 

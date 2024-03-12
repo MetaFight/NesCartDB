@@ -1,0 +1,68 @@
+metadata:
+  name: Indiana Jones and The Last Crusade
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 15:50:00
+  moreProfiles:
+  - 535
+  - 1989
+  relatedProfiles: []
+  additionalImages: 
+slug: indiana-jones-and-the-last-crusade
+releaseInfo:
+  catalogId: NES-J5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1991
+  publisher: Taito
+  developer: Software Creations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-J5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 535')"
+    filename: /images/175/130f90b87c5254e4e9390887c3981e2a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 535')"
+    filename: /images/175/c77488c5d881a5d1b348f4b1635b1049.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-J5-0 PRG
+  size: 256 KB
+  crc32: 8BCA5146
+  x: 2
+pcbProperties:
+  name: NES-SGROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9101
+  estFirstRun: January 1991
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo: []

@@ -1,0 +1,106 @@
+metadata:
+  name: 'Cycle Race Roadman: Gekisou!! Nihon Isshuu 4000km'
+  altName: サイクルレース ロードマン ～激走!! 日本一周４０００ｋｍ～
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 04:09:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: cycle-race-roadman-gekisou-nihon-isshuu-4000km
+releaseInfo:
+  catalogId: TKS-G7
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 17, 1988
+  publisher: Tokyo Shoseki
+  developer: Advance Communication
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TKS-G7
+  backLabelId/Desc: TKS
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f74648f84cedf76abb15c05e0bbf280e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TKS-G7-0 PRG
+  size: 128 KB
+  crc32: B5AF14CA
+  x: 1
+- type: CHR0
+  label: TKS-G7-0 CHR
+  size: 128 KB
+  crc32: FF5724DE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E429F0D3
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f6d9eac76c329ad2e8481a2bfed69166.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8849
+  estFirstRun: December 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8846
+  dateCodeSuffix: Z01
+  std: 8846
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 2B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8849
+  dateCodeSuffix: D
+  std: 8849
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8848
+  dateCodeSuffix: 5 A
+  std: 8848
+  misc: 

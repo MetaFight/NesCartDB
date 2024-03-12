@@ -1,0 +1,111 @@
+metadata:
+  name: 'Ultima: Kyoufu no Exodus'
+  altName: ウルティマ ～恐怖のエクソダス～
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-22 04:43:00
+  moreProfiles:
+  - 1626
+  - 3769
+  relatedProfiles:
+  - 472
+  additionalImages: 
+slug: ultima-kyoufu-no-exodus
+releaseInfo:
+  catalogId: PNF-UL (R59V5910)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 9, 1987
+  publisher: Pony Canyon
+  developer: Origin Systems
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: PNF-UL
+  secondaryId: R59V5910
+  backLabelId/Desc: 870417
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bc3e90a4d6e686f988d2d9148e56708b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PNF-UL-0 PRG
+  size: 256 KB
+  crc32: 250F7913
+  x: 2
+pcbProperties:
+  name: HVC-SNROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8738 - 8738 (2)
+  estFirstRun: September 1987
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8735
+  dateCodeSuffix: KY
+  std: 8735
+  misc: 
+- designation: CHR
+  maker: Sony
+  partNumber: CXK5864PN-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7G
+  dateCodeSuffix: 26
+  std: 8727
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8738
+  dateCodeSuffix: A
+  std: 8738
+  misc: 
+- designation: 
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7G
+  dateCodeSuffix: 86
+  std: 8727
+  misc: 

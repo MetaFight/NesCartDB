@@ -1,0 +1,74 @@
+metadata:
+  name: 'IronSword: Wizards & Warriors II'
+  altName: 
+  variant: 
+  submittedBy: Quietust
+  submittedOn: 2006-03-07 23:12:00
+  moreProfiles:
+  - 25
+  - 594
+  - 599
+  - 2797
+  - 1182
+  - 2948
+  relatedProfiles:
+  - 1823
+  - 1424
+  - 1965
+  additionalImages: 
+slug: ironsword-wizards-warriors-ii
+releaseInfo:
+  catalogId: NES-IR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Acclaim
+  developer: Zippo Games
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IR-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 25')"
+    filename: /images/175/81cb85d1d95497f713ff56ad5306d7a5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 25')"
+    filename: /images/175/733b8df05c9880ded86dcdf5e903c709.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-IR-0 PRG
+  size: 256 KB
+  crc32: 2328046E
+  x: 6
+pcbProperties:
+  name: NES-AOROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9001 - 9014 (3)
+  estFirstRun: January 1990
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

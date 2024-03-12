@@ -1,0 +1,112 @@
+metadata:
+  name: 'Pachi Slot Adventure 3: Bitaoshii 7 Kenzan!'
+  altName: パチスロアドベンチャー３ ビタオシー７見参！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 23:04:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2682a95aa7061a1cc57ca14cdbde19c4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eabc3d3cf219b66eaa6735be4a1ccab5.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eab6abdf3ab15644571c8ecea76e9ec5.jpg
+slug: pachi-slot-adventure-3-bitaoshii-7-kenzan
+releaseInfo:
+  catalogId: HVC-PI
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 13, 1994
+  publisher: Coconuts
+  developer: Aisystem Tokyo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-PI
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02ba44b1d5bae114058feaffa3d88d28.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: HVC-PI-0 PRG
+  size: 128 KB
+  crc32: 47A60CF1
+  x: 1
+- type: CHR0
+  label: HVC-PI-0 CHR
+  size: 128 KB
+  crc32: 2B6EBCC3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 051CD5F2
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ed19ca42ac4698976c6d346fcb399bf4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9409
+  estFirstRun: March 1994
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6748
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 4CC
+  dateCodeSuffix: 40
+  std: 9409
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0201
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 4CC
+  dateCodeSuffix: 40
+  std: 9409
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9316
+  dateCodeSuffix: 7 A
+  std: 9316
+  misc: 

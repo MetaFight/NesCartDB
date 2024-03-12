@@ -1,0 +1,67 @@
+metadata:
+  name: Hidden Chinese Chess
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-29 21:05:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hidden-chinese-chess
+releaseInfo:
+  catalogId: TC-002
+  region: Taiwan (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Sachen / Joy Van
+  developer: Sachen / Joy Van
+  players: 2
+  peripherals: NES Controller
+  country: Taiwan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: 
+  size: 16 KB
+  crc32: 3EC312BF
+  x: 1
+- type: CHR0
+  label: 
+  size: 8 KB
+  crc32: 841531E6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 961ADCA7
+  x: 1
+pcbProperties:
+  name: NE-001A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  pcbClass: SACHEN-NROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo: []

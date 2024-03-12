@@ -1,0 +1,107 @@
+metadata:
+  name: Nekketsu Koukou Dodgeball-bu
+  altName: 熱血高
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 939
+  additionalImages: 
+slug: nekketsu-koukou-dodgeball-bu
+releaseInfo:
+  catalogId: TJC-ND
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 26, 1988
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-ND
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7d59955fee5833bc7fd702fa75bca64b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TJC-ND-0 PRG
+  size: 128 KB
+  crc32: 7BD7B849
+  x: 1
+- type: CHR0
+  label: TJC-ND-0 CHR
+  size: 128 KB
+  crc32: 93C241E7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 62C67984
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5b8b9dca30d2ddef9b5f00ffbf2c86fb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8828
+  estFirstRun: July 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 4D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8828
+  dateCodeSuffix: D
+  std: 8828
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 62
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8828
+  dateCodeSuffix: D
+  std: 8828
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8821
+  dateCodeSuffix: 5 A
+  std: 8821
+  misc: 

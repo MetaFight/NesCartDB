@@ -1,0 +1,118 @@
+metadata:
+  name: Tokoro-san no Mamoru mo Semeru mo
+  altName: 所さんのまもるもせめるも
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 02:50:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tokoro-san-no-mamoru-mo-semeru-mo
+releaseInfo:
+  catalogId: ESF-TO/49Â·6R-1
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 27, 1987
+  publisher: Epic / Sony Records
+  developer: ISCO
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Neon Yellow
+  formFactor: Small
+  frontLabelId: ESF-TO
+  secondaryId: 49-6R-1
+  backLabelId/Desc: ESF-TO
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bedc5e53ab2c423b7174256419a67823.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: A30D8BAF
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 59516819
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 6776A977
+  x: 1
+pcbProperties:
+  name: CN-04B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b65578194c8b82172678d1ab202ba2da.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>CN-04B<br>Submitted by: bootgod<br>Linked from profile 1497')"
+    filename: /images/175/461aec68873a8a350b5d0c18d997c9d7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8716
+  estFirstRun: April 1987
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 1JTO
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 204 094
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Hitachi
+  partNumber: HD74LS161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 7D2
+  dateCodeSuffix: T
+  std: 8716
+  misc: 

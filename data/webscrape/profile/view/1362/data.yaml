@@ -1,0 +1,218 @@
+metadata:
+  name: Maxi 15
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 03:11:00
+  moreProfiles:
+  - 1362
+  - 2356
+  relatedProfiles:
+  - 1174
+  additionalImages: 
+slug: maxi-15
+releaseInfo:
+  catalogId: AVE-MG
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1992
+  publisher: AVE
+  developer: AVE
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Square Corner
+  embossedText: American Video Entertainment Made in USA
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6736737b0fbf9c67c562ff2387f687dd.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf1de19db537a52d37ec70d1bece0ae6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3003')"
+    filename: /images/175/8c6bc29d71201d0d4a6968d12dfe548d.jpg
+romDetails:
+- type: PRG0
+  label: MGC1-PGM U2-F0AD
+  size: 512 KB
+  crc32: 6467A5C4
+  x: 1
+- type: CHR0
+  label: MGC1-CHR U9-D935
+  size: 512 KB
+  crc32: 395DAF47
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 1024 KB
+  crc32: 2705EAEB
+  x: 1
+pcbProperties:
+  name: D-1012
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>D-1012<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c3916dde3aa266055c3040ac13752a30.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>D-1012<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2de7d6ef49ba9c8bc1a38386c2224a84.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9238 - 9240 (2)
+  estFirstRun: September 1992
+  pcbClass: MLT-MAXI15
+  inesMapper: 234
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 4053, 74xx04, 74xx08, 74xx138, 74xx138, 74xx175, 74xx175, 74xx273, 74xx30, 74xx32, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Macronix
+  partNumber: 23C4000
+  partNumberSubDetail: 1034
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9237
+  dateCodeSuffix: H
+  std: 9237
+  misc: S29551
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: ''
+  std: 9039
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9222
+  dateCodeSuffix: ''
+  std: 9222
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9039
+  dateCodeSuffix: ''
+  std: 9039
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9240
+  dateCodeSuffix: ''
+  std: 9240
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TC4053BP
+  partNumberSubDetail: 
+  type: 4053
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9236
+  dateCodeSuffix: HB
+  std: 9236
+  misc: 
+- designation: 
+  maker: Phillips
+  partNumber: 74HC08N
+  partNumberSubDetail: 
+  type: 74-08 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9228
+  dateCodeSuffix: Hnn
+  std: 9228
+  misc: 822560VK
+- designation: 
+  maker: Macronix
+  partNumber: 23C4000
+  partNumberSubDetail: 1033
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9237
+  dateCodeSuffix: H
+  std: 9237
+  misc: S29548
+- designation: 
+  maker: Motorola
+  partNumber: MC74HC04AN
+  partNumberSubDetail: 
+  type: 74-04 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9226
+  dateCodeSuffix: FFEG
+  std: 9226
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS273
+  partNumberSubDetail: 
+  type: 74-273 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9234
+  dateCodeSuffix: ''
+  std: 9234
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS30
+  partNumberSubDetail: 
+  type: 74-30 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9231
+  dateCodeSuffix: ''
+  std: 9231
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9213
+  dateCodeSuffix: ''
+  std: 9213
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9213
+  dateCodeSuffix: ''
+  std: 9213
+  misc: 

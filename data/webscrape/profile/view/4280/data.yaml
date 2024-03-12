@@ -1,0 +1,105 @@
+metadata:
+  name: 'Rockman 4: Aratanaru Yabou!!'
+  altName: ロックマン４ 新たなる野望！！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 02:33:00
+  moreProfiles:
+  - 1489
+  - 2678
+  - 3599
+  - 3600
+  - 4280
+  relatedProfiles:
+  - 1418
+  - 4709
+  - 2109
+  - 35
+  additionalImages: 
+slug: rockman-4-aratanaru-yabou
+releaseInfo:
+  catalogId: CAP-4V
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 6, 1991
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: CAP-4V
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 34
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3107fee4715ce58123edf56bd6aef2e9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-4V-0 PRG
+  size: 512 KB
+  crc32: F161A5D8
+  x: 5
+pcbProperties:
+  name: HVC-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9138 - 9144 (5)
+  estFirstRun: September 1991
+  pcbClass: HVC-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013C
+  partNumberSubDetail: W15
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9142
+  dateCodeSuffix: EY045
+  std: 9142
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9141
+  dateCodeSuffix: DC
+  std: 9141
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9144
+  dateCodeSuffix: 3 AB
+  std: 9144
+  misc: 

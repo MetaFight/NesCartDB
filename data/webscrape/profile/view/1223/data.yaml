@@ -1,0 +1,106 @@
+metadata:
+  name: Death Race
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-06 18:15:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: death-race
+releaseInfo:
+  catalogId: AGCI-DR
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AGCI
+  developer: Exidy
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AGCI
+  color: Grey
+  formFactor: Deep Grip
+  embossedText: AGCI Patent Pending
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aded7a278ec18e6fa67f55a1a9774f88.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/674ac3c29f22f047999fd455fb9c229f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 548')"
+    filename: /images/175/5539622a8cf01ceae1f2f6fe314cc5ef.jpg
+romDetails:
+- type: PRG0
+  label: DRACEPRG
+  size: 64 KB
+  crc32: 7ED91F80
+  x: 1
+- type: CHR0
+  label: DRACECHR
+  size: 64 KB
+  crc32: 8084BB4F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5CAA3E61
+  x: 1
+pcbProperties:
+  name: 50282
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>50282<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/415fbc95ea05f0aefa28655f6b798145.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>50282<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23cc8c0305210f7b70b541e80d588c44.jpg
+  pcbProducer: AGCI
+  manufacturer: Key Tronic
+  mfgRange: 9037
+  estFirstRun: September 1990
+  pcbClass: AGCI-50282
+  inesMapper: 144
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9037
+  dateCodeSuffix: MAB
+  std: 9037
+  misc: 
+- designation: U2
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9037
+  dateCodeSuffix: MAB
+  std: 9037
+  misc: 
+- designation: U3
+  maker: Signetics
+  partNumber: AGCI#4
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9031
+  dateCodeSuffix: VD CD7632N
+  std: 9031
+  misc: FHK0794

@@ -1,0 +1,106 @@
+metadata:
+  name: Penguin-kun Wars
+  altName: ぺんぎんくんＷＡＲＳ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 23:43:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: penguin-kun-wars
+releaseInfo:
+  catalogId: HSP-03
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 25, 1985
+  publisher: ASCII
+  developer: UPL
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Pink
+  formFactor: Small
+  frontLabelId: HSP-03
+  backLabelId/Desc: 850610
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c0de2331252a2e1699252e1e8bd6fca.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 5F6798F4
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: DCA3098D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 02D7976B
+  x: 1
+pcbProperties:
+  name: 3A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e39b407212fab32ecd64ee290863d2c3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3A<br>Submitted by: bootgod<br>Linked from profile 3377')"
+    filename: /images/175/1348f8e12425cc850ed1ea2d4a22a353.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8548
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HSP-03
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 5Z
+  dateCodeSuffix: 052
+  std: 8548
+  misc: 0V-J2
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

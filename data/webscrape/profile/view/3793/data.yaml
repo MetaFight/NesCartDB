@@ -1,0 +1,106 @@
+metadata:
+  name: 'Yamamura Misa Suspense: Kyouto Hana no Misshitsu Satsujin Jiken'
+  altName: 山村美紗サスペンス 京都花の密室殺人事件
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 02:10:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: yamamura-misa-suspense-kyouto-hana-no-misshitsu-satsujin-jiken
+releaseInfo:
+  catalogId: DTF-YM (22)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 11, 1989
+  publisher: Taito
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Olive Drab
+  formFactor: Small
+  frontLabelId: DTF-YM
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f8b89cff507cc492050405c4fd251a6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DTF-YM-0 PRG
+  size: 128 KB
+  crc32: E86E4DF1
+  x: 1
+- type: CHR0
+  label: DTF-YM-0 CHR
+  size: 128 KB
+  crc32: 68460F2D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1ED7D6BE
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa0b8b21a5642283e53ee7af43871a38.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 3554')"
+    filename: /images/175/e47f7cbfef953cb325053380b2a37efe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8853
+  estFirstRun: January 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8851
+  dateCodeSuffix: KX
+  std: 8851
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8851
+  dateCodeSuffix: KY
+  std: 8851
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8853
+  dateCodeSuffix: 1 A
+  std: 8853
+  misc: 

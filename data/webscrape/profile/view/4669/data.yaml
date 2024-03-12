@@ -1,0 +1,124 @@
+metadata:
+  name: 'Dungeon & Magic: Sword of the Element'
+  altName: ダンジョン＆マジック ソード オブ エレメント
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 03:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1017
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b61c5b586e79fbe11e2469332ab6b7b6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9115ba9a53bae9335e1e090cb7502628.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4060fe8ecf56fcbade6497bd8c08b3d8.jpg
+slug: dungeon-magic-sword-of-the-element
+releaseInfo:
+  catalogId: NAT-DM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 10, 1989
+  publisher: Natsume
+  developer: Natsume
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Tan
+  formFactor: Small
+  frontLabelId: NAT-DM
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/17a2bdb90b62b755c05dde634f5ec2ef.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NAT-DM-0 PRG
+  size: 128 KB
+  crc32: FDA76F70
+  x: 1
+- type: CHR0
+  label: NAT-DM-0 CHR
+  size: 128 KB
+  crc32: A6D819E1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 459D0C2A
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/733cf5790913a25514a2cb1072edbe88.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-05<br>Submitted by: bootgod<br>Linked from profile 3451')"
+    filename: /images/175/58d46d7468263b0f9bdd6e27dd7f131d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8942
+  estFirstRun: October 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NVG
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: B3
+  std: 8940
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NVH
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9
+  dateCodeSuffix: 52
+  std: 8940
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8942
+  dateCodeSuffix: 1 AA
+  std: 8942
+  misc: 
+- designation: U4 W-RAM
+  maker: Sony
+  partNumber: CXK5864BP-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 95
+  dateCodeSuffix: 78
+  std: 8918
+  misc: 

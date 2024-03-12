@@ -1,0 +1,131 @@
+metadata:
+  name: Blaster Master
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-14 03:21:00
+  moreProfiles:
+  - 168
+  - 231
+  - 448
+  - 796
+  - 4615
+  relatedProfiles:
+  - 1873
+  - 1909
+  - 3923
+  - 2365
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>* NES-VM-USA<br>Submitted by: bootgod<br>Linked from profile 168')"
+    filename: /images/175/a617ab46a7d1d901ba7168b92feda016.jpg
+slug: blaster-master
+releaseInfo:
+  catalogId: NES-VM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1988
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VM-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 168')"
+    filename: /images/175/5a5269c2627c192c1501a23fd3b0e0d5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 448')"
+    filename: /images/175/9f51073f480042f74b58ef20987a50e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-VM-0 PRG
+  size: 128 KB
+  crc32: C71C7619
+  x: 5
+- type: CHR0
+  label: NES-VM-0 CHR
+  size: 128 KB
+  crc32: F2C24999
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 3F0FD764
+  x: 5
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b079b4149e613850ed9001b839deb78.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919 - 8953 (3)
+  estFirstRun: May 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: HJ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8919
+  dateCodeSuffix: E
+  std: 8919
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 1A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8919
+  dateCodeSuffix: D
+  std: 8919
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8913
+  dateCodeSuffix: 3 AA
+  std: 8913
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8919
+  dateCodeSuffix: 7 A
+  std: 8919
+  misc: 

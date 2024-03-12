@@ -1,0 +1,121 @@
+metadata:
+  name: Touchdown Fever
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 03:28:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3591
+  additionalImages: 
+slug: touchdown-fever
+releaseInfo:
+  catalogId: NES-T7-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: SNK
+  developer: SNK
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-T7-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/77ea560e31dae5538e415ee7ece1b67a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/93fbef5e5d66afdaa2710cfbcc610a03.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-T7-0 PRG
+  size: 128 KB
+  crc32: 6E6490CD
+  x: 1
+- type: CHR0
+  label: NES-T7-0 CHR
+  size: 32 KB
+  crc32: 253AA3DA
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: EA4EB69E
+  x: 1
+pcbProperties:
+  name: NES-SFROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7a044d08320a58e9f7a36a63adf9925f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SFROM-03<br>Submitted by: Kinopio<br>Linked from profile 2103')"
+    filename: /images/175/86f09c953bcf44626f72e405c4f057ae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9102
+  estFirstRun: January 1991
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 0L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9102
+  dateCodeSuffix: E
+  std: 9102
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 9B
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9102
+  dateCodeSuffix: B
+  std: 9102
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 049
+  dateCodeSuffix: C
+  std: 9049
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9043
+  dateCodeSuffix: B3055
+  std: 9043
+  misc: 

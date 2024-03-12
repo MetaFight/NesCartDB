@@ -1,0 +1,108 @@
+metadata:
+  name: Jekyll Hakase no Houma ga Toki
+  altName: ジキール博士の彷魔が刻
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 01:54:00
+  moreProfiles: []
+  relatedProfiles:
+  - 687
+  additionalImages: 
+slug: jekyll-hakase-no-houma-ga-toki
+releaseInfo:
+  catalogId: THF-TK
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 8, 1988
+  publisher: Toho
+  developer: Advance Communication
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: THF-TK
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/949daefacb5175dca554ec2227fb3679.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: THF-TK-0 PRG
+  size: 128 KB
+  crc32: 96BA90B0
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8812
+  estFirstRun: March 1988
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8812
+  dateCodeSuffix: E
+  std: 8812
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8811
+  dateCodeSuffix: 5 A
+  std: 8811
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 749
+  dateCodeSuffix: J
+  std: 8749
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8?
+  dateCodeSuffix: ''
+  std: 8808
+  misc: 

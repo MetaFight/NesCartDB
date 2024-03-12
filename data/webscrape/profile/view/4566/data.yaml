@@ -1,0 +1,135 @@
+metadata:
+  name: Tetris 2
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-07 04:20:00
+  moreProfiles:
+  - 4382
+  - 4566
+  relatedProfiles:
+  - 4711
+  - 2157
+  - 169
+  additionalImages: 
+slug: tetris-2
+releaseInfo:
+  catalogId: NES-TS-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1993
+  publisher: Nintendo
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TS-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-EAI-1
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/eeb9c79f63f76204c5ecee0383d4cf8c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/862462dbbf569f9dabb1c9164cac6631.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/9099aad791188a5e8e4cb91492a79e04.jpg
+romDetails:
+- type: PRG0
+  label: PAL-TS-0 PRG
+  size: 128 KB
+  crc32: CD8B279F
+  x: 3
+- type: CHR0
+  label: PAL-TS-0 CHR
+  size: 128 KB
+  crc32: 9C4DB593
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5D2B1962
+  x: 3
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/67667541eae08f93f69020fc4a208725.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9341 - 9341 (2)
+  estFirstRun: October 1993
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 0P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9341
+  dateCodeSuffix: E
+  std: 9341
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 0M
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9341
+  dateCodeSuffix: D
+  std: 9341
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9227
+  dateCodeSuffix: A
+  std: 9227
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9318
+  dateCodeSuffix: 7 B
+  std: 9318
+  misc: 
+- designation: U5 W-RAM
+  maker: Sanyo
+  partNumber: LC3564QL-10N
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 26
+  dateCodeSuffix: 213
+  std: 9223
+  misc: 

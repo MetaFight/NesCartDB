@@ -1,0 +1,76 @@
+metadata:
+  name: Rollergames
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 23:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1850
+  - 441
+  additionalImages: 
+slug: rollergames
+releaseInfo:
+  catalogId: NES-U5-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: August 1, 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U5-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/aee41fabb6f18b1d00d554860cac4bf6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-U5-0 PRG
+  size: 128 KB
+  crc32: 9AABD829
+  x: 5
+- type: CHR0
+  label: PAL-U5-0 CHR
+  size: 128 KB
+  crc32: 2201C1AE
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BED47813
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo: []

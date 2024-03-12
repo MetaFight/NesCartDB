@@ -1,0 +1,111 @@
+metadata:
+  name: Family Boxing
+  altName: ファミリーボクシング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 00:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1589
+  - 1804
+  - 3229
+  - 3230
+  - 3231
+  - 3323
+  additionalImages: 
+slug: family-boxing
+releaseInfo:
+  catalogId: NAM-FB-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 19, 1987
+  publisher: Namco
+  developer: Woodplace
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1589')"
+    filename: /images/175/aed4d30a9585eeeffe58b425a6dc0c49.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1589')"
+    filename: /images/175/ed679c91e6fd8ee190a6a61d319541d6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOTFBPR
+  size: 64 KB
+  crc32: 3598238F
+  x: 6
+- type: CHR0
+  label: NAMCOTFBCH
+  size: 64 KB
+  crc32: 0F7F524D
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 5B4C6146
+  x: 6
+pcbProperties:
+  name: 3414
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3414<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a172ad3c96d049650414b5dda99b4436.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3414<br>Submitted by: bootgod<br>Linked from profile 1589')"
+    filename: /images/175/10a0918320637301a3124af2d68b6155.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8723 - 8727 (6)
+  estFirstRun: June 1987
+  pcbClass: NAMCOT-3414
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: P
+  maker: Fujitsu
+  partNumber: MB83512-15
+  partNumberSubDetail: 219 AK
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8723
+  dateCodeSuffix: Z00
+  std: 8723
+  misc: 
+- designation: C
+  maker: Fujitsu
+  partNumber: MB83512-15
+  partNumberSubDetail: 220 AK
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8723
+  dateCodeSuffix: Z07
+  std: 8723
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 108
+  partNumberSubDetail: 
+  type: Namcot 108
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8718
+  dateCodeSuffix: Z45
+  std: 8718
+  misc: 

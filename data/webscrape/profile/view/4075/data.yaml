@@ -1,0 +1,112 @@
+metadata:
+  name: 'Egger Land: Meikyuu no Fukkatsu'
+  altName: エッガーランド　迷宮の復活
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 02:58:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ead4b7fdf1e0735696d4b38196ff0f7b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6991e50466e842130f4fa94271ecdcc7.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ea125498396344306b0600c4013d5f33.jpg
+slug: egger-land-meikyuu-no-fukkatsu
+releaseInfo:
+  catalogId: HAL-EG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 9, 1988
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HAL-EG
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a9f167a7c7453320164568cb94708510.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HAL-EG-0 PRG
+  size: 128 KB
+  crc32: C970AD09
+  x: 1
+- type: CHR0
+  label: HAL-EG-0 CHR
+  size: 32 KB
+  crc32: 34F59419
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 77DCBBA3
+  x: 1
+pcbProperties:
+  name: HVC-SFROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41d4ccd232297f7f1b8105a487515f24.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SFROM-01<br>Submitted by: bootgod<br>Linked from profile 3591')"
+    filename: /images/175/a451a3696b59a9d2d6cf76c0fd675656.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8829
+  estFirstRun: July 1988
+  pcbClass: HVC-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0235
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8G3
+  dateCodeSuffix: E2
+  std: 8829
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2057
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8G3
+  dateCodeSuffix: 16
+  std: 8829
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8822
+  dateCodeSuffix: 1 A
+  std: 8822
+  misc: 

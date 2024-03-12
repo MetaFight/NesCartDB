@@ -1,0 +1,146 @@
+metadata:
+  name: After Burner
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-03 05:32:00
+  moreProfiles:
+  - 326
+  - 2570
+  relatedProfiles:
+  - 3806
+  additionalImages: 
+slug: after-burner
+releaseInfo:
+  catalogId: TGN-011-AB
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Sega
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/ Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14b416222dea86086604f1dc9b8d5675.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0f6ccad1790f1de3fe95d3ea3ad3223f.jpg
+romDetails:
+- type: PRG0
+  label: 335011-1011 ABPRG
+  size: 128 KB
+  crc32: B938B7E9
+  x: 4
+- type: CHR0
+  label: 335011-1022 ABCHL
+  size: 128 KB
+  crc32: 1EC2140B
+  x: 4
+- type: CHR1
+  label: 335011-1032 ABCHH
+  size: 128 KB
+  crc32: 38F01063
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: F699EE7E
+  x: 2
+pcbProperties:
+  name: 800042-01 REV B
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8943 - 8946 (2)
+  estFirstRun: October 1989
+  pcbClass: TENGEN-800042
+  inesMapper: 68
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337007, 74xx02
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: CHL
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: CHH
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8914
+  dateCodeSuffix: ILZF
+  std: 8914
+  misc: 
+- designation: 337007
+  maker: Motorola
+  partNumber: 337007-001
+  partNumberSubDetail: 
+  type: Sunsoft-4
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8942
+  dateCodeSuffix: ZKZKAG
+  std: 8942
+  misc: 
+- designation: LS02
+  maker: Motorola
+  partNumber: SN74LS02N
+  partNumberSubDetail: 
+  type: 74-02 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8852
+  dateCodeSuffix: IKAB
+  std: 8852
+  misc: 

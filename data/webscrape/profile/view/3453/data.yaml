@@ -1,0 +1,120 @@
+metadata:
+  name: Koushien
+  altName: 甲子園
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 04:05:00
+  moreProfiles:
+  - 3451
+  - 3452
+  - 3453
+  relatedProfiles: []
+  additionalImages: 
+slug: koushien
+releaseInfo:
+  catalogId: KAC-KQ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 6, 1989
+  publisher: KAC
+  developer: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: KAC-KQ
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3451')"
+    filename: /images/175/314002d8a16da3f9e6f51b12054c8e3c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KAC-KQ-0 PRG
+  size: 128 KB
+  crc32: A817D175
+  x: 3
+- type: CHR0
+  label: KAC-KQ-0 CHR
+  size: 128 KB
+  crc32: 8388B1EF
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 83CB743F
+  x: 3
+pcbProperties:
+  name: HVC-SKROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7cea03f4624711ae503119839002e5dd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/82f707f1016690645558584d74fcfd4e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8937 - 8944 (3)
+  estFirstRun: September 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NVE
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 990
+  dateCodeSuffix: B3
+  std: 8937
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NVF
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 995
+  dateCodeSuffix: 52
+  std: 8937
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8936
+  dateCodeSuffix: 5 A
+  std: 8936
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8937
+  dateCodeSuffix: 5 Y
+  std: 8937
+  misc: 

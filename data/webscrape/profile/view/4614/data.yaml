@@ -1,0 +1,143 @@
+metadata:
+  name: Batman
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2012-04-15 21:33:00
+  moreProfiles:
+  - 165
+  - 223
+  - 232
+  - 1144
+  - 1396
+  - 4614
+  relatedProfiles:
+  - 2434
+  - 1421
+  - 2054
+  - 3145
+  - 1904
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>* NES-B4-USA<br>Submitted by: bootgod<br>Linked from profile 165')"
+    filename: /images/175/b5ddc1b8ca55825146ec4a6b1d1d1a8d.jpg
+slug: batman
+releaseInfo:
+  catalogId: NES-B4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/f2ec0d48d63d5d5e74e542aa214c06a0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/b8819db3ccf14c16b75e7c363895825d.jpg
+romDetails:
+- type: PRG0
+  label: NES BATMAN PRG-AE29A4 VER 0.0 8-89
+  size: 128 KB
+  crc32: A8F5C8ED
+  x: 1
+- type: CHR0
+  label: NES BATMAN CHR VER 0.0 8-89 / 972E8E
+  size: 128 KB
+  crc32: 47C50822
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 816AD178
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/e2617eb115c9596d384c61f179c42553.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/f566141a7a004f43bfc8e593a70f04fd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8949 - 9024 (4)
+  estFirstRun: December 1989
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3A
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8842
+  dateCodeSuffix: ECI
+  std: 8842
+  misc: 
+- designation: U10
+  maker: Toshiba
+  partNumber: TC74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8805
+  dateCodeSuffix: H
+  std: 8805
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8842
+  dateCodeSuffix: ECI
+  std: 8842
+  misc: 
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8847
+  dateCodeSuffix: 3 T
+  std: 8847
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8853
+  dateCodeSuffix: 1 B
+  std: 8853
+  misc: 

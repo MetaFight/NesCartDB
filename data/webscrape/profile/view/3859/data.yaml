@@ -1,0 +1,112 @@
+metadata:
+  name: Senjou no Ookami
+  altName: 戦場の狼
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 04:12:00
+  moreProfiles:
+  - 2180
+  - 2313
+  - 3658
+  - 3859
+  relatedProfiles:
+  - 478
+  additionalImages: 
+slug: senjou-no-ookami
+releaseInfo:
+  catalogId: CAP-SJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 27, 1986
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: CAP-SJ
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2180')"
+    filename: /images/175/81bbf6aba7b8dc159d08073d6c0c2e19.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-SJ-0 PRG
+  size: 128 KB
+  crc32: 441AEAE6
+  x: 4
+pcbProperties:
+  name: HVC-UN1ROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8635 - 8653 (4)
+  estFirstRun: September 1986
+  pcbClass: HVC-UN1ROM
+  inesMapper: 94
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8653
+  dateCodeSuffix: KX
+  std: 8653
+  misc: 
+- designation: CHR RAM
+  maker: Hitachi
+  partNumber: 64KS-NI
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8633
+  dateCodeSuffix: ''
+  std: 8633
+  misc: U0422YY0
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8617
+  dateCodeSuffix: H
+  std: 8617
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8634
+  dateCodeSuffix: H
+  std: 8634
+  misc: 

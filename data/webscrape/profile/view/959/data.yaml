@@ -1,0 +1,118 @@
+metadata:
+  name: Bible Buffet
+  altName: 
+  variant: (Version 6.0)
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 06:01:00
+  moreProfiles:
+  - 959
+  - 2574
+  relatedProfiles: []
+  additionalImages: 
+slug: bible-buffet
+releaseInfo:
+  catalogId: WT-BB-6
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1993
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Embossed Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f9eb05a21b45b1ddd60c2e0299dd6522.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 958')"
+    filename: /images/175/99483cfeab9e41e4f25867420819206b.jpg
+romDetails:
+- type: PRG0
+  label: BIBLE BUFFET VER 6.0 PRG
+  size: 128 KB
+  crc32: A8A4A48B
+  x: 2
+- type: CHR0
+  label: BIBLE BUFFET VER 6.0 VID
+  size: 128 KB
+  crc32: FC048AF2
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CFD5AC62
+  x: 2
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/706e4c09dfdc85b7f123bc2d59bcdbde.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9322 - 9402 (2)
+  estFirstRun: June 1993
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9341
+  dateCodeSuffix: CCF
+  std: 9341
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9340
+  dateCodeSuffix: BJF
+  std: 9340
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9402
+  dateCodeSuffix: FFBY
+  std: 9402
+  misc: 
+- designation: 
+  maker: Maxim
+  partNumber: ICL7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9029
+  dateCodeSuffix: -2
+  std: 9029
+  misc: 

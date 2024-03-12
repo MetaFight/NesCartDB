@@ -1,0 +1,143 @@
+metadata:
+  name: The Legend of Zelda
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-15 00:24:00
+  moreProfiles:
+  - 173
+  - 468
+  - 490
+  - 654
+  - 772
+  - 856
+  - 872
+  - 1013
+  - 1277
+  - 1332
+  relatedProfiles:
+  - 1434
+  - 2126
+  - 4270
+  - 1420
+  - 3948
+  - 1921
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-ZL USA *<br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/3da61f2059c980c3cb298ee5ce54cb59.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-ZL USA *<br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/7babc1acbd7a09e9a9d9cc1070e039b0.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-ZL-USA-1<br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/d155c67a38a3760d026791a57e4e0ea8.jpg
+slug: the-legend-of-zelda
+releaseInfo:
+  catalogId: NES-ZL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Gold (Battery)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ae6cb722962368b69f48e39ff7e9ed5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/be6af7512b80cbb0c758ac545c0b3492.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-ZL-0 PRG
+  size: 128 KB
+  crc32: 3FE272FB
+  x: 4
+pcbProperties:
+  name: NES-SNROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8723 - 9229 (7)
+  estFirstRun: June 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: MMC1
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 43
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8722
+  dateCodeSuffix: D
+  std: 8722
+  misc: 
+- designation: CHR
+  maker: Hitachi
+  partNumber: 64KSALP-NI L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8714
+  dateCodeSuffix: ''
+  std: 8714
+  misc: 03002990
+- designation: 
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8723
+  dateCodeSuffix: A
+  std: 8723
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8719
+  dateCodeSuffix: A
+  std: 8719
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5M5165P-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 705
+  dateCodeSuffix: 105
+  std: 8705
+  misc: 

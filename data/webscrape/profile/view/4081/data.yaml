@@ -1,0 +1,102 @@
+metadata:
+  name: 'Ankoku Shinwa: Yamato Takeru Densetsu'
+  altName: 暗黒神話 ヤマトタケル伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/04d8544c5d320aeaebd8741a8ab70da7.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f6f9dcb4e974fb34a90a42142df3b33b.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5c7ae179ac6488fee531cd055083c3a8.jpg
+slug: ankoku-shinwa-yamato-takeru-densetsu
+releaseInfo:
+  catalogId: TKS-G6
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 24, 1989
+  publisher: Tokyo Shoseki
+  developer: Another
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TKS-G6
+  backLabelId/Desc: TKS
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5cb349774cc19982cc4e6182c20ebf1c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TKS-G6-0 PRG
+  size: 256 KB
+  crc32: 644E312B
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8909
+  estFirstRun: March 1989
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8906
+  dateCodeSuffix: EY
+  std: 8906
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8902
+  dateCodeSuffix: M5
+  std: 8902
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8909
+  dateCodeSuffix: 1 A
+  std: 8909
+  misc: 

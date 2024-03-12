@@ -1,0 +1,92 @@
+metadata:
+  name: Dig Dug
+  altName: ディグダグ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-06 22:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: dig-dug
+releaseInfo:
+  catalogId: NAM-NDD-4500-06
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 4, 1985
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 06
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/462cf767211f11b07367e1113ffaacee.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/26eb39ba5506a95f7808b4a757ccbc5d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/efa11737519d4a8737c1d9bd69d25452.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT DD PRG
+  size: 16 KB
+  crc32: 82132616
+  x: 1
+- type: CHR0
+  label: NAMCOT DD CHR
+  size: 8 KB
+  crc32: 2DABC198
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: B174B680
+  x: 1
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d36d60f4d3ecef8e654d2d930e6e55e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8516
+  estFirstRun: April 1985
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 157P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 516
+  dateCodeSuffix: 10U
+  std: 8516
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 218P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 515
+  dateCodeSuffix: 106
+  std: 8515
+  misc: 

@@ -1,0 +1,131 @@
+metadata:
+  name: 'Kamen Rider Club: Gekitotsu Shocker Land'
+  altName: 仮面ライダー倶楽部 激突ショッカーランド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-28 20:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1742
+  - 3112
+  - 3113
+  - 3114
+  - 3290
+  additionalImages: 
+slug: kamen-rider-club-gekitotsu-shocker-land
+releaseInfo:
+  catalogId: BA-KAMEN
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 3, 1988
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a1d3dab8aed5736c19cf18601ff4b526.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d87e1480e9712b1adbe4e9ff6b331da.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/df15e378762196c684221eebfba2d32f.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 88 KAMEN-P
+  size: 128 KB
+  crc32: A59CA2EF
+  x: 5
+- type: CHR0
+  label: BANDAI 88 KAMEN-C
+  size: 128 KB
+  crc32: CC0FFD0E
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: DD8ED0F7
+  x: 5
+pcbProperties:
+  name: BA カメン
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA カメン<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a2c5907bee1db5925562d796d2089ba5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA カメン<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c227ae18eef3bd3a7a555f33d9ad1a2e.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8803 - 8804 (5)
+  estFirstRun: January 1988
+  pcbClass: BANDAI-74*161/161/32
+  inesMapper: 70
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024
+  partNumberSubDetail: 1154
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8A3
+  dateCodeSuffix: A0
+  std: 8803
+  misc: 
+- designation: 
+  maker: Ricoh
+  partNumber: RP231024
+  partNumberSubDetail: 1155
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8A3
+  dateCodeSuffix: A0
+  std: 8803
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8724
+  dateCodeSuffix: ZKX
+  std: 8724
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: I
+  std: 8739
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8739
+  dateCodeSuffix: I
+  std: 8739
+  misc: 

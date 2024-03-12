@@ -1,0 +1,126 @@
+metadata:
+  name: 'Godzilla 2: War of the Monsters'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-10 04:20:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-7Z USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f58cea623fac4726ec494daee08d8e72.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-7Z USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/68c2972dad2cd7171390eaea5dee4faa.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-7Z-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dcdbfd5ec7b5660cfecd8aa0a4f2ae9b.jpg
+slug: godzilla-2-war-of-the-monsters
+releaseInfo:
+  catalogId: NES-7Z-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1992
+  publisher: Toho
+  developer: Toho
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7Z-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f5337440f33f25c2e847718dfc6cb26.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c3844e56b73beae230a6418e0f80f9b1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-7Z-0 PRG
+  size: 128 KB
+  crc32: B4844CA5
+  x: 1
+- type: CHR0
+  label: NES-7Z-0 CHR
+  size: 128 KB
+  crc32: BB7AC293
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9FB32923
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ac400ca0cf5c345a77fc9c5d3b55afe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9201
+  estFirstRun: January 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6669
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2AC
+  dateCodeSuffix: K0 N
+  std: 9201
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0147
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1MB
+  dateCodeSuffix: 40
+  std: 9149
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 141
+  dateCodeSuffix: C
+  std: 9141
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9150
+  dateCodeSuffix: B3022
+  std: 9150
+  misc: 

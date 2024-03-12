@@ -1,0 +1,129 @@
+metadata:
+  name: Tom & Jerry
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-07-29 03:16:00
+  moreProfiles:
+  - 1843
+  - 4100
+  - 2524
+  relatedProfiles:
+  - 2016
+  - 181
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-5Y-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1e6c11ee680d422590aafa5091dd6f1d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-5Y-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fb7224d0df75459340b051c18e761d9b.jpg
+slug: tom-jerry
+releaseInfo:
+  catalogId: NES-5Y-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: October 22, 1992
+  publisher: Hi Tech Expressions
+  developer: Software Creations
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-5Y-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7dcaf70b9b827b67ce1d9cc971db3b08.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/91fd618fed840323c0e0a5a2ea781d83.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-5Y-0 PRG
+  size: 128 KB
+  crc32: F30506EA
+  x: 4
+- type: CHR0
+  label: NES-5Y-0 CHR
+  size: 128 KB
+  crc32: 42F91F99
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B2781C19
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ce722db60e27936f3caab7c8ee196721.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9223 - 9307 (3)
+  estFirstRun: June 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6695
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2FC
+  dateCodeSuffix: 42
+  std: 9223
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0137
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2GC
+  dateCodeSuffix: 4A
+  std: 9228
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9221
+  dateCodeSuffix: C
+  std: 9221
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9216
+  dateCodeSuffix: 5 AB
+  std: 9216
+  misc: 

@@ -1,0 +1,108 @@
+metadata:
+  name: Devil World
+  altName: デビルワールド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-02-08 05:59:00
+  moreProfiles:
+  - 2159
+  - 3692
+  - 4035
+  relatedProfiles:
+  - 2419
+  additionalImages: 
+slug: devil-world
+releaseInfo:
+  catalogId: HVC-DD
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 5, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: HVC-DD
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/63c42951709b4eb40817369811eed953.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 4DF3F32E
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 3A9AA7A1
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5FAB6BCE
+  x: 2
+pcbProperties:
+  name: 9011-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aae0d6dcb35fb9388f9258e45601d2cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 1495')"
+    filename: /images/175/fb0f27f98153da273c21f54120d1c639.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8440 - 8443 (2)
+  estFirstRun: October 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GDD
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 485901
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

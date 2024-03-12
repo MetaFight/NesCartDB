@@ -1,0 +1,131 @@
+metadata:
+  name: Disney's Chip 'n Dale Rescue Rangers
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 22:23:00
+  moreProfiles:
+  - 1913
+  - 2099
+  relatedProfiles:
+  - 2425
+  - 2009
+  - 7
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RU-NOE-1<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/bfc7c6e4053e77ac2fb6e69cb2f38ff9.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RU-NOE-1<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/ed2967fb4160a19948293cbb218cd4cd.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-RU-NOE<br>Submitted by: Kinopio<br>Linked from profile 2099')"
+    filename: /images/175/c3a4441026bbfb830a91475f55960b3a.jpg
+slug: disneys-chip-n-dale-rescue-rangers
+releaseInfo:
+  catalogId: NES-RU-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: December 12, 1991
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RU-NOE-1
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f4dc2f1a5b8bc89af6f190efef1199c5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RU-0 PRG
+  size: 128 KB
+  crc32: AC7A54CC
+  x: 6
+- type: CHR0
+  label: PAL-RU-0 CHR
+  size: 128 KB
+  crc32: 7D706FC3
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 84F7FC31
+  x: 6
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/09d187eebacaddf5657c62250c6f6230.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9145 - 9233 (2)
+  estFirstRun: November 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: CS
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9232
+  dateCodeSuffix: E
+  std: 9232
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 4B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9233
+  dateCodeSuffix: D
+  std: 9233
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9137
+  dateCodeSuffix: B3001
+  std: 9137
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: Kyonshiizu 2
+  altName: キョンシーズ２
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-13 08:17:00
+  moreProfiles:
+  - 1559
+  - 3151
+  - 3152
+  - 3153
+  - 3300
+  relatedProfiles: []
+  additionalImages: 
+slug: kyonshiizu-2
+releaseInfo:
+  catalogId: TFC-KR-5500-12
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 25, 1987
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Real Battery Door
+  frontLabelId: TFC-KR5500
+  sequence#: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/de6ad3c3ac1017578d6008342762ef8b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/376b643b1abf351ee327bf0d00c2a3e7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 32E63133
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 608CF2E9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BA43568A
+  x: 1
+pcbProperties:
+  name: P3-036-1
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-036-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eef1c7b11f60c929d3a6c5e70b3a140c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-036-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a173e2a7eacecc4e317feb072399a1b.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8722 - 8737 (5)
+  estFirstRun: June 1987
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-005
+detailedChipInfo:
+- designation: 
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8715
+  dateCodeSuffix: AAA
+  std: 8715
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TC571001D-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8716
+  dateCodeSuffix: AAA
+  std: 8716
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8722
+  dateCodeSuffix: K5
+  std: 8722
+  misc: BB

@@ -1,0 +1,115 @@
+metadata:
+  name: Urban Champion
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 22:48:00
+  moreProfiles:
+  - 440
+  - 1347
+  relatedProfiles:
+  - 2386
+  - 986
+  - 1474
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/736694a57f15a57f1eab46b3b9a1cba3.jpg
+slug: urban-champion
+releaseInfo:
+  catalogId: NES-UC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/984307bf36db43ffe2c2d1b4f3f45e86.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6073259c8b82c6791a9b8ba7743b19e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-UC-0 PRG
+  size: 16 KB
+  crc32: D31E4238
+  x: 7
+- type: CHR0
+  label: HVC-UC-0 CHR
+  size: 8 KB
+  crc32: 8777CEF2
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 656D4265
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bb8deb739e711b2e528f865eee49bf0c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-02<br>Submitted by: Kinopio<br>Linked from profile 2081')"
+    filename: /images/175/0305ffa8c4a19f1430c29bfe62e1c116.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8722 - 9001 (2)
+  estFirstRun: June 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0324
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7E2
+  dateCodeSuffix: 39
+  std: 8720
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2002
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7E4
+  dateCodeSuffix: 11
+  std: 8722
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8718
+  dateCodeSuffix: C
+  std: 8718
+  misc: 

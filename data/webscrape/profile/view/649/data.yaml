@@ -1,0 +1,73 @@
+metadata:
+  name: Metal Gear
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 06:42:00
+  moreProfiles:
+  - 79
+  - 158
+  - 489
+  - 649
+  - 1179
+  - 1247
+  relatedProfiles:
+  - 1429
+  - 4088
+  additionalImages: 
+slug: metal-gear
+releaseInfo:
+  catalogId: NES-ME-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1988
+  publisher: Ultra Games
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ME-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1179')"
+    filename: /images/175/f21fe768682eb099baede95568b4fb83.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 158')"
+    filename: /images/175/a9650f774c21967ffb824b70247eb669.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-ME-0 PRG
+  size: 128 KB
+  crc32: 817431EC
+  x: 6
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8847 - 8918 (4)
+  estFirstRun: November 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

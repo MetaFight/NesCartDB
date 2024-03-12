@@ -1,0 +1,123 @@
+metadata:
+  name: Castlequest
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 22:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3771
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-05-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/44ce4a7e6f97321f2cc988b040158af0.jpg
+slug: castlequest
+releaseInfo:
+  catalogId: NES-05-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1989
+  publisher: Nexoft
+  developer: Bits Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-05-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ea2d7fc3625cf9c2452a5220a83874c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0484503a2a89bece7721ca23cfee858.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-05-0 PRG
+  size: 32 KB
+  crc32: 749DC135
+  x: 1
+- type: CHR0
+  label: NES-05-0 CHR
+  size: 32 KB
+  crc32: B7CC9AF1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 12906664
+  x: 1
+pcbProperties:
+  name: NES-CNROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dc75a10321936729623eb16ff6c10745.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-06<br>Submitted by: Kinopio<br>Linked from profile 2416')"
+    filename: /images/175/6526643e34551950de7631f5d758442f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8944
+  estFirstRun: November 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2819
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9J2
+  dateCodeSuffix: 63
+  std: 8937
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2820
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9J3
+  dateCodeSuffix: 32
+  std: 8938
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8944
+  dateCodeSuffix: 5 BA
+  std: 8944
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 937
+  dateCodeSuffix: EN
+  std: 8937
+  misc: 

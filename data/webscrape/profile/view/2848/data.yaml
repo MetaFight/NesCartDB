@@ -1,0 +1,131 @@
+metadata:
+  name: Burai Fighter
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-22 06:32:00
+  moreProfiles:
+  - 415
+  - 2848
+  relatedProfiles:
+  - 2063
+  - 3739
+  - 1900
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-UF-USA<br>Submitted by: bootgod<br>Linked from profile 415')"
+    filename: /images/175/f59de8b47391f41dc8feaf5686a32a10.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-UF-USA<br>Submitted by: bootgod<br>Linked from profile 415')"
+    filename: /images/175/bebd18bc071068243069991785d48914.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-UF-USA<br>Submitted by: bootgod<br>Linked from profile 415')"
+    filename: /images/175/4b462cab1e29e6da4d0e648bd6024230.jpg
+slug: burai-fighter
+releaseInfo:
+  catalogId: NES-UF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Taxan
+  developer: KID
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UF-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 415')"
+    filename: /images/175/4aa68cecdbeb9ee65ddee769e1dab2e9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 415')"
+    filename: /images/175/e687c9a77bf050e013f78eeecf5ff3ad.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-UF-0 PRG
+  size: 32 KB
+  crc32: 7826FD3E
+  x: 2
+- type: CHR0
+  label: NES-UF-0 CHR
+  size: 32 KB
+  crc32: 99D58BC3
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: CE228874
+  x: 2
+pcbProperties:
+  name: NES-TEROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TEROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dd94bbcc47d21d77b714a957e664d51a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TEROM-03<br>Submitted by: Kinopio<br>Linked from profile 1849')"
+    filename: /images/175/ff535ea46ae757f31a52d10cffaa4d09.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9004 (2)
+  estFirstRun: January 1990
+  pcbClass: NES-TEROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2860
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9M3
+  dateCodeSuffix: 10
+  std: 8951
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2861
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0A1
+  dateCodeSuffix: 18
+  std: 9001
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9002
+  dateCodeSuffix: 5 AA
+  std: 9002
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9004
+  dateCodeSuffix: 1 A
+  std: 9004
+  misc: 

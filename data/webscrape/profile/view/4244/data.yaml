@@ -1,0 +1,80 @@
+metadata:
+  name: Spelunker
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 23:03:00
+  moreProfiles:
+  - 802
+  - 4244
+  - 1338
+  relatedProfiles:
+  - 2258
+  additionalImages: 
+slug: spelunker
+releaseInfo:
+  catalogId: NES-SU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Br?derbund
+  developer: MicroGraphicImage
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SU-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 802')"
+    filename: /images/175/26dae63c7cf6581fe1ad52928d53d147.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 802')"
+    filename: /images/175/4593c2db52a9a70dd287db3a5a97610c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-SU-0 PRG
+  size: 32 KB
+  crc32: D9976CDD
+  x: 3
+- type: CHR0
+  label: NES-SU-0 CHR
+  size: 8 KB
+  crc32: 8619B5AA
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 99D15A91
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8730 - 8747 (2)
+  estFirstRun: July 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo: []

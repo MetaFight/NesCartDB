@@ -1,0 +1,79 @@
+metadata:
+  name: Defender II
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-10-08 23:43:00
+  moreProfiles:
+  - 346
+  - 1061
+  - 1180
+  relatedProfiles:
+  - 4071
+  additionalImages: 
+slug: defender-ii
+releaseInfo:
+  catalogId: NES-SB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1988
+  publisher: HAL Laboratory
+  developer: Williams Entertainment
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SB-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 346')"
+    filename: /images/175/5e6a317d102446dc6dcc6dccef8aa471.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-SB-0 PRG
+  size: 16 KB
+  crc32: 7BC98E11
+  x: 3
+- type: CHR0
+  label: NES-SB-0 CHR
+  size: 8 KB
+  crc32: 3A034F6C
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: A2AF25D0
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8839
+  estFirstRun: September 1988
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo: []

@@ -1,0 +1,88 @@
+metadata:
+  name: Super Mario Bros. / Duck Hunt
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-14 04:10:00
+  moreProfiles:
+  - 10
+  - 99
+  - 347
+  - 493
+  - 494
+  - 792
+  - 862
+  - 1181
+  - 1206
+  - 4526
+  relatedProfiles:
+  - 1430
+  - 1999
+  additionalImages: 
+slug: super-mario-bros-duck-hunt
+releaseInfo:
+  catalogId: NES-MH-USA
+  region: USA (NTSC)
+  class: Licensed  » Multi-cart
+  releaseDate: November 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller,Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MH-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2463469d4837803f4df1c7f42f079249.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e17d5f36aeef6f102bd8754067b4c6bf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: 
+  size: 64 KB
+  crc32: 81069812
+  x: 13
+- type: CHR0
+  label: 
+  size: 16 KB
+  crc32: 7ECDA8B3
+  x: 15
+- type: N/A
+  label: ROMs Combined
+  size: 80 KB
+  crc32: D26EFD78
+  x: 13
+pcbProperties:
+  name: NES-MH
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Sharp
+  mfgRange: 8803 - 9112 (8)
+  estFirstRun: January 1988
+  pcbClass: NES-MHROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 
+  hardware: 74xx161
+detailedChipInfo: []

@@ -1,0 +1,140 @@
+metadata:
+  name: North & South
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-29 03:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4296
+  - 2433
+  - 4047
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-N5 USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd0ad19d0c7f9fcb95ea2e9495db9274.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-N5 USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bfbc31d2673aa46875d86152eefe40b7.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-N5-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/04ad9494067640b43d42c2bfebcd4bb4.jpg
+slug: north-south
+releaseInfo:
+  catalogId: NES-N5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-N5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/77c90ff8c2519fb807f57b53ce50b4c1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a52f1072e38efddabea84af0f0a77cd4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-N5-0 PRG
+  size: 128 KB
+  crc32: DFA2980E
+  x: 1
+- type: CHR0
+  label: NES-N5-0 CHR
+  size: 128 KB
+  crc32: 36A6BF0E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AE9F33D0
+  x: 1
+pcbProperties:
+  name: NES-TSROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad2547505bc8cab104dd16c4bc11ec34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-07<br>Submitted by: Kinopio<br>Linked from profile 2438')"
+    filename: /images/175/b4dfcd90a8ffea33fa9f5fe234eef2d9.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 93
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9048
+  dateCodeSuffix: E
+  std: 9048
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: R0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9049
+  dateCodeSuffix: D
+  std: 9049
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 043
+  dateCodeSuffix: C
+  std: 9043
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9043
+  dateCodeSuffix: 3 T
+  std: 9043
+  misc: 
+- designation: U5 W-RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9040
+  dateCodeSuffix: HCK
+  std: 9040
+  misc: 

@@ -1,0 +1,133 @@
+metadata:
+  name: "Castlevania II: Simon's Quest"
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 05:18:00
+  moreProfiles:
+  - 61
+  - 233
+  - 889
+  - 1126
+  - 1320
+  relatedProfiles:
+  - 2004
+  - 4693
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 233')"
+    filename: /images/175/01374ba12ff6991b3b0d751a020f5787.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 233')"
+    filename: /images/175/c255050f87bdefc3c195cf04694f04b9.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-QU-USA<br>Submitted by: bootgod<br>Linked from profile 61')"
+    filename: /images/175/633ef28052100fdca11bda2eafbd31cd.jpg
+slug: castlevania-ii-simons-quest
+releaseInfo:
+  catalogId: NES-QU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-QU-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 61')"
+    filename: /images/175/d73107488af2d8dfef2949762298b46b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47a50da2e22ceb9ea415687b8ac00f6e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-QU-0 PRG
+  size: 128 KB
+  crc32: C62793CF
+  x: 5
+- type: CHR0
+  label: NES-QU-0 CHR
+  size: 128 KB
+  crc32: AADDE6DC
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C471E42D
+  x: 5
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a468255127fe2b22948c367de44e8d0c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-04<br>Submitted by: Kinopio<br>Linked from profile 2422')"
+    filename: /images/175/dcc49909419dbfd669adf95e140e460c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844 - 8941 (3)
+  estFirstRun: November 1988
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5343
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9J1
+  dateCodeSuffix: 73
+  std: 8936
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 1B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8939
+  dateCodeSuffix: E
+  std: 8939
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8939
+  dateCodeSuffix: 7 BA
+  std: 8939
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8941
+  dateCodeSuffix: 5 AA
+  std: 8941
+  misc: 

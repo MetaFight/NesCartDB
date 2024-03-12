@@ -1,0 +1,117 @@
+metadata:
+  name: SD Sangoku Bushou Retsuden
+  altName: "ï¼³ï¼¤æˆ¦å›½æ­¦å°†åˆ—ä¼\x9D çƒˆç\x81«ã\x81®ã\x81”ã\x81¨ã\x81\x8Få¤©ä¸‹ã‚’ç›—ã‚Œï¼\x81"
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 04:21:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sd-sangoku-bushou-retsuden
+releaseInfo:
+  catalogId: BAP-X6
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 8, 1990
+  publisher: Banpresto
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: BAP-X6
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/da58926b51c2206954d6f3143c777e49.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BAP-X6-0 PRG
+  size: 128 KB
+  crc32: 1C3A73F0
+  x: 1
+- type: CHR0
+  label: BAP-X6-0 CHR
+  size: 128 KB
+  crc32: 6F24F4A5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8D26FDEA
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7e46b616d4dcbed56b6e6f6f0033f86.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9031
+  estFirstRun: August 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9031
+  dateCodeSuffix: E
+  std: 9031
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: S5
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9031
+  dateCodeSuffix: D
+  std: 9031
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9029
+  dateCodeSuffix: 5 DA
+  std: 9029
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5160F-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: 5 SB
+  std: 9029
+  misc: 

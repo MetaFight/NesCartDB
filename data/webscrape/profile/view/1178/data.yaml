@@ -1,0 +1,78 @@
+metadata:
+  name: Joust
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-27 01:40:00
+  moreProfiles:
+  - 423
+  - 1178
+  relatedProfiles: []
+  additionalImages: 
+slug: joust
+releaseInfo:
+  catalogId: NES-JU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1988
+  publisher: HAL Laboratory
+  developer: Williams Entertainment
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JU-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 423')"
+    filename: /images/175/e0c6a206f91938c146ca439b57f6bdb3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 423')"
+    filename: /images/175/60382a08d098acb8c9921d2d6cf046ed.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-JU-0 PRG
+  size: 16 KB
+  crc32: 435E9971
+  x: 2
+- type: CHR0
+  label: NES-JU-0 CHR
+  size: 16 KB
+  crc32: C1E68DBF
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 32 KB
+  crc32: BE387AF0
+  x: 2
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8843
+  estFirstRun: October 1988
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx161
+detailedChipInfo: []

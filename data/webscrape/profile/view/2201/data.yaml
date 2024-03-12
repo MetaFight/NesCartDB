@@ -1,0 +1,106 @@
+metadata:
+  name: Ochin ni Toshi Puzzle Tonjan!?
+  altName: 落っことしパズルとんじゃん！？
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 05:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ochin-ni-toshi-puzzle-tonjan
+releaseInfo:
+  catalogId: NMK-JT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 29, 1989
+  publisher: Jaleco
+  developer: NMK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: NMK-JT
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a890ae4a4d390ae989b793e7f71760d9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: NMK-JT-0 PRG
+  size: 128 KB
+  crc32: 7CBA563F
+  x: 1
+- type: CHR0
+  label: NMK-JT-0 CHR
+  size: 128 KB
+  crc32: D24004EB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 25EDAF5C
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1439523d8edefdca3ae0f2241a0a7815.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934
+  estFirstRun: August 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NVA
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 989
+  dateCodeSuffix: B3
+  std: 8933
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NVB
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9
+  dateCodeSuffix: 52
+  std: 8934
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8931
+  dateCodeSuffix: 7 A
+  std: 8931
+  misc: 

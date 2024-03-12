@@ -1,0 +1,70 @@
+metadata:
+  name: World Games
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-02-14 23:25:00
+  moreProfiles:
+  - 396
+  - 974
+  - 4246
+  relatedProfiles: []
+  additionalImages: 
+slug: world-games
+releaseInfo:
+  catalogId: NES-WV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1989
+  publisher: Milton Bradley
+  developer: Epyx
+  portedBy: 
+  players: 8
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WV-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 974')"
+    filename: /images/175/40820196bdcaa8546a1b9d1ed4c65ab6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 396')"
+    filename: /images/175/c4a4e8d148cb7a69ae752b2e4f85630b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-WV-0 PRG
+  size: 128 KB
+  crc32: F613A8F9
+  x: 3
+pcbProperties:
+  name: NES-ANROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8904
+  estFirstRun: January 1989
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo: []

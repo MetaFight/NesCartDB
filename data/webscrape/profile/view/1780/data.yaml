@@ -1,0 +1,108 @@
+metadata:
+  name: Antarctic Adventure
+  altName: けっきょく南極大冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-03 19:01:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1564
+  - 1780
+  - 2267
+  - 3049
+  - 3050
+  additionalImages: 
+slug: antarctic-adventure
+releaseInfo:
+  catalogId: KON-RC804
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 22, 1985
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC804
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1564')"
+    filename: /images/175/3402dd3dccdc232a59df55b6400d8d19.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1564')"
+    filename: /images/175/4e6e90c93c63962e07f23c82a9b44406.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: DF189D34
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: E03540CD
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 163ECCAE
+  x: 4
+pcbProperties:
+  name: 641-1-1
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>641-1-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca76781808bc9ac6d8e41098e0f04787.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>641-1-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/89227ec295898c5965719cdec05ce39d.jpg
+  pcbProducer: Konami
+  manufacturer: GI
+  mfgRange: 8508 - 8541 (5)
+  estFirstRun: February 1985
+  pcbClass: KONAMI-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: General Instrument
+  partNumber: RC804J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8513
+  dateCodeSuffix: CDA
+  std: 8513
+  misc: COB641192-1-1
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

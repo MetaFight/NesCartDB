@@ -1,0 +1,145 @@
+metadata:
+  name: Bandit Kings of Ancient China
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-06 17:48:00
+  moreProfiles:
+  - 1220
+  - 2924
+  relatedProfiles:
+  - 1729
+  additionalImages: 
+slug: bandit-kings-of-ancient-china
+releaseInfo:
+  catalogId: NES-XJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Koei
+  developer: Koei
+  players: 5
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-XJ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ba2d360eb7006991582e1192ba5d362.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e3140318d919ad17d16fde28de9d18cd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-XJ-0 PRG
+  size: 256 KB
+  crc32: 2B548D75
+  x: 2
+- type: CHR0
+  label: NES-XJ-0 CHR
+  size: 128 KB
+  crc32: 26D34BF6
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 15FE6D0F
+  x: 2
+pcbProperties:
+  name: NES-ETROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a1d5dbba503d20e216f6970ddc409d4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-ETROM-01<br>Submitted by: bootgod<br>Linked from profile 1053')"
+    filename: /images/175/c931953e41702b38db8fa8526cf5d868.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: NES-ETROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 2Y
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9049
+  dateCodeSuffix: D
+  std: 9049
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: R1
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9049
+  dateCodeSuffix: D
+  std: 9049
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9006
+  dateCodeSuffix: AA029
+  std: 9006
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 042
+  dateCodeSuffix: N
+  std: 9042
+  misc: 
+- designation: U5 W-RAM-1
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 041
+  dateCodeSuffix: N
+  std: 9041
+  misc: 
+- designation: U6 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9043
+  dateCodeSuffix: 5 AB
+  std: 9043
+  misc: 

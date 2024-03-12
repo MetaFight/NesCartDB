@@ -1,0 +1,129 @@
+metadata:
+  name: Super Spike V'Ball
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 18:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2152
+  - 2236
+  - 2615
+  - 4367
+  - 731
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VJ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/6d3cb54814c8980495b29b66ba176fbd.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VJ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/5e559555e9ae84591e0c6371ef1bf17c.jpg
+slug: super-spike-vball
+releaseInfo:
+  catalogId: NES-VJ-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: May 2, 1991
+  publisher: Nintendo
+  developer: Technos
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VJ-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/3689d9f72b841be1de5cc998a67ce843.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VJ-0 PRG
+  size: 128 KB
+  crc32: EBB9DF3D
+  x: 5
+- type: CHR0
+  label: NES-VJ-0 CHR
+  size: 128 KB
+  crc32: E5F016C4
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C05A63B2
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9db6683c78d5345cb9396103d280c836.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9119
+  estFirstRun: May 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 33
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9119
+  dateCodeSuffix: E
+  std: 9119
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 14
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9118
+  dateCodeSuffix: D
+  std: 9118
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9107
+  dateCodeSuffix: A
+  std: 9107
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9047
+  dateCodeSuffix: KP055
+  std: 9047
+  misc: 

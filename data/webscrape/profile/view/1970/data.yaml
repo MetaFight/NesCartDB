@@ -1,0 +1,127 @@
+metadata:
+  name: Snake Rattle 'n Roll
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 14:40:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2450
+  - 2451
+  - 717
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RJ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/860fb4d2d1b04abee385ef00a2744584.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RJ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/575ee04263401165307722c3fc4d1808.jpg
+slug: snake-rattle-n-roll
+releaseInfo:
+  catalogId: NES-RJ-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: April 6, 1992
+  publisher: Nintendo
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RJ-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7bc4c9295fb756c1a87ba62da16b7458.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RJ-0 PRG
+  size: 32 KB
+  crc32: 533F5707
+  x: 4
+- type: CHR0
+  label: NES-RJ-0 CHR
+  size: 32 KB
+  crc32: ADD26ABB
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3824F7A5
+  x: 4
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/08f444df820e88e44c27cbcc05414353.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9215
+  estFirstRun: April 1992
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2898
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 2DF
+  dateCodeSuffix: 17
+  std: 9215
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2887
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 2DF
+  dateCodeSuffix: 1A
+  std: 9215
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9143
+  dateCodeSuffix: C
+  std: 9143
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9214
+  dateCodeSuffix: 1 A 170
+  std: 9214
+  misc: 

@@ -1,0 +1,127 @@
+metadata:
+  name: Super Mario USA
+  altName: スーパーマリオＵＳＡ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 03:13:00
+  moreProfiles:
+  - 1457
+  - 2738
+  - 3526
+  - 3527
+  - 3679
+  relatedProfiles:
+  - 1287
+  - 1995
+  - 1949
+  - 2633
+  - 130
+  additionalImages: 
+slug: super-mario-usa
+releaseInfo:
+  catalogId: HVC-MT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 14, 1992
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Pink
+  formFactor: Small
+  frontLabelId: HVC-MT
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1457')"
+    filename: /images/175/164e18aa9c1123b23fc3d19ad762836e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-MT-0 PRG
+  size: 128 KB
+  crc32: C283E72D
+  x: 5
+- type: CHR0
+  label: HVC-MT-0 CHR
+  size: 128 KB
+  crc32: CE6E51D3
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 80FB7E6B
+  x: 5
+pcbProperties:
+  name: HVC-TSROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5bcd438e33f4a9c1292a1fe375251577.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 3526')"
+    filename: /images/175/5299001d10a3a3e357b683d303029451.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9231 - 9306 (5)
+  estFirstRun: August 1992
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T14
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9250
+  dateCodeSuffix: KY007
+  std: 9250
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W97
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9250
+  dateCodeSuffix: EY703
+  std: 9250
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9239
+  dateCodeSuffix: 7 B
+  std: 9239
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9240
+  dateCodeSuffix: A
+  std: 9240
+  misc: 

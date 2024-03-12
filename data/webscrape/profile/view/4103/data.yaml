@@ -1,0 +1,113 @@
+metadata:
+  name: Crime Busters
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-08-29 00:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: crime-busters
+releaseInfo:
+  catalogId: UNL-GRA-CB
+  region: Brazil (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Gradiente
+  developer: Bit Corp
+  players: 1
+  peripherals: Zapper Light Gun
+  country: Brazil
+cartProperties:
+  cartProducer: 
+  color: Black
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbabda2bd9e2251e0242566b98dd7d26.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aaf213e636ce5135950869ef20dd2497.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47357beefb57681bae743f9ebdd87251.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 1A8B558E
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 75CE915A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 4D68CFB1
+  x: 1
+pcbProperties:
+  name: PCI556
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>PCI556<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/34c41e2334cf6d3a947164dd6b5b0ff2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>PCI556<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51d8b093eaa32f2559c5734aa3e85782.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8938
+  estFirstRun: September 1989
+  pcbClass: UNL-PCI556
+  inesMapper: 38
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx138, 74xx161
+detailedChipInfo:
+- designation: U1
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8938
+  dateCodeSuffix: ''
+  std: 8938
+  misc: 
+- designation: U2
+  maker: ST Micro
+  partNumber: T74LS138B1
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8827
+  dateCodeSuffix: 9
+  std: 8827
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

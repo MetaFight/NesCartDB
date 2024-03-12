@@ -1,0 +1,127 @@
+metadata:
+  name: Four Players' Tennis
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 14:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2093
+  - 4705
+  - 178
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-74-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/c11329a185c65dd56a0ecea850124530.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-74-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0b61e58e790c1e88d710b63445d72510.jpg
+slug: four-players-tennis
+releaseInfo:
+  catalogId: NES-74-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: July 28, 1994
+  publisher: Nintendo
+  developer: Home Data
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-74-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/978d493586a94a4827dfacd003705e63.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-74-0 PRG
+  size: 128 KB
+  crc32: E16F25CC
+  x: 2
+- type: CHR0
+  label: PAL-74-0 CHR
+  size: 128 KB
+  crc32: 2B32EE96
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 48B8EE58
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/28cb37c9777324de990d45dbc7f95a82.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9207
+  estFirstRun: February 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NRR
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 222
+  dateCodeSuffix: 53
+  std: 9207
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NRQ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 224
+  dateCodeSuffix: 52
+  std: 9207
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9206
+  dateCodeSuffix: A
+  std: 9206
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9206
+  dateCodeSuffix: 3 A 170
+  std: 9206
+  misc: 

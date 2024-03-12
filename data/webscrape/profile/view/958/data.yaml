@@ -1,0 +1,122 @@
+metadata:
+  name: Bible Adventures
+  altName: 
+  variant: (Version 1.4)
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 05:51:00
+  moreProfiles:
+  - 958
+  - 1015
+  - 1157
+  - 1364
+  - 2117
+  - 4773
+  relatedProfiles: []
+  additionalImages: 
+slug: bible-adventures
+releaseInfo:
+  catalogId: WT-BC-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Embossed Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f57aaa8fdd27369a443f88dcb4407e0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/99483cfeab9e41e4f25867420819206b.jpg
+romDetails:
+- type: PRG0
+  label: D-ADVENTURES PRG 512 14
+  size: 64 KB
+  crc32: E571615D
+  x: 1
+- type: CHR0
+  label: D-ADVENTURES VID 512 14
+  size: 64 KB
+  crc32: 1C05428A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 680DA78D
+  x: 1
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b4275e7671c18d67133b99d915f66d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 959')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9018 - 9407 (4)
+  estFirstRun: May 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9247
+  dateCodeSuffix: MEC
+  std: 9247
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9250
+  dateCodeSuffix: WBC
+  std: 9250
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9407
+  dateCodeSuffix: XXAA
+  std: 9407
+  misc: 
+- designation: 
+  maker: Harris
+  partNumber: 7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9349
+  dateCodeSuffix: H
+  std: 9349
+  misc: 

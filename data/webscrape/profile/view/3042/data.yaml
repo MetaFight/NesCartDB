@@ -1,0 +1,106 @@
+metadata:
+  name: 'Teenage Mutant Ninja Turtles 2: The Manhattan Project'
+  altName: チイーネーソ　ミュータント　ニンジャ　タートルス　ザマンハッタンプロジェクト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-25 04:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3042
+  - 3315
+  additionalImages: 
+slug: teenage-mutant-ninja-turtles-2-the-manhattan-project
+releaseInfo:
+  catalogId: KON-RC863
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 13, 1991
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC863
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b36f99720c35c6d81eff91e40e19a008.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/750821601968c54d77d04ef50f604e62.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC863J00P
+  size: 256 KB
+  crc32: 5F82CB7D
+  x: 2
+- type: CHR0
+  label: RC863J00C
+  size: 256 KB
+  crc32: 4AA9B12A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 490E8A4C
+  x: 2
+pcbProperties:
+  name: 352400
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352400<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a545caf286b2702c91a2247dc281cbd0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>352400<br>Submitted by: bootgod<br>Linked from profile 2270')"
+    filename: /images/175/085ccacca5ad65b1f7bab113daf6f0d6.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9147 - 9147 (2)
+  estFirstRun: November 1991
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 25
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9147
+  dateCodeSuffix: D
+  std: 9147
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: SCC-I5R86
+  partNumberSubDetail: J805
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9144
+  dateCodeSuffix: EAI
+  std: 9144
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 052785 VRC IV
+  partNumberSubDetail: 440
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9125
+  dateCodeSuffix: EP
+  std: 9125
+  misc: 

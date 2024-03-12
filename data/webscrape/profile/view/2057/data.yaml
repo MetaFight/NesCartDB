@@ -1,0 +1,113 @@
+metadata:
+  name: Clu Clu Land
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-08-06 07:10:00
+  moreProfiles:
+  - 2057
+  - 2441
+  relatedProfiles:
+  - 984
+  - 1490
+  - 366
+  additionalImages: 
+slug: clu-clu-land
+releaseInfo:
+  catalogId: NES-CL-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: September 22, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CL-EEC
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: FRG
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1425ab5fa460d2a23becee3598f46581.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ebff82fff45d4b93c2ddc18f2bb4b5bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c95adb7e02173738ba713de4ad5b5ac3.jpg
+romDetails:
+- type: PRG0
+  label: HVC-CL-0 PRG
+  size: 16 KB
+  crc32: 23A60A62
+  x: 7
+- type: CHR0
+  label: HVC-CL-0 CHR
+  size: 8 KB
+  crc32: A63B8B98
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 48F68D40
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d2461c660edb20f7621e4026523d12d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/86b6b1da35c6773a45e32c5a89f7797c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8648 - 8839 (2)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0543
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8J4
+  dateCodeSuffix: 54
+  std: 8839
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2016
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8J4
+  dateCodeSuffix: 13
+  std: 8839
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8838
+  dateCodeSuffix: A
+  std: 8838
+  misc: 

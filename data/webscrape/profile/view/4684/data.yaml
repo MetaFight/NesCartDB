@@ -1,0 +1,105 @@
+metadata:
+  name: Mini Putt
+  altName: ミニパット
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2013-02-10 22:08:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mini-putt
+releaseInfo:
+  catalogId: WAV-Q6-11
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 15, 1991
+  publisher: A Wave
+  developer: Artech
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: WAV-Q6-11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e44de479370c738b98ebcd40de35eb7a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: WAV-Q6-0 PRG
+  size: 128 KB
+  crc32: 06E97649
+  x: 1
+- type: CHR0
+  label: WAV-Q6-0 CHR
+  size: 128 KB
+  crc32: 2922FBC4
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6439F53A
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f844e8467bdbb0f6ae5910947730936e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9052
+  estFirstRun: December 1990
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S53
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9052
+  dateCodeSuffix: E9706
+  std: 9052
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R21
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9052
+  dateCodeSuffix: EY701
+  std: 9052
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9038
+  dateCodeSuffix: B3090
+  std: 9038
+  misc: 

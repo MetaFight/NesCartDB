@@ -1,0 +1,116 @@
+metadata:
+  name: 'Sunday Funday: The Ride'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 06:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sunday-funday-the-ride
+releaseInfo:
+  catalogId: WT-SF-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1995
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufactured by Color Dreams, Inc.
+  backLabelDesc: Embossed Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5899c6d13c2204ae5f1744532449beb9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 958')"
+    filename: /images/175/99483cfeab9e41e4f25867420819206b.jpg
+romDetails:
+- type: PRG0
+  label: SUNDAY FUNDAY PRG
+  size: 128 KB
+  crc32: A94686CB
+  x: 1
+- type: CHR0
+  label: SUNDAY FUNDAY VID
+  size: 128 KB
+  crc32: 4E244BBC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5B16A3C8
+  x: 1
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1bb6686ffcaad0489f1916bd70bad1ae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 959')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9451
+  estFirstRun: December 1994
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: Sigma
+  partNumber: C-ROM
+  partNumberSubDetail: 209P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 3B69
+- designation: 
+  maker: Sigma
+  partNumber: C-ROM
+  partNumberSubDetail: 209V
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 0645
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9451
+  dateCodeSuffix: FDO
+  std: 9451
+  misc: 
+- designation: 
+  maker: Telcom
+  partNumber: TC7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9439
+  dateCodeSuffix: LEH
+  std: 9439
+  misc: 

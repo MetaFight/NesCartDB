@@ -1,0 +1,108 @@
+metadata:
+  name: Golf
+  altName: ゴルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-11 02:45:00
+  moreProfiles:
+  - 1472
+  - 1647
+  - 2215
+  - 3375
+  - 3475
+  - 3476
+  - 3477
+  - 3478
+  - 3673
+  relatedProfiles:
+  - 2385
+  - 2125
+  - 4429
+  - 2090
+  - 100
+  additionalImages: 
+slug: golf
+releaseInfo:
+  catalogId: HVC-GF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 1, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: HVC-GF
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2215')"
+    filename: /images/175/93362d1e9fc242efd373bee80b6c4620.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-GF-0 PRG
+  size: 16 KB
+  crc32: 9C7E6421
+  x: 9
+- type: CHR0
+  label: HVC-GF-0 CHR
+  size: 8 KB
+  crc32: 7DFA75A8
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5C9063E0
+  x: 9
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/65bfa9236ff173302d9e99df63d12183.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/614fb484880243f5c3b3f6952073e72f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8419 - 8618 (7)
+  estFirstRun: May 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: RP2D129
+  partNumberSubDetail: 0314
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 5M3
+  dateCodeSuffix: 13
+  std: 8551
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 03
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8550
+  dateCodeSuffix: D
+  std: 8550
+  misc: 

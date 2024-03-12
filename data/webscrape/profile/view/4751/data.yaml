@@ -1,0 +1,106 @@
+metadata:
+  name: Mahjong
+  altName: 麻雀
+  variant: (Revision B)
+  submittedBy: plgDavid
+  submittedOn: 2019-01-16 03:56:00
+  moreProfiles:
+  - 1466
+  - 1679
+  - 1687
+  - 3358
+  - 3359
+  - 3360
+  - 3361
+  - 3362
+  - 3670
+  - 3971
+  - 4004
+  - 4751
+  relatedProfiles: []
+  additionalImages: 
+slug: mahjong
+releaseInfo:
+  catalogId: HVC-MJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 27, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Green
+  formFactor: Small
+  frontLabelId: HVC-MJ
+  backLabelId/Desc: 830901
+  revision: B
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4004')"
+    filename: /images/175/b9753fe068a53c61c337009afe37791e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-MJ-1 PRG
+  size: 16 KB
+  crc32: F86D8D8A
+  x: 12
+- type: CHR0
+  label: HVC-MJ-1 CHR
+  size: 8 KB
+  crc32: 6BB45576
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 23D91BC6
+  x: 11
+pcbProperties:
+  name: HVC-SROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SROM-03<br>Submitted by: plgDavid<br>Linked from profile 0')"
+    filename: /images/175/edb39fc025e219dda25140f529712219.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SROM-03<br>Submitted by: plgDavid<br>Linked from profile 0')"
+    filename: /images/175/439f49a17979f03f9a44b4735fd9ea18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8352 - 8431 (3)
+  estFirstRun: December 1983
+  pcbClass: HVC-SROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: _UnkRicohMexico
+  partNumber: C3306
+  partNumberSubDetail: 12
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8402
+  dateCodeSuffix: 0359
+  std: 8402
+  misc: RP23128 0044
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: R0
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 3ZB
+  dateCodeSuffix: 2
+  std: 8350
+  misc: 

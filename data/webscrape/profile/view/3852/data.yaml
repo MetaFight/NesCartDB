@@ -1,0 +1,115 @@
+metadata:
+  name: Maharaja
+  altName: マハラジャ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-04 05:26:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: maharaja
+releaseInfo:
+  catalogId: SUN-MHA-6200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 29, 1989
+  publisher: Sunsoft
+  developer: Bothtec (Quest)
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6542574b3dcafa756d95fe413e55929c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1a316b2b245f11294e1f0ef338a238c7.jpg
+romDetails:
+- type: PRG0
+  label: MHA-PRG
+  size: 128 KB
+  crc32: FDE79681
+  x: 1
+- type: CHR0
+  label: MHA-CHR
+  size: 128 KB
+  crc32: FE011FB9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 98CCC9AB
+  x: 1
+pcbProperties:
+  name: UNK-SUNSOFT-MHA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-SUNSOFT-MHA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dfe435618ecb05492d4a57d4feba5773.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-SUNSOFT-MHA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8adea05624bec3f7ab457882cb48dc36.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8938
+  estFirstRun: September 1989
+  pcbClass: SUNSOFT-4
+  inesMapper: 68
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-4
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8937
+  dateCodeSuffix: E
+  std: 8937
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8938
+  dateCodeSuffix: E
+  std: 8938
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: SUNSOFT-4
+  partNumberSubDetail: 
+  type: Sunsoft-4
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8909
+  dateCodeSuffix: KP
+  std: 8909
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TC5565APL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8833
+  dateCodeSuffix: HCK
+  std: 8833
+  misc: 

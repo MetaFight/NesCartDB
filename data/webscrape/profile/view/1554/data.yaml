@@ -1,0 +1,109 @@
+metadata:
+  name: Bakushou!! Jinsei Gekijou 2
+  altName: 爆笑！！人生劇
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-13 06:53:00
+  moreProfiles:
+  - 1554
+  - 1764
+  relatedProfiles: []
+  additionalImages: 
+slug: bakushou-jinsei-gekijou-2
+releaseInfo:
+  catalogId: TFC-BJ2-5900-35
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 22, 1991
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-BJ2-5900
+  secondaryId: G7000051A
+  backLabelId/Desc: G7000002A
+  sequence#: 35
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ae8537b44fba66bbdaea1bbcc489f02.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/47e7f669b9a9acb7f4c1065d7a8af808.jpg
+romDetails:
+- type: PRG0
+  label: C79-01
+  size: 128 KB
+  crc32: 54163624
+  x: 2
+- type: CHR0
+  label: C79-02
+  size: 256 KB
+  crc32: 65142C2B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: BC7B1D0F
+  x: 2
+pcbProperties:
+  name: J9100234A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100234A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14057617bbaeb5ea7963ac84aa77a241.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100234A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/88153ad7cf4a5c4cf6f961632b4e03a2.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9107 - 9107 (2)
+  estFirstRun: February 1991
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: TC0190FMC
+detailedChipInfo:
+- designation: U1
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8827
+  dateCodeSuffix: KY
+  std: 8827
+  misc: 
+- designation: U2
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9106
+  dateCodeSuffix: HY003
+  std: 9106
+  misc: 
+- designation: U3
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9107
+  dateCodeSuffix: E
+  std: 9107
+  misc: 

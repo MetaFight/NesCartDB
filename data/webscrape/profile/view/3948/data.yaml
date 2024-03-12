@@ -1,0 +1,120 @@
+metadata:
+  name: 'Zelda no Densetsu 1: The Hyrule Fantasy'
+  altName: ゼルダの伝説1
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 08:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1434
+  - 2126
+  - 4270
+  - 1420
+  - 1921
+  - 173
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/55555fb25842a715314205af7877dee8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/85ad3f527d7f6b025cf9b1f6b4299632.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9fa384b2fcf523c9e513f78af8559989.jpg
+slug: zelda-no-densetsu-1-the-hyrule-fantasy
+releaseInfo:
+  catalogId: HVC-ZL
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 19, 1994
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Sea Green
+  formFactor: Small
+  frontLabelId: HVC-ZL
+  secondaryId: HVC-ZL-JPN
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/650f61dca14604e19943f68e6b398d17.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-ZL-0 PRG
+  size: 128 KB
+  crc32: 7AE0BF3C
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9403
+  estFirstRun: January 1994
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 1G
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9403
+  dateCodeSuffix: E
+  std: 9403
+  misc: 
+- designation: U2 CHR
+  maker: GoldStar
+  partNumber: GM76C88AL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9350
+  dateCodeSuffix: ''
+  std: 9350
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9225
+  dateCodeSuffix: B3001
+  std: 9225
+  misc: 
+- designation: U4 W-RAM
+  maker: GoldStar
+  partNumber: GM76C88AL-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9347
+  dateCodeSuffix: ''
+  std: 9347
+  misc: 

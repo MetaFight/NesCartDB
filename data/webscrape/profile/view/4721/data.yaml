@@ -1,0 +1,152 @@
+metadata:
+  name: 'Batman: Return of the Joker'
+  altName: 
+  variant: (Prototype)
+  submittedBy: Nintendo Player
+  submittedOn: 2014-03-19 02:39:00
+  moreProfiles:
+  - 657
+  - 4721
+  relatedProfiles:
+  - 2074
+  - 3857
+  - 1620
+  - 1905
+  additionalImages: 
+slug: batman-return-of-the-joker
+releaseInfo:
+  catalogId: NES-48-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BATMAN ROJ FINAL VER 0.0 PRG
+  size: 128 KB
+  crc32: 42FD0AB5
+  x: 1
+- type: CHR0
+  label: BATMAN ROJ FINAL VER 0.0 C0
+  size: 128 KB
+  crc32: 36862705
+  x: 1
+- type: CHR1
+  label: BATMAN ROJ FINAL VER 0.0 C1
+  size: 128 KB
+  crc32: 53C6F23A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 29DD37F4
+  x: 1
+pcbProperties:
+  name: SAP-E301
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: SUNSOFT-5A
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74F04, Sunsoft-5A
+detailedChipInfo:
+- designation: IC1
+  maker: _UnkAMS
+  partNumber: SUNSOFT-5A
+  partNumberSubDetail: 
+  type: Sunsoft-5
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9029
+  dateCodeSuffix: KAAB
+  std: 9029
+  misc: 6630
+- designation: IC2
+  maker: Fairchild
+  partNumber: F-74F04PC
+  partNumberSubDetail: 
+  type: 74F04
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8717
+  dateCodeSuffix: ''
+  std: 8717
+  misc: 
+- designation: IC3
+  maker: Sony
+  partNumber: CXK27C1000DQ-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC4
+  maker: Sony
+  partNumber: CXK27C1000DQ-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC5
+  maker: Hitachi
+  partNumber: HM6264ALP-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8852
+  dateCodeSuffix: ''
+  std: 8852
+  misc: 03112M93
+- designation: IC6
+  maker: Sony
+  partNumber: CXK27C1000DQ-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

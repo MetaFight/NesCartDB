@@ -1,0 +1,94 @@
+metadata:
+  name: Fire Hawk
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-11 03:39:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: fire-hawk
+releaseInfo:
+  catalogId: CAM-FH
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: September 1991
+  publisher: Camerica
+  developer: Codemasters
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Silver
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92ba4222b942866e0659a2d38f1c7f33.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 350')"
+    filename: /images/175/510848d48d07bd25d232272a7fd8191d.jpg
+romDetails:
+- type: PRG0
+  label: COBIC FH-V1
+  size: 128 KB
+  crc32: 1BC686A8
+  x: 1
+pcbProperties:
+  name: BIC-62
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9212
+  estFirstRun: March 1992
+  pcbClass: CAMERICA-BF9097
+  inesMapper: 71
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9097
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9097
+  partNumberSubDetail: 
+  type: Camerica BF9097
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9212
+  dateCodeSuffix: A
+  std: 9212
+  misc: 
+- designation: U2
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C1003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: Vitelic
+  partNumber: V63C64S45
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9105
+  dateCodeSuffix: ''
+  std: 9105
+  misc: 

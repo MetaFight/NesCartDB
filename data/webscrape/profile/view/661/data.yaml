@@ -1,0 +1,127 @@
+metadata:
+  name: 'The Simpsons:  Bart vs. The World'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-19 03:15:00
+  moreProfiles:
+  - 651
+  - 661
+  - 1194
+  relatedProfiles:
+  - 2899
+  - 1854
+  - 1987
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-Y9-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/58f683f50a5bc3e50b7d9708bd7aa81a.jpg
+slug: the-simpsons-bart-vs-the-world
+releaseInfo:
+  catalogId: NES-Y9-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 1991
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-Y9-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e38a9f5def90f0f3341f30fa3daeb8f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1194')"
+    filename: /images/175/7e0e9d6611635b986025789764d21f57.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-Y9-1 PRG
+  size: 256 KB
+  crc32: CB392A83
+  x: 3
+- type: CHR0
+  label: NES-Y9-1 CHR
+  size: 128 KB
+  crc32: 0F891CEA
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 7416903F
+  x: 3
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f1a9eabc39ceaa4d8acdd1f49888406.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8327ac9b64b61c483a5dbc99f043c41a.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9145 - 9213 (2)
+  estFirstRun: November 1991
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9213
+  dateCodeSuffix: EYF
+  std: 9213
+  misc: 
+- designation: U2 CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9213
+  dateCodeSuffix: EWF
+  std: 9213
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 201
+  dateCodeSuffix: C
+  std: 9201
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9211
+  dateCodeSuffix: KVA91
+  std: 9211
+  misc: 

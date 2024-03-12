@@ -1,0 +1,97 @@
+metadata:
+  name: Son Son
+  altName: ソンソン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 02:05:00
+  moreProfiles:
+  - 2191
+  - 3415
+  relatedProfiles: []
+  additionalImages: 
+slug: son-son
+releaseInfo:
+  catalogId: CAP-SS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 8, 1986
+  publisher: Capcom
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: CAP-SS
+  backLabelId/Desc: 850610
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6334a0b80ebc2f1267e6c6da904c5efd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-SS-0 PRG
+  size: 32 KB
+  crc32: 06093B5E
+  x: 2
+- type: CHR0
+  label: CAP-SS-0 CHR
+  size: 8 KB
+  crc32: 7DA3EDE2
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 10BAEEF3
+  x: 2
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1e7a76bc9a46343c0988d6c46260270c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8601 - 8605 (2)
+  estFirstRun: January 1986
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0067
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6A4
+  dateCodeSuffix: A0
+  std: 8605
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D70
+  partNumberSubDetail: 0039
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6A3
+  dateCodeSuffix: 11
+  std: 8604
+  misc: 

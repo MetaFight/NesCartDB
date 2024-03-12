@@ -1,0 +1,134 @@
+metadata:
+  name: 'Moe Pro!: Saikyou-hen'
+  altName: 燃えプロ！最強編
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 05:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1093
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aff56068d08455a305c7d8f4f3964d1c.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43237b69e8f9161b35f28845cf709616.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fea1b95dcdc2de6041659e993f5e84af.jpg
+slug: moe-pro-saikyou-hen
+releaseInfo:
+  catalogId: JF-33
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 22, 1991
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-33
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7e9999c636b0aaf4c3a7cd98bd95102d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/761bb3a8fafde78b88aea6801d44bbbe.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 035CC54B
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 221F85CF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 3F8D6889
+  x: 1
+pcbProperties:
+  name: JF-29A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-29A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3bda68737e623d618a3a1eac002c710e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-29A<br>Submitted by: bootgod<br>Linked from profile 2287')"
+    filename: /images/175/f722c6c12f78bb40443f2b07d9d6cd7d.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9147
+  estFirstRun: November 1991
+  pcbClass: JALECO-JF-29
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, D7756C, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Sharp
+  partNumber: LH532H
+  partNumberSubDetail: 5S
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9147
+  dateCodeSuffix: D
+  std: 9147
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W51
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9143
+  dateCodeSuffix: K9020
+  std: 9143
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 123
+  dateCodeSuffix: 170
+  std: 9123
+  misc: 
+- designation: IC4
+  maker: NEC
+  partNumber: D7756C
+  partNumberSubDetail: 220
+  type: ADPCM Speech Chip
+  typeSubDetail: 256 kb
+  package: DIP-18
+  dateCodePrefix: 9144
+  dateCodeSuffix: PY013
+  std: 9144
+  misc: 
+- designation: IC5
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 1G2
+  dateCodeSuffix: 6
+  std: 9128
+  misc: 

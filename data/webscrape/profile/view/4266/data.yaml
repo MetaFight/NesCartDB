@@ -1,0 +1,125 @@
+metadata:
+  name: Gluk The Thunder Warrior
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2010-11-30 20:47:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: gluk-the-thunder-warrior
+releaseInfo:
+  catalogId: VJ-001
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Gluk Video
+  developer: TXC Corp
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Black
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e8eaa90e9e59ed94730b570fb1a2727f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: 04-01820-000
+  size: 128 KB
+  crc32: 3F60AC50
+  x: 1
+- type: CHR0
+  label: 04-01820-010
+  size: 128 KB
+  crc32: 9219BD34
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1570A0C8
+  x: 1
+pcbProperties:
+  name: PN\01-22018-400
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>PN\\01-22018-400<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/8be833a803541def1217bc10e170e7e9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9243
+  estFirstRun: October 1992
+  pcbClass: TXC-PT8154
+  inesMapper: 189
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx138, 74xx175, PT8154
+detailedChipInfo:
+- designation: U1 PRG
+  maker: __Unknown
+  partNumber: 27C1000
+  partNumberSubDetail: 
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2 LS138
+  maker: Matsushita
+  partNumber: 74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .133
+  dateCodeSuffix: N_
+  std: 9111
+  misc: 
+- designation: U3 LS175
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .974
+  dateCodeSuffix: ''
+  std: 8928
+  misc: 
+- designation: U4 CHR
+  maker: __Unknown
+  partNumber: 27C1000
+  partNumberSubDetail: 
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5 MMC
+  maker: __Unknown
+  partNumber: PT8154
+  partNumberSubDetail: 
+  type: PT8154
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 9243
+  dateCodeSuffix: ''
+  std: 9243
+  misc: 

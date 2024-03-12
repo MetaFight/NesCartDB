@@ -1,0 +1,124 @@
+metadata:
+  name: Tetris
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-15 03:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2390
+  - 1857
+  - 1902
+  - 172
+  additionalImages: 
+slug: tetris
+releaseInfo:
+  catalogId: NES-EI-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: February 23, 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EI-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: FAH
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b72e0d5f57bd24d78165d6dad23ac5eb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/599e513c8507c7b5a7068408e9620a11.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4370')"
+    filename: /images/175/a21af66f98afe9cf2e24a1304514bd71.jpg
+romDetails:
+- type: PRG0
+  label: PAL-EI-0 PRG
+  size: 32 KB
+  crc32: D3DEA841
+  x: 4
+- type: CHR0
+  label: NES-EI-0 CHR
+  size: 16 KB
+  crc32: 251AF21C
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: FDFF80D5
+  x: 4
+pcbProperties:
+  name: NES-SEROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3dfda7147db19ab07f8696fc8375fb8a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SEROM-04<br>Submitted by: Kinopio<br>Linked from profile 1857')"
+    filename: /images/175/01ff7e48629526f2fe063f2c4f5701e4.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9032
+  estFirstRun: August 1990
+  pcbClass: NES-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2848
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0HF
+  dateCodeSuffix: 16
+  std: 9032
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23128E
+  partNumberSubDetail: 0213
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 0GM
+  dateCodeSuffix: 14
+  std: 9029
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9031
+  dateCodeSuffix: A
+  std: 9031
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9024
+  dateCodeSuffix: 3 TA
+  std: 9024
+  misc: 

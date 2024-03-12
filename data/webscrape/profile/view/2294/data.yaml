@@ -1,0 +1,106 @@
+metadata:
+  name: 'Dragon Slayer IV: Drasle Family'
+  altName: ドラゴンスレイヤーIV ドラスレファミリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 04:43:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2294
+  - 3336
+  additionalImages: 
+slug: dragon-slayer-iv-drasle-family
+releaseInfo:
+  catalogId: NAM-DS4-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 17, 1987
+  publisher: Namco
+  developer: Nihon Falcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97861c70701d6fc9aada35560e0608c3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1ef51dbcae85e09f18837959896c20be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/298b9e35716f6302955539bb5263536b.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT DS4 PRG
+  size: 128 KB
+  crc32: 306EBBDE
+  x: 2
+- type: CHR0
+  label: NAMCOT DS4 CHR
+  size: 64 KB
+  crc32: 0E5F4719
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: A5E6BAF9
+  x: 2
+pcbProperties:
+  name: 3416
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3416<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/67add61cca6e6893548543b886e60f43.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8727 - 8727 (2)
+  estFirstRun: July 1987
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: P
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8726
+  dateCodeSuffix: KP
+  std: 8726
+  misc: 
+- designation: C
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8727
+  dateCodeSuffix: KX
+  std: 8727
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8717
+  dateCodeSuffix: B
+  std: 8717
+  misc: 

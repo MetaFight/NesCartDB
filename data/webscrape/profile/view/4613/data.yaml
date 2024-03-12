@@ -1,0 +1,129 @@
+metadata:
+  name: Hit the Ice
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-15 21:14:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hit-the-ice
+releaseInfo:
+  catalogId: UNR-93-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Taito
+  developer: Williams Entertainment
+  portedBy: 
+  players: 1
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/c1d0ffb797f2f745a1d2f4e8174950b0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HIT P
+  size: 128 KB
+  crc32: A7DAFE3F
+  x: 1
+- type: CHR0
+  label: HIT C
+  size: 128 KB
+  crc32: 2985C976
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1CB9A019
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKEPROM-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/cae183743c9452763ac0833ca4148c8d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKEPROM-02<br>Submitted by: Skrybe<br>Linked from profile 4700')"
+    filename: /images/175/502df72aa4c915494ae75b757d6366eb.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3C
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9222
+  dateCodeSuffix: ''
+  std: 9222
+  misc: 00017EE0
+- designation: U10
+  maker: Motorola
+  partNumber: MC74HC139AN
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9032
+  dateCodeSuffix: RJFT
+  std: 9032
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9222
+  dateCodeSuffix: ''
+  std: 9222
+  misc: 00017EE0
+- designation: U8 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: 7 BB
+  std: 9219
+  misc: 

@@ -1,0 +1,124 @@
+metadata:
+  name: Kick Off
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-20 22:47:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2490
+  - 2036
+  additionalImages: 
+slug: kick-off
+releaseInfo:
+  catalogId: NES-54-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: July 22, 1992
+  publisher: Imagineer
+  developer: Anco
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-54-UKV
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c3931360bed63d6bee1e342adf996cc7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/583f7ef23c8504932e93de7b79ce032a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4367')"
+    filename: /images/175/af14a7e9f42101b30e26d2aec5df323c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-54-0 PRG
+  size: 128 KB
+  crc32: D161888B
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9218
+  estFirstRun: May 1992
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3197A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC531002CP
+  partNumberSubDetail: J656
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9218
+  dateCodeSuffix: EAI
+  std: 9218
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9211
+  dateCodeSuffix: EJ
+  std: 9211
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9215
+  dateCodeSuffix: A
+  std: 9215
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 208
+  dateCodeSuffix: ER
+  std: 9208
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32AN
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9151
+  dateCodeSuffix: JJCE
+  std: 9151
+  misc: 

@@ -1,0 +1,123 @@
+metadata:
+  name: Major League Baseball
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-10 03:03:00
+  moreProfiles:
+  - 464
+  - 605
+  - 1242
+  relatedProfiles: []
+  additionalImages: 
+slug: major-league-baseball
+releaseInfo:
+  catalogId: NES-BS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1988
+  publisher: LJN
+  developer: Atlus
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BS-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 464')"
+    filename: /images/175/e87914b72763abad3e4bf345830df524.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/69fd6b4b65618adbe157beeb2cd4afe1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-BS-0 PRG
+  size: 32 KB
+  crc32: E7FF1A3D
+  x: 2
+- type: CHR0
+  label: NES-BS-0 CHR
+  size: 32 KB
+  crc32: 1FCFC7D9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: A03A422B
+  x: 2
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/81ad3ec3bfe8c3a36036b1457061694d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8813 - 8919 (3)
+  estFirstRun: March 1988
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: N5
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8813
+  dateCodeSuffix: B
+  std: 8813
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2049
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8C4
+  dateCodeSuffix: A0
+  std: 8813
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8744
+  dateCodeSuffix: A
+  std: 8744
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 745
+  dateCodeSuffix: J
+  std: 8745
+  misc: 

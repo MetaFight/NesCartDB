@@ -1,0 +1,164 @@
+metadata:
+  name: 'Star Wars: The Empire Strikes Back'
+  altName: 
+  variant: (Prototype)
+  submittedBy: bootgod
+  submittedOn: 2017-02-02 03:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2155
+  - 4336
+  - 1023
+  additionalImages: 
+slug: star-wars-the-empire-strikes-back
+releaseInfo:
+  catalogId: NES-EK-UKV
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: 1993
+  publisher: JVC
+  developer: LucasFilm Games
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8205782f1c868f23bfc6c33fbde3b398.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/648870909719180ea4f04cd114b2d923.jpg
+romDetails:
+- type: PRG0
+  label: P1
+  size: 128 KB
+  crc32: A364F094
+  x: 1
+- type: PRG1
+  label: P2
+  size: 128 KB
+  crc32: D4559359
+  x: 1
+- type: CHR0
+  label: C1
+  size: 128 KB
+  crc32: 90E8323F
+  x: 1
+- type: CHR1
+  label: C2
+  size: 128 KB
+  crc32: 87E7B9BF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 54E43C57
+  x: 3
+pcbProperties:
+  name: NES-TKEPROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9214
+  dateCodeSuffix: ''
+  std: 9214
+  misc: 00017EE0
+- designation: U10
+  maker: Hitachi
+  partNumber: HD74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 1F2
+  dateCodeSuffix: T
+  std: 9124
+  misc: 
+- designation: U2 PRG-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9214
+  dateCodeSuffix: ''
+  std: 9214
+  misc: 00017EE0
+- designation: U5 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9214
+  dateCodeSuffix: ''
+  std: 9214
+  misc: 00017EE0
+- designation: U6 CHR-ROM
+  maker: Hitachi
+  partNumber: HN27C301AG-17
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9214
+  dateCodeSuffix: ''
+  std: 9214
+  misc: 00017EE0
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9204
+  dateCodeSuffix: 1 AB
+  std: 9204
+  misc: 
+- designation: U9 CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9208
+  dateCodeSuffix: A
+  std: 9208
+  misc: 

@@ -1,0 +1,107 @@
+metadata:
+  name: The Black Bass
+  altName: ザ・ブラックバス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 05:14:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-black-bass
+releaseInfo:
+  catalogId: GAM-BO-01
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 6, 1987
+  publisher: HOT?B
+  developer: Another
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: GAM-BO-01
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/316b03fb6be0b83558c462d187d10b66.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: GAM-BO-0 PRG
+  size: 128 KB
+  crc32: B04BA659
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8709
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 29
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8709
+  dateCodeSuffix: D
+  std: 8709
+  misc: 
+- designation: CHR RAM
+  maker: Hitachi
+  partNumber: HM6264P-20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8703
+  dateCodeSuffix: ''
+  std: 8703
+  misc: U0422YY0
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8704
+  dateCodeSuffix: CA
+  std: 8704
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6?
+  dateCodeSuffix: ''
+  std: 8648
+  misc: 

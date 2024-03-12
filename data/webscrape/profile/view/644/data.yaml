@@ -1,0 +1,74 @@
+metadata:
+  name: R.B.I. Baseball 3
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 05:31:00
+  moreProfiles:
+  - 483
+  - 644
+  relatedProfiles: []
+  additionalImages: 
+slug: rbi-baseball-3
+releaseInfo:
+  catalogId: TGN-024-RB3
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  4-DigitCode: RORZ
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 483')"
+    filename: /images/175/1665feb2b09b49e3a4bcf941c6eeb4d9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4675')"
+    filename: /images/175/d144fc46702b2568e7b3d2c95bc50397.jpg
+romDetails:
+- type: PRG0
+  label: 335024-1011 RB3PR
+  size: 128 KB
+  crc32: BAB897FE
+  x: 3
+- type: CHR0
+  label: 335024-1012 RB3CH
+  size: 64 KB
+  crc32: E7D4D434
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: FD63E7AC
+  x: 3
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9135
+  estFirstRun: September 1991
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo: []

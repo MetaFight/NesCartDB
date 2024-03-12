@@ -1,0 +1,83 @@
+metadata:
+  name: Track & Field
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-07-06 00:15:00
+  moreProfiles:
+  - 88
+  - 971
+  - 2841
+  relatedProfiles:
+  - 4427
+  - 2277
+  - 4678
+  - 2462
+  - 1956
+  additionalImages: 
+slug: track-field
+releaseInfo:
+  catalogId: NES-TR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1987
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TR-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2841')"
+    filename: /images/175/69916ae3418fe2e02c8b6d61bad5b1d1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2841')"
+    filename: /images/175/fd8b3c96511837dd40b72013bae1900c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TR-0 PRG
+  size: 32 KB
+  crc32: 25F872D4
+  x: 4
+- type: CHR0
+  label: NES-TR-0 CHR
+  size: 32 KB
+  crc32: 03BFBC4B
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9C9F3571
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8724 - 8750 (2)
+  estFirstRun: June 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+  hardware: 74xx161
+detailedChipInfo: []

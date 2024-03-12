@@ -1,0 +1,84 @@
+metadata:
+  name: 'Teenage Mutant Ninja Turtles II: The Arcade Game'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 02:44:00
+  moreProfiles:
+  - 145
+  - 508
+  - 572
+  - 1143
+  relatedProfiles:
+  - 4033
+  - 4743
+  - 1773
+  - 2504
+  - 2002
+  additionalImages: 
+slug: teenage-mutant-ninja-turtles-ii-the-arcade-game
+releaseInfo:
+  catalogId: NES-2N-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Ultra Games
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2N-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 145')"
+    filename: /images/175/c865ec13d54945a2fbc203acb1e85410.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 145')"
+    filename: /images/175/19102b69f9b5d0adfc53788c65eb7a9d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-2N-0 PRG
+  size: 256 KB
+  crc32: 717E1C46
+  x: 4
+- type: CHR0
+  label: NES-2N-0 CHR
+  size: 256 KB
+  crc32: 0DBC575F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: A9217EA2
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9108 - 9127 (3)
+  estFirstRun: February 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

@@ -1,0 +1,108 @@
+metadata:
+  name: Pooyan
+  altName: プーヤン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 23:16:00
+  moreProfiles:
+  - 3408
+  - 3409
+  relatedProfiles: []
+  additionalImages: 
+slug: pooyan
+releaseInfo:
+  catalogId: HFC-PO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 20, 1985
+  publisher: Hudson Soft
+  developer: Konami
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HFC-PO
+  backLabelId/Desc: 850610
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/73022e228c7aad3df6c12c86e18eae0a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: E23E6FAC
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: D396DEA8
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 7F495283
+  x: 2
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/151f7199863d7a80158508489a04bf6d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3376')"
+    filename: /images/175/a9cbe6ee6c764c7058c51f0924fd3029.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8535 - 8535 (2)
+  estFirstRun: September 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HFC-PO
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 59
+  dateCodeSuffix: 043
+  std: 8535
+  misc: 2H-L3
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

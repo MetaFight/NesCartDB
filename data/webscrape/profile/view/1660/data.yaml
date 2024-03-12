@@ -1,0 +1,99 @@
+metadata:
+  name: Challenger
+  altName: チャレンジャー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 21:07:00
+  moreProfiles:
+  - 1660
+  - 1671
+  - 2329
+  - 3395
+  - 3396
+  relatedProfiles: []
+  additionalImages: 
+slug: challenger
+releaseInfo:
+  catalogId: HFC-CH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 15, 1985
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Brown
+  formFactor: Small
+  frontLabelId: HFC-CH
+  backLabelId/Desc: 850610
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ac35a1e290a57333d2076fe1fd33e7b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-CH-0 PRG
+  size: 32 KB
+  crc32: 374CB8A6
+  x: 5
+- type: CHR0
+  label: HFC-CH-0 CHR
+  size: 8 KB
+  crc32: 958F2B60
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 73418721
+  x: 5
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/db13b6be8a9d81688d3dc7e69de33495.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8540 - 8609 (4)
+  estFirstRun: October 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0057
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 5L5
+  dateCodeSuffix: B6
+  std: 8549
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 36
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8545
+  dateCodeSuffix: D
+  std: 8545
+  misc: 

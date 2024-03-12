@@ -1,0 +1,117 @@
+metadata:
+  name: 'Dragon Slayer IV: Drasle Family'
+  altName: ドラゴンスレイヤーIV ドラスレファミリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 05:36:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2294
+  - 3336
+  additionalImages: 
+slug: dragon-slayer-iv-drasle-family
+releaseInfo:
+  catalogId: NAM-DS4-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 17, 1987
+  publisher: Namco
+  developer: Nihon Falcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d148c6eee70e811b7a1c334ff5395ca5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2294')"
+    filename: /images/175/1ef51dbcae85e09f18837959896c20be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 306EBBDE
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 0E5F4719
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: A5E6BAF9
+  x: 2
+pcbProperties:
+  name: LROG029-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG029-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/838f4998d7d1f8438be5cf5cf63324b9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG029-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/99d32e907dc300ac89a908d0eaee0f28.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8727 - 8727 (2)
+  estFirstRun: July 1987
+  pcbClass: NAMCOT-3416
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG029
+  partNumberSubDetail: DS 4
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8727
+  dateCodeSuffix: 3
+  std: 8727
+  misc: 
+- designation: 1MP
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 512C
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP109
+  type: Namcot 109
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

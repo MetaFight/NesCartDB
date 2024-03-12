@@ -1,0 +1,138 @@
+metadata:
+  name: Moero!! Juudou Warriors
+  altName: 燃えろ！！ 柔道うぉり・ーず
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 03:09:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: moero-juudou-warriors
+releaseInfo:
+  catalogId: JF-28
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 29, 1990
+  publisher: Jaleco
+  developer: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-28
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/78e01f2733d69f81172ed48153a47114.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2e6af1d8d76d3babde79bfb05ab4e21f.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: AA6E1A35
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 6BD848F1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9EE83916
+  x: 1
+pcbProperties:
+  name: JF-17
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-17<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27b470cfcc529477159b88889cb507ea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-17<br>Submitted by: bootgod<br>Linked from profile 2286')"
+    filename: /images/175/ffbeb67d92bb6f07c888973d75e0b6a9.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9024
+  estFirstRun: June 1990
+  pcbClass: JALECO-JF-17
+  inesMapper: 72
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161, 74xx174, 74xx174, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S11
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9024
+  dateCodeSuffix: EX786
+  std: 9024
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S12
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9024
+  dateCodeSuffix: EX775
+  std: 9024
+  misc: 
+- designation: 161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8G3
+  dateCodeSuffix: T
+  std: 8829
+  misc: 
+- designation: 174
+  maker: Hitachi
+  partNumber: HD74HC174P
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8C4
+  dateCodeSuffix: T
+  std: 8813
+  misc: 
+- designation: 174
+  maker: Hitachi
+  partNumber: HD74HC174P
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8C4
+  dateCodeSuffix: T
+  std: 8813
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8752
+  dateCodeSuffix: T7
+  std: 8752
+  misc: 

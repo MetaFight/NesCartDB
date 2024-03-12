@@ -1,0 +1,107 @@
+metadata:
+  name: 2010 Street Fighter
+  altName: ２０１０ストリートファイター
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 05:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 287
+  additionalImages: 
+slug: 2010-street-fighter
+releaseInfo:
+  catalogId: STE-20
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 8, 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Steel Blue
+  formFactor: Small
+  frontLabelId: STE-20
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dd3fbc57101e6428b5dbf42d293a534c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4759')"
+    filename: /images/175/a84f1d5a8d4d930b7beffeb86de952d8.jpg
+romDetails:
+- type: PRG0
+  label: STE-20-0 PRG
+  size: 128 KB
+  crc32: 349313DF
+  x: 1
+- type: CHR0
+  label: STE-20-0 CHR
+  size: 128 KB
+  crc32: 8C9FC729
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 18A885B0
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/78a880e3913e4f25a74d7ffd391fc78c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9025
+  estFirstRun: June 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S06
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9024
+  dateCodeSuffix: EX012
+  std: 9024
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T99
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9025
+  dateCodeSuffix: EY006
+  std: 9025
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9025
+  dateCodeSuffix: KP025
+  std: 9025
+  misc: 

@@ -1,0 +1,110 @@
+metadata:
+  name: 'Chou Wakusei Senki: Metafight'
+  altName: 超惑星戦記　メタファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 05:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1873
+  - 1909
+  - 2365
+  - 168
+  additionalImages: 
+slug: chou-wakusei-senki-metafight
+releaseInfo:
+  catalogId: TEC-MF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 17, 1988
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: TEC-MF
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8d7341f75126bd1fdef4ab2571c90e92.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TEC-MF-0 PRG
+  size: 128 KB
+  crc32: 72924076
+  x: 1
+- type: CHR0
+  label: TEC-MF-0 CHR
+  size: 128 KB
+  crc32: 69E30D7E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 039B4A9C
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/24eac93f30e67a06459eddc80128e0f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8823
+  estFirstRun: June 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8820
+  dateCodeSuffix: EX
+  std: 8820
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8820
+  dateCodeSuffix: KY
+  std: 8820
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8823
+  dateCodeSuffix: 3 A
+  std: 8823
+  misc: 

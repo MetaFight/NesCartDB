@@ -1,0 +1,119 @@
+metadata:
+  name: Famicom Wars
+  altName: ファミコンウォーズ
+  variant: (Revision 0B)
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 00:54:00
+  moreProfiles:
+  - 1632
+  - 1633
+  relatedProfiles: []
+  additionalImages: 
+slug: famicom-wars
+releaseInfo:
+  catalogId: HVC-FW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 12, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Khaki
+  formFactor: Small
+  frontLabelId: HVC-FW
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98182006e72251a06078caa3a70db973.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-FW-0 PRG
+  size: 128 KB
+  crc32: C9CCE8F2
+  x: 2
+- type: CHR0
+  label: HVC-FW-0 CHR
+  size: 64 KB
+  crc32: C57D73DC
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 9B547E05
+  x: 2
+pcbProperties:
+  name: HVC-FJROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-FJROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c0b75ef6aef84f269060ba0d39a8a0a7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844 - 8844 (2)
+  estFirstRun: November 1988
+  pcbClass: HVC-FJROM
+  inesMapper: 10
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC4
+detailedChipInfo:
+- designation: U1 PRG ROM
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 8S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8843
+  dateCodeSuffix: E
+  std: 8843
+  misc: 
+- designation: U2 CHR-ROM
+  maker: Sharp
+  partNumber: LH5314
+  partNumberSubDetail: R5
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: D
+  std: 8844
+  misc: 
+- designation: U3 MMC4
+  maker: Sharp
+  partNumber: MMC-4
+  partNumberSubDetail: 
+  type: Nintendo MMC4
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8837
+  dateCodeSuffix: 3 A
+  std: 8837
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8839
+  dateCodeSuffix: 3 Y
+  std: 8839
+  misc: 

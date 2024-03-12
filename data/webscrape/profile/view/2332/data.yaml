@@ -1,0 +1,110 @@
+metadata:
+  name: Seicross
+  altName: セクロス
+  variant: (Version 2.0)
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 23:52:00
+  moreProfiles:
+  - 1703
+  - 2332
+  relatedProfiles:
+  - 370
+  additionalImages: 
+slug: seicross
+releaseInfo:
+  catalogId: NBF-SE (02)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 15, 1986
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-SE
+  secondaryId: 02
+  backLabelId/Desc: NBF-02
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1703')"
+    filename: /images/175/d56bcf8fe28d2176d1e57d1e5d87244b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NBE-SE-0 PRG
+  size: 32 KB
+  crc32: A03C98A7
+  x: 1
+- type: CHR0
+  label: NBE-SE-0 CHR
+  size: 8 KB
+  crc32: DBA2082A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 0F05FF0A
+  x: 1
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e0abd6d7f8cff5c2da5e3de14799cd0e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8606 - 8616 (2)
+  estFirstRun: February 1986
+  pcbClass: HVC-CNROM+SECURITY
+  inesMapper: 185
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 44
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8616
+  dateCodeSuffix: D
+  std: 8616
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 59
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8616
+  dateCodeSuffix: E
+  std: 8616
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 64B
+  dateCodeSuffix: 7
+  std: 8616
+  misc: 

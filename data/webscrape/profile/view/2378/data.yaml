@@ -1,0 +1,113 @@
+metadata:
+  name: Soccer
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2007-12-29 21:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2498
+  - 1966
+  - 1451
+  - 1972
+  - 737
+  additionalImages: 
+slug: soccer
+releaseInfo:
+  catalogId: NES-SC-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: March 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/d988d7685493cb9145dd23b6e8d3a3af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/f31057d2a3fc6842dcbd9915fae37bc9.jpg
+romDetails:
+- type: PRG0
+  label: HVC-SC-0 PRG
+  size: 32 KB
+  crc32: 32E37DCB
+  x: 13
+- type: CHR0
+  label: HVC-SC-0 CHR
+  size: 8 KB
+  crc32: 307B19AB
+  x: 19
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 657F7875
+  x: 13
+pcbProperties:
+  name: NES-NROM-256-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-01<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/ff218efffb77f10f79b1f1acec022c30.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8639
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0050
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6J4
+  dateCodeSuffix: AB
+  std: 8639
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 16
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8638
+  dateCodeSuffix: E
+  std: 8638
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8639
+  dateCodeSuffix: AC
+  std: 8639
+  misc: 

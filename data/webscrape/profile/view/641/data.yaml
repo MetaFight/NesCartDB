@@ -1,0 +1,80 @@
+metadata:
+  name: Tiger-Heli
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 05:08:00
+  moreProfiles:
+  - 33
+  - 297
+  - 641
+  - 1329
+  relatedProfiles: []
+  additionalImages: 
+slug: tiger-heli
+releaseInfo:
+  catalogId: NES-TI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Acclaim
+  developer: Toaplan
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TI-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa3ffdfa97739687437ab14e195410e7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 33')"
+    filename: /images/175/66ef9887767f82b883497721ca592195.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TI-0 PRG
+  size: 32 KB
+  crc32: DDF29542
+  x: 4
+- type: CHR0
+  label: NES-TI-0 CHR
+  size: 32 KB
+  crc32: E1DAA15C
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: C3C7A568
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8738 - 8818 (3)
+  estFirstRun: September 1987
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx161
+detailedChipInfo: []

@@ -1,0 +1,130 @@
+metadata:
+  name: 'Kabuki: Quantum Fighter'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-02 05:26:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4603
+  - 2501
+  - 2551
+  - 92
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-3K-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7a9d8cda62b17beb3a2af6b51b0b269e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-3K-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3930e6b70f22011c31ad28e60c3ec9de.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-3K-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/14cfc0fc40eb7f761d3bdd97697238da.jpg
+slug: kabuki-quantum-fighter
+releaseInfo:
+  catalogId: NES-3K-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: October 25, 1991
+  publisher: Nintendo
+  developer: Human Entertainment
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3K-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/673cc551e55bbdccc28c0057b527d39d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e006173a0fab0daf2b77b17832ec6640.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-3K-0 PRG
+  size: 128 KB
+  crc32: 6F860E89
+  x: 6
+- type: CHR0
+  label: PAL-3K-0 CHR
+  size: 128 KB
+  crc32: EBE7DE41
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BCCFEF1C
+  x: 6
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/21f544d6255a301a274da05b9ea4c285.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/55841f2702758e1b4c0dad39d2c36b3f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9143
+  estFirstRun: October 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 73
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9143
+  dateCodeSuffix: E
+  std: 9143
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 38
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9143
+  dateCodeSuffix: E
+  std: 9143
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9138
+  dateCodeSuffix: A
+  std: 9138
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9141
+  dateCodeSuffix: 5 T
+  std: 9141
+  misc: 

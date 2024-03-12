@@ -1,0 +1,136 @@
+metadata:
+  name: Super Turrican
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 21:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2466
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-TU-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/d9db6c3cb42be8a2b6e6e4b089e01065.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-TU-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/eb37db6099ed5ff23def3bae71a15258.jpg
+slug: super-turrican
+releaseInfo:
+  catalogId: NES-TU-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: July 22, 1993
+  publisher: Imagineer
+  developer: Rainbow Arts
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TU-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/afd83ea376efc3b9f249163e91bc66dd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-TU-0 PRG
+  size: 128 KB
+  crc32: DCBA4A78
+  x: 3
+- type: CHR0
+  label: PAL-TU-0 CHR
+  size: 128 KB
+  crc32: 7AF88E89
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 88C30FDA
+  x: 3
+pcbProperties:
+  name: NES-TSROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-08<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/a898a96d8b61e128ee31b68d0ef7f885.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-08<br>Submitted by: Kinopio<br>Linked from profile 2052')"
+    filename: /images/175/8edc2d12580e9a93708b27ca48eba2c3.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9241
+  estFirstRun: October 1992
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6701
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2KH
+  dateCodeSuffix: 41
+  std: 9241
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0169
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2KC
+  dateCodeSuffix: 12
+  std: 9240
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9237
+  dateCodeSuffix: A
+  std: 9237
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9239
+  dateCodeSuffix: 1 U
+  std: 9239
+  misc: 
+- designation: U5 W-RAM
+  maker: Rohm
+  partNumber: BR6265-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 238
+  dateCodeSuffix: 159
+  std: 9238
+  misc: 

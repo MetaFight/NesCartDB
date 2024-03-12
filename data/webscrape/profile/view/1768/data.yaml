@@ -1,0 +1,130 @@
+metadata:
+  name: 'King Kong 2: Ikari no Megaton Punch'
+  altName: キングコング２　怒りのメガトンパンチ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-02 03:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1768
+  - 1769
+  - 3046
+  - 3310
+  additionalImages: 
+slug: king-kong-2-ikari-no-megaton-punch
+releaseInfo:
+  catalogId: KON-RC816
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 18, 1986
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC816
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/15b97ae493c85028349adb47025967db.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/961a495e7092c9b79a40ee1eb4e86451.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: C3DF85C3
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 1EC37AF0
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B06C0674
+  x: 4
+pcbProperties:
+  name: 4036
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>4036<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02e27198e9e46e054271d181b9c14122.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>4036<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2784b6260b1bbdb79fd7ad38e3e7d394.jpg
+  pcbProducer: Konami
+  manufacturer: Mitsubishi
+  mfgRange: 8648 - 8649 (4)
+  estFirstRun: December 1986
+  pcbClass: KONAMI-VRC-1
+  inesMapper: 75
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, VRC1
+detailedChipInfo:
+- designation: PCB
+  maker: Mitsubishi
+  partNumber: RC816J02
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 648
+  dateCodeSuffix: 532
+  std: 8648
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EPVRC1
+  type: Konami VRC
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP7432
+  type: 74-32 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

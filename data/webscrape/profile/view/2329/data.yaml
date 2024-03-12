@@ -1,0 +1,110 @@
+metadata:
+  name: Challenger
+  altName: チャレンジャー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 23:15:00
+  moreProfiles:
+  - 1660
+  - 1671
+  - 2329
+  - 3395
+  - 3396
+  relatedProfiles: []
+  additionalImages: 
+slug: challenger
+releaseInfo:
+  catalogId: HFC-CH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 15, 1985
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Brown
+  formFactor: Small
+  frontLabelId: HFC-CH
+  backLabelId/Desc: 851224
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1660')"
+    filename: /images/175/8ac35a1e290a57333d2076fe1fd33e7b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 374CB8A6
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 958F2B60
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 73418721
+  x: 5
+pcbProperties:
+  name: 9011-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e35579e6f269dc14a32829408d6cb256.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 1458')"
+    filename: /images/175/368603c7c521ccf6ccb6069756bc0a7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8540 - 8609 (4)
+  estFirstRun: October 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ICH
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 507128
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

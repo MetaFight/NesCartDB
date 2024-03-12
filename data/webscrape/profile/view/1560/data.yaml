@@ -1,0 +1,110 @@
+metadata:
+  name: 'Musashi no Ken: Tadaima Shugyou Chuu'
+  altName: 六三四の剣 た
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-13 08:25:00
+  moreProfiles:
+  - 1560
+  - 2599
+  - 2600
+  - 3164
+  - 3304
+  relatedProfiles: []
+  additionalImages: 
+slug: musashi-no-ken-tadaima-shugyou-chuu
+releaseInfo:
+  catalogId: TFC-MK-4900-08
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 8, 1986
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / No Battery Door
+  frontLabelId: Not Present
+  sequence#: 08
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14c2b76e6f85460af2acca3b8cca6339.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/13ac4c8651baa31f7348d0a6bedae872.jpg
+romDetails:
+- type: PRG0
+  label: PP PP X3-007
+  size: 32 KB
+  crc32: 9FF0F634
+  x: 5
+- type: CHR0
+  label: C C C C X3-008
+  size: 32 KB
+  crc32: 23E2279E
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 9D34EDC5
+  x: 5
+pcbProperties:
+  name: P3-024
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-024<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8ba0311952fc349a7517c568df4a6268.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-024<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b72a4da136bf4daf666c5cc6f79b0e21.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8620 - 8632 (5)
+  estFirstRun: May 1986
+  pcbClass: TAITO-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 147P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 632
+  dateCodeSuffix: 10S
+  std: 8632
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 148P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 632
+  dateCodeSuffix: 110
+  std: 8632
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 615
+  dateCodeSuffix: 1E0
+  std: 8615
+  misc: 

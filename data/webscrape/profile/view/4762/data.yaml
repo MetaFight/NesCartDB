@@ -1,0 +1,110 @@
+metadata:
+  name: 'Top Gun: Dual Fighters'
+  altName: トップガン　デュアルファイターズ
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 05:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2555
+  - 2031
+  - 4390
+  - 639
+  additionalImages: 
+slug: top-gun-dual-fighters
+releaseInfo:
+  catalogId: KDS-OG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: KDS-OG
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/d635fd06b2feca998a929ceea2bac75c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/2ad4194a596fcc1693b4b36086e3921e.jpg
+romDetails:
+- type: PRG0
+  label: KDS-OG-0 PRG
+  size: 128 KB
+  crc32: F6419D79
+  x: 0
+- type: CHR0
+  label: KDS-OG-0 CHR
+  size: 128 KB
+  crc32: 070AD757
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CA96AD0E
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/48916c9a3197acd64df22c7d086256ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/b809fd62b4a75e9d6949721f1be66ae2.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8949
+  estFirstRun: December 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5353
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9K2
+  dateCodeSuffix: 79
+  std: 8941
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 9Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8949
+  dateCodeSuffix: E
+  std: 8949
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8922
+  dateCodeSuffix: KP
+  std: 8922
+  misc: 

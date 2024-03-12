@@ -1,0 +1,118 @@
+metadata:
+  name: Youkai Douchuuki
+  altName: 妖怪道中記
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-30 05:08:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1820
+  - 2295
+  - 3317
+  additionalImages: 
+slug: youkai-douchuuki
+releaseInfo:
+  catalogId: NAM-YD-4900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 24, 1988
+  publisher: Namco
+  developer: Now Production
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9fd4754fa6237c84f8486cf7cfec58ee.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1820')"
+    filename: /images/175/7c559002223364c91466c28abe25c717.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 17421900
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 0229471A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C811DC7A
+  x: 3
+pcbProperties:
+  name: 60-14
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-14<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4021441ebf525259d32a52030505a63.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-14<br>Submitted by: bootgod<br>Linked from profile 1813')"
+    filename: /images/175/44232b874bdcd6488aebf4be0c8a0d9e.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8816 - 8818 (3)
+  estFirstRun: April 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: YD
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 816
+  dateCodeSuffix: K03
+  std: 8816
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

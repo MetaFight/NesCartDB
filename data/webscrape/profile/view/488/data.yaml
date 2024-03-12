@@ -1,0 +1,76 @@
+metadata:
+  name: Skate or Die!
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-12 23:52:00
+  moreProfiles:
+  - 157
+  - 488
+  - 574
+  - 2829
+  - 1124
+  - 1184
+  relatedProfiles:
+  - 1432
+  - 4406
+  - 2583
+  additionalImages: 
+slug: skate-or-die
+releaseInfo:
+  catalogId: NES-DI-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Ultra Games
+  developer: Electronic Arts
+  portedBy: 
+  players: 8
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DI-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 157')"
+    filename: /images/175/0a7e0532addad277a840cd25d96ef65e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ed838176cdc36781109a164175623de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: RD015N1P
+  size: 128 KB
+  crc32: 423ADA8E
+  x: 6
+pcbProperties:
+  name: 351320
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8902 - 8939 (3)
+  estFirstRun: January 1989
+  pcbClass: KONAMI-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

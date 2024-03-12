@@ -1,0 +1,123 @@
+metadata:
+  name: 'Jeopardy!: 25th Anniversary Edition'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 21:03:00
+  moreProfiles:
+  - 429
+  - 2798
+  relatedProfiles: []
+  additionalImages: 
+slug: jeopardy-25th-anniversary-edition
+releaseInfo:
+  catalogId: NES-J3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: GameTek
+  developer: Rare
+  players: 3
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-J3-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e21317b1db5c6bfd71240dd54e8fdcb7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/248f85d045d6a598d54d744c97a855aa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-J3-0 PRG
+  size: 128 KB
+  crc32: 0BDD8DD9
+  x: 3
+pcbProperties:
+  name: NES-ANROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9026 - 9028 (2)
+  estFirstRun: June 1990
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1845
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0FJ
+  dateCodeSuffix: XG
+  std: 9023
+  misc: 
+- designation: U2 CHR RAM
+  maker: Fujitsu
+  partNumber: 8464A-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9022
+  dateCodeSuffix: KT16
+  std: 9022
+  misc: L
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9026
+  dateCodeSuffix: 1 CA
+  std: 9026
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9015
+  dateCodeSuffix: ''
+  std: 9015
+  misc: 
+- designation: U5 HC02
+  maker: NEC
+  partNumber: D74HC02C
+  partNumberSubDetail: 
+  type: 74-02 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9003
+  dateCodeSuffix: U7
+  std: 9003
+  misc: 

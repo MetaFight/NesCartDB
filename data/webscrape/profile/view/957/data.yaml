@@ -1,0 +1,108 @@
+metadata:
+  name: Galactic Crusader
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 05:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2949
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dd2618c7484762fde3759b05c7d3ba3b.jpg
+slug: galactic-crusader
+releaseInfo:
+  catalogId: BNH-G-01
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Bunch Games
+  developer: Sachen / Joy Van
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dd047a0e8b9956fc79c5d77d0fcdb277.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/851dece0ec0738875a041b4003b47e90.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 762C72AE
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 975A9BF6
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 09C31CD4
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/618e2ce03900edb4cd363f9ce11a4c00.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9001
+  estFirstRun: January 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9001
+  dateCodeSuffix: KK
+  std: 9001
+  misc: 239B504
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9001
+  dateCodeSuffix: KK
+  std: 9001
+  misc: 239B504
+- designation: U3
+  maker: Texas Instruments
+  partNumber: SN74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8922
+  dateCodeSuffix: AS
+  std: 8922
+  misc: 

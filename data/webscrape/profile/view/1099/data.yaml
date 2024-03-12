@@ -1,0 +1,115 @@
+metadata:
+  name: Mario Bros.
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-11 02:22:00
+  moreProfiles:
+  - 1099
+  - 1339
+  relatedProfiles:
+  - 2375
+  - 2358
+  - 1990
+  - 2137
+  - 1491
+  additionalImages: 
+slug: mario-bros
+releaseInfo:
+  catalogId: NES-MA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MA-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/455a53bff7c9459bef1f8f64808426c6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/33ee468a6c617fd342759636942dd492.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: HVC-MA-0 PRG
+  size: 16 KB
+  crc32: 75F6A9F3
+  x: 9
+- type: CHR0
+  label: HVC-MA-0 CHR
+  size: 8 KB
+  crc32: 10F77435
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: C4C3949A
+  x: 9
+pcbProperties:
+  name: NES-NROM-128-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6291dde888ed62eda02f349469ecead3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-06<br>Submitted by: Kinopio<br>Linked from profile 2149')"
+    filename: /images/175/abdf62981f5a19219bb98380dc69c625.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8649 - 8950 (2)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23128E
+  partNumberSubDetail: 0211
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9L4
+  dateCodeSuffix: 21
+  std: 8948
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2029
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9M2
+  dateCodeSuffix: 16
+  std: 8950
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8948
+  dateCodeSuffix: 1 BA
+  std: 8948
+  misc: 

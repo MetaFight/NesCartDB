@@ -1,0 +1,128 @@
+metadata:
+  name: Ninja Gaiden
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-13 06:53:00
+  moreProfiles:
+  - 116
+  - 117
+  - 262
+  - 818
+  relatedProfiles:
+  - 1700
+  - 2505
+  - 2014
+  - 1879
+  additionalImages: 
+slug: ninja-gaiden
+releaseInfo:
+  catalogId: NES-NG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1989
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-NG-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e28c6bfb513475e3940a40510d74b6e7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 262')"
+    filename: /images/175/30e4fdd27cc772910e321f485ca9ef34.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-NG-0 PRG
+  size: 128 KB
+  crc32: 5F1E7B19
+  x: 3
+- type: CHR0
+  label: NES-NG-0 CHR
+  size: 128 KB
+  crc32: ECCD2DCB
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7C4A72D8
+  x: 3
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/77fd7cd8b65a5d1556693c6f02b9a1d7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8921 - 8939 (3)
+  estFirstRun: May 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8919
+  dateCodeSuffix: E
+  std: 8919
+  misc: 
+- designation: CHR-ROM
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 4A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8921
+  dateCodeSuffix: D
+  std: 8921
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8917
+  dateCodeSuffix: 5 CA
+  std: 8917
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8921
+  dateCodeSuffix: 5 A
+  std: 8921
+  misc: 

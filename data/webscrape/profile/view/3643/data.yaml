@@ -1,0 +1,124 @@
+metadata:
+  name: Lagrange Point
+  altName: ラグランジュポイント
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2009-06-25 04:42:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3643
+  - 3951
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 3951')"
+    filename: /images/175/64738612468ba884666f75491f7c1ee4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 3951')"
+    filename: /images/175/e080b49abf9d8c64a75e3f5859a452d1.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 3951')"
+    filename: /images/175/2d6fc20730b46ae74391ff4d64a76e49.jpg
+slug: lagrange-point
+releaseInfo:
+  catalogId: KON-RC851
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 26, 1991
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Large
+  frontLabelId: RC851
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6adcf48cbc50f653479499bb44e63a56.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ef55a0ceb93e9e165a63321bfd2cfdc4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3134')"
+    filename: /images/175/fd5c54cf4fffb55ec98835e28606be1c.jpg
+romDetails:
+- type: PRG0
+  label: RC851J00P
+  size: 512 KB
+  crc32: 743387FF
+  x: 2
+pcbProperties:
+  name: 352402
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9111 - 9111 (2)
+  estFirstRun: March 1991
+  pcbClass: KONAMI-VRC-7
+  inesMapper: 85
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MM1026, VRC7
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5341
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9111
+  dateCodeSuffix: D
+  std: 9111
+  misc: 
+- designation: 
+  maker: LSI Logic
+  partNumber: LH5160F-10TL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 043
+  dateCodeSuffix: D
+  std: 9043
+  misc: 
+- designation: 
+  maker: _UnkAMS
+  partNumber: 053982 VRC VII
+  partNumberSubDetail: 
+  type: Konami VRC VII
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9050
+  dateCodeSuffix: IAKD
+  std: 9050
+  misc: 
+- designation: 
+  maker: Mitsumi
+  partNumber: 1026B
+  partNumberSubDetail: 
+  type: MM1026
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 12
+  dateCodeSuffix: 7
+  std: 9106
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8464A-15LL-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9103
+  dateCodeSuffix: KT13
+  std: 9103
+  misc: 

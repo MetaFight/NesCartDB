@@ -1,0 +1,122 @@
+metadata:
+  name: Tetris Flash
+  altName: テトリスフラッシュ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 06:26:00
+  moreProfiles:
+  - 2157
+  - 3719
+  relatedProfiles:
+  - 4711
+  - 4382
+  - 169
+  additionalImages: 
+slug: tetris-flash
+releaseInfo:
+  catalogId: HVC-TR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 21, 1993
+  publisher: Nintendo
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HVC-TR
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2157')"
+    filename: /images/175/f014f4a89bb6a338aad78726bbcc67a4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-TR-0 PRG
+  size: 128 KB
+  crc32: 40280A0F
+  x: 2
+- type: CHR0
+  label: HVC-TR-0 CHR
+  size: 128 KB
+  crc32: 73736E45
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2746B39E
+  x: 2
+pcbProperties:
+  name: HVC-TSROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a772d5137dfcf404c047f60a1e657ee3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-04<br>Submitted by: bootgod<br>Linked from profile 3526')"
+    filename: /images/175/5299001d10a3a3e357b683d303029451.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9337 - 9338 (2)
+  estFirstRun: September 1993
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: JD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9337
+  dateCodeSuffix: E
+  std: 9337
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: AE
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9337
+  dateCodeSuffix: D
+  std: 9337
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9329
+  dateCodeSuffix: EP011
+  std: 9329
+  misc: 
+- designation: U4 W-RAM
+  maker: Rohm
+  partNumber: XLJ6265-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 331
+  dateCodeSuffix: 178
+  std: 9331
+  misc: 

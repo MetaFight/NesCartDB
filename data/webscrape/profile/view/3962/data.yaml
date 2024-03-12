@@ -1,0 +1,122 @@
+metadata:
+  name: Insector X
+  altName: インセクターＸ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 06:32:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b3ef09cf8c38ab76631f1efef29ff1c.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4781195371fca613e47f46df4e0fdbb2.jpg
+slug: insector-x
+releaseInfo:
+  catalogId: TFC-IS-5900-33
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 21, 1990
+  publisher: Taito
+  developer: Soft Machine
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-IS-5900
+  secondaryId: G7000001A
+  backLabelId/Desc: G7000002A
+  sequence#: 33
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f37fd48869b7a3a497c86d74497d7cc7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1554')"
+    filename: /images/175/47e7f669b9a9acb7f4c1065d7a8af808.jpg
+romDetails:
+- type: PRG0
+  label: C52-01
+  size: 128 KB
+  crc32: A71C3452
+  x: 1
+- type: CHR0
+  label: C52-02
+  size: 128 KB
+  crc32: 8A351A69
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F80BDC50
+  x: 1
+pcbProperties:
+  name: J9100205A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100205A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c005f1ef68fadff663bd112c39a1d22f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100205A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a4cad97d3ff1e18e13f55812c65413b1.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9030
+  estFirstRun: July 1990
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx245, TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9029
+  dateCodeSuffix: D
+  std: 9029
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9030
+  dateCodeSuffix: D
+  std: 9030
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8823
+  dateCodeSuffix: KY
+  std: 8823
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS245N
+  partNumberSubDetail: 
+  type: 74-245 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 8830
+  dateCodeSuffix: J
+  std: 8830
+  misc: 

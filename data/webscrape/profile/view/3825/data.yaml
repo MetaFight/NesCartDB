@@ -1,0 +1,107 @@
+metadata:
+  name: 'SWAT: Special Weapons and Tactics'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-10-03 11:22:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: swat-special-weapons-and-tactics
+releaseInfo:
+  catalogId: TDF-SW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 11, 1987
+  publisher: Toei Animation
+  developer: Shouei System
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TDF-SW
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e86966aa313eb0017cd1bc97bbd02477.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TDF-SW-0 PRG
+  size: 128 KB
+  crc32: 7C3D2EA3
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8734
+  estFirstRun: August 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2315
+  partNumberSubDetail: 83
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8734
+  dateCodeSuffix: D
+  std: 8734
+  misc: 
+- designation: CHR RAM
+  maker: Fujitsu
+  partNumber: MB8464-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8731
+  dateCodeSuffix: KT83
+  std: 8731
+  misc: BA
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8728
+  dateCodeSuffix: CA
+  std: 8728
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 7?
+  dateCodeSuffix: ''
+  std: 8734
+  misc: 

@@ -1,0 +1,111 @@
+metadata:
+  name: Crystal Mines
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-15 03:44:00
+  moreProfiles:
+  - 1268
+  - 4574
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/497b009ba4ddf84b3bc11d7c45d7b1b9.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2b35543b6452a136bd18a32f97fbcd1.jpg
+slug: crystal-mines
+releaseInfo:
+  catalogId: CDR-CS-81002
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Grey Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35fbd46adf8cdb7d2cb207eb6ca3af95.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1158')"
+    filename: /images/175/a5bae2ecbd7594217d9645f4237fa661.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 01EE0720
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 16 KB
+  crc32: 6D0528B0
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 80 KB
+  crc32: 72E66392
+  x: 2
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bef0b42e74188e487116ab6e29876d5c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 8944 - 9040 (2)
+  estFirstRun: November 1989
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Texas Instruments
+  partNumber: TMS27PC512NL
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: ALDP
+  std: 8944
+  misc: 
+- designation: U2
+  maker: Signetics
+  partNumber: 27C256-20 N
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8940
+  dateCodeSuffix: KH
+  std: 8940
+  misc: 2293605
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

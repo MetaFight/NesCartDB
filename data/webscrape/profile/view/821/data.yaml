@@ -1,0 +1,72 @@
+metadata:
+  name: NARC
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-05-16 02:01:00
+  moreProfiles:
+  - 31
+  - 821
+  - 2817
+  - 2816
+  - 2818
+  relatedProfiles: []
+  additionalImages: 
+slug: narc
+releaseInfo:
+  catalogId: NES-NQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1990
+  publisher: Acclaim
+  developer: Williams Entertainment
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-NQ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 31')"
+    filename: /images/175/2f2402e9fc1014c5296f99e94b4b70d5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 31')"
+    filename: /images/175/b735ddcc320ee347573e44bbd2f32bb2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-NQ-0 PRG
+  size: 128 KB
+  crc32: 0537322A
+  x: 6
+pcbProperties:
+  name: NES-AMROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9028 - 9032 (4)
+  estFirstRun: July 1990
+  pcbClass: NES-AMROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo: []

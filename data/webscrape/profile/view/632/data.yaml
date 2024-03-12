@@ -1,0 +1,109 @@
+metadata:
+  name: 'Dig Dug II: Trouble in Paradise'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-11 05:35:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3236
+  additionalImages: 
+slug: dig-dug-ii-trouble-in-paradise
+releaseInfo:
+  catalogId: NES-I2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Bandai
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-I2-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c58278a472e7b98dac5291e85df54390.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4509ef9bbf607bf7c4c5aec08cd6619c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-I2-0 PRG
+  size: 32 KB
+  crc32: 4C6FAF64
+  x: 1
+- type: CHR0
+  label: NES-I2-0 CHR
+  size: 8 KB
+  crc32: 6D5CDCEB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: DBB06A25
+  x: 1
+pcbProperties:
+  name: NES-NROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c4faca8d6caf5fbb5cd3aeb548f1404d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2083')"
+    filename: /images/175/6096d3c0dbd9575d1d5063111af4d1e6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8953
+  estFirstRun: January 1990
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 4A
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8947
+  dateCodeSuffix: B
+  std: 8947
+  misc: 
+- designation: U2 CHR
+  maker: OKI
+  partNumber: M3864B
+  partNumberSubDetail: 27
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9X
+  dateCodeSuffix: 18
+  std: 8939
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8953
+  dateCodeSuffix: 1 CA
+  std: 8953
+  misc: 

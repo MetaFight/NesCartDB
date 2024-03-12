@@ -1,0 +1,108 @@
+metadata:
+  name: Akagawa Jirou no Yuurei Ressha
+  altName: 赤川次郎の幽霊列車
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 02:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: akagawa-jirou-no-yuurei-ressha
+releaseInfo:
+  catalogId: KIN-YU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 8, 1991
+  publisher: King Records
+  developer: Mighty Craft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Grey
+  formFactor: Small
+  frontLabelId: KIN-YU
+  secondaryId: KIN-3
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9d29a42bbf3fba38363ccd01695e4eee.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KIN-YU-0 PRG
+  size: 256 KB
+  crc32: 9D976153
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP232048D
+  partNumberSubDetail: 0056
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 0MB
+  dateCodeSuffix: 72
+  std: 9049
+  misc: 
+- designation: U2 CHR
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9048
+  dateCodeSuffix: 5 TA
+  std: 9048
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 045
+  dateCodeSuffix: N
+  std: 9045
+  misc: 

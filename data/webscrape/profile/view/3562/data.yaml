@@ -1,0 +1,115 @@
+metadata:
+  name: Mario Open Golf
+  altName: マリオオープンゴルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-02 03:01:00
+  moreProfiles:
+  - 1464
+  - 1629
+  - 2733
+  - 3562
+  - 3563
+  relatedProfiles:
+  - 1895
+  - 1846
+  - 703
+  additionalImages: 
+slug: mario-open-golf
+releaseInfo:
+  catalogId: HVC-UG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 20, 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Green
+  formFactor: Small
+  frontLabelId: HVC-UG
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1464')"
+    filename: /images/175/7ff5c2854bd68b8f94cbdba64306eab7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-UG-0 PRG
+  size: 256 KB
+  crc32: BAEBA201
+  x: 4
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9136 - 9204 (5)
+  estFirstRun: September 1991
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9136
+  dateCodeSuffix: T17
+  std: 9136
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9046
+  dateCodeSuffix: MD
+  std: 9046
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9102
+  dateCodeSuffix: B3082
+  std: 9102
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0D5
+  dateCodeSuffix: 51
+  std: 9050
+  misc: 

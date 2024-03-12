@@ -1,0 +1,109 @@
+metadata:
+  name: 'Tatakae! Chou Robotto Seimeitai Transformers: Convoy no Nazo'
+  altName: 戦え！超ロボット生命体 トランスフォーマー コンボイの謎
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 01:45:00
+  moreProfiles:
+  - 2211
+  - 3602
+  - 3703
+  relatedProfiles: []
+  additionalImages: 
+slug: tatakae-chou-robotto-seimeitai-transformers-convoy-no-nazo
+releaseInfo:
+  catalogId: TFC-TF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 5, 1986
+  publisher: Takara
+  developer: ISCO
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Battleship Grey
+  formFactor: Small
+  frontLabelId: TFC-TF
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2211')"
+    filename: /images/175/3c2e9a2af5b28ba06d39a164cfcb0b90.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFC-TF-0 PRG
+  size: 32 KB
+  crc32: 0556DC12
+  x: 3
+- type: CHR0
+  label: TFC-TF-0 CHR
+  size: 32 KB
+  crc32: 759B4BFC
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: EA89963F
+  x: 3
+pcbProperties:
+  name: HVC-CNROM-256K-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/600d400c44b951b6b0706649fe8d0074.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-256K-01<br>Submitted by: bootgod<br>Linked from profile 2690')"
+    filename: /images/175/2bc135e3bceee088043829b169c499b1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8644 - 8646 (3)
+  estFirstRun: November 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 98
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8646
+  dateCodeSuffix: D
+  std: 8646
+  misc: 
+- designation: CHR ROM
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 97
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8646
+  dateCodeSuffix: D
+  std: 8646
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8646
+  dateCodeSuffix: C
+  std: 8646
+  misc: 

@@ -1,0 +1,73 @@
+metadata:
+  name: R.B.I. Baseball 2
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-07-10 02:08:00
+  moreProfiles:
+  - 976
+  - 2783
+  relatedProfiles: []
+  additionalImages: 
+slug: rbi-baseball-2
+releaseInfo:
+  catalogId: TGN-016-RB2
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2783')"
+    filename: /images/175/8e519ee90e09380a276c3b9e1a544496.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4675')"
+    filename: /images/175/d144fc46702b2568e7b3d2c95bc50397.jpg
+romDetails:
+- type: PRG0
+  label: 335016-1011 RB2PR
+  size: 128 KB
+  crc32: 093311AA
+  x: 2
+- type: CHR0
+  label: 335016-1012 RB2CH
+  size: 64 KB
+  crc32: 8585D41C
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 96DFC776
+  x: 2
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo: []

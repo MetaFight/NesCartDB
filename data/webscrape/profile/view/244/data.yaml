@@ -1,0 +1,137 @@
+metadata:
+  name: Super Mario Bros. / Duck Hunt / World Class Track Meet
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-09 00:32:00
+  moreProfiles:
+  - 244
+  - 345
+  - 592
+  - 794
+  - 2714
+  - 2860
+  relatedProfiles: []
+  additionalImages: 
+slug: super-mario-bros-duck-hunt-world-class-track-meet
+releaseInfo:
+  catalogId: NES-WH-USA
+  region: USA (NTSC)
+  class: Licensed  » Multi-cart
+  releaseDate: December 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller,Zapper Light Gun,Power Pad
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WH-USA
+  sealOfQuality: None
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e882685fe97caf145a911211415a8273.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 345')"
+    filename: /images/175/6c485ebdde4374971949058fd8e51080.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 6BEB5C84
+  x: 4
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: 3FA21A12
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 529B621F
+  x: 4
+pcbProperties:
+  name: NES-WH
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-WH<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fe4cf9f3527a0ca1ed2d07c7b01b445a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-WH<br>Submitted by: bootgod<br>Linked from profile 592')"
+    filename: /images/175/afd2dbc69873b47c4f239a3035048b33.jpg
+  pcbProducer: Nintendo
+  manufacturer: Sharp
+  mfgRange: 8834 - 8931 (5)
+  estFirstRun: August 1988
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 
+  hardware: MMC1
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG123
+  partNumberSubDetail: WH
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8853
+  dateCodeSuffix: 3
+  std: 8853
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP3193A
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EPMMC1
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

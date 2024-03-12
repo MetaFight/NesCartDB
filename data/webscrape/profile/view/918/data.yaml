@@ -1,0 +1,121 @@
+metadata:
+  name: Fun House
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-03 23:25:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: fun-house
+releaseInfo:
+  catalogId: NES-FS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1991
+  publisher: Hi Tech Expressions
+  developer: Realtime Associates
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FS-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2f6d0fae1c7f8159490c7d8a43a09b06.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42e36aa6380c9e8667899626cb798f12.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-FS-0 PRG
+  size: 128 KB
+  crc32: 576A0DE8
+  x: 1
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6624
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0MC
+  dateCodeSuffix: 43
+  std: 9049
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sony
+  partNumber: CXK5864BP-12L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 06
+  dateCodeSuffix: 48E
+  std: 9022
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 047
+  dateCodeSuffix: C
+  std: 9047
+  misc: 
+- designation: U4 HC161
+  maker: Motorola
+  partNumber: MC74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9031
+  dateCodeSuffix: JJBP
+  std: 9031
+  misc: 
+- designation: U5 HC32
+  maker: Motorola
+  partNumber: MC74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9036
+  dateCodeSuffix: JJAF
+  std: 9036
+  misc: 

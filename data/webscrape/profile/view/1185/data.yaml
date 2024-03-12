@@ -1,0 +1,81 @@
+metadata:
+  name: RoboCop
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-27 02:47:00
+  moreProfiles:
+  - 466
+  - 846
+  - 863
+  - 1185
+  - 1864
+  relatedProfiles:
+  - 2487
+  additionalImages: 
+slug: robocop
+releaseInfo:
+  catalogId: NES-CP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1989
+  publisher: Data East
+  developer: Sakata SAS
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CP-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 466')"
+    filename: /images/175/a96a2b34eb010905a3a6eca1c3b327db.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 846')"
+    filename: /images/175/f92470e835674773a3947e022f87d921.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-CP-0 PRG
+  size: 128 KB
+  crc32: 468DB9A0
+  x: 5
+- type: CHR0
+  label: NES-CP-0 CHR
+  size: 128 KB
+  crc32: 1C682415
+  x: 9
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 192D546F
+  x: 5
+pcbProperties:
+  name: NES-TLROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002 - 9016 (3)
+  estFirstRun: January 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo: []

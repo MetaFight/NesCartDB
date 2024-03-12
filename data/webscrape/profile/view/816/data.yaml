@@ -1,0 +1,72 @@
+metadata:
+  name: Marble Madness
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-21 20:26:00
+  moreProfiles:
+  - 206
+  - 484
+  - 816
+  - 865
+  - 2813
+  relatedProfiles:
+  - 2145
+  additionalImages: 
+slug: marble-madness
+releaseInfo:
+  catalogId: NES-MV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1989
+  publisher: Milton Bradley
+  developer: Tengen
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MV-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2aa6e694676cb17e108979146d5bad11.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-MV-0 PRG
+  size: 128 KB
+  crc32: 09874777
+  x: 6
+pcbProperties:
+  name: NES-ANROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8906 - 8920 (4)
+  estFirstRun: February 1989
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo: []

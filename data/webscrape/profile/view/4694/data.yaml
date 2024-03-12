@@ -1,0 +1,127 @@
+metadata:
+  name: George Foreman's KO Boxing
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2013-03-09 13:45:00
+  moreProfiles:
+  - 1296
+  - 4694
+  relatedProfiles:
+  - 969
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-KB-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f7ab8fb8c698b76e300f62303a04239a.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-KB-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/78f478120959ebcfbcbe2afbf7c62bd7.jpg
+slug: george-foremans-ko-boxing
+releaseInfo:
+  catalogId: NES-KB-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Acclaim
+  developer: Beam Software
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KB-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/df6ffae130dc9545e937dd001f28ea77.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-KB-0 PRG
+  size: 128 KB
+  crc32: C7A6F4A6
+  x: 2
+- type: CHR0
+  label: PAL-KB-0 CHR
+  size: 256 KB
+  crc32: EE0FF332
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 8C88536F
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/5e1a4c286ad7ab528a5f48e38f244527.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9248 - 9248 (2)
+  estFirstRun: December 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: T24
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9247
+  dateCodeSuffix: KY701
+  std: 9247
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W75
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9248
+  dateCodeSuffix: XD038
+  std: 9248
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9246
+  dateCodeSuffix: C
+  std: 9246
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9247
+  dateCodeSuffix: 1A
+  std: 9247
+  misc: 

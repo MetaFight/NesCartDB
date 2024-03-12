@@ -1,0 +1,130 @@
+metadata:
+  name: Shadow Warriors
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-16 02:23:00
+  moreProfiles:
+  - 2505
+  - 4207
+  relatedProfiles:
+  - 1700
+  - 2014
+  - 1879
+  - 116
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-66-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a6886f756de8a9f8cda3e9fe8227c2bb.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-66-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c369431d22662cd5e3920f37a2bc5289.jpg
+slug: shadow-warriors
+releaseInfo:
+  catalogId: NES-66-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: August 15, 1991
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-66-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d53dbaa6637db53acc9b101e823b48de.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a610b5d70c1a414c7e810f1d2d9139b6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-66-0 PRG
+  size: 128 KB
+  crc32: D7679A0E
+  x: 4
+- type: CHR0
+  label: PAL-66-0 CHR
+  size: 128 KB
+  crc32: 5C5C9DC7
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 709C9399
+  x: 4
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4c2c971d595865742cabac7bf23383aa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9119 - 9119 (2)
+  estFirstRun: May 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 38
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9119
+  dateCodeSuffix: E
+  std: 9119
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 03
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9119
+  dateCodeSuffix: D
+  std: 9119
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9108
+  dateCodeSuffix: A
+  std: 9108
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9119
+  dateCodeSuffix: 5 AA
+  std: 9119
+  misc: 

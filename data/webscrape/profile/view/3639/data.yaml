@@ -1,0 +1,96 @@
+metadata:
+  name: 'Mezase Pachi Pro: Pachio-kun'
+  altName: 目指せパチプロ パチ夫くん
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 05:09:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: mezase-pachi-pro-pachio-kun
+releaseInfo:
+  catalogId: CDS-PA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 18, 1987
+  publisher: Coconuts
+  developer: Marionette
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: CDS-PA
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/71b0257e53ef7af5fb3df7c399edc699.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CDS-PA-0 PRG
+  size: 128 KB
+  crc32: 9C3E8FC0
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8822
+  estFirstRun: June 1988
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 8A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: E
+  std: 8814
+  misc: 
+- designation: 
+  maker: Sony
+  partNumber: CXK5864PN-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8F
+  dateCodeSuffix: 78
+  std: 8822
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8814
+  dateCodeSuffix: 5 A
+  std: 8814
+  misc: 

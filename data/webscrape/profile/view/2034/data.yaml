@@ -1,0 +1,81 @@
+metadata:
+  name: Bucky O'Hare
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 22:55:00
+  moreProfiles:
+  - 2034
+  - 2134
+  relatedProfiles:
+  - 2489
+  - 4533
+  - 399
+  additionalImages: 
+slug: bucky-ohare
+releaseInfo:
+  catalogId: NES-56-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: July 3, 1992
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-56-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2134')"
+    filename: /images/175/0ea6fb1e4b957a08cb1cc6c4600a3c66.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/e555bdca8f46548b8f7b2281e7aa03cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-56-0 PRG
+  size: 128 KB
+  crc32: 32C4B857
+  x: 4
+- type: CHR0
+  label: PAL-56-0 CHR
+  size: 128 KB
+  crc32: E2917B27
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6720ABAC
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9228
+  estFirstRun: July 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo: []

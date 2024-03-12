@@ -1,0 +1,106 @@
+metadata:
+  name: Takeshi no Chousenjou
+  altName: たけしの挑戦状
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-30 04:52:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: takeshi-no-chousenjou
+releaseInfo:
+  catalogId: TFC-TC-5300-09
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 10, 1986
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / No Battery Door
+  frontLabelId: Not Present
+  sequence#: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7683b0a1861a342a1754f7a5e4e8fd64.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7804b1cff161573f2b8471fe55a0d36c.jpg
+romDetails:
+- type: PRG0
+  label: X3-009
+  size: 128 KB
+  crc32: DB196068
+  x: 1
+pcbProperties:
+  name: P3-029B
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8645
+  estFirstRun: November 1986
+  pcbClass: TAITO-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PR
+  maker: NEC
+  partNumber: D23C1000C
+  partNumberSubDetail: 155
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8645
+  dateCodeSuffix: KX
+  std: 8645
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: D4364C
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8637
+  dateCodeSuffix: BU020
+  std: 8637
+  misc: 
+- designation: 161
+  maker: Hitachi
+  partNumber: HD74LS161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 6J3
+  dateCodeSuffix: T
+  std: 8638
+  misc: 
+- designation: 32
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6J1
+  dateCodeSuffix: 8
+  std: 8636
+  misc: 

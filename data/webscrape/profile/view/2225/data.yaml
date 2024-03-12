@@ -1,0 +1,107 @@
+metadata:
+  name: JJ Tobidase Daisakusen Part 2
+  altName: ジェイ ジェイ とび
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 02:29:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: jj-tobidase-daisakusen-part-2
+releaseInfo:
+  catalogId: SQF-JJ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1987
+  publisher: Square
+  developer: Square
+  players: 1
+  peripherals: 3-D Glasses,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Olive Green
+  formFactor: Small
+  frontLabelId: SQF-JJ
+  backLabelId/Desc: 870921
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7e13baa68e636f5321069419ec81da9f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SQF-JJ-0 PRG
+  size: 128 KB
+  crc32: B39A3F5B
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8747
+  estFirstRun: November 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 7B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8747
+  dateCodeSuffix: D
+  std: 8747
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8741
+  dateCodeSuffix: MX
+  std: 8741
+  misc: 
+- designation: LS161
+  maker: NEC
+  partNumber: D74HC161C
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8733
+  dateCodeSuffix: B7
+  std: 8733
+  misc: 
+- designation: LS32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8742
+  dateCodeSuffix: T7
+  std: 8742
+  misc: 

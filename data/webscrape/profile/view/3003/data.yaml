@@ -1,0 +1,187 @@
+metadata:
+  name: Impossible Mission-II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-11 02:45:00
+  moreProfiles:
+  - 221
+  - 1082
+  - 3003
+  relatedProfiles:
+  - 1081
+  additionalImages: 
+slug: impossible-mission-ii
+releaseInfo:
+  catalogId: AVE-IM
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: AVE
+  developer: Epyx
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Square Corner
+  embossedText: American Video Entertainment Made in USA
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ed99386aa8014b600f3e97c49f2bcc5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a0a9678394d4afe43c2af358cc75a20.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8c6bc29d71201d0d4a6968d12dfe548d.jpg
+romDetails:
+- type: PRG0
+  label: PGM
+  size: 64 KB
+  crc32: 3A5CC3FA
+  x: 5
+- type: CHR0
+  label: CHR
+  size: 64 KB
+  crc32: B66C53B9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 92A3D007
+  x: 5
+pcbProperties:
+  name: NINA-001 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1993ae64265e4e7040254dc1989f76f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 221')"
+    filename: /images/175/e379db1fc038cda8bb64ebafeed45310.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 8944 - 8945 (3)
+  estFirstRun: November 1989
+  pcbClass: AVE-NINA-01
+  inesMapper: 34
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 23C1033
+  hardware: 74xx00, 74xx133, 74xx139, 74xx173, 74xx173, 74xx74
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1005
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: U10
+  maker: GoldStar
+  partNumber: GD74LS74A
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: H43
+  dateCodeSuffix: ''
+  std: 8843
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1004
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: U3
+  maker: Macronix
+  partNumber: 23C1033
+  partNumberSubDetail: 2002
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-32
+  dateCodePrefix: 8944
+  dateCodeSuffix: ''
+  std: 8944
+  misc: 17669
+- designation: U4
+  maker: GoldStar
+  partNumber: GM76C88-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: I15
+  dateCodeSuffix: ''
+  std: 8915
+  misc: 
+- designation: U5
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U6
+  maker: Mitel
+  partNumber: MD74HCT139RE
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8439
+  dateCodeSuffix: DY
+  std: 8439
+  misc: B15012C4
+- designation: U7
+  maker: ST Micro
+  partNumber: T74LS133B1
+  partNumberSubDetail: 
+  type: 74-133 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8945
+  dateCodeSuffix: 9
+  std: 8945
+  misc: 
+- designation: U8
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U9
+  maker: GoldStar
+  partNumber: GD74LS00
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8927
+  dateCodeSuffix: ''
+  std: 8927
+  misc: 

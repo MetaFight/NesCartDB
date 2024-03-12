@@ -1,0 +1,124 @@
+metadata:
+  name: Kurogane Hiroshi no Yosou Daisuki! Kachiuma Densetsu
+  altName: 黒鉄ヒロシの予想大好き！勝馬伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 22:58:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7795c0e43639a739a50ef73ab2fb046e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/54934d88fb7f1515566971b0bbf6dd55.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0dd4268b471a80a28b411f1d257a91ae.jpg
+slug: kurogane-hiroshi-no-yosou-daisuki-kachiuma-densetsu
+releaseInfo:
+  catalogId: NBF-R7 (09)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 20, 1990
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-R7
+  secondaryId: 09
+  backLabelId/Desc: NBF-R7
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae961526c4dea9e0433f1c69c89cf620.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NBF-R7-0 PRG
+  size: 128 KB
+  crc32: A2C79EC5
+  x: 1
+- type: CHR0
+  label: NBF-R7-0 CHR
+  size: 128 KB
+  crc32: DEB519D9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8F011713
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5c10d6ddf142db79b7e65ff7dada1cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9016
+  estFirstRun: April 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NUK
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 020
+  dateCodeSuffix: B3
+  std: 9006
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NUL
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0
+  dateCodeSuffix: 52
+  std: 9008
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9016
+  dateCodeSuffix: KP007
+  std: 9016
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5160-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9006
+  dateCodeSuffix: 3 DA
+  std: 9006
+  misc: 

@@ -1,0 +1,96 @@
+metadata:
+  name: Karateka
+  altName: カラテカ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 00:57:00
+  moreProfiles:
+  - 1517
+  - 3650
+  relatedProfiles: []
+  additionalImages: 
+slug: karateka
+releaseInfo:
+  catalogId: SFC-KR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 5, 1985
+  publisher: Soft Pro
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: SFC-KR
+  backLabelId/Desc: 850610
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1517')"
+    filename: /images/175/838d7532b7fff0350455bbc56ce0660c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFC-KR-0 PRG
+  size: 16 KB
+  crc32: 2015226D
+  x: 2
+- type: CHR0
+  label: SFC-KR-0 CHR
+  size: 8 KB
+  crc32: 1552FBD4
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 8BA75848
+  x: 2
+pcbProperties:
+  name: HVC-NROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/81f38461bfde2a98a1dcf65a79ce7587.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-03<br>Submitted by: bootgod<br>Linked from profile 3450')"
+    filename: /images/175/ad336d936d686cc2d896f5330a1d3d85.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8546 - 8549 (2)
+  estFirstRun: November 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Mitsubishi
+  partNumber: 23128
+  partNumberSubDetail: M5M
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 547
+  dateCodeSuffix: 102
+  std: 8547
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 37
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8549
+  dateCodeSuffix: E
+  std: 8549
+  misc: 

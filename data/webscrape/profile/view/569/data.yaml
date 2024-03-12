@@ -1,0 +1,73 @@
+metadata:
+  name: Rambo
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-02-27 02:12:00
+  moreProfiles:
+  - 391
+  - 569
+  - 868
+  - 2837
+  - 1395
+  relatedProfiles:
+  - 3774
+  additionalImages: 
+slug: rambo
+releaseInfo:
+  catalogId: NES-RV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1988
+  publisher: Acclaim
+  developer: Pack-In-Video
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RV-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 391')"
+    filename: /images/175/3e716661cc16678f8c3d71120c6fdc77.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 868')"
+    filename: /images/175/37944353a39d326658d26a720149aeac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RV-1 PRG
+  size: 128 KB
+  crc32: 4F9DBBE5
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8812 - 8821 (4)
+  estFirstRun: March 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

@@ -1,0 +1,109 @@
+metadata:
+  name: Chiller
+  altName: 
+  variant: (CHR-C9D3)
+  submittedBy: bootgod
+  submittedOn: 2008-04-21 22:50:00
+  moreProfiles:
+  - 1159
+  - 2697
+  - 2706
+  relatedProfiles: []
+  additionalImages: 
+slug: chiller
+releaseInfo:
+  catalogId: AGCI-CH
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AGCI
+  developer: Exidy
+  portedBy: 
+  players: 2
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: AGCI
+  color: Grey
+  formFactor: Shallow Grip
+  embossedText: AGCI Patent Pending
+  frontLabelId: 700142
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1159')"
+    filename: /images/175/350a9d06238c8c7f43e576bad672f057.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8f19fd09e1b96d3d0db828045ff597c4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CHILPRG
+  size: 32 KB
+  crc32: 98E3B8BB
+  x: 3
+- type: CHR0
+  label: CHILCHR
+  size: 32 KB
+  crc32: A47573A3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: B037246D
+  x: 1
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/feef17cc23a97a6685d47262cbea70d4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9021 - 9021 (3)
+  estFirstRun: May 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9020
+  dateCodeSuffix: MAA
+  std: 9020
+  misc: 
+- designation: U2
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9021
+  dateCodeSuffix: MAC
+  std: 9021
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

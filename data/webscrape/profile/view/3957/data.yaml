@@ -1,0 +1,134 @@
+metadata:
+  name: Akira
+  altName: アキラ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 05:23:00
+  moreProfiles:
+  - 1561
+  - 3957
+  relatedProfiles: []
+  additionalImages: 
+slug: akira
+releaseInfo:
+  catalogId: TFC-AK-6800-21
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 24, 1988
+  publisher: Taito
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: Not Present
+  sequence#: 21
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/50aafc222b8aecfba6cea18b2aa449de.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/674cc4fbe8bd7a975aa5bb1ce732822a.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: CE90983A
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 765EE887
+  x: 2
+- type: CHR1
+  label: Not Present
+  size: 128 KB
+  crc32: 8F31C807
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 8A7D0ABE
+  x: 2
+pcbProperties:
+  name: AKIRA-A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8849 - 8849 (2)
+  estFirstRun: December 1988
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 01
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8849
+  dateCodeSuffix: D
+  std: 8849
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8849
+  dateCodeSuffix: E
+  std: 8849
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 41
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8849
+  dateCodeSuffix: E
+  std: 8849
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8836
+  dateCodeSuffix: KY
+  std: 8836
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: 74HC139AP
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8827
+  dateCodeSuffix: H
+  std: 8827
+  misc: 

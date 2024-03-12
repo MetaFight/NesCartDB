@@ -1,0 +1,109 @@
+metadata:
+  name: Super Real Baseball '88
+  altName: スーパーリアルベースボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-08 04:01:00
+  moreProfiles:
+  - 3443
+  - 3444
+  - 3445
+  relatedProfiles: []
+  additionalImages: 
+slug: super-real-baseball-88
+releaseInfo:
+  catalogId: VAP-BG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 30, 1988
+  publisher: Vap
+  developer: Pax Softnica
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Olive Green
+  formFactor: Small
+  frontLabelId: VAP-BG
+  backLabelId/Desc: VAP-BG
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3443')"
+    filename: /images/175/c2973c62d1e0801199f0f82f181487b6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VAP-BG-0 PRG
+  size: 128 KB
+  crc32: 1A3F1F1C
+  x: 3
+- type: CHR0
+  label: VAP-BG-0 CHR
+  size: 128 KB
+  crc32: D3105525
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D175B0CB
+  x: 3
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd73e5ec6dff4d6610e36a85ca78dffc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8827 - 8828 (3)
+  estFirstRun: July 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8824
+  dateCodeSuffix: Z07
+  std: 8824
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 63
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8828
+  dateCodeSuffix: D
+  std: 8828
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8827
+  dateCodeSuffix: 7 A
+  std: 8827
+  misc: 

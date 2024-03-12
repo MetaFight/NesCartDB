@@ -1,0 +1,78 @@
+metadata:
+  name: "Zoda's Revenge: StarTropics II"
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-21 20:16:00
+  moreProfiles:
+  - 814
+  - 2780
+  relatedProfiles: []
+  additionalImages: 
+slug: zodas-revenge-startropics-ii
+releaseInfo:
+  catalogId: NES-6C-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1994
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6C-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1 (Battery)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2780')"
+    filename: /images/175/307399b67ffa4ac480f7043c0b7c8bb6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2780')"
+    filename: /images/175/168e1909f8e5782f6b11b5c384c32a55.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-6C-0 PRG
+  size: 256 KB
+  crc32: 80FB117E
+  x: 2
+- type: CHR0
+  label: NES-6C-0 CHR
+  size: 256 KB
+  crc32: 0CA74E1A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: D054FFB0
+  x: 2
+pcbProperties:
+  name: NES-HKROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9404
+  estFirstRun: January 1994
+  pcbClass: NES-HKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC6B
+detailedChipInfo: []

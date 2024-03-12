@@ -1,0 +1,70 @@
+metadata:
+  name: WWF WrestleMania
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-07-06 00:45:00
+  moreProfiles:
+  - 30
+  - 502
+  - 972
+  - 1355
+  relatedProfiles:
+  - 1981
+  additionalImages: 
+slug: wwf-wrestlemania
+releaseInfo:
+  catalogId: NES-HN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1989
+  publisher: Acclaim
+  developer: Rare
+  players: 6
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HN-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 30')"
+    filename: /images/175/2757763eb450c559d711b6aa64923adf.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-HN-0 PRG
+  size: 128 KB
+  crc32: 37138039
+  x: 4
+pcbProperties:
+  name: NES-ANROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924 - 9236 (3)
+  estFirstRun: June 1989
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx02, 74xx161
+detailedChipInfo: []

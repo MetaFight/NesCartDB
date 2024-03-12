@@ -1,0 +1,107 @@
+metadata:
+  name: Don Doko Don
+  altName: ドンドコドン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 01:42:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: don-doko-don
+releaseInfo:
+  catalogId: TFC-DD-5900-30
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 9, 1990
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-DD-5900
+  secondaryId: G1000776A
+  backLabelId/Desc: G1000777A
+  sequence#: 30
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/489b7700b1a92098cab0fc006eb6844d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9111e1dc4e7d2143b8e714b01f33da21.jpg
+romDetails:
+- type: PRG0
+  label: C30-02
+  size: 128 KB
+  crc32: 59CD0C31
+  x: 1
+- type: CHR0
+  label: C30-01
+  size: 256 KB
+  crc32: 59B17B81
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 7A497AE3
+  x: 1
+pcbProperties:
+  name: J9100197A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100197A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3ba133cdb5bf63494da87fc14fb6a97.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100197A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/882ea4ffb59f162af8e4319ca5c89daf.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8952
+  estFirstRun: December 1989
+  pcbClass: TAITO-TC0350FMR
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: TC0350FMR
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8950
+  dateCodeSuffix: XX006
+  std: 8950
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8952
+  dateCodeSuffix: PY714
+  std: 8952
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0350FMR
+  partNumberSubDetail: 
+  type: Taito TC0350FMR
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8932
+  dateCodeSuffix: K5
+  std: 8932
+  misc: 

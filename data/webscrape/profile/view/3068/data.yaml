@@ -1,0 +1,96 @@
+metadata:
+  name: 'Hon Shougi: Naitou 9 Dan Shougi Hiden'
+  altName: 本将棋 内藤九段将棋秘伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-09 21:12:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2309
+  - 3067
+  - 3068
+  - 3275
+  additionalImages: 
+slug: hon-shougi-naitou-9-dan-shougi-hiden
+releaseInfo:
+  catalogId: KKS-SF (01)
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 10, 1985
+  publisher: Seta
+  developer: Random House
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Seta
+  color: Orange
+  formFactor: Original
+  frontLabelId: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/f51b0965f853b2aa833100d619070b43.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/024314b51575a0153e5e92e5be546e26.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/0b2b7820b9556797218b195316324da3.jpg
+romDetails:
+- type: PRG0
+  label: X3-001 PP
+  size: 16 KB
+  crc32: F00355A0
+  x: 4
+- type: CHR0
+  label: X3-002 CCCCC
+  size: 8 KB
+  crc32: 7AFBB18C
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FFD9DB04
+  x: 4
+pcbProperties:
+  name: P3-020
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-020<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce33e6b7849497ebe814f84592361f2e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-020<br>Submitted by: bootgod<br>Linked from profile 2309')"
+    filename: /images/175/0a2292360985731877255fd2d1d3de0a.jpg
+  pcbProducer: Seta
+  manufacturer: Not Specified
+  mfgRange: 8504 - 8632 (4)
+  estFirstRun: January 1985
+  pcbClass: SETA-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27128
+  partNumberSubDetail: 200P
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 632
+  dateCodeSuffix: 114
+  std: 8632
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2764
+  partNumberSubDetail: 280P
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 632
+  dateCodeSuffix: 105
+  std: 8632
+  misc: 

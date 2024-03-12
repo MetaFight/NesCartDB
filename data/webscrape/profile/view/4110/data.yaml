@@ -1,0 +1,149 @@
+metadata:
+  name: Shadowgate
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-08-31 05:35:00
+  moreProfiles:
+  - 1815
+  - 4108
+  - 4109
+  - 4110
+  - 4111
+  relatedProfiles:
+  - 2144
+  - 1959
+  - 4666
+  - 4375
+  - 208
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-3S-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/9201b0e34c9d619e0e916d7dfbb7c625.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-3S-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/8b69ba3e73d6d60fcf1397adca9658c2.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-3S-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/66f6249d248e2682f8e556ec29d3e6b5.jpg
+  - toolTipJS: "ddrivetip('Insert<br>NES-3S-SWE/SWE<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/79da42a3ee99b9de0babd80d3749b301.jpg
+slug: shadowgate
+releaseInfo:
+  catalogId: NES-3S-SWE
+  region: Sweden (PAL-B)
+  class: Licensed
+  releaseDate: May 30, 1991
+  publisher: Kemco
+  developer: Icom Simulations
+  players: 1
+  peripherals: NES Controller
+  country: Sweden
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3S-SWE/SWE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN (Battery)
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/6812253d329ee533db32e1bfe34a35da.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/41bc84f37be48860e9a5c8eba95564f1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1846')"
+    filename: /images/175/a4f003b74ae779aad339a58fad041b5d.jpg
+romDetails:
+- type: PRG0
+  label: SWE-3S-0 PRG
+  size: 128 KB
+  crc32: 04D6B4F6
+  x: 5
+- type: CHR0
+  label: SWE-3S-0 CHR
+  size: 128 KB
+  crc32: 84A68F4B
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2B1497DC
+  x: 5
+pcbProperties:
+  name: NES-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-02<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/76568d2c9b1b1aa3fa48e20d6c565816.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-02<br>Submitted by: Kinopio<br>Linked from profile 1815')"
+    filename: /images/175/9063c5f2f810641c702d7965bb3cdf28.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9111 - 9112 (5)
+  estFirstRun: March 1991
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 31
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: E
+  std: 9111
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: U4
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9111
+  dateCodeSuffix: D
+  std: 9111
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9109
+  dateCodeSuffix: A
+  std: 9109
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9104
+  dateCodeSuffix: 1 DB
+  std: 9104
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9041
+  dateCodeSuffix: KT73
+  std: 9041
+  misc: 

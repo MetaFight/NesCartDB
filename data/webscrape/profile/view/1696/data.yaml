@@ -1,0 +1,112 @@
+metadata:
+  name: Bomber King
+  altName: ボンバーキング
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-24 23:59:00
+  moreProfiles:
+  - 1696
+  - 2316
+  - 3603
+  relatedProfiles:
+  - 2367
+  - 71
+  additionalImages: 
+slug: bomber-king
+releaseInfo:
+  catalogId: HFC-BX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 7, 1987
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HFC-BX
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9554342bfa85d39509e64f4efd38ab6a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-BX-0 PRG
+  size: 128 KB
+  crc32: BD9D0E85
+  x: 3
+pcbProperties:
+  name: HVC-UNROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8727 - 8729 (3)
+  estFirstRun: July 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8727
+  dateCodeSuffix: KX
+  std: 8727
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8717
+  dateCodeSuffix: MX
+  std: 8717
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8726
+  dateCodeSuffix: CA
+  std: 8726
+  misc: 
+- designation: LS32
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8721
+  dateCodeSuffix: C7
+  std: 8721
+  misc: 

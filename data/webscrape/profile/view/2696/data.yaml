@@ -1,0 +1,173 @@
+metadata:
+  name: RacerMate Challenge II
+  altName: 
+  variant: (9.03.128)
+  submittedBy: bootgod
+  submittedOn: 2008-04-18 00:45:00
+  moreProfiles:
+  - 2696
+  - 4674
+  - 4675
+  relatedProfiles: []
+  additionalImages: 
+slug: racermate-challenge-ii
+releaseInfo:
+  catalogId: UNL-RCMII
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: March 22, 1996
+  publisher: RacerMate
+  developer: RacerMate
+  players: 2
+  peripherals: RacerMate Bike
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Original
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2319128b7dc25f788048fd69efeb9a4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c892998c0b2e91aee65c169dba583b75.jpg
+romDetails:
+- type: PRG0
+  label: V903_128
+  size: 64 KB
+  crc32: F6A9CB75
+  x: 1
+pcbProperties:
+  name: R981-112-00
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9016 - 9648 (3)
+  estFirstRun: April 1990
+  pcbClass: UNL-RACERMATE
+  inesMapper: 168
+  mirroring: Horizontal
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 64 KB
+  cicType: None
+  hardware: 74xx00, 74xx00, 74xx174, 74xx174, 74xx32, 74xx32, 74xx4040
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: HY62256ALLP-70
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9610
+  dateCodeSuffix: C
+  std: 9610
+  misc: 
+- designation: U10
+  maker: Phillips
+  partNumber: 74HCT4040N
+  partNumberSubDetail: 
+  type: 74-4040 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9609
+  dateCodeSuffix: Hnn
+  std: 9609
+  misc: A26320ME
+- designation: U2
+  maker: Hyundai
+  partNumber: HY62256ALLP-70
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9610
+  dateCodeSuffix: C
+  std: 9610
+  misc: 
+- designation: U3
+  maker: Texas Instruments
+  partNumber: TMS27C512JL-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: BLX6BZ0008
+  std: 
+  misc: 
+- designation: U4
+  maker: National Semiconductor
+  partNumber: DM74LS174N
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9324
+  dateCodeSuffix: P
+  std: 9324
+  misc: AF
+- designation: U5
+  maker: Harris
+  partNumber: CD74HCT32E
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9514
+  dateCodeSuffix: H
+  std: 9514
+  misc: 
+- designation: U6
+  maker: National Semiconductor
+  partNumber: DM74LS00N
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9252
+  dateCodeSuffix: P
+  std: 9252
+  misc: AL
+- designation: U7
+  maker: Harris
+  partNumber: CD74HCT32E
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9514
+  dateCodeSuffix: H
+  std: 9514
+  misc: 
+- designation: U8
+  maker: National Semiconductor
+  partNumber: DM74LS00N
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9252
+  dateCodeSuffix: P
+  std: 9252
+  misc: AL
+- designation: U9
+  maker: Phillips
+  partNumber: 74HCT174N
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9648
+  dateCodeSuffix: Hnn
+  std: 9648
+  misc: A75120PS

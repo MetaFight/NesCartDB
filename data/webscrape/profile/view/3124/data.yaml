@@ -1,0 +1,107 @@
+metadata:
+  name: 'Kidou Senshi Z Gundam: Hot Scramble'
+  altName: 機動戦士Ｚガンダ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 23:36:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2251
+  - 3124
+  - 3295
+  additionalImages: 
+slug: kidou-senshi-z-gundam-hot-scramble
+releaseInfo:
+  catalogId: BA-ZG
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 28, 1986
+  publisher: Bandai
+  developer: Game Studio
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2251')"
+    filename: /images/175/0ce9b965baab4255dfb9dfa77d9ec939.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2251')"
+    filename: /images/175/000b816642a554094b9d3f6722aa8735.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1534')"
+    filename: /images/175/ba2cc5408003eaede63130f26fb0713c.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 86 ZG
+  size: 128 KB
+  crc32: A4EE65AC
+  x: 3
+- type: CHR0
+  label: BANDAI 86 ZG
+  size: 32 KB
+  crc32: E2E400B7
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: CE07194F
+  x: 3
+pcbProperties:
+  name: BA-ZG
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-ZG<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/849844ae86e3113e4a48c07df8dded5f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-ZG<br>Submitted by: bootgod<br>Linked from profile 2251')"
+    filename: /images/175/648508ec4597e58e56fece3eae3ca1d6.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8632 - 8632 (3)
+  estFirstRun: August 1986
+  pcbClass: BANDAI-GNROM
+  inesMapper: 66
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH5310
+  partNumberSubDetail: R3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8632
+  dateCodeSuffix: D
+  std: 8632
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 62
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8632
+  dateCodeSuffix: E
+  std: 8632
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 66D
+  dateCodeSuffix: 7
+  std: 8626
+  misc: 

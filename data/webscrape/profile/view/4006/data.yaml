@@ -1,0 +1,107 @@
+metadata:
+  name: Ide Yousuke Meijin no Jissen Mahjong II
+  altName: 井出洋介名人の実戦麻雀Ⅱ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:06:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ide-yousuke-meijin-no-jissen-mahjong-ii
+releaseInfo:
+  catalogId: CAP-2Q
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 22, 1991
+  publisher: Capcom
+  developer: Arc System Works
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CAP-2Q
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/52eecdcff0a5323192256cbb4fce9d52.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: CAP-2Q-0 PRG
+  size: 256 KB
+  crc32: 7B44FB2A
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9102
+  estFirstRun: January 1991
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 08
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9102
+  dateCodeSuffix: D
+  std: 9102
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9045
+  dateCodeSuffix: MD
+  std: 9045
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9102
+  dateCodeSuffix: 3 TA
+  std: 9102
+  misc: 
+- designation: U4 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9045
+  dateCodeSuffix: MD
+  std: 9045
+  misc: 

@@ -1,0 +1,98 @@
+metadata:
+  name: Seicross
+  altName: セクロス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 00:32:00
+  moreProfiles:
+  - 1703
+  - 2332
+  relatedProfiles:
+  - 370
+  additionalImages: 
+slug: seicross
+releaseInfo:
+  catalogId: NBF-SE (02)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 15, 1986
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-SE
+  secondaryId: 02
+  backLabelId/Desc: NBF-02
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d56bcf8fe28d2176d1e57d1e5d87244b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: F7B2DBC7
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: DBA2082A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 90600B85
+  x: 1
+pcbProperties:
+  name: HVC-NROM-256K-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0625a789aa39cf78021bfa4af5bb37e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-256K-02<br>Submitted by: bootgod<br>Linked from profile 3425')"
+    filename: /images/175/4409da43636bcd079740a18a5b7f8fae.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8606 - 8616 (2)
+  estFirstRun: February 1986
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Fujitsu
+  partNumber: MBM27256-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8606
+  dateCodeSuffix: N53
+  std: 8606
+  misc: 
+- designation: CHR
+  maker: Mitsubishi
+  partNumber: M5L2764K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 605
+  dateCodeSuffix: 103
+  std: 8605
+  misc: 

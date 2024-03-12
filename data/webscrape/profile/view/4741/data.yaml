@@ -1,0 +1,153 @@
+metadata:
+  name: Super Mario Bros. 3
+  altName: 
+  variant: 
+  submittedBy: Skrybe
+  submittedOn: 2017-01-02 04:50:00
+  moreProfiles:
+  - 5
+  - 2
+  - 2877
+  - 565
+  - 652
+  - 788
+  - 870
+  - 1136
+  - 1183
+  - 2048
+  - 3057
+  - 4527
+  - 4741
+  relatedProfiles:
+  - 1288
+  - 1616
+  - 1872
+  - 1487
+  - 2435
+  - 1897
+  - 2913
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-UM-USA<br>Submitted by: bootgod<br>Linked from profile 5')"
+    filename: /images/175/a67ab8a267420f7e76e7f6bbe750f145.jpg
+slug: super-mario-bros-3
+releaseInfo:
+  catalogId: NES-UM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 12, 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-UM-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 27
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/e24c7eb08b870c8a625e09f6e724bf5f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/db32c8096252edc52e6274892e2b9902.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/ad00db9923d49b428ee0df399cfd4c81.jpg
+romDetails:
+- type: PRG0
+  label: NES-UM-0 PRG
+  size: 256 KB
+  crc32: C78D17D3
+  x: 5
+- type: CHR0
+  label: NES-UM-0 CHR
+  size: 128 KB
+  crc32: C2928C49
+  x: 15
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: A0B0B742
+  x: 4
+pcbProperties:
+  name: NES-TSROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TSROM-05<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/911d6136a0dfbff59c0862fa15758e7a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TSROM-05<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/86d771855af24955fdced7eaf53842f5.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8951 - 9041 (8)
+  estFirstRun: December 1989
+  pcbClass: NES-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T43
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8950
+  dateCodeSuffix: PY712
+  std: 8950
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: B1
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8951
+  dateCodeSuffix: D
+  std: 8951
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8951
+  dateCodeSuffix: 3 BA
+  std: 8951
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8950
+  dateCodeSuffix: KP038
+  std: 8950
+  misc: 
+- designation: U5 W-RAM
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9W
+  dateCodeSuffix: 157Y
+  std: 8944
+  misc: 

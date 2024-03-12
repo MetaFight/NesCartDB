@@ -1,0 +1,129 @@
+metadata:
+  name: "Castlevania III: Dracula's Curse"
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-02-26 04:16:00
+  moreProfiles:
+  - 1553
+  - 4121
+  - 4332
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-VN-SCN<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/472df54538ce02918c24dd5263f38fb9.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-VN-SCN<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/094a01eb26e26219e27955ef7083ffd3.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-VN-SCN<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/04fd1d8e5b92e16d5991e7a793e6ff54.jpg
+slug: castlevania-iii-draculas-curse
+releaseInfo:
+  catalogId: NES-VN-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: December 10, 1992
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VN-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/df0e854d031ab7054d09d778cdd4cfd3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/7419ceb1d448088cb90825f726e52d8d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-VN-0 PRG
+  size: 256 KB
+  crc32: 637E366A
+  x: 3
+- type: CHR0
+  label: PAL-VN-0 CHR
+  size: 128 KB
+  crc32: 9423BB72
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 671F23A8
+  x: 3
+pcbProperties:
+  name: NES-ELROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-ELROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6550216e87cbc003a4b5a97e675af1d2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-ELROM-01<br>Submitted by: Kinopio<br>Linked from profile 1553')"
+    filename: /images/175/431de732d9e5d651fa3c716381a575f2.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9229 - 9229 (3)
+  estFirstRun: July 1992
+  pcbClass: NES-ELROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W58
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9215
+  dateCodeSuffix: EY013
+  std: 9215
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W77
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9229
+  dateCodeSuffix: EY039
+  std: 9229
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9126
+  dateCodeSuffix: AA004
+  std: 9126
+  misc: 
+- designation: U6 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9223
+  dateCodeSuffix: C
+  std: 9223
+  misc: 

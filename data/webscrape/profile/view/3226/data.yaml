@@ -1,0 +1,99 @@
+metadata:
+  name: Xevious
+  altName: ゼビウス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-28 23:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1798
+  - 2663
+  - 2677
+  - 3223
+  - 3224
+  - 3225
+  - 3226
+  additionalImages: 
+slug: xevious
+releaseInfo:
+  catalogId: NAM-NXV-4900-03
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 8, 1984
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 03
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1798')"
+    filename: /images/175/816ed59ced166359dbc5d810da6d2216.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1798')"
+    filename: /images/175/6799d833c866e0430717303851241aa6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/a44b579bc91ce731d7621002b9eab338.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 9E528E4F
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 668B4EE6
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: A2469526
+  x: 2
+pcbProperties:
+  name: 3303
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3303<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5fc574719e16571c907e552c85afd57.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3303<br>Submitted by: bootgod<br>Linked from profile 1582')"
+    filename: /images/175/87fb0a108b9ce9073b4e60b3ccb30020.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8439 - 8543 (7)
+  estFirstRun: September 1984
+  pcbClass: NAMCOT-3303
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Fujitsu
+  partNumber: MBM27256-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8527
+  dateCodeSuffix: R23
+  std: 8527
+  misc: 
+- designation: CH
+  maker: Fujitsu
+  partNumber: MBM2764-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8519
+  dateCodeSuffix: M86
+  std: 8519
+  misc: AB

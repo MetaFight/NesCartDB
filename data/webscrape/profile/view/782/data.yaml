@@ -1,0 +1,75 @@
+metadata:
+  name: Castlevania
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-04-13 04:21:00
+  moreProfiles:
+  - 57
+  - 782
+  - 2784
+  - 1408
+  - 4535
+  relatedProfiles:
+  - 1410
+  - 2388
+  - 3987
+  additionalImages: 
+slug: castlevania
+releaseInfo:
+  catalogId: NES-CV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1987
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CV-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: Grey
+  2-DigitCode: 08
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2784')"
+    filename: /images/175/865eaf459ab5d3e63e3a2214e84d5611.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/368c6919e534bac447bb5025171a592d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2417')"
+    filename: /images/175/bff9570edd616c042fb15caad2d60275.jpg
+romDetails:
+- type: PRG0
+  label: NES-CV-1 PRG
+  size: 128 KB
+  crc32: B668C7FC
+  x: 2
+pcbProperties:
+  name: NES-UN-ROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8717 - 8747 (4)
+  estFirstRun: April 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

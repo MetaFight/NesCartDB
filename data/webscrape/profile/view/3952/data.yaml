@@ -1,0 +1,116 @@
+metadata:
+  name: 'Family Trainer 1: Athletic World'
+  altName: ファミリートレーナー
+  variant: (Version 1.1)
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 03:01:00
+  moreProfiles:
+  - 1738
+  - 3952
+  - 4057
+  relatedProfiles:
+  - 2415
+  - 2915
+  - 602
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1767f4889a0118d51d68c072a92c91f8.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2752b520d23471c088521358f41e5b25.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6d13c024e6737bdf9018b174870097bd.jpg
+slug: family-trainer-1-athletic-world
+releaseInfo:
+  catalogId: FT-01
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 12, 1986
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 1
+  peripherals: Family Trainer Mat
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Light Green
+  formFactor: Large
+  embossedText: Â© Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6696043a9f064c2baa1e151ac3fc42b3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6330d5d4b18e57bff5a910422278daf.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 86 SP P
+  size: 32 KB
+  crc32: 8C8FA83B
+  x: 2
+- type: CHR0
+  label: BANDAI 86 SP C
+  size: 32 KB
+  crc32: 8ADAECB2
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 60AD090A
+  x: 2
+pcbProperties:
+  name: BA-アスレチックス
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-アスレチックス<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1f1b70344a3fc9ed420469cb17f9e821.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-アスレチックス<br>Submitted by: bootgod<br>Linked from profile 1738')"
+    filename: /images/175/ae024ad56107dea0ea29a2b4911e3037.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8644 - 8808 (3)
+  estFirstRun: November 1986
+  pcbClass: BANDAI-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: Z9
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8808
+  dateCodeSuffix: E
+  std: 8808
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2359
+  partNumberSubDetail: Z8
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8805
+  dateCodeSuffix: E
+  std: 8805
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS161AN
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8737
+  dateCodeSuffix: I
+  std: 8737
+  misc: 

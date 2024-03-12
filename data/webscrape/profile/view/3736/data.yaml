@@ -1,0 +1,117 @@
+metadata:
+  name: 'Tatakae!! Ramen Man: Sakuretsu Choujin 102 Gei'
+  altName: 闘将！！拉麺男 炸裂超人一○二芸
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 18:48:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tatakae-ramen-man-sakuretsu-choujin-102-gei
+releaseInfo:
+  catalogId: SHI-RN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 10, 1988
+  publisher: Shinsei
+  developer: Human Entertainment
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Sky Blue
+  formFactor: Small
+  frontLabelId: SHI-RN
+  backLabelId/Desc: SHI-RN
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43d5a6a5bc5627cf18f1dbac1ef132fc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-RN-0 PRG
+  size: 128 KB
+  crc32: 15D53E78
+  x: 1
+- type: CHR0
+  label: SHI-RN-0 CHR
+  size: 128 KB
+  crc32: 12D719D9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C1719664
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/52a134b323a63f9453a04bf57fc0ed17.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c0be7a481c0554e2b6b2b3dbcfc09298.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8829
+  estFirstRun: July 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NXY
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8
+  dateCodeSuffix: B3
+  std: 8829
+  misc: 
+- designation: U2 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8816
+  dateCodeSuffix: MX
+  std: 8816
+  misc: 
+- designation: U3 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NXZ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 878
+  dateCodeSuffix: 52
+  std: 8829
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8821
+  dateCodeSuffix: 3 A
+  std: 8821
+  misc: 

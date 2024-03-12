@@ -1,0 +1,146 @@
+metadata:
+  name: 'Zelda II: The Adventure of Link'
+  altName: 
+  variant: (Revision A)
+  submittedBy: Kinopio
+  submittedOn: 2007-07-06 21:28:00
+  moreProfiles:
+  - 4124
+  - 1787
+  - 1788
+  - 2098
+  - 4341
+  relatedProfiles:
+  - 1922
+  - 4690
+  - 85
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-AL-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a48e3f84759498a5bc310581ff379580.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-AL-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7a51cb8d79f47858afff7f38d9a257b7.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-AL-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/07ccbeb797fb5ff4cf09654a27df26c4.jpg
+slug: zelda-ii-the-adventure-of-link
+releaseInfo:
+  catalogId: NES-AL-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: September 26, 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AL-EEC
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: PAL-ZL
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fec45681d86af3b4f22841a39902df51.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/08ce24f795c469b6e9634e76a97ce3cb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e8dd517bed12153a6c352e109a0390ce.jpg
+romDetails:
+- type: PRG0
+  label: PAL-AL-1 PRG
+  size: 128 KB
+  crc32: 5737D98A
+  x: 1
+- type: CHR0
+  label: NES-AL-0 CHR
+  size: 128 KB
+  crc32: 9C41CE57
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 97D52C06
+  x: 1
+pcbProperties:
+  name: NES-SKROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/11d7088ae16776658a6eb31e55cae9f5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/530aea67c646748e522eaad02c9be79a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8822 - 9039 (5)
+  estFirstRun: June 1988
+  pcbClass: NES-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 5Y
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8834
+  dateCodeSuffix: D
+  std: 8834
+  misc: 
+- designation: IC2
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 44
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8832
+  dateCodeSuffix: D
+  std: 8832
+  misc: 
+- designation: IC3
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8829
+  dateCodeSuffix: A
+  std: 8829
+  misc: 
+- designation: IC4
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8833
+  dateCodeSuffix: 5 A
+  std: 8833
+  misc: 
+- designation: IC5
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8833
+  dateCodeSuffix: 3 DA
+  std: 8833
+  misc: 

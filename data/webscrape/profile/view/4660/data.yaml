@@ -1,0 +1,127 @@
+metadata:
+  name: Happy Birthday Bugs
+  altName: ハッピーバースディバックス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4478
+  - 2414
+  - 1979
+  - 680
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2b8a3bc5cce5b557501eb9339cf24b0f.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e676c0dcc3f572c609a46e393d31fbd.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/593c996a6ddf4f5676c3c2d47779ce96.jpg
+slug: happy-birthday-bugs
+releaseInfo:
+  catalogId: KSC-H8
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 3, 1990
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-H8
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1019a75f444b54126a9a3f8722398e05.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-H8-0 PRG
+  size: 128 KB
+  crc32: 19B1A2E7
+  x: 1
+- type: CHR0
+  label: KSC-H8-0 CHR
+  size: 128 KB
+  crc32: 86883E59
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B47569E2
+  x: 1
+pcbProperties:
+  name: HVC-TSROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/665b4c229a432d58f5ccd5e2a1ec79c9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TSROM-03<br>Submitted by: bootgod<br>Linked from profile 3517')"
+    filename: /images/175/851efaf0f53fb9cc5bbba4c770ac86fd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023
+  estFirstRun: June 1990
+  pcbClass: HVC-TSROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5456
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0FF
+  dateCodeSuffix: 72
+  std: 9023
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0075
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0FB
+  dateCodeSuffix: 70
+  std: 9023
+  misc: 
+- designation: U3 W-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9015
+  dateCodeSuffix: MD
+  std: 9015
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9023
+  dateCodeSuffix: KP082
+  std: 9023
+  misc: 

@@ -1,0 +1,136 @@
+metadata:
+  name: Al Unser Jr. Turbo Racing
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-26 04:03:00
+  moreProfiles:
+  - 383
+  - 1138
+  relatedProfiles:
+  - 2017
+  - 2095
+  - 3734
+  additionalImages: 
+slug: al-unser-jr-turbo-racing
+releaseInfo:
+  catalogId: NES-FH-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1990
+  publisher: Data East
+  developer: Sakata SAS
+  players: 4
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-FH-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/42e9d358c6544a788b6e5514678c9e67.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ff44d5c4bee98ee8c0476c3d705563ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-FH-0 PRG
+  size: 128 KB
+  crc32: E41AE491
+  x: 2
+- type: CHR0
+  label: NES-FH-0 CHR
+  size: 128 KB
+  crc32: 5F937051
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 5BC9D7A1
+  x: 2
+pcbProperties:
+  name: NES-SKROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/24f2a2b6d7d34c8cf051a6fe80afb5c2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKROM-04<br>Submitted by: Kinopio<br>Linked from profile 1787')"
+    filename: /images/175/198de038e4823bd5d2fa0af9e4a60e8e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9008 - 9011 (2)
+  estFirstRun: February 1990
+  pcbClass: NES-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5420
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0CM
+  dateCodeSuffix: 7C
+  std: 9011
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0058
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0CB
+  dateCodeSuffix: 77
+  std: 9009
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9004
+  dateCodeSuffix: 5 CA
+  std: 9004
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9009
+  dateCodeSuffix: 7 AA
+  std: 9009
+  misc: 
+- designation: U5 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0A
+  dateCodeSuffix: 15E
+  std: 9001
+  misc: 

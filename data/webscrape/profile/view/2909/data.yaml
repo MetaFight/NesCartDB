@@ -1,0 +1,81 @@
+metadata:
+  name: 'Double Dragon II: The Revenge'
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-22 06:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2420
+  - 1413
+  - 2901
+  - 4347
+  - 1874
+  - 4676
+  - 126
+  additionalImages: 
+slug: double-dragon-ii-the-revenge
+releaseInfo:
+  catalogId: NES-W2-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Acclaim
+  developer: Technos
+  players: 2
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-W2-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: EAI
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4676')"
+    filename: /images/175/4e756b07820c1185bcec862284ab6438.jpg
+romDetails:
+- type: PRG0
+  label: PAL-W2-0 PRG
+  size: 128 KB
+  crc32: 9ED831E7
+  x: 5
+- type: CHR0
+  label: NES-W2-0 CHR
+  size: 128 KB
+  crc32: E0B9A5FF
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AEB2D754
+  x: 5
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3B
+detailedChipInfo: []

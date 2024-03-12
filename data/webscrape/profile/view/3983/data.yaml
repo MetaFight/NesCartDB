@@ -1,0 +1,116 @@
+metadata:
+  name: Pizza Pop!
+  altName: ピザポップ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 05:44:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: pizza-pop
+releaseInfo:
+  catalogId: JF-35
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 7, 1992
+  publisher: Jaleco
+  developer: Arc System Works
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-35
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9e020915570bcbf19a797df9847335d7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd75454b96f76adf7c57373e06501ac5.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 3746F951
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 8623060D
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 49DA2F76
+  x: 1
+pcbProperties:
+  name: JF-24A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dfa894128f2902d806227167194b8550.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 2288')"
+    filename: /images/175/efad5326850045481d8ccde9ecfa1fa5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9149
+  estFirstRun: December 1991
+  pcbClass: JALECO-JF-24
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W67
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9148
+  dateCodeSuffix: K9011
+  std: 9148
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W68
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9149
+  dateCodeSuffix: K9008
+  std: 9149
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 144
+  dateCodeSuffix: 184
+  std: 9144
+  misc: 
+- designation: IC5
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 1G4
+  dateCodeSuffix: 6
+  std: 9130
+  misc: 

@@ -1,0 +1,119 @@
+metadata:
+  name: El Destructor
+  altName: Destroyer
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2008-03-23 15:26:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/51eecb2bd1812b614156c7bcaae88fcc.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/01d847a0185565fc78720bec8956b490.jpg
+slug: el-destructor
+releaseInfo:
+  catalogId: CN-13
+  region: Spain (PAL)
+  class: Unlicensed
+  releaseDate: January 1, 1992
+  publisher: Gluk Video
+  developer: MegaSoft
+  players: 1
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/da8ba9023547ec55f2f8e49907c1f65e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1390')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: D438EE51
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: FB0D9FD0
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 322C9F6A
+  x: 1
+pcbProperties:
+  name: N715062
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N715062<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/64b3b0739bec0b49f02f48ffd60f6ee1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9251
+  estFirstRun: December 1992
+  pcbClass: NTDEC-N715062
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: KC5373B
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9251
+  dateCodeSuffix: ''
+  std: 9251
+  misc: 
+- designation: U4
+  maker: __Unknown
+  partNumber: KC5373B-010
+  partNumberSubDetail: 
+  type: NTDEC CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,131 @@
+metadata:
+  name: Mario & Yoshi
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 19:30:00
+  moreProfiles:
+  - 1997
+  - 2051
+  relatedProfiles:
+  - 2232
+  - 2536
+  - 84
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-YM-NOE<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7c47bfa32b6db96f2cad0843dfe26338.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-YM-NOE<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/78a5495434dac3f2e2551c2ceb3efc2f.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-YM-NOE<br>Submitted by: Kinopio<br>Linked from profile 2051')"
+    filename: /images/175/ff5a085d86f55ad1ea131c0b96250eb0.jpg
+slug: mario-yoshi
+releaseInfo:
+  catalogId: NES-YM-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: September 13, 1992
+  publisher: Nintendo
+  developer: Game Freak
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YM-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2051')"
+    filename: /images/175/e66f367eb33429290ac0c31d1dc2aef1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/5852ef927277122005b407dbff7253e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-YM-0 PRG
+  size: 128 KB
+  crc32: 1406783D
+  x: 3
+- type: CHR0
+  label: PAL-YM-0 CHR
+  size: 32 KB
+  crc32: FC0BBA23
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 836685C4
+  x: 3
+pcbProperties:
+  name: NES-SFROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SFROM-04<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9e7e79c9e418f20efbc37b8a58575728.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SFROM-04<br>Submitted by: Kinopio<br>Linked from profile 2051')"
+    filename: /images/175/37c1aab3864e49e8ff0adb4e6a59b36b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9237 - 9237 (2)
+  estFirstRun: September 1992
+  pcbClass: NES-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: E0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9237
+  dateCodeSuffix: E
+  std: 9237
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2355
+  partNumberSubDetail: 64
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9237
+  dateCodeSuffix: B
+  std: 9237
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9231
+  dateCodeSuffix: C
+  std: 9231
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9140
+  dateCodeSuffix: B3007
+  std: 9140
+  misc: 

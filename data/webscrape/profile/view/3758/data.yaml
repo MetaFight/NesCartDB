@@ -1,0 +1,106 @@
+metadata:
+  name: Pinball
+  altName: ピンボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-06 05:13:00
+  moreProfiles:
+  - 1459
+  - 1668
+  - 1685
+  - 2207
+  - 3412
+  - 3685
+  - 3758
+  relatedProfiles:
+  - 2380
+  - 2092
+  - 4373
+  - 1911
+  - 17
+  additionalImages: 
+slug: pinball
+releaseInfo:
+  catalogId: HVC-PN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 2, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: HVC-PN
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1459')"
+    filename: /images/175/6f12ae12aa76f192adf9ce94eae79830.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-PN-0 PRG
+  size: 16 KB
+  crc32: 91D33E3C
+  x: 12
+- type: CHR0
+  label: HVC-PN-0 CHR
+  size: 8 KB
+  crc32: F2A53B3D
+  x: 18
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 035DC2E9
+  x: 12
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9007c91ed0560f9276c6c3c3a41280ab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8406 - 8430 (4)
+  estFirstRun: February 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Yamaha
+  partNumber: YM2211
+  partNumberSubDetail: 22815
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 42 07
+  dateCodeSuffix: 81 C
+  std: 8406
+  misc: 
+- designation: CHR
+  maker: Yamaha
+  partNumber: YM2212
+  partNumberSubDetail: 22904
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 42 06
+  dateCodeSuffix: 81 C
+  std: 8406
+  misc: 

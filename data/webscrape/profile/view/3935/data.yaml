@@ -1,0 +1,107 @@
+metadata:
+  name: 'Deep Dungeon IV: Kuro no Youjutsushi'
+  altName: ディープダンジョンⅣ　黒の妖術師
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: deep-dungeon-iv-kuro-no-youjutsushi
+releaseInfo:
+  catalogId: ASM-4D
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 6, 1990
+  publisher: Asmik
+  developer: HummingBird Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: ASM-4D
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/662b894321ab6dc0b4d0fa026575f39a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ASM-4D-0 PRG
+  size: 256 KB
+  crc32: FE364BE5
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9003
+  estFirstRun: January 1990
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5322
+  partNumberSubDetail: 85
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9003
+  dateCodeSuffix: D
+  std: 9003
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9002
+  dateCodeSuffix: MD
+  std: 9002
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9003
+  dateCodeSuffix: 3 AA
+  std: 9003
+  misc: 
+- designation: U4 W-RAM
+  maker: Toshiba
+  partNumber: TC5565APL-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8951
+  dateCodeSuffix: HCK
+  std: 8951
+  misc: 

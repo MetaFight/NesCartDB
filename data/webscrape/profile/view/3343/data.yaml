@@ -1,0 +1,117 @@
+metadata:
+  name: Mappy Kids
+  altName: マッピーキッズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 06:29:00
+  moreProfiles:
+  - 1835
+  - 3343
+  relatedProfiles: []
+  additionalImages: 
+slug: mappy-kids
+releaseInfo:
+  catalogId: NAM-FMK-5800
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1989
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1835')"
+    filename: /images/175/2510455a882dae29994e4d5f2eb33e29.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1602')"
+    filename: /images/175/c6b086780d9ac8adb9d7526c15d84f86.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 598FB9F5
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 5A592B23
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 35D8C961
+  x: 2
+pcbProperties:
+  name: LROG044-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG044-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6f3ce2e46183fc18d7320a3ec13ddf75.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG044-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/41b6f5b8e5b3682d90ab22f9731fa874.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8943 - 8949 (2)
+  estFirstRun: October 1989
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG059
+  partNumberSubDetail: FMK
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8949
+  dateCodeSuffix: 3
+  std: 8949
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 163
+  partNumberSubDetail: 
+  type: Namcot 163
+  typeSubDetail: 
+  package: TQFP-48
+  dateCodePrefix: 8834
+  dateCodeSuffix: Z19
+  std: 8834
+  misc: 

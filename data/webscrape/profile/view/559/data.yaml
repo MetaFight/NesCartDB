@@ -1,0 +1,77 @@
+metadata:
+  name: Millipede
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-26 23:52:00
+  moreProfiles:
+  - 58
+  - 485
+  - 559
+  relatedProfiles: []
+  additionalImages: 
+slug: millipede
+releaseInfo:
+  catalogId: NES-ML-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1988
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ML-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 58')"
+    filename: /images/175/a98e97ff9dce98c95ef6db63faaaaabf.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 485')"
+    filename: /images/175/aca4f49349f503ee485ff44d00056d2f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-ML-0 PRG
+  size: 16 KB
+  crc32: 0AB06C51
+  x: 4
+- type: CHR0
+  label: NES-ML-0 CHR
+  size: 8 KB
+  crc32: 3D3DAE3F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: AE52DECE
+  x: 4
+pcbProperties:
+  name: NES-NROM-128-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8842 - 8921 (2)
+  estFirstRun: October 1988
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

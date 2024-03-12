@@ -1,0 +1,107 @@
+metadata:
+  name: Mirai Shinwa Jarvas
+  altName: 未来神話ジャーヴァス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-01 01:12:00
+  moreProfiles:
+  - 1763
+  - 3163
+  relatedProfiles: []
+  additionalImages: 
+slug: mirai-shinwa-jarvas
+releaseInfo:
+  catalogId: TFC-MJ-5500-11
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 30, 1987
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Real Battery Door
+  frontLabelId: TFC-MJ5500
+  sequence#: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56f4654c7e51924b35968e15cf67ec28.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/042029015ac93a07ba2a4f3813f43e76.jpg
+romDetails:
+- type: PRG0
+  label: PP PP X3-012
+  size: 128 KB
+  crc32: 95AAED34
+  x: 2
+- type: CHR0
+  label: C X3-013
+  size: 128 KB
+  crc32: 599CD55D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0E1683C5
+  x: 2
+pcbProperties:
+  name: P3-034A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-034A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d8c0ca6a989ae9ca5e30ae55ea526271.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-034A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/72a2719d4cb18835fa051c60c674ed53.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8725 - 8725 (2)
+  estFirstRun: June 1987
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-005
+detailedChipInfo:
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 238P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 725
+  dateCodeSuffix: 118
+  std: 8725
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8724
+  dateCodeSuffix: D
+  std: 8724
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8722
+  dateCodeSuffix: K5
+  std: 8722
+  misc: BB

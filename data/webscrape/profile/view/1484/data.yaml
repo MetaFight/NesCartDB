@@ -1,0 +1,97 @@
+metadata:
+  name: Romancia
+  altName: ロマンシア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 05:24:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: romancia
+releaseInfo:
+  catalogId: TKS-G2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 30, 1987
+  publisher: Tokyo Shoseki
+  developer: Nihon Falcom
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Salmon
+  formFactor: Small
+  frontLabelId: TKS-G2
+  backLabelId/Desc: TKS
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/86458e2b925c3fb86dd28473d2ffdd4e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TKS-G2-0 PRG
+  size: 128 KB
+  crc32: CF9CF7A2
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8740
+  estFirstRun: October 1987
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8740
+  dateCodeSuffix: KP
+  std: 8740
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8729
+  dateCodeSuffix: MX
+  std: 8729
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8739
+  dateCodeSuffix: A
+  std: 8739
+  misc: 

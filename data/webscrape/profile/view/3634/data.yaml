@@ -1,0 +1,106 @@
+metadata:
+  name: Pachinko Daisakusen
+  altName: パチンコ大作戦
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 04:42:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: pachinko-daisakusen
+releaseInfo:
+  catalogId: CDS-81
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 19, 1991
+  publisher: Coconuts
+  developer: Marionette
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: CDS-81
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3781d24e9c1a0ebc9d56c30d7a27b46d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: CDS-81-0 PRG
+  size: 128 KB
+  crc32: 41F87A9B
+  x: 1
+- type: CHR0
+  label: CDS-81-0 CHR
+  size: 128 KB
+  crc32: EE01BCF2
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C22C23AB
+  x: 1
+pcbProperties:
+  name: HVC-SLRROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLRROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/64fe9fd234ea9cc9cdec7dfdfe6d5561.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLRROM-01<br>Submitted by: bootgod<br>Linked from profile 3567')"
+    filename: /images/175/a10eb52ec8e852dedcfbcb8eda00a94d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9124
+  estFirstRun: June 1991
+  pcbClass: HVC-SLRROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S78
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9124
+  dateCodeSuffix: EX701
+  std: 9124
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R45
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9124
+  dateCodeSuffix: HY713
+  std: 9124
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9052
+  dateCodeSuffix: B3906
+  std: 9052
+  misc: 

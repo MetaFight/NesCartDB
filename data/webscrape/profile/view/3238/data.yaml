@@ -1,0 +1,125 @@
+metadata:
+  name: Pro Yakyuu Family Stadium
+  altName: プロ野球ファミリースタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 20:52:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1591
+  - 2660
+  - 1801
+  - 2301
+  - 3237
+  - 3238
+  - 3239
+  - 3240
+  - 3241
+  - 3332
+  additionalImages: 
+slug: pro-yakyuu-family-stadium
+releaseInfo:
+  catalogId: NAM-FS-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 10, 1986
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1591')"
+    filename: /images/175/8c1f50303b8d6389686de311ef683c92.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1591')"
+    filename: /images/175/6ef4dbab3727394a440c62e403dae8ed.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 18C0623B
+  x: 10
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 9688A5BA
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: DCDF06DE
+  x: 10
+pcbProperties:
+  name: 60-FS
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>60-FS<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d1a2920e2cb825386fbe2817932c692a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>60-FS<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eacdc06be59c8600927d4e5adceb7ed0.jpg
+  pcbProducer: 
+  manufacturer: Fujitsu
+  mfgRange: 8648 - 8716 (10)
+  estFirstRun: December 1986
+  pcbClass: NAMCOT-3413
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 108
+detailedChipInfo:
+- designation: PCB
+  maker: Fujitsu
+  partNumber: FS
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 648
+  dateCodeSuffix: Y09
+  std: 8648
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP512
+  type: Bonded ROM
+  typeSubDetail: 64 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP108
+  type: Namcot 108
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

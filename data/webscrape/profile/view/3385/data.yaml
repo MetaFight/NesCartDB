@@ -1,0 +1,132 @@
+metadata:
+  name: Dr. Mario
+  altName: ドクターマリオ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 17:36:00
+  moreProfiles:
+  - 1494
+  - 1667
+  - 2751
+  - 2312
+  - 3349
+  - 3350
+  - 3351
+  - 3385
+  - 3386
+  - 3693
+  relatedProfiles:
+  - 1945
+  - 2465
+  - 1899
+  - 174
+  - 4687
+  additionalImages: 
+slug: dr-mario
+releaseInfo:
+  catalogId: HVC-VU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 27, 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-VU
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/b486e6ac5ae97cf2fb26789ce766eae6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: CB02A930
+  x: 12
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 064D4AB3
+  x: 21
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 198C2F41
+  x: 12
+pcbProperties:
+  name: SE-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6cd367abd8a429ea9be1b8ff3623f599.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SE-01A<br>Submitted by: bootgod<br>Linked from profile 1494')"
+    filename: /images/175/772ee726769902dea5337b5ee1a3ee95.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9022 - 9239 (10)
+  estFirstRun: June 1990
+  pcbClass: HVC-SEROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: LVU
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: U3
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9027
+  dateCodeSuffix: 3 TA
+  std: 9027
+  misc: 

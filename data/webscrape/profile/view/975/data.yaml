@@ -1,0 +1,80 @@
+metadata:
+  name: 'Bases Loaded II: Second Season'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-07-06 01:09:00
+  moreProfiles:
+  - 14
+  - 791
+  - 975
+  - 4701
+  relatedProfiles:
+  - 1731
+  additionalImages: 
+slug: bases-loaded-ii-second-season
+releaseInfo:
+  catalogId: NES-L2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-L2-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 14')"
+    filename: /images/175/403a81435c351b607a2ded9a792f3687.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 14')"
+    filename: /images/175/77149f20415c91d7033350c5a744b08a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-L2-0 PRG
+  size: 256 KB
+  crc32: F2A6ACE1
+  x: 3
+- type: CHR0
+  label: NES-L2-0 CHR
+  size: 128 KB
+  crc32: 11683DCA
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: B9CF171F
+  x: 3
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002 - 9028 (2)
+  estFirstRun: January 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

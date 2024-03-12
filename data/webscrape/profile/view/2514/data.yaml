@@ -1,0 +1,112 @@
+metadata:
+  name: Donkey Kong
+  altName: 
+  variant: (Revision A)
+  submittedBy: Kinopio
+  submittedOn: 2008-02-24 05:10:00
+  moreProfiles:
+  - 1839
+  - 2514
+  relatedProfiles:
+  - 1450
+  - 1091
+  additionalImages: 
+slug: donkey-kong
+releaseInfo:
+  catalogId: NES-DK-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: October 15, 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-DK-1 PRG
+  size: 16 KB
+  crc32: F56A5B10
+  x: 7
+- type: CHR0
+  label: HVC-DK-0 CHR
+  size: 8 KB
+  crc32: A21D7C2E
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 6F97C721
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6dac5f29188b3c5c8cc51b48dded0021.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 2359')"
+    filename: /images/175/e01688d9f95c56e49846a555c056012d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8641 - 8808 (2)
+  estFirstRun: October 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0043
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6J4
+  dateCodeSuffix: 19
+  std: 8639
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 09
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8641
+  dateCodeSuffix: E
+  std: 8641
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8634
+  dateCodeSuffix: A
+  std: 8634
+  misc: 

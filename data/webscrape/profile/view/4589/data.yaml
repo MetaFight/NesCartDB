@@ -1,0 +1,144 @@
+metadata:
+  name: Gauntlet
+  altName: 
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-15 04:55:00
+  moreProfiles:
+  - 1084
+  - 2116
+  - 2932
+  - 4589
+  relatedProfiles:
+  - 473
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 1084')"
+    filename: /images/175/a89a217011047a94bc5c0c15a816f23c.jpg
+slug: gauntlet
+releaseInfo:
+  catalogId: TGN-004-GL
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1084')"
+    filename: /images/175/8e1f1874fec3ba4f75cf8577e3d7e852.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 4675')"
+    filename: /images/175/d144fc46702b2568e7b3d2c95bc50397.jpg
+romDetails:
+- type: PRG0
+  label: 335004-1011
+  size: 128 KB
+  crc32: B19C48A5
+  x: 3
+- type: CHR0
+  label: 335004-1012
+  size: 64 KB
+  crc32: 1EEFF226
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: CD50A092
+  x: 3
+pcbProperties:
+  name: 800004-01 REV C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800004-01 REV C<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/45570347125f77c60fcc0faedf50aa0f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800004-01 REV C<br>Submitted by: bootgod<br>Linked from profile 1084')"
+    filename: /images/175/cbda8b92303e2f938aa477ea381da49e.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8850 - 9114 (3)
+  estFirstRun: December 1988
+  pcbClass: TENGEN-800004
+  inesMapper: 206
+  mirroring: Four Screen
+  batteryPresent: No
+  wram: 0 KB
+  vram: 2 KB
+  cicType: 337002
+  hardware: 337001, 74xx00
+detailedChipInfo:
+- designation: PRG
+  maker: Toshiba
+  partNumber: TC531000CP
+  partNumberSubDetail: F924
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8922
+  dateCodeSuffix: EAI
+  std: 8922
+  misc: 
+- designation: CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8920
+  dateCodeSuffix: GMA
+  std: 8920
+  misc: 
+- designation: VRAM
+  maker: ST Micro
+  partNumber: MK6116N-20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: DIP-24
+  dateCodePrefix: 8916
+  dateCodeSuffix: 9
+  std: 8916
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8941
+  dateCodeSuffix: ILHB
+  std: 8941
+  misc: 
+- designation: 337001
+  maker: Motorola
+  partNumber: 337001-002
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8937
+  dateCodeSuffix: ILAD
+  std: 8937
+  misc: 
+- designation: LS00
+  maker: Motorola
+  partNumber: SN74LS00N
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8925
+  dateCodeSuffix: IKAA
+  std: 8925
+  misc: 

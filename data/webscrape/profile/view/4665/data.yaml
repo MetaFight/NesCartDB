@@ -1,0 +1,124 @@
+metadata:
+  name: 'White Lion Densetsu: Pyramid no Kanata ni'
+  altName: ホワイトライオン伝説 ピラミッドの彼方に
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:55:00
+  moreProfiles: []
+  relatedProfiles:
+  - 585
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/706d63a0de0e6eb77208fd30b949bd18.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/13c8b89a2cfaa884c6fd6b218843d39c.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/34e5cdb73bb1f6dbe58af906a84bf534.jpg
+slug: white-lion-densetsu-pyramid-no-kanata-ni
+releaseInfo:
+  catalogId: KSC-WE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 14, 1989
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-WE
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d4108051a7c7777bf271d584ca52d679.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-WE-0 PRG
+  size: 128 KB
+  crc32: 0CB8D92D
+  x: 1
+- type: CHR0
+  label: KSC-WE-0 CHR
+  size: 128 KB
+  crc32: 0859BFDB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 850090BC
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4e940c1f435f5c4a5b6cc63bf26a92c2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8923
+  estFirstRun: June 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8920
+  dateCodeSuffix: EX
+  std: 8920
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: 1 Y
+  std: 8923
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8921
+  dateCodeSuffix: EY
+  std: 8921
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8923
+  dateCodeSuffix: 3 A
+  std: 8923
+  misc: 

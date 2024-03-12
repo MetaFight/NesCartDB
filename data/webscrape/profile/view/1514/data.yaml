@@ -1,0 +1,106 @@
+metadata:
+  name: Elysion
+  altName: エリュシオン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 18:53:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: elysion
+releaseInfo:
+  catalogId: TKS-G4
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 28, 1988
+  publisher: Tokyo Shoseki
+  developer: SystemSoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TKS-G4
+  backLabelId/Desc: TKS
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6076fbc1213a2b91a9e04bbe6899791.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TKS-G4-0 PRG
+  size: 128 KB
+  crc32: D2E775D8
+  x: 1
+- type: CHR0
+  label: TKS-G4-0 CHR
+  size: 128 KB
+  crc32: 24A7A376
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 240C6DE8
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c7f78ab18033dcc5005a97c149c656e5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-02<br>Submitted by: bootgod<br>Linked from profile 2689')"
+    filename: /images/175/b2e1a439894cfdd27baf825aeedd5139.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8816
+  estFirstRun: April 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 55
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8816
+  dateCodeSuffix: D
+  std: 8816
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 53
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8816
+  dateCodeSuffix: D
+  std: 8816
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8814
+  dateCodeSuffix: A
+  std: 8814
+  misc: 

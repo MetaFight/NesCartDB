@@ -1,0 +1,67 @@
+metadata:
+  name: Legendary Wings
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-08-16 19:44:00
+  moreProfiles:
+  - 44
+  - 1006
+  relatedProfiles: []
+  additionalImages: 
+slug: legendary-wings
+releaseInfo:
+  catalogId: NES-LE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1988
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LE-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 44')"
+    filename: /images/175/411ac0bbe82690339769bb41f0a8c8b5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 44')"
+    filename: /images/175/e8666a553e20997063a7154297e9bc85.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-LE-0 PRG
+  size: 128 KB
+  crc32: A2194CAD
+  x: 2
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8846
+  estFirstRun: November 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

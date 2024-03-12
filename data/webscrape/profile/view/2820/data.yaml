@@ -1,0 +1,139 @@
+metadata:
+  name: 'Operation Wolf: Take no Prisoners'
+  altName: 
+  variant: (Revision 0A)
+  submittedBy: bootgod
+  submittedOn: 2006-03-10 02:42:00
+  moreProfiles:
+  - 180
+  - 378
+  - 571
+  - 2820
+  relatedProfiles:
+  - 2910
+  - 3959
+  - 1923
+  - 4376
+  additionalImages: 
+slug: operation-wolf-take-no-prisoners
+releaseInfo:
+  catalogId: NES-OW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1989
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: NES Controller,Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OW-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 180')"
+    filename: /images/175/f01b40dc6ac1199fa96c2545eaa34c10.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 378')"
+    filename: /images/175/b6d76a8d776b4f0f63d4ab52cdd913d4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-OW-0 PRG
+  size: 128 KB
+  crc32: 1388AEB9
+  x: 5
+- type: CHR0
+  label: NES-OW-0 CHR
+  size: 128 KB
+  crc32: B6C77A38
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EDC3662B
+  x: 5
+pcbProperties:
+  name: NES-SL1ROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8914 - 8924 (3)
+  estFirstRun: April 1989
+  pcbClass: NES-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8908
+  dateCodeSuffix: Z32
+  std: 8908
+  misc: 
+- designation: U2 CHR
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8909
+  dateCodeSuffix: Z42
+  std: 8909
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8914
+  dateCodeSuffix: 3 CA
+  std: 8914
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8911
+  dateCodeSuffix: 1 A
+  std: 8911
+  misc: 
+- designation: U5 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8901
+  dateCodeSuffix: H
+  std: 8901
+  misc: 

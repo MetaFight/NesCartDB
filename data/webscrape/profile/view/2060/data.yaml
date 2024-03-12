@@ -1,0 +1,77 @@
+metadata:
+  name: Duck Hunt
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-06 16:51:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2383
+  - 2470
+  - 1642
+  - 334
+  additionalImages: 
+slug: duck-hunt
+releaseInfo:
+  catalogId: NES-DH-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: August 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Zapper Light Gun
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DH-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/20cf8d4224d8df547abc14a42d91d058.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: HVC-DH-0 PRG
+  size: 16 KB
+  crc32: 90CA616D
+  x: 6
+- type: CHR0
+  label: HVC-DH-0 CHR
+  size: 8 KB
+  crc32: 4E049E03
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 24598791
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo: []

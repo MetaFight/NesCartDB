@@ -1,0 +1,120 @@
+metadata:
+  name: Daisenryaku
+  altName: 大戦略
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-01 03:29:00
+  moreProfiles:
+  - 3556
+  - 3557
+  relatedProfiles: []
+  additionalImages: 
+slug: daisenryaku
+releaseInfo:
+  catalogId: BTC-DY
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 11, 1988
+  publisher: Bothtec (Quest)
+  developer: SystemSoft
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BTC-DY
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3556')"
+    filename: /images/175/5422510859f27a7d80b26c25ca67eec0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BTC-DY-0 PRG
+  size: 128 KB
+  crc32: 53A94738
+  x: 2
+- type: CHR0
+  label: BTC-DY-0 CHR
+  size: 32 KB
+  crc32: C0948F45
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 5A5A0CD9
+  x: 2
+pcbProperties:
+  name: HVC-SJROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SJROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a694598f9261aae4358f8654e506ae4a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SJROM-03<br>Submitted by: bootgod<br>Linked from profile 3556')"
+    filename: /images/175/d0a755c08e72752b802bb7a933e84586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8839 - 8916 (2)
+  estFirstRun: September 1988
+  pcbClass: HVC-SJROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8838
+  dateCodeSuffix: KX
+  std: 8838
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8833
+  dateCodeSuffix: 1 DA
+  std: 8833
+  misc: 
+- designation: U3 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2069
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8H4
+  dateCodeSuffix: 17
+  std: 8834
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8839
+  dateCodeSuffix: 1 A
+  std: 8839
+  misc: 

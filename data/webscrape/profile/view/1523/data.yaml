@@ -1,0 +1,112 @@
+metadata:
+  name: Super Star Force
+  altName: スーパースターフォース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 19:25:00
+  moreProfiles:
+  - 1523
+  - 2732
+  - 3454
+  - 3455
+  - 3721
+  relatedProfiles: []
+  additionalImages: 
+slug: super-star-force
+releaseInfo:
+  catalogId: TCF-ST
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 11, 1986
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TCF-ST
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f49e87e97df370e0c92a7e9d50c9fb8f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-ST-0 PRG
+  size: 128 KB
+  crc32: 3FA96277
+  x: 5
+pcbProperties:
+  name: HVC-UNROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8642 - 8644 (5)
+  estFirstRun: October 1986
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH5310
+  partNumberSubDetail: R8
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8644
+  dateCodeSuffix: D
+  std: 8644
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: D4364C-20L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8515
+  dateCodeSuffix: EX201
+  std: 8515
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 67B
+  dateCodeSuffix: 7
+  std: 8629
+  misc: 
+- designation: LS32
+  maker: Panasonic
+  partNumber: MN74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6?
+  dateCodeSuffix: ''
+  std: 8640
+  misc: 

@@ -1,0 +1,128 @@
+metadata:
+  name: 'Sangokushi: Chuugen no Hasha'
+  altName: 三國志　中原の覇者
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-07-07 04:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1818
+  - 3318
+  additionalImages: 
+slug: sangokushi-chuugen-no-hasha
+releaseInfo:
+  catalogId: NAM-ST-6900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: July 29, 1988
+  publisher: Namco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02af5a4aeb10c89dd9f38803992f667f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9dfb57003079787849ee19ce8f9a3477.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fb974b722a6e0e73a7e5397439543035.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B78970D2
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 492DB38B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E64B8975
+  x: 2
+pcbProperties:
+  name: LROG041-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG041-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/492e7b0972020f8f9b9495b7edd199df.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG041-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cea4532c79089e47f86db78b77062708.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 8823 - 8824 (2)
+  estFirstRun: June 1988
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG041
+  partNumberSubDetail: ST
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 8823
+  dateCodeSuffix: 5
+  std: 8823
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

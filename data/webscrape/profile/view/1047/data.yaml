@@ -1,0 +1,103 @@
+metadata:
+  name: Ms. Pac-Man
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 23:03:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ms-pac-man
+releaseInfo:
+  catalogId: TGN-017-MPM
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Tengen
+  developer: Namco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/267195e1fa4ea5d4b058824f9f969d84.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335017-1011 MPMPR
+  size: 32 KB
+  crc32: 4B2DCE64
+  x: 1
+- type: CHR0
+  label: 335017-1012 MPMCH
+  size: 8 KB
+  crc32: 1F20FAD0
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 43D30C2F
+  x: 1
+pcbProperties:
+  name: 800003-01 REV C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800003-01 REV C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c4f712e54b9cc5bb9d9c05f35e16bbf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800003-01 REV C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c70c7f90db297bcdf4fa05e72132f1fe.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8945
+  estFirstRun: November 1989
+  pcbClass: TENGEN-800003
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+detailedChipInfo:
+- designation: PRG
+  maker: Winbond
+  partNumber: 
+  partNumberSubDetail: WR23256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: CHR
+  maker: Winbond
+  partNumber: 
+  partNumberSubDetail: WR2364
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8945
+  dateCodeSuffix: ILAA
+  std: 8945
+  misc: 

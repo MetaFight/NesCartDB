@@ -1,0 +1,148 @@
+metadata:
+  name: 'Ganbare Goemon Gaiden: Keita Ougon Kiseru'
+  altName: がんばれゴエモン外伝 きえた黄金キセル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 05:54:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ganbare-goemon-gaiden-keita-ougon-kiseru
+releaseInfo:
+  catalogId: KON-RC840
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 5, 1990
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Large
+  frontLabelId: RC840
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/00a5e45460bc2498710cd873ea4c63c9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/40086f0b358f3bb77e913cb4bad1851d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3134')"
+    filename: /images/175/fd5c54cf4fffb55ec98835e28606be1c.jpg
+romDetails:
+- type: PRG0
+  label: RC840J02P
+  size: 256 KB
+  crc32: 8360FA88
+  x: 1
+- type: CHR0
+  label: RC840J01C
+  size: 256 KB
+  crc32: 99A563FE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: EB92B32A
+  x: 1
+pcbProperties:
+  name: 351948
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351948<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5d0157d0c9d14724fd670193daf52c2c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351948<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/64bcf8d77ea7d3b35228266d4a88c44c.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8944
+  estFirstRun: November 1989
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 25
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx20, MM1026, VRC2
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8944
+  dateCodeSuffix: XY707
+  std: 8944
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8943
+  dateCodeSuffix: XY709
+  std: 8943
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8464A-15LL-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8931
+  dateCodeSuffix: KT79
+  std: 8931
+  misc: 
+- designation: 
+  maker: Panasonic
+  partNumber: 052470 VRC II
+  partNumberSubDetail: KNC
+  type: Konami VRC II
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 97?7
+  dateCodeSuffix: ''
+  std: 8929
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS139N
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8923
+  dateCodeSuffix: J
+  std: 8923
+  misc: 
+- designation: 
+  maker: Motorola
+  partNumber: SN74LS20N
+  partNumberSubDetail: 
+  type: 74-20 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8942
+  dateCodeSuffix: RJDU
+  std: 8942
+  misc: 
+- designation: 
+  maker: Mitsumi
+  partNumber: 1026B
+  partNumberSubDetail: 
+  type: MM1026
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9J
+  dateCodeSuffix: 7
+  std: 8940
+  misc: 

@@ -1,0 +1,125 @@
+metadata:
+  name: Donkey Kong Classics
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-03 02:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3644
+  - 4254
+  - 2885
+  - 4454
+  - 109
+  additionalImages: 
+slug: donkey-kong-classics
+releaseInfo:
+  catalogId: NES-DJ-NOE
+  region: Germany (PAL-B)
+  class: Licensed  » Multi-cart
+  releaseDate: March 3, 1993
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DJ-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/793671f977937f335b714f61fbc43d7e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c31507d6f68c20e4c446c104f0dcd46f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: NES-DJ-0 PRG
+  size: 32 KB
+  crc32: D711EA15
+  x: 8
+- type: CHR0
+  label: NES-DJ-0 CHR
+  size: 16 KB
+  crc32: E0474EB5
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: AB2006B4
+  x: 8
+pcbProperties:
+  name: NES-CNROM-08
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-08<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d5489d97a3b830ef400028388b7e2129.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-08<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a7dd9fc25ca364d99f765bd2cc139753.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9309
+  estFirstRun: March 1993
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2072
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 3CC
+  dateCodeSuffix: 17
+  std: 9309
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23128E
+  partNumberSubDetail: 0207
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 3CC
+  dateCodeSuffix: 1F
+  std: 9309
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9218
+  dateCodeSuffix: C
+  std: 9218
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9309
+  dateCodeSuffix: ''
+  std: 9309
+  misc: 

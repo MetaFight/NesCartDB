@@ -1,0 +1,128 @@
+metadata:
+  name: Tecmo World Wrestling
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 20:21:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2595
+  - 4698
+  - 3543
+  - 2496
+  - 418
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PZ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/f7a8e7e09404e51dd5de9ef543ce2073.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PZ-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/7ce94a496ddb900ed9d10d4c935b047d.jpg
+slug: tecmo-world-wrestling
+releaseInfo:
+  catalogId: NES-PZ-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: February 23, 1992
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PZ-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/96d508f349e8abee803dc77a9e5c2748.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-PZ-0 PRG
+  size: 128 KB
+  crc32: 790D2916
+  x: 5
+- type: CHR0
+  label: NES-PZ-0 CHR
+  size: 128 KB
+  crc32: 849275C5
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CF849F72
+  x: 5
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/0dc493e6dc72e5f30495c1e0f27c25f0.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9209
+  estFirstRun: March 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 51
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9208
+  dateCodeSuffix: E
+  std: 9208
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 16
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9209
+  dateCodeSuffix: E
+  std: 9209
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9141
+  dateCodeSuffix: C
+  std: 9141
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9208
+  dateCodeSuffix: 3 A 170
+  std: 9208
+  misc: 

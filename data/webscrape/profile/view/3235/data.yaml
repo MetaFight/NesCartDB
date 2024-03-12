@@ -1,0 +1,93 @@
+metadata:
+  name: BurgerTime
+  altName: バーガータイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 00:57:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: burgertime
+releaseInfo:
+  catalogId: NAM-NBT-4500-11
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 27, 1985
+  publisher: Namco
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c2a0130875cef7747aee57257d963a15.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e70ef198edf568a7389091d390b9f148.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2352d8bc01b064d7acf2c64446400875.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: F9C22E00
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: DB2FBCCD
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: CE67507A
+  x: 1
+pcbProperties:
+  name: 3301
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3301<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6e7b04acb70887cad95fd0af8fdf079e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3301<br>Submitted by: bootgod<br>Linked from profile 1592')"
+    filename: /images/175/4d478a591c48a48cef69c71c4bf8398f.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8517
+  estFirstRun: April 1985
+  pcbClass: NAMCOT-3301
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Hitachi
+  partNumber: HN4827128G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8517
+  dateCodeSuffix: ''
+  std: 8517
+  misc: 00109SS0
+- designation: CH
+  maker: Hitachi
+  partNumber: HN482764G
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8517
+  dateCodeSuffix: ''
+  std: 8517
+  misc: U1009SS0

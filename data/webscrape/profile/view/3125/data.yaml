@@ -1,0 +1,104 @@
+metadata:
+  name: Meimon! Dai San Yakyuu Bu
+  altName: 名門！第三野球部
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 23:43:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: meimon-dai-san-yakyuu-bu
+releaseInfo:
+  catalogId: BA-DAI3
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 8, 1989
+  publisher: Bandai
+  developer: Human Entertainment
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Black
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/152972c389fc198ceb26d60c4d9dd28f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5e54409194dd404786fc3aff71fdea91.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d41ad3719af3c1939849c863821226aa.jpg
+romDetails:
+- type: PRG0
+  label: 89 BANDAI DAI3YAKYU-P
+  size: 128 KB
+  crc32: F1A03778
+  x: 1
+- type: CHR0
+  label: 89 BANDAI DAI3YAKYU-C
+  size: 128 KB
+  crc32: 1B750D8F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7B5206AF
+  x: 1
+pcbProperties:
+  name: DORAGON2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>DORAGON2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/104b1601ec08b38b3824e8c4a71d57c4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>DORAGON2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca1a9b0ecb3793a279f09a668360cdbf.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8929
+  estFirstRun: July 1989
+  pcbClass: BANDAI-FCG-1
+  inesMapper: 16
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: FCG-2
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8928
+  dateCodeSuffix: E
+  std: 8928
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8929
+  dateCodeSuffix: E
+  std: 8929
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: FCG-2
+  partNumberSubDetail: 
+  type: Bandai FCG-2
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 8914
+  dateCodeSuffix: 1 A
+  std: 8914
+  misc: 

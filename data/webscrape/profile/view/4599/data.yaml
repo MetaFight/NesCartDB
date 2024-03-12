@@ -1,0 +1,106 @@
+metadata:
+  name: Gorby no Pipeline Daisakusen
+  altName: ゴルビーのパイプライン大作戦
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2012-03-06 04:51:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: gorby-no-pipeline-daisakusen
+releaseInfo:
+  catalogId: GTS-4G
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 12, 1991
+  publisher: Tokuma Shoten
+  developer: Compile
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: GTS-4G
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/bc84172a2fe4ef6fa9c798a11b4a2805.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: GTS-4G-0 PRG
+  size: 32 KB
+  crc32: 196F05DD
+  x: 0
+- type: CHR0
+  label: GTS-4G-0 CHR
+  size: 32 KB
+  crc32: 941F8BDE
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 1829616A
+  x: 0
+pcbProperties:
+  name: HVC-CNROM-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-CNROM-2<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/e7db99ff6ceda3684dcd829d1af9954c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-CNROM-2<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/dd23c6cdbb4e4c82f7ecb76b5563f18a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9111
+  estFirstRun: March 1991
+  pcbClass: HVC-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH5359
+  partNumberSubDetail: 57
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: D
+  std: 9111
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH5359
+  partNumberSubDetail: 58
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9111
+  dateCodeSuffix: D
+  std: 9111
+  misc: 
+- designation: U3 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 036
+  dateCodeSuffix: EN
+  std: 9036
+  misc: 

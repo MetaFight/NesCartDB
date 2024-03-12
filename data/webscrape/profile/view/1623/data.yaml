@@ -1,0 +1,120 @@
+metadata:
+  name: Final Fantasy
+  altName: ファイナルファンタジー
+  variant: (Revision B)
+  submittedBy: bootgod
+  submittedOn: 2007-06-21 03:25:00
+  moreProfiles:
+  - 1623
+  - 1666
+  - 3605
+  - 3606
+  relatedProfiles:
+  - 715
+  - 154
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>SQF-FF<br>Submitted by: Yakushi~Kabuto<br>Linked from profile 0')"
+    filename: /images/175/f37f9b12c3026e525b32bb85afceded3.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>SQF-FF<br>Submitted by: Yakushi~Kabuto<br>Linked from profile 0')"
+    filename: /images/175/1a339363653e4b1f45492d1a482d446e.jpg
+  - toolTipJS: "ddrivetip('Manual<br>SQF-FF<br>Submitted by: Yakushi~Kabuto<br>Linked from profile 0')"
+    filename: /images/175/e36853a222aded0ecd010c2004e3300a.jpg
+slug: final-fantasy
+releaseInfo:
+  catalogId: SQF-FF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 18, 1987
+  publisher: Square
+  developer: Square
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SQF-FF
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  revision: B
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Yakushi~Kabuto<br>Linked from profile 0')"
+    filename: /images/175/e95f5c6e71bc1c6484aef7449767caa2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: SQF-FF-1 PRG
+  size: 256 KB
+  crc32: F71E7EDD
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8748 - 9115 (4)
+  estFirstRun: December 1987
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9115
+  dateCodeSuffix: PY
+  std: 9115
+  misc: 
+- designation: U2 CHR
+  maker: Motorola
+  partNumber: MCM60L64P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9101
+  dateCodeSuffix: HCK
+  std: 9101
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9111
+  dateCodeSuffix: 3 AA
+  std: 9111
+  misc: 
+- designation: U4 W-RAM
+  maker: Motorola
+  partNumber: MCM60L64P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9101
+  dateCodeSuffix: HCK
+  std: 9101
+  misc: 

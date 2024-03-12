@@ -1,0 +1,106 @@
+metadata:
+  name: Metal Slader Glory
+  altName: メタルスレイダーグローリー
+  variant: 
+  submittedBy: Skrybe
+  submittedOn: 2016-11-04 04:18:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: metal-slader-glory
+releaseInfo:
+  catalogId: HAL-4J
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 30, 1991
+  publisher: HAL Laboratory
+  developer: HAL Laboratory
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Purple
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: HAL-4J
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/5f9acd136dc4d2b291152bb02381bcda.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/31322c7f1a0c7b5008d6b669f1a99cfc.jpg
+romDetails:
+- type: PRG0
+  label: HAL-4J-0 PRG
+  size: 512 KB
+  crc32: CD9ACF43
+  x: 1
+- type: CHR0
+  label: HAL-4J-0 CHR
+  size: 512 KB
+  crc32: F596DF2A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 1024 KB
+  crc32: B4735FAC
+  x: 1
+pcbProperties:
+  name: HVC-ELROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-ELROM-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/321489a438107bd9914bb49d8785808f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-ELROM-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/5660641da0d2cba1d56d2fbd7125acc8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9129
+  estFirstRun: July 1991
+  pcbClass: HVC-ELROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013C
+  partNumberSubDetail: W09
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9129
+  dateCodeSuffix: EP003
+  std: 9129
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C4013C
+  partNumberSubDetail: W10
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9129
+  dateCodeSuffix: EP001
+  std: 9129
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9128
+  dateCodeSuffix: AA012
+  std: 9128
+  misc: 

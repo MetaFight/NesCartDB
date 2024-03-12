@@ -1,0 +1,68 @@
+metadata:
+  name: Tecmo Baseball
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-19 04:16:00
+  moreProfiles:
+  - 81
+  - 349
+  - 806
+  relatedProfiles: []
+  additionalImages: 
+slug: tecmo-baseball
+releaseInfo:
+  catalogId: NES-TL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1989
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TL-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 81')"
+    filename: /images/175/d3fd87ed73b6cf2f234e5cd0d2e66f3b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 81')"
+    filename: /images/175/7a4b3d5fe2604c8f5426436ef6dd1650.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TL-0 PRG
+  size: 128 KB
+  crc32: AD12A34F
+  x: 3
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8852 - 8924 (2)
+  estFirstRun: December 1988
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo: []

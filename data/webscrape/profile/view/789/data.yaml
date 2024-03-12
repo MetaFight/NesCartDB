@@ -1,0 +1,84 @@
+metadata:
+  name: 'Zelda II: The Adventure of Link'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-14 02:59:00
+  moreProfiles:
+  - 85
+  - 2571
+  - 789
+  - 1231
+  - 4525
+  relatedProfiles:
+  - 1787
+  - 1922
+  - 4690
+  additionalImages: 
+slug: zelda-ii-the-adventure-of-link
+releaseInfo:
+  catalogId: NES-AL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Gold
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-AL-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 85')"
+    filename: /images/175/191cc6b89a492031634ee1b3983611ef.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-AL-0 PRG
+  size: 128 KB
+  crc32: EE8C9971
+  x: 4
+- type: CHR0
+  label: NES-AL-0 CHR
+  size: 128 KB
+  crc32: 9C41CE57
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BA322865
+  x: 4
+pcbProperties:
+  name: NES-SKROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8932 - 9229 (4)
+  estFirstRun: August 1989
+  pcbClass: NES-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo: []

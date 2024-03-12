@@ -1,0 +1,131 @@
+metadata:
+  name: Krazy Kreatures
+  altName: 
+  variant: (Version 1.0)
+  submittedBy: Mark_K
+  submittedOn: 2011-12-19 03:40:00
+  moreProfiles:
+  - 255
+  - 2597
+  - 3002
+  - 4594
+  relatedProfiles: []
+  additionalImages: 
+slug: krazy-kreatures
+releaseInfo:
+  catalogId: AVE-KK
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: Bitmasters
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 255')"
+    filename: /images/175/fc4d32cd7e8900f3ab3027a44a7d428b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 255')"
+    filename: /images/175/f56470534bc70c93363096cd2c02a07d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1241')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: FE6E-PGM
+  size: 32 KB
+  crc32: 5EB94B11
+  x: 1
+- type: CHR0
+  label: BDED-CHR
+  size: 32 KB
+  crc32: 98C888E0
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 85323FD6
+  x: 1
+pcbProperties:
+  name: NINA-03 REV. A
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9045 - 9319 (4)
+  estFirstRun: November 1990
+  pcbClass: AVE-NINA-03
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: AMI
+  partNumber: MX23256
+  partNumberSubDetail: 1020
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9045
+  dateCodeSuffix: MAC
+  std: 9045
+  misc: 
+- designation: U2
+  maker: AMI
+  partNumber: MX23256
+  partNumberSubDetail: 1019
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9045
+  dateCodeSuffix: MAA
+  std: 9045
+  misc: 
+- designation: U3
+  maker: Matsushita
+  partNumber: 74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U4
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9038
+  dateCodeSuffix: ''
+  std: 9038
+  misc: 

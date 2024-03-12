@@ -1,0 +1,119 @@
+metadata:
+  name: Mario Bros.
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-12-17 17:05:00
+  moreProfiles:
+  - 2358
+  - 2359
+  - 4398
+  relatedProfiles:
+  - 2375
+  - 1990
+  - 2137
+  - 1491
+  - 1099
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-MA-EEC<br>Submitted by: Kinopio<br>Linked from profile 2358')"
+    filename: /images/175/3bab14fd33f3274df1782c3af75a04ed.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-MA-EEC<br>Submitted by: Kinopio<br>Linked from profile 2358')"
+    filename: /images/175/4d45ad30c798f91d68b6cd00e42aad25.jpg
+slug: mario-bros
+releaseInfo:
+  catalogId: NES-MA-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: September 1, 1986
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/2b8f3e69f33457804a4529ec83b5a3c8.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4b68b4f2ecc2819dadd1a6861838271e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-MA-0 PRG
+  size: 16 KB
+  crc32: 75F6A9F3
+  x: 9
+- type: CHR0
+  label: HVC-MA-0 CHR
+  size: 8 KB
+  crc32: 10F77435
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: C4C3949A
+  x: 9
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6b541719c7bb57d8b2441b4914104880.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e01688d9f95c56e49846a555c056012d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8627 - 9039 (3)
+  estFirstRun: July 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0041
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6F4
+  dateCodeSuffix: 11
+  std: 8626
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 11
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8627
+  dateCodeSuffix: E
+  std: 8627
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8627
+  dateCodeSuffix: A
+  std: 8627
+  misc: 

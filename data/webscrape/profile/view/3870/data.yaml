@@ -1,0 +1,117 @@
+metadata:
+  name: Hissatsu Shigoto Nin
+  altName: 必殺仕事人
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 09:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: hissatsu-shigoto-nin
+releaseInfo:
+  catalogId: BAP-X7
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1990
+  publisher: Banpresto
+  developer: Arc System Works
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: BAP-X7
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/707a85ed585febc205d1c644dd03473b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BAP-X7-0 PRG
+  size: 256 KB
+  crc32: D777D47D
+  x: 1
+- type: CHR0
+  label: BAP-X7-0 CHR
+  size: 128 KB
+  crc32: F330B640
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 5D105C10
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d952c0842e94a5dd1c36f60d55665f67.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9043
+  estFirstRun: October 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013C
+  partNumberSubDetail: T81
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9042
+  dateCodeSuffix: PD015
+  std: 9042
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R17
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9042
+  dateCodeSuffix: EY050
+  std: 9042
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9043
+  dateCodeSuffix: 3 T
+  std: 9043
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 094
+  dateCodeSuffix: B1
+  std: 9037
+  misc: 

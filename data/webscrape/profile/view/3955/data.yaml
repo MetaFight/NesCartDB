@@ -1,0 +1,105 @@
+metadata:
+  name: 'Minelvaton Saga: Ragon no Fukkatsu'
+  altName: ミネルバトンサーガ ラゴンの復活
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-03 04:30:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: minelvaton-saga-ragon-no-fukkatsu
+releaseInfo:
+  catalogId: TFC-MS-5500-13
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 23, 1987
+  publisher: Taito
+  developer: Random House
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / Fake Battery Door
+  frontLabelId: TFC-MS5500
+  sequence#: 13
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1bede22347cac00098abc7ede5e9ebe2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/60a366cd23f292db1d12358606ef8308.jpg
+romDetails:
+- type: PRG0
+  label: PRO X3-016
+  size: 128 KB
+  crc32: 59276597
+  x: 1
+- type: CHR0
+  label: CH X3-017
+  size: 128 KB
+  crc32: EF6D81B9
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8EE25F78
+  x: 1
+pcbProperties:
+  name: P3-034-C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-034-C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cf0ab1e3d39b30748c6a2ce171da415f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-034-C<br>Submitted by: bootgod<br>Linked from profile 1765')"
+    filename: /images/175/e52d07977de29b2d0c195563056cc29b.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8739
+  estFirstRun: September 1987
+  pcbClass: TAITO-X1-005
+  inesMapper: 80
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-005
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8739
+  dateCodeSuffix: D
+  std: 8739
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: X1-005
+  partNumberSubDetail: 
+  type: Taito X1-005
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8734
+  dateCodeSuffix: K5
+  std: 8734
+  misc: BB

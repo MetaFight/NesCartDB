@@ -1,0 +1,111 @@
+metadata:
+  name: Clu Clu Land
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-26 01:22:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2057
+  - 984
+  - 1490
+  additionalImages: 
+slug: clu-clu-land
+releaseInfo:
+  catalogId: NES-CL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b92639162e75d4da2e31445599a5e169.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/34c47bcbd44b1dfb24adf2c63f475354.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: HVC-CL-0 PRG
+  size: 16 KB
+  crc32: 23A60A62
+  x: 7
+- type: CHR0
+  label: HVC-CL-0 CHR
+  size: 8 KB
+  crc32: A63B8B98
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 48F68D40
+  x: 7
+pcbProperties:
+  name: NES-RROM-128-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-RROM-128-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/63b49fb46de23748d733bd5570f99472.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-RROM-128-01<br>Submitted by: Kinopio<br>Linked from profile 2441')"
+    filename: /images/175/b74b5cba30ae48cdf3bd1f357d4469ec.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8544
+  estFirstRun: November 1985
+  pcbClass: NES-RROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C128
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8448
+  dateCodeSuffix: KX
+  std: 8448
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0056
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 51B
+  dateCodeSuffix: 5
+  std: 8503
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8544
+  dateCodeSuffix: A
+  std: 8544
+  misc: 

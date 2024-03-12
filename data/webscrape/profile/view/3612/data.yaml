@@ -1,0 +1,108 @@
+metadata:
+  name: Tom Sawyer no Bouken
+  altName: トムソーヤの冒険
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-22 02:48:00
+  moreProfiles: []
+  relatedProfiles:
+  - 591
+  additionalImages: 
+slug: tom-sawyer-no-bouken
+releaseInfo:
+  catalogId: KKS-YB (04)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 6, 1989
+  publisher: Seta
+  developer: Winky Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Medium Aquamarine
+  formFactor: Small
+  frontLabelId: KKS-YB
+  secondaryId: 04
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ce56bd87e203e0da91ebfa0e3e2456af.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KKS-YB-0 PRG
+  size: 128 KB
+  crc32: D9350367
+  x: 1
+- type: CHR0
+  label: KKS-YB-0 CHR
+  size: 128 KB
+  crc32: 09715FBE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6800C5B3
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca771d4874c3b9082b9857a3b87af31d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-02<br>Submitted by: bootgod<br>Linked from profile 3554')"
+    filename: /images/175/e47f7cbfef953cb325053380b2a37efe.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8902
+  estFirstRun: January 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 27
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8853
+  dateCodeSuffix: D
+  std: 8853
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 3A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8902
+  dateCodeSuffix: D
+  std: 8902
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8901
+  dateCodeSuffix: 5 A
+  std: 8901
+  misc: 

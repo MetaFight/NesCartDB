@@ -1,0 +1,117 @@
+metadata:
+  name: Final Fantasy III
+  altName: ファイナルファンタジーIII
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 07:44:00
+  moreProfiles:
+  - 1507
+  - 2725
+  - 2740
+  - 2741
+  - 3493
+  - 3494
+  - 3495
+  - 3496
+  - 3497
+  - 3714
+  relatedProfiles: []
+  additionalImages: 
+slug: final-fantasy-iii
+releaseInfo:
+  catalogId: SQF-FC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 27, 1990
+  publisher: Square
+  developer: Square
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SQF-FC
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c22872e0bfbb155bce4166c233e5e085.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: SQF-FC-0 PRG
+  size: 512 KB
+  crc32: 57E220D0
+  x: 10
+pcbProperties:
+  name: HVC-TNROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9011 - 9019 (10)
+  estFirstRun: March 1990
+  pcbClass: HVC-TNROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN234003
+  partNumberSubDetail: NFC
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 0
+  dateCodeSuffix: 50
+  std: 9009
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8952
+  dateCodeSuffix: MD
+  std: 8952
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9012
+  dateCodeSuffix: 3 DA
+  std: 9012
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9N4
+  dateCodeSuffix: 51
+  std: 8946
+  misc: 

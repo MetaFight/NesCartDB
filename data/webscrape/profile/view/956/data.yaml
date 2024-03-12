@@ -1,0 +1,116 @@
+metadata:
+  name: Indiana Jones and the Temple of Doom
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 05:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 615
+  additionalImages: 
+slug: indiana-jones-and-the-temple-of-doom
+releaseInfo:
+  catalogId: TGN-006-TD
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1988
+  publisher: Tengen
+  developer: Tengen
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1ebec8d78c31d9b0210f2e67b24bc83c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335006-1011 TDPRG
+  size: 128 KB
+  crc32: 651700A5
+  x: 1
+- type: CHR0
+  label: 335006-1012 TDCHR
+  size: 64 KB
+  crc32: 9F28C02F
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 139EB5B5
+  x: 1
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d9b1daf6f53d548ef4ccaa20f204da70.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/74ebe1143eaacaee0fbda671f72d89be.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 8939
+  estFirstRun: September 1989
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8932
+  dateCodeSuffix: TDA
+  std: 8932
+  misc: 
+- designation: CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8939
+  dateCodeSuffix: JAD
+  std: 8939
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8939
+  dateCodeSuffix: ILLT
+  std: 8939
+  misc: 
+- designation: MIMIC 1
+  maker: Motorola
+  partNumber: 337001-002
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8939
+  dateCodeSuffix: ILAB
+  std: 8939
+  misc: 

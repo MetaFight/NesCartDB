@@ -1,0 +1,131 @@
+metadata:
+  name: Paperboy
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-11-05 17:30:00
+  moreProfiles:
+  - 230
+  - 580
+  - 798
+  - 855
+  - 1147
+  - 1312
+  - 1398
+  relatedProfiles:
+  - 1844
+  - 1958
+  - 4036
+  - 2511
+  additionalImages: 
+slug: paperboy
+releaseInfo:
+  catalogId: NES-PY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1988
+  publisher: Mindscape
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PY-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 855')"
+    filename: /images/175/8186938966a91a09b63f1c470bfd832a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7abf2937274c357a810701b6fef0ede6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-PY-0 PRG
+  size: 32 KB
+  crc32: B2C0D62C
+  x: 7
+- type: CHR0
+  label: NES-PY-0 CHR
+  size: 32 KB
+  crc32: 635B5CCA
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 32086826
+  x: 7
+pcbProperties:
+  name: NES-CNROM-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CNROM-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9326700a8846e67c7773bab0d446ad1e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CNROM-07<br>Submitted by: Kinopio<br>Linked from profile 1844')"
+    filename: /images/175/1ff348e674e093ddf58f8efc4774c29d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8916 - 9215 (4)
+  estFirstRun: April 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2088
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0DC
+  dateCodeSuffix: 11
+  std: 9014
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2089
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 0DM
+  dateCodeSuffix: 40
+  std: 9015
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9009
+  dateCodeSuffix: 7 BA
+  std: 9009
+  misc: 
+- designation: U4 HC161
+  maker: Hitachi
+  partNumber: HD74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9K3
+  dateCodeSuffix: T
+  std: 8942
+  misc: 

@@ -1,0 +1,108 @@
+metadata:
+  name: Klax
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-03 03:17:00
+  moreProfiles:
+  - 324
+  - 446
+  relatedProfiles:
+  - 3883
+  additionalImages: 
+slug: klax
+releaseInfo:
+  catalogId: TGN-019-KX
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  4-DigitCode: OVR1
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 446')"
+    filename: /images/175/0f8fc1cdb27d60f53508ead9017b02fa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335019-1011 KXPRG
+  size: 64 KB
+  crc32: 4DC910FD
+  x: 2
+- type: CHR0
+  label: 335019-1012 KXCHR
+  size: 64 KB
+  crc32: 57116591
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 93F3A490
+  x: 2
+pcbProperties:
+  name: 800032 REV B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800032 REV B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3cc3f35d9ee578fea93a0b6691e03c2a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800032 REV B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4286f29420469c124f0ed8ab39166b86.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9026 - 9044 (2)
+  estFirstRun: June 1990
+  pcbClass: TENGEN-800032
+  inesMapper: 64
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337006
+  hardware: 337006
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9042
+  dateCodeSuffix: MAH
+  std: 9042
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: MAH
+  std: 9044
+  misc: 
+- designation: RAMBO 1
+  maker: NCR
+  partNumber: 337006-001
+  partNumberSubDetail: 
+  type: Tengen RAMBO-1
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9040
+  dateCodeSuffix: F839059K
+  std: 9040
+  misc: NCR0381301

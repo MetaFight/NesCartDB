@@ -1,0 +1,117 @@
+metadata:
+  name: 'Shounen Ashibe: Nepal Daibouken no Maki'
+  altName: 少年アシベ ネパール大冒険の巻
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 02:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: shounen-ashibe-nepal-daibouken-no-maki
+releaseInfo:
+  catalogId: TFC-8A
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 15, 1991
+  publisher: Takara
+  developer: Takara
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: TFC-8A
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5f8e0ba3a42eae3f565cbb8da2c9aa09.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: TFC-8A-0 PRG
+  size: 128 KB
+  crc32: F225E3F5
+  x: 1
+- type: CHR0
+  label: TFC-8A-0 CHR
+  size: 128 KB
+  crc32: FCED4D2B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 31C7AD13
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c66d2501aaf0176d9f0a1e8f75fb339c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-03<br>Submitted by: bootgod<br>Linked from profile 3487')"
+    filename: /images/175/95c1f27308d29ae939fedb09ce09292b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9144
+  estFirstRun: November 1991
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S90
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: E9700
+  std: 9144
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R56
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9141
+  dateCodeSuffix: HD024
+  std: 9141
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9138
+  dateCodeSuffix: EP093
+  std: 9138
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY6264P-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9127
+  dateCodeSuffix: D
+  std: 9127
+  misc: 

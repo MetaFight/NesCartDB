@@ -1,0 +1,83 @@
+metadata:
+  name: Blaster Master
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 18:17:00
+  moreProfiles:
+  - 1873
+  - 2364
+  - 4229
+  - 4231
+  relatedProfiles:
+  - 1909
+  - 3923
+  - 2365
+  - 168
+  additionalImages: 
+slug: blaster-master
+releaseInfo:
+  catalogId: NES-VM-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: April 25, 1991
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VM-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 2364')"
+    filename: /images/175/c8845af988de92ad7c9fde4311989c2d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2364')"
+    filename: /images/175/033cdf6714404657d6f0f7579db9f619.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-VM-0 PRG
+  size: 128 KB
+  crc32: B40870A2
+  x: 7
+- type: CHR0
+  label: NES-VM-0 CHR
+  size: 128 KB
+  crc32: F2C24999
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8106E694
+  x: 7
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9106 - 9106 (3)
+  estFirstRun: February 1991
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo: []

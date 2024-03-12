@@ -1,0 +1,125 @@
+metadata:
+  name: Astyanax
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-16 03:04:00
+  moreProfiles:
+  - 1937
+  - 4442
+  relatedProfiles:
+  - 4030
+  - 2011
+  - 68
+  additionalImages: 
+slug: astyanax
+releaseInfo:
+  catalogId: NES-YX-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Jaleco
+  developer: Aicom
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YX-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8abf8e73dda2222ae1f186429d4130ec.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/72174e40d2e33eb937f83d2828fe7f90.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-YX-0 PRG
+  size: 128 KB
+  crc32: 7219E2A6
+  x: 3
+- type: CHR0
+  label: NES-YX-0 CHR
+  size: 128 KB
+  crc32: 545C1B47
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B68F9814
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/57dd7fbbcf1d31136f09fac651e12ec5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9136 - 9136 (2)
+  estFirstRun: September 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: 23C1010BCZ
+  partNumberSubDetail: W32
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9134
+  dateCodeSuffix: K9700
+  std: 9134
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T77
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9135
+  dateCodeSuffix: EY005
+  std: 9135
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9136
+  dateCodeSuffix: A
+  std: 9136
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9132
+  dateCodeSuffix: 5 AA
+  std: 9132
+  misc: 

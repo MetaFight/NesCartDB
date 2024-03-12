@@ -1,0 +1,121 @@
+metadata:
+  name: Kung Fu
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-22 04:11:00
+  moreProfiles:
+  - 245
+  - 1142
+  - 1334
+  - 1441
+  - 1868
+  relatedProfiles:
+  - 2455
+  - 4474
+  - 1458
+  - 1912
+  - 4548
+  - 4549
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad9b4b7fab89dd37b6b3131284acff70.jpg
+slug: kung-fu
+releaseInfo:
+  catalogId: NES-SX-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Irem
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1334')"
+    filename: /images/175/07b9fcf62416138ee961cb1af867dd35.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6eb0c98cbbc4643fa066e820db33c3d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-SX-0 PRG
+  size: 32 KB
+  crc32: 0516375E
+  x: 5
+- type: CHR0
+  label: NES-SX-0 CHR
+  size: 8 KB
+  crc32: 430B49A4
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: D5C64257
+  x: 5
+pcbProperties:
+  name: NES-NROM-256-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ca34b00e76198938e5ee2dfd9c11bc1e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8634 - 8809 (4)
+  estFirstRun: August 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 12
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8634
+  dateCodeSuffix: E
+  std: 8634
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2367
+  partNumberSubDetail: 26
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8634
+  dateCodeSuffix: E
+  std: 8634
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8632
+  dateCodeSuffix: AC
+  std: 8632
+  misc: 

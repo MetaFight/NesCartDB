@@ -1,0 +1,125 @@
+metadata:
+  name: Yoshi no Tamago
+  altName: ヨッシーのたまご
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 17:32:00
+  moreProfiles:
+  - 2232
+  - 3381
+  - 3382
+  - 3383
+  - 3384
+  relatedProfiles:
+  - 1997
+  - 2536
+  - 84
+  additionalImages: 
+slug: yoshi-no-tamago
+releaseInfo:
+  catalogId: HVC-YO
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 14, 1991
+  publisher: Nintendo
+  developer: Game Freak
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime
+  formFactor: Small
+  frontLabelId: HVC-YO
+  backLabelId/Desc: 880920 (Black Text)
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2232')"
+    filename: /images/175/cbcd1c32ca2caadf37b700926551c509.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 8C37A7D5
+  x: 5
+- type: CHR0
+  label: Not Present
+  size: 32 KB
+  crc32: 7BD7F4DF
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 1E4D3831
+  x: 5
+pcbProperties:
+  name: SF-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>SF-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6eafb4e89809cbd947be2c491294f479.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>SF-01A<br>Submitted by: bootgod<br>Linked from profile 2232')"
+    filename: /images/175/580eefe10e4a774a2982aaf87aa49d72.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9106 - 9219 (5)
+  estFirstRun: February 1991
+  pcbClass: HVC-SFROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: MYO
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: N3
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9106
+  dateCodeSuffix: 1 AA
+  std: 9106
+  misc: 

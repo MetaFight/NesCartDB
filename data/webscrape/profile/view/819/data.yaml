@@ -1,0 +1,78 @@
+metadata:
+  name: 'T&C Surf Designs: Wood and Water Rage'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-04-21 20:41:00
+  moreProfiles:
+  - 115
+  - 451
+  - 819
+  relatedProfiles: []
+  additionalImages: 
+slug: tc-surf-designs-wood-and-water-rage
+releaseInfo:
+  catalogId: NES-TN-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1988
+  publisher: LJN
+  developer: Shimada Kikaku
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TN-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 115')"
+    filename: /images/175/b05d426fa3937f4101ff6f4444a57636.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 451')"
+    filename: /images/175/5c6943bbed59c1ac966039993b5e120f.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-TN-0 PRG
+  size: 32 KB
+  crc32: 947F0728
+  x: 4
+- type: CHR0
+  label: NES-TN-0 CHR
+  size: 32 KB
+  crc32: 476B5554
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: D3BFF72E
+  x: 4
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8824 - 8829 (2)
+  estFirstRun: June 1988
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+  hardware: 74xx161
+detailedChipInfo: []

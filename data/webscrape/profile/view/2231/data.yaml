@@ -1,0 +1,110 @@
+metadata:
+  name: Tatakai no Banka
+  altName: 闘いの挽歌
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 02:53:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2488
+  - 400
+  additionalImages: 
+slug: tatakai-no-banka
+releaseInfo:
+  catalogId: CAP-TA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 24, 1986
+  publisher: Capcom
+  developer: Capcom
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Yellow
+  formFactor: Small
+  frontLabelId: CAP-TA
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7432a94a6b9e002f53b3aa1596261c76.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-TA-1 PRG
+  size: 128 KB
+  crc32: 60E563F1
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8703
+  estFirstRun: January 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 28
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8703
+  dateCodeSuffix: D
+  std: 8703
+  misc: 
+- designation: CHR RAM
+  maker: Toshiba
+  partNumber: TMM2064P-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8640
+  dateCodeSuffix: HDK
+  std: 8640
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8652
+  dateCodeSuffix: CA
+  std: 8652
+  misc: 
+- designation: LS32
+  maker: Toshiba
+  partNumber: TC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8648
+  dateCodeSuffix: H
+  std: 8648
+  misc: 

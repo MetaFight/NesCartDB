@@ -1,0 +1,116 @@
+metadata:
+  name: Seirei Densetsu Lickle
+  altName: 聖鈴伝説 リックル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:08:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1856
+  - 1930
+  - 1123
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ac43f768ff771f78f7c0e7f7d2f00ce1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d00f097731cf03c45a24dcc549fcaba.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0bf5e921024df2f095defa2d85321a1.jpg
+slug: seirei-densetsu-lickle
+releaseInfo:
+  catalogId: DTF-LK (44)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 26, 1992
+  publisher: Taito
+  developer: Takeru
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Lime
+  formFactor: Small
+  frontLabelId: DTF-LK
+  secondaryId: 44
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7593c1e78b438811df559c61829caec6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DTF-LK-0 PRG
+  size: 256 KB
+  crc32: 7866FB2C
+  x: 1
+- type: CHR0
+  label: DTF-LK-0 CHR
+  size: 128 KB
+  crc32: C40A8668
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 0D3482D7
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ae0b021c72e41b3550de7dad2835a792.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9221
+  estFirstRun: May 1992
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W61
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9220
+  dateCodeSuffix: EY006
+  std: 9220
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 23C1013BCZ
+  partNumberSubDetail: W87
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9221
+  dateCodeSuffix: KY001
+  std: 9221
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9208
+  dateCodeSuffix: 1 T
+  std: 9208
+  misc: 

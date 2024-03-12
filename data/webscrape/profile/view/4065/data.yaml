@@ -1,0 +1,106 @@
+metadata:
+  name: 'Pachi Slot Adventure 2: Sorotta Kun no Pachi Slot Tanteidan'
+  altName: パチスロアドベンチャー２ そろっ太くんのパチスロ探偵団
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:57:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: pachi-slot-adventure-2-sorotta-kun-no-pachi-slot-tanteidan
+releaseInfo:
+  catalogId: CDS-PG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 17, 1993
+  publisher: Coconuts
+  developer: Soft Machine
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange-Red
+  formFactor: Small
+  frontLabelId: CDS-PG
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32bbbd65d934ea50168532d228cea301.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CDS-PG-0 PRG
+  size: 128 KB
+  crc32: C4E5ABB8
+  x: 1
+- type: CHR0
+  label: CDS-PG-0 CHR
+  size: 128 KB
+  crc32: C8695622
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9EEFB4B4
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5293450cbdd8c86b18fce9f6bbe711be.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9334
+  estFirstRun: August 1993
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: J6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9334
+  dateCodeSuffix: E
+  std: 9334
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: AD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9334
+  dateCodeSuffix: D
+  std: 9334
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9323
+  dateCodeSuffix: 3 B
+  std: 9323
+  misc: 

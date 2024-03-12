@@ -1,0 +1,109 @@
+metadata:
+  name: Daiku no Gen-san
+  altName: 大工の源さん
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 20:38:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4486
+  - 1950
+  additionalImages: 
+slug: daiku-no-gen-san
+releaseInfo:
+  catalogId: TIX-59 (IF-24)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 15, 1991
+  publisher: Irem
+  developer: Irem
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Orange
+  formFactor: Small
+  frontLabelId: TIX-59
+  secondaryId: IF-24
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b26cb570feab1c24debbb017b26ff3f6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TIX-59-0 PRG
+  size: 128 KB
+  crc32: 9788B692
+  x: 1
+- type: CHR0
+  label: TIX-59-0 CHR
+  size: 128 KB
+  crc32: F444377E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 78211EBF
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c1b4d9c2ae6bdc3e92b5c061c1496796.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9140
+  estFirstRun: October 1991
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S87
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9139
+  dateCodeSuffix: EP008
+  std: 9139
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R53
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9140
+  dateCodeSuffix: EY203
+  std: 9140
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9108
+  dateCodeSuffix: KP256
+  std: 9108
+  misc: 

@@ -1,0 +1,71 @@
+metadata:
+  name: Dragon Warrior III
+  altName: 
+  variant: (Revision 0B)
+  submittedBy: crade
+  submittedOn: 2008-10-24 06:04:00
+  moreProfiles:
+  - 1273
+  - 2580
+  - 1381
+  - 2917
+  relatedProfiles:
+  - 1527
+  additionalImages: 
+slug: dragon-warrior-iii
+releaseInfo:
+  catalogId: NES-D3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1992
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-D3-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1273')"
+    filename: /images/175/63272693b1d93bfbea5d9c2ec18baee1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1381')"
+    filename: /images/175/2c6fc96e928e89d2d1bc815ca010c9e7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-D3-0 PRG
+  size: 512 KB
+  crc32: A86A5318
+  x: 4
+pcbProperties:
+  name: NES-SUROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9151 - 9214 (3)
+  estFirstRun: December 1991
+  pcbClass: NES-SUROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

@@ -1,0 +1,119 @@
+metadata:
+  name: Viva Las Vegas
+  altName: ビバ・ラスベガス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 21:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 121
+  additionalImages: 
+slug: viva-las-vegas
+releaseInfo:
+  catalogId: ESF-LV/59Â·6R-2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 30, 1988
+  publisher: Epic / Sony Records
+  developer: HAL Laboratory
+  players: 4
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black & White
+  formFactor: Small
+  frontLabelId: ESF-LV
+  secondaryId: 59Â·6R-2
+  backLabelId/Desc: 860410
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38914404f53b5aacfa159f5fa342a70a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ESF-LV-0 PRG
+  size: 128 KB
+  crc32: 9FBE7939
+  x: 1
+- type: CHR0
+  label: ESF-LV-0 CHR
+  size: 128 KB
+  crc32: 84C9DC56
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D6FE9826
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5d1be2bc8a0a5a29bf64acbd981481e9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-02<br>Submitted by: bootgod<br>Linked from profile 3736')"
+    filename: /images/175/c0be7a481c0554e2b6b2b3dbcfc09298.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8835
+  estFirstRun: September 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8835
+  dateCodeSuffix: KX
+  std: 8835
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8834
+  dateCodeSuffix: 3 DA
+  std: 8834
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8834
+  dateCodeSuffix: KY
+  std: 8834
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8834
+  dateCodeSuffix: 7 A
+  std: 8834
+  misc: 

@@ -1,0 +1,79 @@
+metadata:
+  name: Hydlide
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-25 05:39:00
+  moreProfiles:
+  - 758
+  - 1192
+  - 2940
+  relatedProfiles:
+  - 1643
+  additionalImages: 
+slug: hydlide
+releaseInfo:
+  catalogId: NES-HS-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: FCI
+  developer: T & E Soft
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HS-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 758')"
+    filename: /images/175/fe8e3b56707dc51d1f19bf57fec569a9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 758')"
+    filename: /images/175/c233ee0ef0ff6209b8692ce457c3f0b6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-HS-0 PRG
+  size: 32 KB
+  crc32: 47F77A4C
+  x: 3
+- type: CHR0
+  label: NES-HS-0 CHR
+  size: 8 KB
+  crc32: C1F950C6
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 77BF8B23
+  x: 3
+pcbProperties:
+  name: NES-NROM-256-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8929 - 8932 (2)
+  estFirstRun: July 1989
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo: []

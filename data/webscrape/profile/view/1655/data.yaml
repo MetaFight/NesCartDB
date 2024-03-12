@@ -1,0 +1,99 @@
+metadata:
+  name: 'Densetsu no Kishi: Elrond'
+  altName: 伝説の騎士エルロンド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 05:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1822
+  - 27
+  additionalImages: 
+slug: densetsu-no-kishi-elrond
+releaseInfo:
+  catalogId: NMK-ER
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1988
+  publisher: Jaleco
+  developer: Rare
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NMK-ER
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6436ed64e28682a74c4032009ef47284.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NMK-ER-0 PRG
+  size: 128 KB
+  crc32: A72FDE03
+  x: 1
+pcbProperties:
+  name: HVC-AMROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8826
+  estFirstRun: June 1988
+  pcbClass: HVC-AMROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 3L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8826
+  dateCodeSuffix: E
+  std: 8826
+  misc: 
+- designation: U2 CHR-RAM
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8818
+  dateCodeSuffix: 5 A
+  std: 8818
+  misc: 
+- designation: U3 HC161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8824
+  dateCodeSuffix: CA
+  std: 8824
+  misc: 

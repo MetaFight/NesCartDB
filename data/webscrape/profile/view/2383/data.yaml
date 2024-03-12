@@ -1,0 +1,114 @@
+metadata:
+  name: Duck Hunt
+  altName: 
+  variant: 
+  submittedBy: _zane
+  submittedOn: 2007-12-31 01:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2470
+  - 1642
+  - 2060
+  - 334
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-DH-CAN<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/dbd62d5a6aafe46abb32046fa3dcf67a.jpg
+slug: duck-hunt
+releaseInfo:
+  catalogId: NES-DH-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: July 4, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Zapper Light Gun
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: CAN
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: CAN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/80685821ed9917c4ea7bc843ff4561e2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/7be2b82bfa6752bef2bd641b207fe5ea.jpg
+romDetails:
+- type: PRG0
+  label: HVC-DH-0 PRG
+  size: 16 KB
+  crc32: 90CA616D
+  x: 6
+- type: CHR0
+  label: HVC-DH-0 CHR
+  size: 8 KB
+  crc32: 4E049E03
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 24598791
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: _zane<br>Linked from profile 0')"
+    filename: /images/175/9cdc5cb31c67cdf9398607cf6a1c5a07.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8736
+  estFirstRun: September 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 31
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8727
+  dateCodeSuffix: E
+  std: 8727
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 20
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: E
+  std: 8736
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8733
+  dateCodeSuffix: A
+  std: 8733
+  misc: 

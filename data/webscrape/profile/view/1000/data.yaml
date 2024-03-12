@@ -1,0 +1,68 @@
+metadata:
+  name: Casino Kid
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-08-14 03:05:00
+  moreProfiles:
+  - 187
+  - 1000
+  - 2804
+  relatedProfiles: []
+  additionalImages: 
+slug: casino-kid
+releaseInfo:
+  catalogId: NES-KP-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1989
+  publisher: Sofel
+  developer: Sofel
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KP-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 187')"
+    filename: /images/175/bea0af4c0cb9ad6ec2109ce72abbdbe6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 187')"
+    filename: /images/175/cb4e1d098bd5241a35027a8d9ae07f1e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-KP-0 PRG
+  size: 128 KB
+  crc32: 05A688C8
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8934 - 8936 (2)
+  estFirstRun: August 1989
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

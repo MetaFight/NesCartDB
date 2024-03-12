@@ -1,0 +1,103 @@
+metadata:
+  name: Donkey Kong Jr.
+  altName: ドンキーコングＪｒ
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 06:39:00
+  moreProfiles:
+  - 1391
+  - 1640
+  - 2334
+  - 3424
+  - 3723
+  - 4002
+  - 4749
+  relatedProfiles:
+  - 1840
+  - 912
+  additionalImages: 
+slug: donkey-kong-jr
+releaseInfo:
+  catalogId: HVC-JR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 15, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: HVC-JR
+  backLabelId/Desc: 831018
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1391')"
+    filename: /images/175/5b017a8a0772d481e5310e9f39689d75.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-JR-1 PRG
+  size: 16 KB
+  crc32: CF6C88B6
+  x: 10
+- type: CHR0
+  label: HVC-JR-0 CHR
+  size: 8 KB
+  crc32: 852778AB
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 4864C304
+  x: 10
+pcbProperties:
+  name: HVC-RROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/90a3af9af645a31f5542468092bb195c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 3446')"
+    filename: /images/175/f924c55de70e8be8d53b7bafd544da7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8405 - 8435 (4)
+  estFirstRun: February 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1139
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 424
+  dateCodeSuffix: VA 3301
+  std: 8424
+  misc: RP23128 0042
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D68
+  partNumberSubDetail: 0030
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4E4
+  dateCodeSuffix: 21
+  std: 8422
+  misc: 

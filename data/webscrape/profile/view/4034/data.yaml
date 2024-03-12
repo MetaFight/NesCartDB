@@ -1,0 +1,126 @@
+metadata:
+  name: 'Esper Dream 2: Aratanaru Tatakai'
+  altName: エスパードリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-01-24 21:47:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: esper-dream-2-aratanaru-tatakai
+releaseInfo:
+  catalogId: KON-RC861
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 26, 1992
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Large
+  frontLabelId: RC861
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2f49b1d6078ea28e8ec5ebb7d893953.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 3134')"
+    filename: /images/175/fd5c54cf4fffb55ec98835e28606be1c.jpg
+romDetails:
+- type: PRG0
+  label: RC861J00P
+  size: 256 KB
+  crc32: 30E64D03
+  x: 1
+- type: CHR0
+  label: RC861J00C
+  size: 128 KB
+  crc32: F9C6BDF7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 209B4BED
+  x: 1
+pcbProperties:
+  name: 351949A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351949A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c059e53684cd55be20277c2651515fb7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351949A<br>Submitted by: bootgod<br>Linked from profile 1784')"
+    filename: /images/175/c9ae8339773ea0a5b8dd49cf9df2977e.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9221
+  estFirstRun: May 1992
+  pcbClass: KONAMI-VRC-6
+  inesMapper: 26
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MM1026, VRC6
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9221
+  dateCodeSuffix: T02
+  std: 9221
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9221
+  dateCodeSuffix: KY707
+  std: 9221
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8464A-10LL-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9151
+  dateCodeSuffix: KT65
+  std: 9151
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 053328 VRC VI
+  partNumberSubDetail: 
+  type: Konami VRC VI
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9010
+  dateCodeSuffix: E22
+  std: 9010
+  misc: 
+- designation: 
+  maker: Mitsumi
+  partNumber: 1026B
+  partNumberSubDetail: 
+  type: MM1026
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 24
+  dateCodeSuffix: 7
+  std: 9214
+  misc: 

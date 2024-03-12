@@ -1,0 +1,129 @@
+metadata:
+  name: 'The Simpsons:  Bart vs. The World'
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-03-16 06:59:00
+  moreProfiles:
+  - 1854
+  - 2617
+  relatedProfiles:
+  - 2899
+  - 1987
+  - 651
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-Y9-SCN<br>Submitted by: Kinopio<br>Linked from profile 1854')"
+    filename: /images/175/2d03a694708d698ab122a6e448ab64a6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-Y9-SCN<br>Submitted by: Kinopio<br>Linked from profile 1854')"
+    filename: /images/175/a94f199f12bf47b182bcc78fce6bcb21.jpg
+slug: the-simpsons-bart-vs-the-world
+releaseInfo:
+  catalogId: NES-Y9-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: October 22, 1992
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-Y9-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1854')"
+    filename: /images/175/5afaa2122c927f9bb1d129c64bf81927.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1854')"
+    filename: /images/175/7fcabe9b9d0d5814f125112e1b93a934.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-Y9-0 PRG
+  size: 256 KB
+  crc32: A8AEE66C
+  x: 4
+- type: CHR0
+  label: PAL-Y9-0 CHR
+  size: 128 KB
+  crc32: 0F891CEA
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: E9F8EF15
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8e387f650d0f771d3cdd54c1f730c0d9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9229 - 9229 (2)
+  estFirstRun: July 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 73
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9229
+  dateCodeSuffix: D
+  std: 9229
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 1S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9229
+  dateCodeSuffix: D
+  std: 9229
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9209
+  dateCodeSuffix: 5 T
+  std: 9209
+  misc: 

@@ -1,0 +1,126 @@
+metadata:
+  name: 'T2: Terminator 2: Judgment Day'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-04 02:36:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4391
+  - 2479
+  - 2026
+  - 4565
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/57c1c8ec191430db126d5df3184d654f.jpg
+slug: t2-terminator-2-judgment-day
+releaseInfo:
+  catalogId: NES-62-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 1992
+  publisher: LJN
+  developer: Software Creations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-62-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: TTRY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1919a7cec4bf11c843af60457955b17.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8c7224f2ee7286c00e126d1983dd3cd.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-62-1 PRG
+  size: 128 KB
+  crc32: 4B647C55
+  x: 1
+- type: CHR0
+  label: NES-62-1 CHR
+  size: 128 KB
+  crc32: C14D44CA
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: EA27B477
+  x: 1
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b7c3ea16126929f862aa9503e4eb96bc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 661')"
+    filename: /images/175/8327ac9b64b61c483a5dbc99f043c41a.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9222
+  estFirstRun: June 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9222
+  dateCodeSuffix: JJN
+  std: 9222
+  misc: 
+- designation: U2 CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9215
+  dateCodeSuffix: KRD
+  std: 9215
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 201
+  dateCodeSuffix: C
+  std: 9201
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9207
+  dateCodeSuffix: KVB87
+  std: 9207
+  misc: 

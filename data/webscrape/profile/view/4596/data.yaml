@@ -1,0 +1,117 @@
+metadata:
+  name: 'Aoki Ookami to Shiroki Mejika: Genchou Hishi'
+  altName: 蒼き狼と白き牝鹿元朝秘史
+  variant: 
+  submittedBy: jpx72
+  submittedOn: 2012-03-06 04:27:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: aoki-ookami-to-shiroki-mejika-genchou-hishi
+releaseInfo:
+  catalogId: KOE-GG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 25, 1993
+  publisher: Koei
+  developer: Koei
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: KOE-GG
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/5602f0c2c8f48e74a2e552c29d315b08.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: KOE-GG-0 PRG
+  size: 512 KB
+  crc32: F4120E58
+  x: 0
+- type: CHR0
+  label: KOE-GG-0 CHR
+  size: 256 KB
+  crc32: 28E1A2C7
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: 6F4E4312
+  x: 0
+pcbProperties:
+  name: HVC-EWROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-EWROM-03<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/845698877a1dd3284373c8873b29f543.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-EWROM-03<br>Submitted by: jpx72<br>Linked from profile 0')"
+    filename: /images/175/96bf298fb073150630028fe192afd5a1.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9309
+  estFirstRun: March 1993
+  pcbClass: HVC-EWROM
+  inesMapper: 5
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 32 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC5A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C4013ACZ
+  partNumberSubDetail: W54
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9309
+  dateCodeSuffix: XY002
+  std: 9309
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W91
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9309
+  dateCodeSuffix: XD004
+  std: 9309
+  misc: 
+- designation: U3 MMC5
+  maker: NEC
+  partNumber: MMC5A
+  partNumberSubDetail: 
+  type: Nintendo MMC5
+  typeSubDetail: 
+  package: PQFP-100
+  dateCodePrefix: 9141
+  dateCodeSuffix: BA014
+  std: 9141
+  misc: 
+- designation: U4 W-RAM-0
+  maker: Hyundai
+  partNumber: HY62256ALLP-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9301
+  dateCodeSuffix: B
+  std: 9301
+  misc: 

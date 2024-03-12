@@ -1,0 +1,70 @@
+metadata:
+  name: Total Recall
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 03:05:00
+  moreProfiles:
+  - 573
+  - 604
+  - 1443
+  relatedProfiles:
+  - 2593
+  - 1299
+  additionalImages: 
+slug: total-recall
+releaseInfo:
+  catalogId: NES-L4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1990
+  publisher: Acclaim
+  developer: Interplay
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-L4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 604')"
+    filename: /images/175/04ff6f48ea2d87c15f731d2bafa3623f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1443')"
+    filename: /images/175/5b293309558b8005b825888847ff7ace.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-L4-0 PRG
+  size: 128 KB
+  crc32: 248566A7
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9027 - 9028 (2)
+  estFirstRun: July 1990
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

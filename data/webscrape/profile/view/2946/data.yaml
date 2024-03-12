@@ -1,0 +1,81 @@
+metadata:
+  name: 'Iron Tank: The Invasion of Normandy'
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-29 20:23:00
+  moreProfiles:
+  - 706
+  - 1313
+  - 2946
+  relatedProfiles:
+  - 4420
+  - 4508
+  additionalImages: 
+slug: iron-tank-the-invasion-of-normandy
+releaseInfo:
+  catalogId: NES-IT-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1988
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IT-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 706')"
+    filename: /images/175/5a822965d2a3b79394248e83e784893d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 706')"
+    filename: /images/175/636608730027536ac8fac6561a30e8ce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-IT-0 PRG
+  size: 128 KB
+  crc32: 77540BB5
+  x: 3
+- type: CHR0
+  label: NES-IT-0 CHR
+  size: 128 KB
+  crc32: C61175CC
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: B14EA4D2
+  x: 3
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8833
+  estFirstRun: August 1988
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo: []

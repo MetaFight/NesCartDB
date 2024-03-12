@@ -1,0 +1,83 @@
+metadata:
+  name: 'Star Wars: The Empire Strikes Back'
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 11:54:00
+  moreProfiles:
+  - 1023
+  - 2761
+  - 1955
+  relatedProfiles:
+  - 2155
+  - 4336
+  - 4742
+  additionalImages: 
+slug: star-wars-the-empire-strikes-back
+releaseInfo:
+  catalogId: NES-EK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1992
+  publisher: JVC
+  developer: LucasFilm Games
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EK-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1023')"
+    filename: /images/175/8a10eb2cd68b0bd509a7a2e31cdae033.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1023')"
+    filename: /images/175/d0538b4a869fbbe47412b12f4866b872.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-EK-0 PRG
+  size: 256 KB
+  crc32: 65FB428A
+  x: 3
+- type: CHR0
+  label: NES-EK-0 CHR
+  size: 256 KB
+  crc32: 32300C40
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 240DE736
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9205 - 9206 (2)
+  estFirstRun: February 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

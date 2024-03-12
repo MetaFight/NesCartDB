@@ -1,0 +1,78 @@
+metadata:
+  name: 'Home Alone 2: Lost in New York'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 21:47:00
+  moreProfiles:
+  - 578
+  - 618
+  relatedProfiles:
+  - 4493
+  additionalImages: 
+slug: home-alone-2-lost-in-new-york
+releaseInfo:
+  catalogId: NES-HM-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1992
+  publisher: THQ
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HM-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 618')"
+    filename: /images/175/7af124f3ea094c10dab5d82ab9c0923a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 618')"
+    filename: /images/175/e9fbccb03087176ac1aaa9229f32b4d5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: NES-HM-0 PRG
+  size: 128 KB
+  crc32: 9668488E
+  x: 2
+- type: CHR0
+  label: NES-HM-0 CHR
+  size: 128 KB
+  crc32: 91AD1577
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2E0741B6
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9242
+  estFirstRun: October 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

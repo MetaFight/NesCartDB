@@ -1,0 +1,131 @@
+metadata:
+  name: Tiles of Fate
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-15 04:12:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8ebdd6706747a19df3d0bbbe2440ee1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3aa328c0b201e27f48bb5cac5be71164.jpg
+slug: tiles-of-fate
+releaseInfo:
+  catalogId: AVE-TF
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: AVE
+  developer: C & E
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bce5b27ca824a12a2fcfd65b2161fc8b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1bd65fbebce130fdc11da8d7aa68240f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/818454343a4135a12b4bad8f20ea4f94.jpg
+romDetails:
+- type: PRG0
+  label: 652A-PGM
+  size: 32 KB
+  crc32: 6679648A
+  x: 1
+- type: CHR0
+  label: 0D97-CHR
+  size: 32 KB
+  crc32: DE7F6C61
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: 3E1271D5
+  x: 1
+pcbProperties:
+  name: NINA-03 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aaf2ec3742bc86d40aae9eefda3c42d8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-03 REV. A<br>Submitted by: bootgod<br>Linked from profile 1375')"
+    filename: /images/175/ba39c04386d4d07c727a8aab1d5c872c.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 9044
+  estFirstRun: November 1990
+  pcbClass: AVE-NINA-03
+  inesMapper: 79
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: MX8018
+  hardware: 74xx138, 74xx175
+detailedChipInfo:
+- designation: U1
+  maker: AMI
+  partNumber: MX23256
+  partNumberSubDetail: 1018
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: MAA
+  std: 9044
+  misc: 
+- designation: U2
+  maker: AMI
+  partNumber: MX23256
+  partNumberSubDetail: 1017
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: MAA
+  std: 9044
+  misc: 
+- designation: U3
+  maker: Matsushita
+  partNumber: 74LS138
+  partNumberSubDetail: 
+  type: 74-138 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .084
+  dateCodeSuffix: N_
+  std: 9033
+  misc: 
+- designation: U4
+  maker: Matsushita
+  partNumber: 74LS175
+  partNumberSubDetail: 
+  type: 74-175 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: .923
+  dateCodeSuffix: ''
+  std: 8907
+  misc: 
+- designation: U5
+  maker: Macronix
+  partNumber: MX8018-0002-A
+  partNumberSubDetail: 
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9038
+  dateCodeSuffix: ''
+  std: 9038
+  misc: 

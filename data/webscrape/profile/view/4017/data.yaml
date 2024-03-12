@@ -1,0 +1,102 @@
+metadata:
+  name: Donkey Kong Jr. / Jr. Sansuu Lesson
+  altName: ドンキーコングＪＲ ／ ＪＲの算数レッスン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 00:51:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: donkey-kong-jr-jr-sansuu-lesson
+releaseInfo:
+  catalogId: HVC-SL
+  region: Japan (NTSC)
+  class: Licensed  » Multi-cart
+  releaseDate: 1983
+  publisher: Sharp
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  backLabelId/Desc: 830901
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/784612c9739ed42572164d052f2d4d78.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 27E4D335
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 884379D1
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 50A1B3FE
+  x: 1
+pcbProperties:
+  name: 9011-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/755c189c0eb839f851b7e94a77bacc3f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-01<br>Submitted by: bootgod<br>Linked from profile 3390')"
+    filename: /images/175/6283e33265f348ce07d4808f77cb92e5.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: CSL
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 054490
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

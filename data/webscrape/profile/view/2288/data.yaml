@@ -1,0 +1,119 @@
+metadata:
+  name: 'Saiyuuki World 2: Tenjoukai no Majin'
+  altName: 西遊記ワールド2　天上界の魔神
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-29 06:15:00
+  moreProfiles:
+  - 2288
+  - 3035
+  relatedProfiles:
+  - 937
+  additionalImages: 
+slug: saiyuuki-world-2-tenjoukai-no-majin
+releaseInfo:
+  catalogId: JF-31
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 7, 1990
+  publisher: Jaleco
+  developer: Jaleco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-31
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/27ab138391e2e15673bc69a456522dcf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ad2752280ac1a3bb46e887d02e6c915.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: B092FA3E
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 25BB8F71
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 75B3EB37
+  x: 2
+pcbProperties:
+  name: JF-24A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/39a597829131a7335b3dc27d96f85695.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/efad5326850045481d8ccde9ecfa1fa5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9043 - 9044 (2)
+  estFirstRun: October 1990
+  pcbClass: JALECO-JF-24
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S42
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: XX003
+  std: 9043
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S43
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: EX701
+  std: 9043
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 042
+  dateCodeSuffix: 170
+  std: 9042
+  misc: 
+- designation: IC5
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9038
+  dateCodeSuffix: J7
+  std: 9038
+  misc: 

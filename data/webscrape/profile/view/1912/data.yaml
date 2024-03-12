@@ -1,0 +1,118 @@
+metadata:
+  name: Kung Fu
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-03 22:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2455
+  - 4474
+  - 1458
+  - 4548
+  - 4549
+  - 245
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-SX-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/684cb5a235a2868b30a5e42e4471d794.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-SX-ESP<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/616a4d501ed0d1e19b7f7b6107b7cd59.jpg
+slug: kung-fu
+releaseInfo:
+  catalogId: NES-SX-ESP
+  region: Spain (PAL-B)
+  class: Licensed
+  releaseDate: November 15, 1991
+  publisher: Nintendo
+  developer: Irem
+  players: 2
+  peripherals: NES Controller
+  country: Spain
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-SX-ESP
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/70e8715d3b0d85e836230e0be78cae0e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-SX-0 PRG
+  size: 32 KB
+  crc32: 9C715918
+  x: 5
+- type: CHR0
+  label: NES-SX-0 CHR
+  size: 8 KB
+  crc32: 430B49A4
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 464A67AB
+  x: 5
+pcbProperties:
+  name: NES-NROM-256-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/182b5c50e39575ed17afc2dbbb6da62d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-06<br>Submitted by: Kinopio<br>Linked from profile 2085')"
+    filename: /images/175/0d3a9b1ae281e5f609ede1702de6034b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146
+  estFirstRun: November 1991
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2355
+  partNumberSubDetail: 16
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: B
+  std: 9146
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 05
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9144
+  dateCodeSuffix: B
+  std: 9144
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9138
+  dateCodeSuffix: A
+  std: 9138
+  misc: 

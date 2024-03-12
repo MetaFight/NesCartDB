@@ -1,0 +1,121 @@
+metadata:
+  name: The Goonies
+  altName: グーニーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 03:43:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1563
+  - 1777
+  - 2268
+  - 3065
+  - 3066
+  - 3312
+  additionalImages: 
+slug: the-goonies
+releaseInfo:
+  catalogId: KON-RC809
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 21, 1986
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC809
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1563')"
+    filename: /images/175/6114dd610fa5ba40620aecdbf646d08c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1563')"
+    filename: /images/175/96705447581d5515fec436d6295f6128.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: 809J0P
+  size: 32 KB
+  crc32: EFEB0C34
+  x: 6
+- type: CHR0
+  label: 809J0C
+  size: 16 KB
+  crc32: 0F9C7F49
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: E6DF6616
+  x: 6
+pcbProperties:
+  name: 302021B
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>302021B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f5c6d1d47c29586fc3358370e133598d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>302021B<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbe59f11ac2a7c53d618a5618a53345d.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8544 - 8606 (6)
+  estFirstRun: November 1985
+  pcbClass: KONAMI-74*139/74
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: IC1
+  maker: Hitachi
+  partNumber: HN613256P
+  partNumberSubDetail: DA6
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6A3
+  dateCodeSuffix: ''
+  std: 8604
+  misc: 
+- designation: IC2
+  maker: Hitachi
+  partNumber: HN613128P
+  partNumberSubDetail: N23
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6B1
+  dateCodeSuffix: ''
+  std: 8606
+  misc: 
+- designation: IC3
+  maker: Toshiba
+  partNumber: TC74HC139P
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8604
+  dateCodeSuffix: H
+  std: 8604
+  misc: 
+- designation: IC4
+  maker: Toshiba
+  partNumber: TC74HC74P
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8604
+  dateCodeSuffix: H
+  std: 8604
+  misc: 

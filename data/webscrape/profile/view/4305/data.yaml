@@ -1,0 +1,123 @@
+metadata:
+  name: Battle Storm
+  altName: バトルストー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2011-01-23 04:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a89213dcac6731430097ba19c2c19562.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/877d5639ef9ee6ffb7e578ff4d0d12c4.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3880fe00561163b66c2d68104da52a5.jpg
+slug: battle-storm
+releaseInfo:
+  catalogId: YZW-9Y
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1991
+  publisher: Party Room 21
+  developer: Bullet-Proof Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: YZW-9Y
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/19765272e1480aa80e48c8d46cda6357.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: YZW-9Y-0 PRG
+  size: 128 KB
+  crc32: 88739ADF
+  x: 1
+- type: CHR0
+  label: YZW-9Y-0 CHR
+  size: 128 KB
+  crc32: F957A5E7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8E373118
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d9a86654dcedcbe67f51f00b8e3adcd6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 3459')"
+    filename: /images/175/7626a4d83d7a9f45742ab1e7a2b46085.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9146
+  estFirstRun: November 1991
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6661
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1LC
+  dateCodeSuffix: K0 N
+  std: 9145
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0141
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 1LC
+  dateCodeSuffix: 12
+  std: 9145
+  misc: 
+- designation: U3 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9146
+  dateCodeSuffix: B3044
+  std: 9146
+  misc: 
+- designation: U4 W-RAM
+  maker: Sharp
+  partNumber: LH5168FB-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9146
+  dateCodeSuffix: DC
+  std: 9146
+  misc: 

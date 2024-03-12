@@ -1,0 +1,124 @@
+metadata:
+  name: Shingen The Ruler
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-12-17 03:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1481
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-23-USA *<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/26ef9f5f8108fcb6d04f22af2d4332ca.jpg
+slug: shingen-the-ruler
+releaseInfo:
+  catalogId: NES-23-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1990
+  publisher: HOT?B
+  developer: HOT?B
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-23-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b1b2de32cfeb234fb48e863f85e90486.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f457d46201a002d98c90fe2aeb6fd810.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-23-0 PRG
+  size: 256 KB
+  crc32: BE3BF3B3
+  x: 1
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9023
+  estFirstRun: June 1990
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN232001
+  partNumberSubDetail: NKE
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 0
+  dateCodeSuffix: 50
+  std: 9023
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9009
+  dateCodeSuffix: 1 DB
+  std: 9009
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9021
+  dateCodeSuffix: 5 BA
+  std: 9021
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8949
+  dateCodeSuffix: B3003
+  std: 8949
+  misc: 
+- designation: U5 W-RAM
+  maker: Sharp
+  partNumber: LH5164D-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9012
+  dateCodeSuffix: 7 DB
+  std: 9012
+  misc: 

@@ -1,0 +1,114 @@
+metadata:
+  name: Mario Bros.
+  altName: 
+  variant: (Revision A)
+  submittedBy: piteta
+  submittedOn: 2007-08-04 19:08:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2375
+  - 2358
+  - 2137
+  - 1491
+  - 1099
+  additionalImages: 
+slug: mario-bros
+releaseInfo:
+  catalogId: NES-MA-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: August 22, 1991
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-MA-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/418d9dd707fcf893ec97803c32b7b0e1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MA-0 PRG
+  size: 16 KB
+  crc32: 2AEC46C2
+  x: 3
+- type: CHR0
+  label: HVC-MA-0 CHR
+  size: 8 KB
+  crc32: 10F77435
+  x: 12
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 2BF0F9C5
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-06<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/9c295377d98bf1a6a7dd264a6863ecd6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-06<br>Submitted by: Kinopio<br>Linked from profile 2149')"
+    filename: /images/175/abdf62981f5a19219bb98380dc69c625.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9136
+  estFirstRun: September 1991
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 36
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9134
+  dateCodeSuffix: B
+  std: 9134
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 6D
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: B
+  std: 9136
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9132
+  dateCodeSuffix: C
+  std: 9132
+  misc: 

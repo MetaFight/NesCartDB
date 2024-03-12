@@ -1,0 +1,113 @@
+metadata:
+  name: Raid on Bungeling Bay
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-11-30 06:57:00
+  moreProfiles:
+  - 159
+  - 314
+  - 2577
+  relatedProfiles:
+  - 1510
+  additionalImages: 
+slug: raid-on-bungeling-bay
+releaseInfo:
+  catalogId: NES-BU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Br?derbund
+  developer: Will Wright
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BU-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a43e76b6679ffc08e1a8396729cefe7.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d0adb5cab5417c8ab148abcf4d71f02f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-BU-0 PRG
+  size: 16 KB
+  crc32: BB673749
+  x: 3
+- type: CHR0
+  label: NES-BU-0 CHR
+  size: 8 KB
+  crc32: F2AB5CD9
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D308D52C
+  x: 3
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e0756cec7ca19b85cca993cf1d85304f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8731 - 8748 (3)
+  estFirstRun: August 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP2D129
+  partNumberSubDetail: 0566
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 7G3
+  dateCodeSuffix: 14
+  std: 8730
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2019
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 7G4
+  dateCodeSuffix: 16
+  std: 8731
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8726
+  dateCodeSuffix: C
+  std: 8726
+  misc: 

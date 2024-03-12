@@ -1,0 +1,114 @@
+metadata:
+  name: 'Double Dragon II: The Revenge'
+  altName: 双載龍II
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 05:33:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2909
+  - 2420
+  - 1413
+  - 2901
+  - 4347
+  - 1874
+  - 4676
+  - 126
+  additionalImages: 
+slug: double-dragon-ii-the-revenge
+releaseInfo:
+  catalogId: TJC-W2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 22, 1989
+  publisher: Technos
+  developer: Technos
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TJC-W2
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/87c9e306e0e3668c73b8a6c523701646.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/4edba43fbec9a014c5261985a430168d.jpg
+romDetails:
+- type: PRG0
+  label: TJC-W2-0 PRG
+  size: 128 KB
+  crc32: FC6201E7
+  x: 0
+- type: CHR0
+  label: TJC-W2-0 CHR
+  size: 128 KB
+  crc32: 8F84FE6D
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A66596D9
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/c223992f2aa3d5c7fa2d38889e43c441.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/9f715e39318faa62aca21c0fcc0f8650.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8943
+  estFirstRun: October 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5350
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9J2
+  dateCodeSuffix: 72
+  std: 8937
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T57
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8943
+  dateCodeSuffix: EY707
+  std: 8943
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8922
+  dateCodeSuffix: KP
+  std: 8922
+  misc: 

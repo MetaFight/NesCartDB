@@ -1,0 +1,79 @@
+metadata:
+  name: Gauntlet
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2007-02-11 23:29:00
+  moreProfiles:
+  - 473
+  - 1316
+  - 2890
+  relatedProfiles:
+  - 1084
+  additionalImages: 
+slug: gauntlet
+releaseInfo:
+  catalogId: NES-GL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: 1988
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GL-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 473')"
+    filename: /images/175/366a9baeee9ede25cc06fd78ea0a36dc.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 473')"
+    filename: /images/175/f6c55c60c185de90e81a3f9b26c149fc.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-GL-0 PRG
+  size: 128 KB
+  crc32: 834D1924
+  x: 3
+- type: CHR0
+  label: NES-GL-0 CHR
+  size: 64 KB
+  crc32: 26D819A2
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: EC968C51
+  x: 3
+pcbProperties:
+  name: NES-DRROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8826 - 8839 (2)
+  estFirstRun: June 1988
+  pcbClass: NES-DRROM
+  inesMapper: 206
+  mirroring: Four Screen
+  batteryPresent: No
+  wram: 0 KB
+  vram: 2 KB
+  cicType: 6113
+  hardware: 109, 74xx00
+detailedChipInfo: []

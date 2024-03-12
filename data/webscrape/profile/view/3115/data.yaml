@@ -1,0 +1,110 @@
+metadata:
+  name: 'Dragon Ball: Shen Long no Nazo'
+  altName: ドラゴンボール 神龍の謎
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-15 22:05:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1744
+  - 1745
+  - 2246
+  - 3115
+  - 3116
+  - 3288
+  additionalImages: 
+slug: dragon-ball-shen-long-no-nazo
+releaseInfo:
+  catalogId: BA-DRA
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 27, 1986
+  publisher: Bandai
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Blue-Grey
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1744')"
+    filename: /images/175/ab3de4fae31368fa63c8aa8297c24132.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1744')"
+    filename: /images/175/df206e488f0a306d6a8404412965bac7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1744')"
+    filename: /images/175/ae7dbd2fbd8c925214c058276dc4fa16.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 86 DRAP
+  size: 128 KB
+  crc32: BDAD07E0
+  x: 6
+- type: CHR0
+  label: BANDAI 86 DRAC
+  size: 32 KB
+  crc32: 57D43926
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 9552E8DF
+  x: 6
+pcbProperties:
+  name: BA-龍
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BA-龍<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c5e2eaabe8ff67e389bb7ce4615c222.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BA-龍<br>Submitted by: bootgod<br>Linked from profile 2246')"
+    filename: /images/175/4436de9e1cb31f64e7b3eff1d3d4d18e.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8647 - 8648 (6)
+  estFirstRun: November 1986
+  pcbClass: BANDAI-GNROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5M231001
+  partNumberSubDetail: 217P
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 647
+  dateCodeSuffix: 149
+  std: 8647
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5M27256
+  partNumberSubDetail: 183P
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 637
+  dateCodeSuffix: 10L
+  std: 8637
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M74LS161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 628
+  dateCodeSuffix: 4D0
+  std: 8628
+  misc: 

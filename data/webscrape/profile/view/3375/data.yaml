@@ -1,0 +1,119 @@
+metadata:
+  name: Golf
+  altName: ゴルフ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-18 08:17:00
+  moreProfiles:
+  - 1472
+  - 1647
+  - 2215
+  - 3375
+  - 3475
+  - 3476
+  - 3477
+  - 3478
+  - 3673
+  relatedProfiles:
+  - 2385
+  - 2125
+  - 4429
+  - 2090
+  - 100
+  additionalImages: 
+slug: golf
+releaseInfo:
+  catalogId: HVC-GF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 1, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: HVC-GF
+  backLabelId/Desc: 851224
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2215')"
+    filename: /images/175/93362d1e9fc242efd373bee80b6c4620.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 9C7E6421
+  x: 9
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 7DFA75A8
+  x: 14
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 5C9063E0
+  x: 9
+pcbProperties:
+  name: 9011-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b3dc7f152530216fe048ebe2752ceafc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-06<br>Submitted by: bootgod<br>Linked from profile 1495')"
+    filename: /images/175/fb0f27f98153da273c21f54120d1c639.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8419 - 8618 (7)
+  estFirstRun: May 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: GGF
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 11080 08387
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

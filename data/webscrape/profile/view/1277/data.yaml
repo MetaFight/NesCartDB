@@ -1,0 +1,144 @@
+metadata:
+  name: The Legend of Zelda
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-01-15 23:57:00
+  moreProfiles:
+  - 173
+  - 468
+  - 490
+  - 654
+  - 772
+  - 856
+  - 872
+  - 1013
+  - 1277
+  - 1332
+  relatedProfiles:
+  - 1434
+  - 2126
+  - 4270
+  - 1420
+  - 3948
+  - 1921
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-ZL USA *<br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/3da61f2059c980c3cb298ee5ce54cb59.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-ZL USA *<br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/7babc1acbd7a09e9a9d9cc1070e039b0.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-ZL-USA-1<br>Submitted by: bootgod<br>Linked from profile 173')"
+    filename: /images/175/d155c67a38a3760d026791a57e4e0ea8.jpg
+slug: the-legend-of-zelda
+releaseInfo:
+  catalogId: NES-ZL-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZL-USA-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN (Battery)
+  2-DigitCode: 27
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ab63ef870ec281a637d5571d94952b14.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a4e3393a604a8ffd78a0957aaaffb8c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-ZL-1 PRG
+  size: 128 KB
+  crc32: EAF7ED72
+  x: 6
+pcbProperties:
+  name: NES-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8723 - 9229 (7)
+  estFirstRun: June 1987
+  pcbClass: NES-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: C9
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9229
+  dateCodeSuffix: E
+  std: 9229
+  misc: 
+- designation: U2 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9221
+  dateCodeSuffix: KR53
+  std: 9221
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 224
+  dateCodeSuffix: C
+  std: 9224
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9229
+  dateCodeSuffix: 3 A 170
+  std: 9229
+  misc: 
+- designation: U5 W-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9218
+  dateCodeSuffix: KT69
+  std: 9218
+  misc: 

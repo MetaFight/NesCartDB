@@ -1,0 +1,107 @@
+metadata:
+  name: 'SD Keiji: Blader'
+  altName: ＳＤ刑事ブレイダー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-10 04:27:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sd-keiji-blader
+releaseInfo:
+  catalogId: TFC-SKB-6400-39
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 2, 1991
+  publisher: Taito
+  developer: NMK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-SKB-6400
+  secondaryId: G7000081A
+  backLabelId/Desc: G7000002A
+  sequence#: 39
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c384f7a259e01ef2315ba39660205401.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1554')"
+    filename: /images/175/47e7f669b9a9acb7f4c1065d7a8af808.jpg
+romDetails:
+- type: PRG0
+  label: C94-01
+  size: 128 KB
+  crc32: EE711AFB
+  x: 1
+- type: CHR0
+  label: C94-02
+  size: 128 KB
+  crc32: 1E234045
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 05F04EAC
+  x: 1
+pcbProperties:
+  name: J9100231A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100231A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6840477f4c02de86e19a6103b100d6f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100231A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/706841ff164eeb0fcdf8b5e5f8591285.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 9123
+  estFirstRun: June 1991
+  pcbClass: TAITO-X1-017
+  inesMapper: 82
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: X1-017
+detailedChipInfo:
+- designation: U1
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9123
+  dateCodeSuffix: EY700
+  std: 9123
+  misc: 
+- designation: U2
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9123
+  dateCodeSuffix: EY712
+  std: 9123
+  misc: 
+- designation: U3
+  maker: NEC
+  partNumber: X1-017
+  partNumberSubDetail: 
+  type: Taito X1-017
+  typeSubDetail: 
+  package: DIP-64
+  dateCodePrefix: 9122
+  dateCodeSuffix: KX
+  std: 9122
+  misc: 

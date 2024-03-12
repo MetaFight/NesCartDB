@@ -1,0 +1,119 @@
+metadata:
+  name: Takeshi no Sengoku Fuuunji
+  altName: たけしの戦国風雲児
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-27 04:10:00
+  moreProfiles:
+  - 1556
+  - 2601
+  - 2602
+  relatedProfiles: []
+  additionalImages: 
+slug: takeshi-no-sengoku-fuuunji
+releaseInfo:
+  catalogId: TFC-TSF-5800-20
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 25, 1988
+  publisher: Taito
+  developer: Taito
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Beveled Label / Logo 3
+  frontLabelId: TFC-TSF-5800
+  sequence#: 20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/215c03398361e041979752913a42ee27.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/674cc4fbe8bd7a975aa5bb1ce732822a.jpg
+romDetails:
+- type: PRG0
+  label: B57-01
+  size: 128 KB
+  crc32: 5193FB54
+  x: 3
+- type: CHR0
+  label: B57-02
+  size: 128 KB
+  crc32: 99700E35
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D920F9DF
+  x: 3
+pcbProperties:
+  name: J9100131A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>J9100131A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/341d2ebdf22507bf92840f8b080d986a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>J9100131A<br>Submitted by: bootgod<br>Linked from profile 1556')"
+    filename: /images/175/e1f00d7b3b3cc277e5fccf06f2a32e2a.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8841 - 8843 (3)
+  estFirstRun: October 1988
+  pcbClass: TAITO-TC0190FMC
+  inesMapper: 33
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx245, TC0190FMC
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8842
+  dateCodeSuffix: E
+  std: 8842
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8841
+  dateCodeSuffix: D
+  std: 8841
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: TC0190FMC
+  partNumberSubDetail: 274
+  type: Taito TC0190FMC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8823
+  dateCodeSuffix: KY
+  std: 8823
+  misc: 
+- designation: 
+  maker: Texas Instruments
+  partNumber: SN74LS245N
+  partNumberSubDetail: 
+  type: 74-245 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 817
+  dateCodeSuffix: BJ
+  std: 8817
+  misc: 

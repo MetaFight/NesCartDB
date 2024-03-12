@@ -1,0 +1,75 @@
+metadata:
+  name: Ultimate Air Combat
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-14 03:38:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1222
+  additionalImages: 
+slug: ultimate-air-combat
+releaseInfo:
+  catalogId: NES-3Z-AUS
+  region: Australia (PAL-A)
+  class: Licensed
+  releaseDate: 1992
+  publisher: Activision
+  developer: Activision
+  players: 1
+  peripherals: NES Controller
+  country: Australia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3Z-AUS
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-EAI-1
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4382')"
+    filename: /images/175/9099aad791188a5e8e4cb91492a79e04.jpg
+romDetails:
+- type: PRG0
+  label: PAL-3Z-0 PRG
+  size: 256 KB
+  crc32: 9D90CA9F
+  x: 1
+- type: CHR0
+  label: PAL-3Z-0 CHR
+  size: 256 KB
+  crc32: E45989A7
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: C0F251EA
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3C
+detailedChipInfo: []

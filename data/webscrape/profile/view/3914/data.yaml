@@ -1,0 +1,117 @@
+metadata:
+  name: Ginga Eiyuu Densetsu
+  altName: 銀河英雄伝説　わが征くは星の大海
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 04:39:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ginga-eiyuu-densetsu
+releaseInfo:
+  catalogId: KSC-GE
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1988
+  publisher: Kemco
+  developer: Kemco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: KSC-GE
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad5ca8479e0753db4b2d9a2f3af183be.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KSC-GE-0 PRG
+  size: 128 KB
+  crc32: 6E32F3C2
+  x: 1
+- type: CHR0
+  label: KSC-GE-0 CHR
+  size: 128 KB
+  crc32: 33593766
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8D5B77C0
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6782619e258ce7432e0370dd43f75d0e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844
+  estFirstRun: November 1988
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: LH
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: E
+  std: 8844
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264B-18
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8832
+  dateCodeSuffix: 3 A
+  std: 8832
+  misc: 
+- designation: U3 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 1J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8844
+  dateCodeSuffix: D
+  std: 8844
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8844
+  dateCodeSuffix: 3 A
+  std: 8844
+  misc: 

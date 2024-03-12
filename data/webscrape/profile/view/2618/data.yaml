@@ -1,0 +1,100 @@
+metadata:
+  name: 'Kinnikuman: MUSCLE Tag Match'
+  altName: キン肉マン　マッスルタッグマッチ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-23 05:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1538
+  - 1735
+  - 2618
+  - 3094
+  - 3095
+  - 3096
+  - 3289
+  - 4582
+  additionalImages: 
+slug: kinnikuman-muscle-tag-match
+releaseInfo:
+  catalogId: BA-KIN
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 8, 1985
+  publisher: Bandai
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Bandai
+  color: Red
+  formFactor: Small
+  embossedText: Bandai 19xx Made in Japan
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/c178d7c7b99d72b5d739e6fb0603a8e5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/577ca2db1ff7390ea1b6b6960322ab45.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/6aa28aa1efc80752e813e51f38a895ae.jpg
+romDetails:
+- type: PRG0
+  label: BANDAI 85 KIN
+  size: 16 KB
+  crc32: 281160AE
+  x: 3
+- type: CHR0
+  label: BANDAI 85 KIN
+  size: 8 KB
+  crc32: FDC5C38E
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: A08B4701
+  x: 3
+pcbProperties:
+  name: UNK-BANDAI-KIN
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-BANDAI-KIN<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ed8019747cd7f3ae03d5ce1f1887f130.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-BANDAI-KIN<br>Submitted by: bootgod<br>Linked from profile 1538')"
+    filename: /images/175/fadfd5ebc3aa737c784b9136a7931401.jpg
+  pcbProducer: Bandai
+  manufacturer: Not Specified
+  mfgRange: 8536 - 8601 (8)
+  estFirstRun: September 1985
+  pcbClass: BANDAI-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Mitsubishi
+  partNumber: M5M27128
+  partNumberSubDetail: 189P
+  type: PROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 538
+  dateCodeSuffix: 129
+  std: 8538
+  misc: 
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5M2764
+  partNumberSubDetail: 248P
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 538
+  dateCodeSuffix: 108
+  std: 8538
+  misc: 

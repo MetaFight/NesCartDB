@@ -1,0 +1,109 @@
+metadata:
+  name: Ninja Cop Saizou
+  altName: 忍者ＣＯＰ サイゾウ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 07:13:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2500
+  - 1928
+  - 294
+  additionalImages: 
+slug: ninja-cop-saizou
+releaseInfo:
+  catalogId: KYG-NX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 17, 1989
+  publisher: Kyugo Boueki
+  developer: A.I
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: KYG-NX
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fbf4dcdf11bb2f1e9a54433871eec7f4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: KYG-NX-0 PRG
+  size: 128 KB
+  crc32: 265D7833
+  x: 1
+- type: CHR0
+  label: KYG-NX-0 CHR
+  size: 128 KB
+  crc32: BD23F139
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 9E777EA5
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6730578f0f1e6d727552c979b727bac4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8941
+  estFirstRun: October 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NVL
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9O3
+  dateCodeSuffix: 53
+  std: 8941
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NVM
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9O3
+  dateCodeSuffix: 52
+  std: 8941
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8941
+  dateCodeSuffix: 5 A
+  std: 8941
+  misc: 

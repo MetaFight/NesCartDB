@@ -1,0 +1,78 @@
+metadata:
+  name: Solomon's Key 2
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-20 10:31:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4079
+  - 2431
+  - 4052
+  - 915
+  additionalImages: 
+slug: solomons-key-2
+releaseInfo:
+  catalogId: NES-K2-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: March 18, 1993
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-K2-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-K2-0 PRG
+  size: 128 KB
+  crc32: B18D9273
+  x: 3
+- type: CHR0
+  label: PAL-K2-0 CHR
+  size: 128 KB
+  crc32: 37737783
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F184EB2D
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo: []

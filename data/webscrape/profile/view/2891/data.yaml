@@ -1,0 +1,79 @@
+metadata:
+  name: Adventures of Tom Sawyer
+  altName: 
+  variant: 
+  submittedBy: B00daW
+  submittedOn: 2008-10-20 09:36:00
+  moreProfiles:
+  - 591
+  - 2891
+  relatedProfiles:
+  - 3612
+  additionalImages: 
+slug: adventures-of-tom-sawyer
+releaseInfo:
+  catalogId: NES-YB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1989
+  publisher: Seta
+  developer: Winky Soft
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YB-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 591')"
+    filename: /images/175/e795edb74125f45dc8ff5eafed30fc16.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 591')"
+    filename: /images/175/8e609ca788796f35f57165c42106a908.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YB-0 PRG
+  size: 128 KB
+  crc32: C31ABE30
+  x: 2
+- type: CHR0
+  label: NES-YB-0 CHR
+  size: 128 KB
+  crc32: 20859DF9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6E85D8DD
+  x: 2
+pcbProperties:
+  name: NES-SLROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924
+  estFirstRun: June 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

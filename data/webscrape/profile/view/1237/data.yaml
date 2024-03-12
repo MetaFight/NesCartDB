@@ -1,0 +1,108 @@
+metadata:
+  name: Pesterminator
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-11 03:55:00
+  moreProfiles:
+  - 1237
+  - 2587
+  - 2355
+  relatedProfiles: []
+  additionalImages: 
+slug: pesterminator
+releaseInfo:
+  catalogId: CDR-PR-81015
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Blue
+  formFactor: Protruding Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Blue Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a6e376c6f23d19a2e6fd2c7069634724.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/851dece0ec0738875a041b4003b47e90.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: BA93CB95
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 64 KB
+  crc32: F7989510
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 6A483073
+  x: 3
+pcbProperties:
+  name: UNK-COLORDREAMS-REVA
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/989a7eb5c4df917fe124026234919953.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVA<br>Submitted by: bootgod<br>Linked from profile 957')"
+    filename: /images/175/ccb8ab923ffac8f5b29a7d6facef75ae.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9013 - 9133 (3)
+  estFirstRun: March 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: Texas Instruments
+  partNumber: TMS27PC512NL
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8948
+  dateCodeSuffix: ALDP
+  std: 8948
+  misc: 
+- designation: U2
+  maker: Intel
+  partNumber: D27512-250V05
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 013
+  dateCodeSuffix: U
+  std: 9013
+  misc: 
+- designation: U3
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 74LS377N
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

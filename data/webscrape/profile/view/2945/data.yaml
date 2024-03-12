@@ -1,0 +1,81 @@
+metadata:
+  name: Crystalis
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-25 06:41:00
+  moreProfiles:
+  - 186
+  - 1119
+  - 2373
+  - 2945
+  - 4477
+  relatedProfiles: []
+  additionalImages: 
+slug: crystalis
+releaseInfo:
+  catalogId: NES-G0-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1990
+  publisher: SNK
+  developer: SNK
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-G0-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-ZL871104
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 186')"
+    filename: /images/175/45405b94ba349fed23285a2dd653d2a5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 186')"
+    filename: /images/175/6e5a6d75111d50aa09da484cb5d4e3cf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4477')"
+    filename: /images/175/eef2bd6936733ed204c8063794632396.jpg
+romDetails:
+- type: PRG0
+  label: NES-G0-0 PRG
+  size: 256 KB
+  crc32: 630BE870
+  x: 6
+- type: CHR0
+  label: NES-G0-0 CHR
+  size: 128 KB
+  crc32: 864F0C1B
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 1335CB05
+  x: 6
+pcbProperties:
+  name: NES-TKROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9025 - 9027 (4)
+  estFirstRun: June 1990
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

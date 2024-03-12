@@ -1,0 +1,107 @@
+metadata:
+  name: Zenbei!! Pro Basket
+  altName: 全米プロバスケット
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-17 03:07:00
+  moreProfiles: []
+  relatedProfiles:
+  - 327
+  additionalImages: 
+slug: zenbei-pro-basket
+releaseInfo:
+  catalogId: VIC-A2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 21, 1989
+  publisher: Vic Tokai
+  developer: Aicom
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: VIC-A2
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/f00b07d1a7db586670de5df208d86611.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/c4f5fb365c622685e7d3214c43cde828.jpg
+romDetails:
+- type: PRG0
+  label: VIC-A2-0 PRG
+  size: 128 KB
+  crc32: E5D49424
+  x: 0
+- type: CHR0
+  label: VIC-A2-0 CHR
+  size: 128 KB
+  crc32: D1D2ECDA
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 0F5F1F86
+  x: 0
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/eae7532abc980b617192c46fdd4a4051.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/9c3124e8f1e7125d0295dd18e01f15be.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8926
+  estFirstRun: June 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NWR
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: 53
+  std: 8926
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NWS
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 960
+  dateCodeSuffix: 52
+  std: 8923
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8913
+  dateCodeSuffix: 3 A
+  std: 8913
+  misc: 

@@ -1,0 +1,111 @@
+metadata:
+  name: 'Ninja Ryukenden II: Ankoku no Jashinken'
+  altName: 忍者龍剣伝Ⅱ　暗黒の邪神剣
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 02:12:00
+  moreProfiles:
+  - 1714
+  - 3690
+  relatedProfiles:
+  - 1431
+  - 2015
+  - 681
+  additionalImages: 
+slug: ninja-ryukenden-ii-ankoku-no-jashinken
+releaseInfo:
+  catalogId: TCF-NW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 6, 1990
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: TCF-NW
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cd5c6e75c4383120abb7cd85e155107d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4604')"
+    filename: /images/175/c52558045ae66d435b1df94f196cfcdf.jpg
+romDetails:
+- type: PRG0
+  label: TCF-NW-0 PRG
+  size: 128 KB
+  crc32: DEBEA5A6
+  x: 2
+- type: CHR0
+  label: TCF-NW-0 CHR
+  size: 128 KB
+  crc32: 91012A18
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 7BF8A890
+  x: 2
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e83480d82947a1739d8e863ee527ca54.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 3470')"
+    filename: /images/175/55bf696454439d4f6636c206f9499a0d.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9004 - 9005 (2)
+  estFirstRun: January 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5399
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0A1
+  dateCodeSuffix: 74
+  std: 9001
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: D0
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9002
+  dateCodeSuffix: D
+  std: 9002
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9004
+  dateCodeSuffix: KX004
+  std: 9004
+  misc: 

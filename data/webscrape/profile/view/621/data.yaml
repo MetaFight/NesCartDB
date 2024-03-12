@@ -1,0 +1,120 @@
+metadata:
+  name: John Elway's Quarterback
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-03-11 04:31:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: john-elways-quarterback
+releaseInfo:
+  catalogId: NES-JQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: March 1989
+  publisher: Tradewest
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-JQ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ba778090d5f9214af6105b921a046052.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ab42d07c482e7eab5e4d8a1966ca596.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-JQ-0 PRG
+  size: 32 KB
+  crc32: D7C4816B
+  x: 1
+- type: CHR0
+  label: NES-JQ-0 CHR
+  size: 32 KB
+  crc32: DA2CF1B0
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: CF322BB3
+  x: 1
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0b16c1a1cbc63cc3549e51b486b93ea9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8908
+  estFirstRun: February 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2806
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9B3
+  dateCodeSuffix: 13
+  std: 8908
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2807
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9B2
+  dateCodeSuffix: 72
+  std: 8907
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8908
+  dateCodeSuffix: 3 BA
+  std: 8908
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 838
+  dateCodeSuffix: J
+  std: 8838
+  misc: 

@@ -1,0 +1,78 @@
+metadata:
+  name: 'Bubble Bobble: Part 2'
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-21 09:09:00
+  moreProfiles:
+  - 1083
+  - 2925
+  relatedProfiles: []
+  additionalImages: 
+slug: bubble-bobble-part-2
+releaseInfo:
+  catalogId: NES-BQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1993
+  publisher: Taito
+  developer: Taito
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-BQ-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1083')"
+    filename: /images/175/ed60b2bad6c5c2b17e17b4e63c024c52.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1083')"
+    filename: /images/175/06d754fa898466cd2d901c2d58badb04.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-BQ-0 PRG
+  size: 128 KB
+  crc32: 5F7C1D17
+  x: 2
+- type: CHR0
+  label: NES-BQ-0 CHR
+  size: 128 KB
+  crc32: 5E59AFAE
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E095C3F2
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9329
+  estFirstRun: July 1993
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

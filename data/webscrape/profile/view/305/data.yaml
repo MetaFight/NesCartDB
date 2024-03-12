@@ -1,0 +1,114 @@
+metadata:
+  name: 1942
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-01 03:58:00
+  moreProfiles:
+  - 305
+  - 1140
+  relatedProfiles:
+  - 1624
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-NF-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97c948ca0cfd37b30beab2680ae953a5.jpg
+slug: 1942
+releaseInfo:
+  catalogId: NES-NF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1986
+  publisher: Capcom
+  developer: Capcom
+  portedBy: 
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-NF-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/984c16072c85775858b55aa233f6e92d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/82e25ba385462af22ad7a11ba12dea70.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: CAP-19-0 PRG
+  size: 32 KB
+  crc32: C4E8C04A
+  x: 4
+- type: CHR0
+  label: CAP-19-0 CHR
+  size: 8 KB
+  crc32: 03379B76
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 171251E3
+  x: 4
+pcbProperties:
+  name: NES-NROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/982c33998572af08d756c4c1cb640fef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2083')"
+    filename: /images/175/6096d3c0dbd9575d1d5063111af4d1e6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8728 - 8949 (2)
+  estFirstRun: July 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2020
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9K2
+  dateCodeSuffix: A7
+  std: 8941
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP2364E
+  partNumberSubDetail: 2011
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9K2
+  dateCodeSuffix: 30
+  std: 8941
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8949
+  dateCodeSuffix: 5 CA
+  std: 8949
+  misc: 

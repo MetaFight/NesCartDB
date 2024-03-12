@@ -1,0 +1,120 @@
+metadata:
+  name: Mega Man 4
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-04-05 12:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4709
+  - 1489
+  - 2109
+  - 35
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-4V-FRG<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/391b232c786c81c46a021213a02ca547.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-4V-FRG<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/101017ad273d1eb30fd6e545dbc169ab.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-4V-FRG<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/b1c5e0440f98fc1891ccea72a5790d7e.jpg
+slug: mega-man-4
+releaseInfo:
+  catalogId: NES-4V-FRG
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: January 21, 1993
+  publisher: Nintendo
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4V-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/c1bbd38421cc769b281c39c5b715f641.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-4V-0 PRG
+  size: 512 KB
+  crc32: 1B932BEA
+  x: 4
+pcbProperties:
+  name: NES-TGROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9237
+  estFirstRun: September 1992
+  pcbClass: NES-TGROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Toshiba
+  partNumber: TC534003AP
+  partNumberSubDetail: J758
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9237
+  dateCodeSuffix: EAI
+  std: 9237
+  misc: 
+- designation: U2 CHR
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9230
+  dateCodeSuffix: KT59
+  std: 9230
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9237
+  dateCodeSuffix: A
+  std: 9237
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9219
+  dateCodeSuffix: 7 T
+  std: 9219
+  misc: 

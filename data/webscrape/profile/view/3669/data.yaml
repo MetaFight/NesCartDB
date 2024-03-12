@@ -1,0 +1,97 @@
+metadata:
+  name: Nuts & Milk
+  altName: ナッツ＆ミルク
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 02:28:00
+  moreProfiles:
+  - 2172
+  - 3420
+  - 3669
+  relatedProfiles: []
+  additionalImages: 
+slug: nuts-milk
+releaseInfo:
+  catalogId: HFC-NM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 28, 1984
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Ocean Blue
+  formFactor: Small
+  frontLabelId: HFC-NM
+  backLabelId/Desc: Black Text
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c6c5a218f921466377c9e9937e73eb77.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-NM-0 PRG
+  size: 16 KB
+  crc32: 6C1390B4
+  x: 3
+- type: CHR0
+  label: HVC-NM-0 CHR
+  size: 8 KB
+  crc32: AD96D84A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 739A1027
+  x: 3
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc2fb6f45d00d2d4c51fd45a1bf625ca.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8444
+  estFirstRun: November 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: OKI
+  partNumber: M38128A
+  partNumberSubDetail: B9
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 4Y
+  dateCodeSuffix: 05
+  std: 8444
+  misc: 
+- designation: CHR
+  maker: OKI
+  partNumber: M3864
+  partNumberSubDetail: B9
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4Y
+  dateCodeSuffix: 03
+  std: 8444
+  misc: 

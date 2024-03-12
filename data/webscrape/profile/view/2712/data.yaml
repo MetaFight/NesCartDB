@@ -1,0 +1,110 @@
+metadata:
+  name: MagMax
+  altName: マグマックス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 21:27:00
+  moreProfiles:
+  - 1673
+  - 1682
+  - 2712
+  relatedProfiles:
+  - 236
+  additionalImages: 
+slug: magmax
+releaseInfo:
+  catalogId: NBF-MM (01)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 19, 1986
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-MM
+  secondaryId: 01
+  backLabelId/Desc: NBF-01
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1673')"
+    filename: /images/175/876bd06155a90340fbc517d2860a1f69.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 2389A6B3
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: FA662B89
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 5E345B6D
+  x: 3
+pcbProperties:
+  name: 3A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/358bdf9f2ece91d314014e465f55f5bd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3A<br>Submitted by: bootgod<br>Linked from profile 3377')"
+    filename: /images/175/1348f8e12425cc850ed1ea2d4a22a353.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8550 - 8609 (3)
+  estFirstRun: December 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: NBE-MM
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 63
+  dateCodeSuffix: 08
+  std: 8609
+  misc: 0V-L6
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,115 @@
+metadata:
+  name: Ninja Ryukenden
+  altName: 忍者龍剣伝
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 00:46:00
+  moreProfiles:
+  - 1700
+  - 2327
+  - 3498
+  - 3499
+  - 3647
+  relatedProfiles:
+  - 2505
+  - 2014
+  - 1879
+  - 116
+  additionalImages: 
+slug: ninja-ryukenden
+releaseInfo:
+  catalogId: TCF-NY
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 9, 1988
+  publisher: Tecmo
+  developer: Tecmo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: TCF-NY
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1700')"
+    filename: /images/175/2cd38fef74c264557bb7a17db40e8cfb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: TCF-NY-0 PRG
+  size: 128 KB
+  crc32: D878EBF5
+  x: 5
+- type: CHR0
+  label: TCF-NY-0 CHR
+  size: 128 KB
+  crc32: D9C285E1
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D7CB398F
+  x: 5
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d62d3e0103cbe3b05bbdc7da76c896e8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8843 - 8845 (5)
+  estFirstRun: October 1988
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8838
+  dateCodeSuffix: Z03
+  std: 8838
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 0S
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8843
+  dateCodeSuffix: D
+  std: 8843
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8822
+  dateCodeSuffix: 5 A
+  std: 8822
+  misc: 

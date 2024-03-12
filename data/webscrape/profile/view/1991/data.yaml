@@ -1,0 +1,112 @@
+metadata:
+  name: Mach Rider
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 19:12:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2376
+  - 2055
+  - 1475
+  - 611
+  additionalImages: 
+slug: mach-rider
+releaseInfo:
+  catalogId: NES-MR-GBR
+  region: United Kingdom (PAL-A)
+  class: Licensed
+  releaseDate: March 15, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: United Kingdom
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: GBR
+  sealOfQuality: 'PAL: Dual'
+  mfgstringPresent: No
+  backLabelId/Desc: EAI
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2d00cf9e35603db50a7c90cb68b72091.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: gio_aus<br>Linked from profile 4723')"
+    filename: /images/175/403594fc30f3818bdc3a66554c0aedfa.jpg
+romDetails:
+- type: PRG0
+  label: PAL-MR-0 PRG
+  size: 32 KB
+  crc32: 8BBE9BEC
+  x: 5
+- type: CHR0
+  label: HVC-MR-0 CHR
+  size: 8 KB
+  crc32: 33A2B41A
+  x: 13
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: E57E5384
+  x: 5
+pcbProperties:
+  name: NES-NROM-256-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-03<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/2939126da4be94b92b8e711eb618e9db.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-03<br>Submitted by: Kinopio<br>Linked from profile 2055')"
+    filename: /images/175/6d26509249f161184d69d98ece2cba53.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8736
+  estFirstRun: September 1987
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: E2
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: E
+  std: 8736
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 11
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8736
+  dateCodeSuffix: E
+  std: 8736
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3197A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8719
+  dateCodeSuffix: B
+  std: 8719
+  misc: 

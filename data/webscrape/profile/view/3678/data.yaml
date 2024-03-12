@@ -1,0 +1,104 @@
+metadata:
+  name: Raid on Bungeling Bay
+  altName: バンゲリング ベイ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 03:09:00
+  moreProfiles:
+  - 1510
+  - 1718
+  - 2326
+  - 3393
+  - 3551
+  - 3552
+  - 3664
+  - 3678
+  relatedProfiles:
+  - 159
+  additionalImages: 
+slug: raid-on-bungeling-bay
+releaseInfo:
+  catalogId: HFC-RB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 22, 1985
+  publisher: Hudson Soft
+  developer: Will Wright
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HFC-RB
+  backLabelId/Desc: Black Text
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1510')"
+    filename: /images/175/570a1d4e630f010eb1aee4dbfafddde2.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-RB-0 PRG
+  size: 16 KB
+  crc32: C5B8EFEA
+  x: 7
+- type: CHR0
+  label: HVC-RB-0 CHR
+  size: 8 KB
+  crc32: E4D3B716
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 64C96F53
+  x: 7
+pcbProperties:
+  name: HVC-NROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-NROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7abe6e5fd9752b0af78e8fb92300cf7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-NROM-02<br>Submitted by: holodnak<br>Linked from profile 1392')"
+    filename: /images/175/6cf72eabe125ba34655ae6b006d55e18.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8502 - 8508 (4)
+  estFirstRun: January 1985
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 135P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 508
+  dateCodeSuffix: 102
+  std: 8508
+  misc: 
+- designation: CHR
+  maker: Mitsubishi
+  partNumber: M5M2364
+  partNumberSubDetail: 194P
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8502
+  dateCodeSuffix: 08
+  std: 8502
+  misc: 

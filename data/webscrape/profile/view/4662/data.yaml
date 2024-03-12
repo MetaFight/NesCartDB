@@ -1,0 +1,123 @@
+metadata:
+  name: 'Moulin Rouge Senki: Melville no Honoo'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:45:00
+  moreProfiles:
+  - 4598
+  - 4662
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c11954037b2534de1bdd00648b22b21.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dbb786255a54066bc1d737caa8f8f439.jpg
+slug: moulin-rouge-senki-melville-no-honoo
+releaseInfo:
+  catalogId: GAT-M6
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 11, 1989
+  publisher: Gakken
+  developer: Interlink
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: GAT-M6
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d8b0c3c1c32143489ba9d2b0594b9d3c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: GAT-M6-0 PRG
+  size: 128 KB
+  crc32: 005682D5
+  x: 1
+- type: CHR0
+  label: GAT-M6-0 CHR
+  size: 128 KB
+  crc32: 4F55317F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F7E07B83
+  x: 1
+pcbProperties:
+  name: HVC-SKROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/84000513b6a24e25c71a93f216cf9403.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-04<br>Submitted by: bootgod<br>Linked from profile 3453')"
+    filename: /images/175/82f707f1016690645558584d74fcfd4e.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8928 - 8929 (2)
+  estFirstRun: July 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8924
+  dateCodeSuffix: XX
+  std: 8924
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8926
+  dateCodeSuffix: EY
+  std: 8926
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8929
+  dateCodeSuffix: 5 A
+  std: 8929
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9
+  dateCodeSuffix: 51
+  std: 8929
+  misc: 

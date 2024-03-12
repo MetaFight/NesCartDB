@@ -1,0 +1,123 @@
+metadata:
+  name: Adventures of Tom Sawyer
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-28 04:33:00
+  moreProfiles:
+  - 591
+  - 2891
+  relatedProfiles:
+  - 3612
+  additionalImages: 
+slug: adventures-of-tom-sawyer
+releaseInfo:
+  catalogId: NES-YB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: August 1989
+  publisher: Seta
+  developer: Winky Soft
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-YB-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e795edb74125f45dc8ff5eafed30fc16.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8e609ca788796f35f57165c42106a908.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-YB-0 PRG
+  size: 128 KB
+  crc32: C31ABE30
+  x: 2
+- type: CHR0
+  label: NES-YB-0 CHR
+  size: 128 KB
+  crc32: 20859DF9
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6E85D8DD
+  x: 2
+pcbProperties:
+  name: NES-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c18dda34f2e2d91b0e7a40ac53f1593.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924
+  estFirstRun: June 1989
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NWP
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 965
+  dateCodeSuffix: 53
+  std: 8924
+  misc: 
+- designation: CHR-ROM
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NWQ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9
+  dateCodeSuffix: 52
+  std: 8923
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8924
+  dateCodeSuffix: 5 BA
+  std: 8924
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8923
+  dateCodeSuffix: 5 A
+  std: 8923
+  misc: 

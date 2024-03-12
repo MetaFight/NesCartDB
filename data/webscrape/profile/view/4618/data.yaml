@@ -1,0 +1,120 @@
+metadata:
+  name: CrackOut
+  altName: 
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 00:44:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4413
+  - 4536
+  additionalImages: 
+slug: crackout
+releaseInfo:
+  catalogId: UNR-37-USA
+  region: USA (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: RP047
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/8e8b1e780fd4b53c62a3dc593950bdb1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: RP047 P0.1P
+  size: 128 KB
+  crc32: 7E9BCA05
+  x: 1
+pcbProperties:
+  name: 351258
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  pcbClass: KONAMI-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: MBM27C1000-20Z
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8464A-15LL-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9102
+  dateCodeSuffix: KT07
+  std: 9102
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9052
+  dateCodeSuffix: 5 AB
+  std: 9052
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC161C
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8708
+  dateCodeSuffix: B7
+  std: 8708
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8545
+  dateCodeSuffix: C7
+  std: 8545
+  misc: 

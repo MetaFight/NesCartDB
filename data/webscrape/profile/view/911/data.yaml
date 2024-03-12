@@ -1,0 +1,132 @@
+metadata:
+  name: Desert Commander
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-03 22:36:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3816
+  additionalImages: 
+slug: desert-commander
+releaseInfo:
+  catalogId: NES-DF-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1989
+  publisher: Kemco
+  developer: Kemco
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DF-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4dd698ef4d57775ea59dddf9c9415ef6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/45db802e541255a43fec0d02385b9a7a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DF-0 PRG
+  size: 128 KB
+  crc32: 54430B24
+  x: 1
+- type: CHR0
+  label: NES-DF-0 CHR
+  size: 128 KB
+  crc32: F2AF687F
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 68EC97CB
+  x: 1
+pcbProperties:
+  name: NES-SKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/93043d3fead07b84411e4c97a18e95b0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8924
+  estFirstRun: June 1989
+  pcbClass: NES-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 2B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8921
+  dateCodeSuffix: D
+  std: 8921
+  misc: 
+- designation: IC2
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 5L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8922
+  dateCodeSuffix: D
+  std: 8922
+  misc: 
+- designation: IC3
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8924
+  dateCodeSuffix: 1 AA
+  std: 8924
+  misc: 
+- designation: IC4
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8919
+  dateCodeSuffix: 7 A
+  std: 8919
+  misc: 
+- designation: IC5
+  maker: Sanyo
+  partNumber: LC3664R-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 94
+  dateCodeSuffix: 266
+  std: 8913
+  misc: 

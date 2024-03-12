@@ -1,0 +1,115 @@
+metadata:
+  name: Parodius Da!
+  altName: パロディウス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-26 19:38:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: parodius-da
+releaseInfo:
+  catalogId: KON-RC849
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 30, 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC849
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56ea38a794ebb1b949f9bfce39d1f91e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97a0a1525242dfb4a6ea2554e1a2b73e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC849J00P
+  size: 128 KB
+  crc32: E4CEEAD1
+  x: 1
+- type: CHR0
+  label: RC849J0.0C
+  size: 128 KB
+  crc32: 54DA5DC8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D467C0CC
+  x: 1
+pcbProperties:
+  name: 352396
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352396<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4223d1e9963176cca27ac3145b49e2fd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>352396<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6a29ececfaa819264cc3c0ca49db8c59.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9043
+  estFirstRun: October 1990
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 5958
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0KC
+  dateCodeSuffix: 45
+  std: 9040
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: T07
+  std: 9043
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8416A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: SDIP-24
+  dateCodePrefix: 9037
+  dateCodeSuffix: KR08
+  std: 9037
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 052785 VRC IV
+  partNumberSubDetail: 440
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9038
+  dateCodeSuffix: KP
+  std: 9038
+  misc: 

@@ -1,0 +1,131 @@
+metadata:
+  name: Bucky O'Hare
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-11-03 03:00:00
+  moreProfiles:
+  - 2034
+  - 2134
+  relatedProfiles:
+  - 2489
+  - 4533
+  - 399
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-56-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/783c853f4ce6b521c3cf51b47b77feda.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-56-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/8245701453a6c502942ed39940dd1890.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-56-NOE<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7b8a2b381fa7e2e9191506ff687656b2.jpg
+slug: bucky-ohare
+releaseInfo:
+  catalogId: NES-56-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: July 3, 1992
+  publisher: Palcom
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-56-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0ea6fb1e4b957a08cb1cc6c4600a3c66.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ea541ddec1e86c98b7a4055384fe7881.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-56-0 PRG
+  size: 128 KB
+  crc32: 32C4B857
+  x: 4
+- type: CHR0
+  label: PAL-56-0 CHR
+  size: 128 KB
+  crc32: E2917B27
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6720ABAC
+  x: 4
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3fcd1dc92d521fcf887c5ba300269467.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9228
+  estFirstRun: July 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6696
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2GF
+  dateCodeSuffix: 41
+  std: 9228
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0166
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2GC
+  dateCodeSuffix: 40
+  std: 9228
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9143
+  dateCodeSuffix: C
+  std: 9143
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9211
+  dateCodeSuffix: 7 T
+  std: 9211
+  misc: 

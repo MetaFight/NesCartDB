@@ -1,0 +1,124 @@
+metadata:
+  name: Disney's Darkwing Duck
+  altName: 
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 00:54:00
+  moreProfiles:
+  - 477
+  - 4619
+  relatedProfiles:
+  - 2068
+  - 2453
+  - 1883
+  additionalImages: 
+slug: disneys-darkwing-duck
+releaseInfo:
+  catalogId: NES-DZ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: June 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/850d804493ad6f3b8e73a5f4142a5706.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: DWDK PRG 28 CAPCOM
+  size: 128 KB
+  crc32: 67AE2C8A
+  x: 1
+- type: CHR0
+  label: DWDK CHR 28 CAPCOM
+  size: 128 KB
+  crc32: A2CBEBD5
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 8DB43824
+  x: 1
+pcbProperties:
+  name: NES-SKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/abdf5b66c3d029791b6a1da0db0ecbfd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 4623')"
+    filename: /images/175/125e843dbf8707b6c3d904feb8b125c8.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9224
+  estFirstRun: June 1992
+  pcbClass: NES-SKEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC3 CHR
+  maker: Hitachi
+  partNumber: HN27C301G-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC5 3193
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,132 @@
+metadata:
+  name: Advanced Dungeons & Dragons Heroes of the Lance
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2012-04-17 04:14:00
+  moreProfiles:
+  - 933
+  - 4625
+  relatedProfiles: []
+  additionalImages: 
+slug: advanced-dungeons-dragons-heroes-of-the-lance
+releaseInfo:
+  catalogId: NES-LQ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1991
+  publisher: FCI
+  developer: Strategic Simulations
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/e22c98665f121d6565c321e1cce95936.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/8def94daa8a58978db27339435a2561d.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: 21598F85
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 95773F32
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C22F3E9F
+  x: 1
+pcbProperties:
+  name: NES-SKEPROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/52b3218e3542f357f18d0fffe2f373ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SKEPROM-01<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/bab769c93acb9ea6fb89a032a043675c.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: NES-SKEPROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Mitsubishi
+  partNumber: M5M27C100P
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 904
+  dateCodeSuffix: 100
+  std: 8904
+  misc: 
+- designation: IC2 W-RAM
+  maker: Sony
+  partNumber: CXK5864PS-15L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8L
+  dateCodeSuffix: 10
+  std: 8848
+  misc: 
+- designation: IC3 CHR
+  maker: Mitsubishi
+  partNumber: M5M27C100P
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 904
+  dateCodeSuffix: 100
+  std: 8904
+  misc: 
+- designation: IC4 MMC
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 5 AA
+  std: 8944
+  misc: 
+- designation: IC5 3193
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8933
+  dateCodeSuffix: 5 AA
+  std: 8933
+  misc: 

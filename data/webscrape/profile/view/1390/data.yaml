@@ -1,0 +1,181 @@
+metadata:
+  name: 6 in 1
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-11 03:37:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: 6-in-1
+releaseInfo:
+  catalogId: CN-11
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1992
+  publisher: Caltron
+  developer: MegaSoft
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: 
+  color: Beige
+  formFactor: Original
+  frontLabelId: CN-11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7a7986dfee046df12d2316a04cb50cc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/91184a0e3e36bf59751ca8a4f711ff1d.jpg
+romDetails:
+- type: PRG0
+  label: ND2001-P
+  size: 256 KB
+  crc32: CC8D1412
+  x: 1
+- type: CHR0
+  label: ND1001-C
+  size: 128 KB
+  crc32: 5A5C3E73
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 4686C5DD
+  x: 1
+pcbProperties:
+  name: N725012
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>N725012<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14a064b66cb43ac77283a23895cd8413.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>N725012<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/79f34e16a5a9bfffd694d0a77be17fe3.jpg
+  pcbProducer: NTDEC
+  manufacturer: Not Specified
+  mfgRange: 9202
+  estFirstRun: January 1992
+  pcbClass: MLT-CALTRON6IN1
+  inesMapper: 41
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx04, 74xx123, 74xx153, 74xx161, 74xx174, 74xx20, 74xx32
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: 5007ATA
+  partNumberSubDetail: 042
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9201
+  dateCodeSuffix: C
+  std: 9201
+  misc: CDK45037
+- designation: U2
+  maker: Hitachi
+  partNumber: HD74LS123P
+  partNumberSubDetail: 
+  type: 74-123 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 1G2
+  dateCodeSuffix: 6
+  std: 9128
+  misc: 
+- designation: U3
+  maker: Macronix
+  partNumber: 5006ATA
+  partNumberSubDetail: 042
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9202
+  dateCodeSuffix: B
+  std: 9202
+  misc: CDK45036
+- designation: U4
+  maker: GoldStar
+  partNumber: GD74LS161A
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9131
+  dateCodeSuffix: ''
+  std: 9131
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9148
+  dateCodeSuffix: ''
+  std: 9148
+  misc: 
+- designation: 74153
+  maker: ST Micro
+  partNumber: T74LS153B1
+  partNumberSubDetail: 
+  type: 74-153 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9046
+  dateCodeSuffix: 9
+  std: 9046
+  misc: 
+- designation: 74174
+  maker: GoldStar
+  partNumber: GD74LS174
+  partNumberSubDetail: 
+  type: 74-174 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9146
+  dateCodeSuffix: ''
+  std: 9146
+  misc: 
+- designation: 7420
+  maker: Mitsubishi
+  partNumber: M74LS20P
+  partNumberSubDetail: 
+  type: 74-20 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 201
+  dateCodeSuffix: 825
+  std: 9201
+  misc: 
+- designation: 7404
+  maker: GoldStar
+  partNumber: GD74LS04
+  partNumberSubDetail: 
+  type: 74-04 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9148
+  dateCodeSuffix: ''
+  std: 9148
+  misc: 
+- designation: 7660
+  maker: JRC
+  partNumber: 7660D
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 100
+  dateCodeSuffix: 4H
+  std: 9100
+  misc: 

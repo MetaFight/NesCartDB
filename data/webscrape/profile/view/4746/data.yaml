@@ -1,0 +1,107 @@
+metadata:
+  name: Family Block
+  altName: ファミリーブロック
+  variant: 
+  submittedBy: MWK
+  submittedOn: 2019-01-16 03:26:00
+  moreProfiles: []
+  relatedProfiles:
+  - 942
+  additionalImages: 
+slug: family-block
+releaseInfo:
+  catalogId: ATH-4T
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 12, 1991
+  publisher: Athena
+  developer: Visco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: ATH-4T
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: MWK<br>Linked from profile 0')"
+    filename: /images/175/05423ecfcdab273afba8aadfeb9d5140.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: MWK<br>Linked from profile 0')"
+    filename: /images/175/91804e8ff9517ecf2f15aeb4c6f8b1ee.jpg
+romDetails:
+- type: PRG0
+  label: ATH-4T-0 PRG
+  size: 128 KB
+  crc32: A3A6184C
+  x: 0
+- type: CHR0
+  label: ATH-4T-0 CHR
+  size: 32 KB
+  crc32: 22DBB006
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 160 KB
+  crc32: 0BB5B3A0
+  x: 0
+pcbProperties:
+  name: HVC-GNROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-GNROM-03<br>Submitted by: MWK<br>Linked from profile 0')"
+    filename: /images/175/f3f9728483033656dcc8e987d18f0c57.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-GNROM-03<br>Submitted by: MWK<br>Linked from profile 0')"
+    filename: /images/175/14d78379e12f09b4113bfef3a216b7b2.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9107
+  estFirstRun: February 1991
+  pcbClass: HVC-GNROM
+  inesMapper: 66
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1868
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1BJ
+  dateCodeSuffix: XA
+  std: 9107
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 3210
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 1BC
+  dateCodeSuffix: 12
+  std: 9106
+  misc: 
+- designation: LS161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 037
+  dateCodeSuffix: EN
+  std: 9037
+  misc: 

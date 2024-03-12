@@ -1,0 +1,118 @@
+metadata:
+  name: 'Moero!! Junior Basket: Two on Two'
+  altName: 燃えろ！！ ジュニアバスケット
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-29 05:03:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4412
+  - 124
+  additionalImages: 
+slug: moero-junior-basket-two-on-two
+releaseInfo:
+  catalogId: JF-20
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 22, 1988
+  publisher: Jaleco
+  developer: Aicom
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: White
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-20
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/02ebbbe31dfa60d09dc87a62ca7ff652.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4f8ab1f23dbc4f04d4a3ac4718e0ac3a.jpg
+romDetails:
+- type: PRG0
+  label: JF20-P
+  size: 128 KB
+  crc32: 4937F7A1
+  x: 1
+- type: CHR0
+  label: JF20-C
+  size: 128 KB
+  crc32: A24F139B
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 175C4A3C
+  x: 1
+pcbProperties:
+  name: JF-20
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-20<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/056262a79c0a787f8abf783eb3f79c3c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-20<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/88f4196f9cc748f441cbd7813d66ea11.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8847
+  estFirstRun: November 1988
+  pcbClass: JALECO-JF-20
+  inesMapper: 75
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, VRC1
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: E
+  std: 8847
+  misc: 
+- designation: IC2 CHR
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8847
+  dateCodeSuffix: E
+  std: 8847
+  misc: 
+- designation: IC3 VRC
+  maker: Fujitsu
+  partNumber: 007421 VRC
+  partNumberSubDetail: 
+  type: Konami VRC
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8805
+  dateCodeSuffix: Z04
+  std: 8805
+  misc: 
+- designation: IC4 LS32
+  maker: Hitachi
+  partNumber: HD74LS32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8H3
+  dateCodeSuffix: 6
+  std: 8833
+  misc: 

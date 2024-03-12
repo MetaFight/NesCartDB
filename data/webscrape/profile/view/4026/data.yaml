@@ -1,0 +1,126 @@
+metadata:
+  name: 'Sangokushi II: Haou no Tairiku'
+  altName: 三國志Ⅱ 覇王の大陸
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-07 01:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: sangokushi-ii-haou-no-tairiku
+releaseInfo:
+  catalogId: NAM-FS2-6900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: June 10, 1992
+  publisher: Namco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Blue
+  formFactor: Large
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/94f99791c53fcef2ddd18456d0fadf7c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6b3e699a874f1870f1aaf7b139c9ba22.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 6901346E
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: 74AAC964
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 098C672A
+  x: 1
+pcbProperties:
+  name: LROG076-00
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>LROG076-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/890a35a23e4b58fd62e4f799a44e4b76.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>LROG076-00<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d3b0e049693a37b7dbbc507c69af15b8.jpg
+  pcbProducer: 
+  manufacturer: Sharp
+  mfgRange: 9220
+  estFirstRun: May 1992
+  pcbClass: NAMCOT-163
+  inesMapper: 19
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 163
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG076
+  partNumberSubDetail: FS2
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9220
+  dateCodeSuffix: 5
+  std: 9220
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP163
+  type: Namcot 163
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP6264
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

@@ -1,0 +1,75 @@
+metadata:
+  name: Wizards & Warriors
+  altName: 
+  variant: (Revision A)
+  submittedBy: polarz
+  submittedOn: 2006-04-14 03:48:00
+  moreProfiles:
+  - 27
+  - 461
+  - 797
+  - 2777
+  - 1190
+  - 1207
+  - 1369
+  relatedProfiles:
+  - 1822
+  - 1655
+  additionalImages: 
+slug: wizards-warriors
+releaseInfo:
+  catalogId: NES-WW-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1987
+  publisher: Acclaim
+  developer: Rare
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WW-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 27')"
+    filename: /images/175/b8ae3cb4c5969cfd68dba14431acbd2d.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1207')"
+    filename: /images/175/3cb08adfc7f9f7eeab2b1016ef37263e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-WW-1 PRG
+  size: 128 KB
+  crc32: 26535EF5
+  x: 4
+pcbProperties:
+  name: NES-ANROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8749 - 8839 (6)
+  estFirstRun: December 1987
+  pcbClass: NES-ANROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx02, 74xx161
+detailedChipInfo: []

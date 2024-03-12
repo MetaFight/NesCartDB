@@ -1,0 +1,98 @@
+metadata:
+  name: Sky Destroyer
+  altName: スカイデストロイヤー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-05-13 08:11:00
+  moreProfiles:
+  - 1558
+  - 3154
+  - 3155
+  - 4580
+  relatedProfiles: []
+  additionalImages: 
+slug: sky-destroyer
+releaseInfo:
+  catalogId: TFC-SD-4500-05
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: November 14, 1985
+  publisher: Taito
+  developer: Taito
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Taito
+  color: Black
+  formFactor: Tall Label / Logo 1 / No Battery Door
+  frontLabelId: Not Present
+  sequence#: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/31f2580fe6a4cbfcabea81c6063c333d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ed10f69fe670283a75014d295ce9716.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 219CE59D
+  x: 3
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 86E2067A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: E47E9FA7
+  x: 3
+pcbProperties:
+  name: P3-016
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>P3-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e02d9bf5b1b3ea0dd884fa5539309b7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>P3-016<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2350d99703d9f7bfaff9c242d53c6c90.jpg
+  pcbProducer: Taito
+  manufacturer: Not Specified
+  mfgRange: 8530 - 8543 (4)
+  estFirstRun: July 1985
+  pcbClass: TAITO-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Hitachi
+  partNumber: HN4827128G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8536
+  dateCodeSuffix: ''
+  std: 8536
+  misc: 00001222
+- designation: CH
+  maker: Mitsubishi
+  partNumber: M5L2764K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 512
+  dateCodeSuffix: 10T
+  std: 8512
+  misc: 

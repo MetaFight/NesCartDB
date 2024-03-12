@@ -1,0 +1,120 @@
+metadata:
+  name: Baseball
+  altName: ベースボール
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 02:54:00
+  moreProfiles:
+  - 1449
+  - 1627
+  - 2185
+  - 2710
+  - 2715
+  - 3363
+  - 3364
+  - 3365
+  - 3446
+  - 3447
+  - 3675
+  - 4747
+  relatedProfiles:
+  - 4255
+  - 4530
+  - 107
+  additionalImages: 
+slug: baseball
+releaseInfo:
+  catalogId: HVC-BA
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 7, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Midnight Blue
+  formFactor: Small
+  frontLabelId: HVC-BA
+  backLabelId/Desc: 831018
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2185')"
+    filename: /images/175/ab42e483f7595107b1f14b0bc79add5b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: D18A3DDE
+  x: 11
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: C27EEF20
+  x: 11
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 78A48B23
+  x: 11
+pcbProperties:
+  name: 2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d55cf81367229e74a7c9409bd90c5179.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>2<br>Submitted by: bootgod<br>Linked from profile 3418')"
+    filename: /images/175/7a9aa642a49d8183c9d73f4421ea98bb.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8401 - 8614 (10)
+  estFirstRun: January 1984
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: HVC-BA
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 41
+  dateCodeSuffix: 55
+  std: 8401
+  misc: 2V-36
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

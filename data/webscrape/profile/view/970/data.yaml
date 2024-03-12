@@ -1,0 +1,83 @@
+metadata:
+  name: Super Spike V'Ball
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-07-06 00:11:00
+  moreProfiles:
+  - 731
+  - 970
+  relatedProfiles:
+  - 4745
+  - 2152
+  - 2236
+  - 2615
+  - 1877
+  - 4367
+  additionalImages: 
+slug: super-spike-vball
+releaseInfo:
+  catalogId: NES-VJ-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Nintendo
+  developer: Technos
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VJ-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 731')"
+    filename: /images/175/9516fcd5d3cd86d5838e191f76e87e3c.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 731')"
+    filename: /images/175/e8f4e8288e3eac98520218b92bbd945c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-VJ-0 PRG
+  size: 128 KB
+  crc32: 1E598A14
+  x: 3
+- type: CHR0
+  label: NES-VJ-0 CHR
+  size: 128 KB
+  crc32: E5F016C4
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E840FD21
+  x: 3
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8950
+  estFirstRun: December 1989
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo: []

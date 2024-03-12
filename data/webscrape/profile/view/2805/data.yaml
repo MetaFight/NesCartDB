@@ -1,0 +1,127 @@
+metadata:
+  name: Legacy of the Wizard
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-03 04:18:00
+  moreProfiles:
+  - 75
+  - 2805
+  - 768
+  - 861
+  relatedProfiles:
+  - 2294
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-LC-USA<br>Submitted by: bootgod<br>Linked from profile 861')"
+    filename: /images/175/dd63595d719cf5d3a25d821928c55e69.jpg
+slug: legacy-of-the-wizard
+releaseInfo:
+  catalogId: NES-LC-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: April 1989
+  publisher: Br?derbund
+  developer: Nihon Falcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LC-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 75')"
+    filename: /images/175/bcfffd8328d28b81af7018ffe986e071.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 75')"
+    filename: /images/175/b9e4003cb203f27f9c1df7199cfc6c72.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-LC-0 PRG
+  size: 128 KB
+  crc32: 4CDCAF6B
+  x: 5
+- type: CHR0
+  label: NES-LC-0 CHR
+  size: 64 KB
+  crc32: 16C29089
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: F181C021
+  x: 5
+pcbProperties:
+  name: NES-TFROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TFROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43e8cbaf968737ccd9566e36c4b0acab.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919 - 9001 (3)
+  estFirstRun: May 1989
+  pcbClass: NES-TFROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1811
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9M1
+  dateCodeSuffix: 78
+  std: 8949
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 17
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: E
+  std: 8944
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8954
+  dateCodeSuffix: 3 CA
+  std: 9001
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8945
+  dateCodeSuffix: EP
+  std: 8945
+  misc: 

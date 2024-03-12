@@ -1,0 +1,159 @@
+metadata:
+  name: Where in Time is Carmen Sandiego?
+  altName: 
+  variant: (Prototype)
+  submittedBy: TheRedEye
+  submittedOn: 2012-04-23 02:19:00
+  moreProfiles:
+  - 51
+  - 4642
+  relatedProfiles: []
+  additionalImages: 
+slug: where-in-time-is-carmen-sandiego
+releaseInfo:
+  catalogId: NES-9K-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1991
+  publisher: Konami
+  developer: Brøderbund
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: RD040
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/24e5bd2f58e64fea7b9538fc47d23c21.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: ?????????? P
+  size: 128 KB
+  crc32: 2C945F19
+  x: 2
+- type: CHR0
+  label: ?????????? CL
+  size: 128 KB
+  crc32: D464C0BD
+  x: 1
+- type: CHR1
+  label: ?????????? CH
+  size: 128 KB
+  crc32: AA5FA43C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 917770D8
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9139
+  estFirstRun: September 1991
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Fujitsu
+  partNumber: MBM27C1001-20Z
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8903
+  dateCodeSuffix: R73
+  std: 8903
+  misc: 
+- designation: U10
+  maker: Fujitsu
+  partNumber: MB74LS139
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8822
+  dateCodeSuffix: U22
+  std: 8822
+  misc: 
+- designation: U5 CHR-ROM
+  maker: Fujitsu
+  partNumber: MBM27C1001-20Z
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8753
+  dateCodeSuffix: M31
+  std: 8753
+  misc: 
+- designation: U6 CHR-ROM
+  maker: Fujitsu
+  partNumber: MBM27C1001-20Z
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8848
+  dateCodeSuffix: M04
+  std: 8848
+  misc: 
+- designation: U7 W-RAM
+  maker: NEC
+  partNumber: D4364C-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8807
+  dateCodeSuffix: MX013
+  std: 8807
+  misc: 
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9002
+  dateCodeSuffix: 3 A
+  std: 9002
+  misc: 
+- designation: U9 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 047
+  dateCodeSuffix: C
+  std: 9047
+  misc: 

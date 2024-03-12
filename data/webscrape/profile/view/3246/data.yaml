@@ -1,0 +1,114 @@
+metadata:
+  name: Pro Yakyuu Family Stadium '87
+  altName: プロ野球 ファミリースタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-02 01:47:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1578
+  - 1794
+  - 1810
+  - 2674
+  - 3242
+  - 3243
+  - 3244
+  - 3245
+  - 3246
+  - 3327
+  additionalImages: 
+slug: pro-yakyuu-family-stadium-87
+releaseInfo:
+  catalogId: NAM-FS87-3900
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1987
+  publisher: Namco
+  developer: Namco
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1578')"
+    filename: /images/175/2eb83b55d4bd47a8a15d0411ced1dc39.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1578')"
+    filename: /images/175/c386afc3254bd5b5d2259f21c6fec7fc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT FS87 PRG
+  size: 64 KB
+  crc32: E8B7C767
+  x: 10
+- type: CHR0
+  label: NAMCOT FS87 CHR
+  size: 32 KB
+  crc32: FC1A0E4E
+  x: 10
+- type: N/A
+  label: ROMs Combined
+  size: 96 KB
+  crc32: 1300A8B7
+  x: 10
+pcbProperties:
+  name: 3413
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3413<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2c530b3ca691758b15a0163a1c148cb1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3413<br>Submitted by: bootgod<br>Linked from profile 1578')"
+    filename: /images/175/43c8e2bcffb5f3f127f70ff4cf41c898.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8746 - 8813 (10)
+  estFirstRun: November 1987
+  pcbClass: NAMCOT-3413
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 109
+detailedChipInfo:
+- designation: P
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8746
+  dateCodeSuffix: KX
+  std: 8746
+  misc: 
+- designation: C
+  maker: OKI
+  partNumber: M38256A
+  partNumberSubDetail: 40
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 7Y
+  dateCodeSuffix: 63
+  std: 8744
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 109
+  partNumberSubDetail: 
+  type: Namcot 109
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8737
+  dateCodeSuffix: B
+  std: 8737
+  misc: 

@@ -1,0 +1,109 @@
+metadata:
+  name: 'Aigiina no Yogen: From the Legend of Balubalouk'
+  altName: アイギーナの予言 バルバルークの伝説より
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 23:08:00
+  moreProfiles:
+  - 1471
+  - 2736
+  relatedProfiles: []
+  additionalImages: 
+slug: aigiina-no-yogen-from-the-legend-of-balubalouk
+releaseInfo:
+  catalogId: VIC-AY
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 21, 1986
+  publisher: Vic Tokai
+  developer: Vic Tokai
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cyan
+  formFactor: Small
+  frontLabelId: VIC-AY
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1471')"
+    filename: /images/175/19fc6614524dd959bf11e216d5b5d888.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VIC-AY-0 PRG
+  size: 128 KB
+  crc32: 37F59450
+  x: 2
+pcbProperties:
+  name: HVC-UNROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8644 - 8644 (2)
+  estFirstRun: November 1986
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8644
+  dateCodeSuffix: KX
+  std: 8644
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: D4364C-12L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8626
+  dateCodeSuffix: A3015
+  std: 8626
+  misc: 
+- designation: LS161
+  maker: Toshiba
+  partNumber: TC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8628
+  dateCodeSuffix: H
+  std: 8628
+  misc: 
+- designation: LS32
+  maker: Fujitsu
+  partNumber: MB74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8636
+  dateCodeSuffix: M02
+  std: 8636
+  misc: 

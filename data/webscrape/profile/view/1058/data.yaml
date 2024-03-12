@@ -1,0 +1,119 @@
+metadata:
+  name: "Lethal Weapon: L'Arme Fatale"
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-10-01 17:29:00
+  moreProfiles: []
+  relatedProfiles:
+  - 702
+  additionalImages: 
+slug: lethal-weapon-larme-fatale
+releaseInfo:
+  catalogId: NES-LY-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1993
+  publisher: Ocean
+  developer: Eurocom
+  players: 1
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-LY-FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PAL-LY-0 PRG
+  size: 128 KB
+  crc32: FFDA5D58
+  x: 1
+- type: CHR0
+  label: PAL-LY-0 CHR
+  size: 128 KB
+  crc32: 2E46EBEE
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E043C6A5
+  x: 1
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1345575037299ec9b2ab3882c7a830d6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9322
+  estFirstRun: June 1993
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6727
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3FC
+  dateCodeSuffix: 40
+  std: 9322
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0188
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 3FC
+  dateCodeSuffix: 10
+  std: 9322
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9218
+  dateCodeSuffix: C
+  std: 9218
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9244
+  dateCodeSuffix: 7 A 170
+  std: 9244
+  misc: 

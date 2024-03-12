@@ -1,0 +1,107 @@
+metadata:
+  name: Circus Charlie
+  altName: サーカスチャーリー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 21:05:00
+  moreProfiles:
+  - 2171
+  - 2711
+  relatedProfiles: []
+  additionalImages: 
+slug: circus-charlie
+releaseInfo:
+  catalogId: SFC-CC
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 4, 1986
+  publisher: Soft Pro
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: SFC-CC
+  backLabelId/Desc: 850610
+  2-DigitCode: 02
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2171')"
+    filename: /images/175/8c8a9d7568ba99fcd52c269ffb8317f1.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: 1497C75E
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: F76C592A
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: B87AB35A
+  x: 2
+pcbProperties:
+  name: 3I
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3I<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d9edc46d38e3bc151c845fb22ed7ac6d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3I<br>Submitted by: bootgod<br>Linked from profile 3364')"
+    filename: /images/175/92ad84127f96344f6941a644d4496049.jpg
+  pcbProducer: Nintendo
+  manufacturer: OKI
+  mfgRange: 8605 - 8605 (2)
+  estFirstRun: February 1986
+  pcbClass: HVC-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: OKI
+  partNumber: SFC-CC
+  partNumberSubDetail: 0
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 62
+  dateCodeSuffix: 05
+  std: 8605
+  misc: 2H-R9
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP128
+  type: Bonded ROM
+  typeSubDetail: 16 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

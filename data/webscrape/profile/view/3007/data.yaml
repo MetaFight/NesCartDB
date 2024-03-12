@@ -1,0 +1,119 @@
+metadata:
+  name: Argus
+  altName: アーガス
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-13 02:54:00
+  moreProfiles:
+  - 2283
+  - 3007
+  - 3286
+  relatedProfiles: []
+  additionalImages: 
+slug: argus
+releaseInfo:
+  catalogId: JF-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 17, 1986
+  publisher: Jaleco
+  developer: TOSE Software
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Aqua
+  formFactor: Small
+  embossedText: Made in Japan
+  frontLabelId: JF-07
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2283')"
+    filename: /images/175/c7b137385c8c0db6a54d27241613edff.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1732')"
+    filename: /images/175/5596237bbfb5a8c8934679235e84e7e0.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: C9C2A1EC
+  x: 3
+- type: CHR0
+  label: JF-07C
+  size: 16 KB
+  crc32: BE773669
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 656FA3B5
+  x: 3
+pcbProperties:
+  name: JF-07
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-07<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/96b831f89461536398a28f4a751dcfdf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-07<br>Submitted by: bootgod<br>Linked from profile 2283')"
+    filename: /images/175/a53efeae4c77b074e6acf4f112d9885f.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 8614 - 8616 (3)
+  estFirstRun: April 1986
+  pcbClass: JALECO-JF-07
+  inesMapper: 87
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx139, 74xx74
+detailedChipInfo:
+- designation: PR
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: 36
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8614
+  dateCodeSuffix: E
+  std: 8614
+  misc: 
+- designation: CH
+  maker: Sharp
+  partNumber: RP2D129
+  partNumberSubDetail: 0901
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 6D2
+  dateCodeSuffix: 23
+  std: 8616
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC139C
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8607
+  dateCodeSuffix: A7
+  std: 8607
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: D74HC74C
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8605
+  dateCodeSuffix: A7
+  std: 8605
+  misc: 

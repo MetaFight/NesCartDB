@@ -1,0 +1,108 @@
+metadata:
+  name: Datsugoku
+  altName: 脱獄
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 04:56:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4449
+  - 1875
+  - 412
+  additionalImages: 
+slug: datsugoku
+releaseInfo:
+  catalogId: KAC-P7
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 30, 1989
+  publisher: KAC
+  developer: SNK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Cornflower Blue
+  formFactor: Small
+  frontLabelId: KAC-P7
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/257ab469bae8ca6484e820b6c3565ab3.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KAC-P7-0 PRG
+  size: 128 KB
+  crc32: A1431BBD
+  x: 1
+- type: CHR0
+  label: KAC-P7-0 CHR
+  size: 128 KB
+  crc32: 21961353
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 360AA8B4
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b863a0bac42d252140a8492b2df0f929.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8923
+  estFirstRun: June 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: 4A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8923
+  dateCodeSuffix: D
+  std: 8923
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 6A
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8923
+  dateCodeSuffix: E
+  std: 8923
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8923
+  dateCodeSuffix: 3 A
+  std: 8923
+  misc: 

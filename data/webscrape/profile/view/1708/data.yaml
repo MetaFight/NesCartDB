@@ -1,0 +1,110 @@
+metadata:
+  name: '1943: The Battle of Valhalla'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 01:31:00
+  moreProfiles:
+  - 1637
+  - 1708
+  relatedProfiles:
+  - 1101
+  additionalImages: 
+slug: 1943-the-battle-of-valhalla
+releaseInfo:
+  catalogId: CAP-43
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: June 20, 1988
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: CAP-43
+  backLabelId/Desc: 860410
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1637')"
+    filename: /images/175/55f2f7011d691f0a76d136fea8cd30c5.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: CAP-43-0 PRG
+  size: 128 KB
+  crc32: 4E42F13A
+  x: 2
+pcbProperties:
+  name: HVC-UNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8821 - 8822 (2)
+  estFirstRun: May 1988
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG-ROM
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: 69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8821
+  dateCodeSuffix: D
+  std: 8821
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5264D4
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: 1 Y
+  std: 8814
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8819
+  dateCodeSuffix: CA
+  std: 8819
+  misc: 
+- designation: LS32
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8C1
+  dateCodeSuffix: T
+  std: 8810
+  misc: 

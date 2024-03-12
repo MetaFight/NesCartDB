@@ -1,0 +1,112 @@
+metadata:
+  name: Virus
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2013-03-04 01:59:00
+  moreProfiles:
+  - 4687
+  - 4688
+  relatedProfiles:
+  - 1945
+  - 1494
+  - 2465
+  - 1899
+  - 174
+  additionalImages: 
+slug: virus
+releaseInfo:
+  catalogId: NES-VU-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1990
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/738498a22917146b33ee8b0501772d57.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/dc81a28d97490d060a1fa5c063c69007.jpg
+romDetails:
+- type: PRG0
+  label: VIRUS 4 08A8
+  size: 32 KB
+  crc32: BEBA9AC6
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 1D904031
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: A9068D17
+  x: 1
+pcbProperties:
+  name: NES-NROM-256-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/9fe30925099ac8a7338a9f45b45fbc27.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-256-02<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/10cfbc3e8dec10dbf4f8d73fea73ee04.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193A
+detailedChipInfo:
+- designation: PRG
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: 27C256
+  type: UV EPROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: CHR
+  maker: Intel
+  partNumber: D2764A-20
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 744
+  dateCodeSuffix: K
+  std: 8744
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8704
+  dateCodeSuffix: A
+  std: 8704
+  misc: 

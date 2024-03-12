@@ -1,0 +1,119 @@
+metadata:
+  name: The Best Play Pro Yakyuu Special
+  altName: ベストプレープロ野球スペシャル
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-07-02 05:19:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: the-best-play-pro-yakyuu-special
+releaseInfo:
+  catalogId: HSP-BS
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 16, 1992
+  publisher: ASCII
+  developer: ASCII
+  players: 2
+  peripherals: ',Famicom Controller'
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Famicom Logo
+  frontLabelId: HSP-BS-1
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/12933e979edf7dc5148447c84fbdae3f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: jpx72<br>Linked from profile 4596')"
+    filename: /images/175/4c21a096d0f44d336475e9c1d5a8396c.jpg
+romDetails:
+- type: PRG0
+  label: HSP-BS-1 PRG
+  size: 256 KB
+  crc32: C3DE7C69
+  x: 1
+pcbProperties:
+  name: HVC-SXROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9247
+  estFirstRun: November 1992
+  pcbClass: HVC-SXROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 32 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx04, MMC1B2
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB832000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9247
+  dateCodeSuffix: T00
+  std: 9247
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9228
+  dateCodeSuffix: EJ
+  std: 9228
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9244
+  dateCodeSuffix: 5 A 170
+  std: 9244
+  misc: 
+- designation: U4 W-RAM
+  maker: Hyundai
+  partNumber: HY62256ALLP-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9240
+  dateCodeSuffix: B
+  std: 9240
+  misc: 
+- designation: U5 HCU04
+  maker: Texas Instruments
+  partNumber: SN74HCU04N
+  partNumberSubDetail: 
+  type: 74-04 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 240
+  dateCodeSuffix: ER
+  std: 9240
+  misc: 

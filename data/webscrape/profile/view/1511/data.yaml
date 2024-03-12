@@ -1,0 +1,103 @@
+metadata:
+  name: Faxanadu
+  altName: ファザナドゥ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 08:09:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2392
+  - 2368
+  - 2148
+  - 4364
+  - 2550
+  - 4483
+  - 616
+  additionalImages: 
+slug: faxanadu
+releaseInfo:
+  catalogId: HFC-FX
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 16, 1987
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HFC-FX
+  backLabelId/Desc: 860410
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e2d108621d9188988982f32130ce4b0b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HFC-FX-0 PRG
+  size: 256 KB
+  crc32: A80FA181
+  x: 1
+pcbProperties:
+  name: HVC-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8746
+  estFirstRun: November 1987
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8746
+  dateCodeSuffix: KY
+  std: 8746
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8738
+  dateCodeSuffix: BU
+  std: 8738
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8741
+  dateCodeSuffix: A
+  std: 8741
+  misc: 

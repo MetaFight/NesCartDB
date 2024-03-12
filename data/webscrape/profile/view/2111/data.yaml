@@ -1,0 +1,77 @@
+metadata:
+  name: F-15 Strike Eagle
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2007-09-24 05:01:00
+  moreProfiles: []
+  relatedProfiles:
+  - 979
+  - 4499
+  - 1860
+  - 2410
+  - 227
+  additionalImages: 
+slug: f-15-strike-eagle
+releaseInfo:
+  catalogId: NES-8F-ITA
+  region: Italy (PAL-A)
+  class: Licensed
+  releaseDate: February 18, 1993
+  publisher: Microprose
+  developer: Microprose
+  players: 1
+  peripherals: NES Controller
+  country: Italy
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8F-ITA/ITA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: ITA-8F-0 PRG
+  size: 256 KB
+  crc32: 68AD57AB
+  x: 1
+- type: CHR0
+  label: ITA-8F-0 CHR
+  size: 256 KB
+  crc32: 727F8BC3
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: FA74F656
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3197A
+  hardware: MMC3C
+detailedChipInfo: []

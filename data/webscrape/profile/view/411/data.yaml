@@ -1,0 +1,128 @@
+metadata:
+  name: WWF WrestleMania Challenge
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-28 02:02:00
+  moreProfiles:
+  - 411
+  - 1169
+  - 1323
+  relatedProfiles:
+  - 4440
+  - 1982
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-W9-USA-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/96d2db4ec6c252d2c665ae2aa563b690.jpg
+slug: wwf-wrestlemania-challenge
+releaseInfo:
+  catalogId: NES-W9-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: November 1990
+  publisher: LJN
+  developer: Rare
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-W9-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9a921f17d637e0159e66c471c0a93a08.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6a490920ce9670ca1f23f12a18583e37.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-W9-0 PRG
+  size: 128 KB
+  crc32: A0230D75
+  x: 3
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9113
+  estFirstRun: March 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S40
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9113
+  dateCodeSuffix: E9702
+  std: 9113
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sony
+  partNumber: CXK5864APS-12LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0I
+  dateCodeSuffix: 43Y
+  std: 9035
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9048
+  dateCodeSuffix: 1 BB
+  std: 9048
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9033
+  dateCodeSuffix: ''
+  std: 9033
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9034
+  dateCodeSuffix: ''
+  std: 9034
+  misc: 

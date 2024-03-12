@@ -1,0 +1,108 @@
+metadata:
+  name: Ganbare Pennant Race!
+  altName: がんばれペナントレース!
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-16 00:49:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1774
+  - 2651
+  - 3132
+  - 3133
+  additionalImages: 
+slug: ganbare-pennant-race
+releaseInfo:
+  catalogId: KON-RC834
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: February 28, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC834
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1774')"
+    filename: /images/175/8428688e27571529b205e623b1037d64.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1774')"
+    filename: /images/175/15e1c672a46c5aa775bd5dc4e1ffde5e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC834J0P
+  size: 128 KB
+  crc32: 953CA1B6
+  x: 4
+- type: CHR0
+  label: RC834J0C
+  size: 128 KB
+  crc32: 89A44100
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 90F6FA33
+  x: 4
+pcbProperties:
+  name: 351618
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351618<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e750491ad8bcec3e574c0e5c73ef2af.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351618<br>Submitted by: bootgod<br>Linked from profile 1774')"
+    filename: /images/175/aa7a7d39d4f788062615ef3d8ebff9ee.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8905 - 8908 (4)
+  estFirstRun: February 1989
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 22
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: IC1
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8907
+  dateCodeSuffix: Z31
+  std: 8907
+  misc: 
+- designation: IC2
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8905
+  dateCodeSuffix: EX
+  std: 8905
+  misc: 
+- designation: IC3
+  maker: Panasonic
+  partNumber: 052470 VRC II
+  partNumberSubDetail: KNC
+  type: Konami VRC II
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8
+  dateCodeSuffix: ''
+  std: 8843
+  misc: 

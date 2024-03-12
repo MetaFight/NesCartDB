@@ -1,0 +1,119 @@
+metadata:
+  name: Pesterminator
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-16 21:53:00
+  moreProfiles:
+  - 1237
+  - 2587
+  - 2355
+  relatedProfiles: []
+  additionalImages: 
+slug: pesterminator
+releaseInfo:
+  catalogId: CDR-PR-81015
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1990
+  publisher: Color Dreams
+  developer: Color Dreams
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Color Dreams, Inc. Pat. Pend. Made in Taiwan
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f76bcdd1362d762e801c6e912791017a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1239')"
+    filename: /images/175/0afa387af9c5dc8794c967fba4f0e30e.jpg
+romDetails:
+- type: PRG0
+  label: PESTERMINATOR PRG.
+  size: 64 KB
+  crc32: BA93CB95
+  x: 3
+- type: CHR0
+  label: PESTERMINATOR VID.
+  size: 64 KB
+  crc32: F7989510
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 6A483073
+  x: 3
+pcbProperties:
+  name: UNK-COLORDREAMS-REVC
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-COLORDREAMS-REVC<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7621bc188a4af455f9db6f195cdcb0ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-COLORDREAMS-REVC<br>Submitted by: bootgod<br>Linked from profile 734')"
+    filename: /images/175/6db2f12e1dc02869b779004a380ecadf.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9013 - 9133 (3)
+  estFirstRun: March 1990
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: U1
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9040
+  dateCodeSuffix: HRF
+  std: 9040
+  misc: 
+- designation: U2
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9040
+  dateCodeSuffix: JDF
+  std: 9040
+  misc: 
+- designation: U3
+  maker: ST Micro
+  partNumber: T74LS377B1
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9127
+  dateCodeSuffix: 9
+  std: 9127
+  misc: 
+- designation: U4
+  maker: Linear Tech
+  partNumber: LTC1044-CN8
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9133
+  dateCodeSuffix: ''
+  std: 9133
+  misc: 

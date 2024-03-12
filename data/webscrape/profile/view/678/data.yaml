@@ -1,0 +1,120 @@
+metadata:
+  name: 'The King of Kings:  The Early Years'
+  altName: 
+  variant: (Version 1.3)
+  submittedBy: bootgod
+  submittedOn: 2006-03-23 05:28:00
+  moreProfiles:
+  - 364
+  - 678
+  - 1607
+  - 4772
+  relatedProfiles: []
+  additionalImages: 
+slug: the-king-of-kings-the-early-years
+releaseInfo:
+  catalogId: WT-KK-6
+  region: USA (NTSC)
+  class: Unlicensed  » Multi-cart
+  releaseDate: 1991
+  publisher: Wisdom Tree
+  developer: Wisdom Tree
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Color Dreams
+  color: Black
+  formFactor: Inset Grip
+  embossedText: Manufacture by Color Dreams, Inc.
+  backLabelDesc: Black Caution Label
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/38a2ced2a4067427cab4da6cd26151ce.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 2709')"
+    filename: /images/175/bae06d39de42a2203c30a3fc72e13880.jpg
+romDetails:
+- type: PRG0
+  label: KING VER 1.3 PRG.
+  size: 128 KB
+  crc32: 541989E1
+  x: 1
+- type: CHR0
+  label: KING VER 1.3 VID.
+  size: 128 KB
+  crc32: 1ACA7960
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 86974CCC
+  x: 1
+pcbProperties:
+  name: BC6
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>BC6<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4370373df7ec85cdfde44abddd2c0034.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>BC6<br>Submitted by: bootgod<br>Linked from profile 959')"
+    filename: /images/175/b7d0356591b6e75b94813ede33e05e92.jpg
+  pcbProducer: Color Dreams
+  manufacturer: BTC
+  mfgRange: 9131 - 9143 (3)
+  estFirstRun: August 1991
+  pcbClass: COLORDREAMS-74*377
+  inesMapper: 11
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 7660
+  hardware: 74xx377
+detailedChipInfo:
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9137
+  dateCodeSuffix: TEF
+  std: 9137
+  misc: 
+- designation: 
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9133
+  dateCodeSuffix: GMF
+  std: 9133
+  misc: 
+- designation: 
+  maker: Signetics
+  partNumber: 74LS377N
+  partNumberSubDetail: 
+  type: 74-377 Series
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9122
+  dateCodeSuffix: VD
+  std: 9122
+  misc: FJT3488
+- designation: 
+  maker: Teledyne
+  partNumber: TC7660CPA
+  partNumberSubDetail: 
+  type: 7660 DC Charge Pump
+  typeSubDetail: 
+  package: DIP-8
+  dateCodePrefix: 9143
+  dateCodeSuffix: EH
+  std: 9143
+  misc: 

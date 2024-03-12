@@ -1,0 +1,96 @@
+metadata:
+  name: Bee 52
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-22 10:47:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/046228d95f14ec30db1dfeca4b4de2ad.jpg
+slug: bee-52
+releaseInfo:
+  catalogId: CAM-BE
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1992
+  publisher: Camerica
+  developer: Codemasters
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Camerica
+  color: Silver
+  formFactor: NES Cart
+  embossedText: Made in Taiwan Design Patent Pending
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d6bef1c0a0e5e1fc8758b878fbaa39aa.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/510848d48d07bd25d232272a7fd8191d.jpg
+romDetails:
+- type: PRG0
+  label: COBIC BE-V1
+  size: 64 KB
+  crc32: 6C93377C
+  x: 1
+pcbProperties:
+  name: BIC-64
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 9207
+  estFirstRun: February 1992
+  pcbClass: CAMERICA-BF9093
+  inesMapper: 71
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: CIC Stun
+  hardware: BF9093
+detailedChipInfo:
+- designation: U1
+  maker: Hyundai
+  partNumber: BF9093
+  partNumberSubDetail: 
+  type: Camerica BF9093
+  typeSubDetail: 
+  package: DIP-20
+  dateCodePrefix: 9207
+  dateCodeSuffix: T
+  std: 9207
+  misc: 
+- designation: U2
+  maker: Samsung
+  partNumber: 
+  partNumberSubDetail: KM23C512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: U3
+  maker: Vitelic
+  partNumber: V63C64S45
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 9105
+  dateCodeSuffix: ''
+  std: 9105
+  misc: 

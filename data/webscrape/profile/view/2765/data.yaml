@@ -1,0 +1,133 @@
+metadata:
+  name: Gun.Smoke
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-05-28 18:21:00
+  moreProfiles:
+  - 832
+  - 2765
+  - 1007
+  - 1407
+  relatedProfiles:
+  - 1415
+  - 4485
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-GK USA<br>Submitted by: bootgod<br>Linked from profile 832')"
+    filename: /images/175/07c5abb58128e32c8656ba5b0d220901.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-GK USA<br>Submitted by: bootgod<br>Linked from profile 832')"
+    filename: /images/175/ee73d71534fd91e79070e17bc2e531e4.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-GK-USA<br>Submitted by: bootgod<br>Linked from profile 1407')"
+    filename: /images/175/eecfcbf9628312e850f40a4c66c8005a.jpg
+slug: gunsmoke
+releaseInfo:
+  catalogId: NES-GK-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1988
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-GK-USA[-1]
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 832')"
+    filename: /images/175/52b9592ba78c149f54fd491866f5c0f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-GK-0 PRG
+  size: 128 KB
+  crc32: A8784932
+  x: 4
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8806 - 8846 (3)
+  estFirstRun: February 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: KX
+  std: 8844
+  misc: 
+- designation: CHR RAM
+  maker: Toshiba
+  partNumber: TC5563APL-12L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8846
+  dateCodeSuffix: HCK
+  std: 8846
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8846
+  dateCodeSuffix: 3 AA
+  std: 8846
+  misc: 
+- designation: LS161N
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 834
+  dateCodeSuffix: J
+  std: 8834
+  misc: 
+- designation: LS32
+  maker: Hitachi
+  partNumber: HD74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8K1
+  dateCodeSuffix: T
+  std: 8840
+  misc: 

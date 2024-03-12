@@ -1,0 +1,127 @@
+metadata:
+  name: Excitebike
+  altName: 
+  variant: 
+  submittedBy: Skrybe
+  submittedOn: 2016-08-23 03:39:00
+  moreProfiles:
+  - 18
+  - 19
+  - 311
+  - 655
+  - 826
+  - 837
+  - 1069
+  - 1118
+  - 4732
+  relatedProfiles:
+  - 2056
+  - 2149
+  - 1467
+  - 1960
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-EB USA<br>Submitted by: bootgod<br>Linked from profile 837')"
+    filename: /images/175/bcb22823af85f37fc23ef4244f631304.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-EB USA<br>Submitted by: bootgod<br>Linked from profile 837')"
+    filename: /images/175/c4eea3c2c96a22888e9f07d712a1377e.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-EB-USA<br>Submitted by: bootgod<br>Linked from profile 837')"
+    filename: /images/175/bc576f3542ca12b27beff88e5ba7c6b2.jpg
+slug: excitebike
+releaseInfo:
+  catalogId: NES-EB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-EB-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/53e8101a44bd4c22b203d9e54c033200.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/e45862ff775a51e31d3d72e4617a8a63.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/ee35da78e2d3120994f34a3b82d6efc3.jpg
+romDetails:
+- type: PRG0
+  label: HVC-EB-0 PRG
+  size: 16 KB
+  crc32: 3A94FA0B
+  x: 15
+- type: CHR0
+  label: HVC-EB-0 CHR
+  size: 8 KB
+  crc32: E5F72401
+  x: 22
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 49AEB3A6
+  x: 17
+pcbProperties:
+  name: NES-NROM-128-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-05<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/703694ded315856eb651ccfc1bbd6c1d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-05<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/ae9b89348a6e37c4397c808d83596c1b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8651 - 8934 (7)
+  estFirstRun: December 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+detailedChipInfo:
+- designation: U1 PRG
+  maker: OKI
+  partNumber: M38128B
+  partNumberSubDetail: EY
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 97
+  dateCodeSuffix: 66
+  std: 8927
+  misc: 
+- designation: U2 CHR
+  maker: OKI
+  partNumber: M3864B
+  partNumberSubDetail: EY
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 97
+  dateCodeSuffix: 14
+  std: 8927
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8934
+  dateCodeSuffix: 5 CA
+  std: 8934
+  misc: 

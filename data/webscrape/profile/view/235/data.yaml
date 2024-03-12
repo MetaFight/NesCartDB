@@ -1,0 +1,117 @@
+metadata:
+  name: Deadly Towers
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-02 04:18:00
+  moreProfiles:
+  - 235
+  - 60
+  - 514
+  - 1382
+  relatedProfiles:
+  - 2259
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-DE-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b73a69214c09280d576e4e6c13b4bd4.jpg
+slug: deadly-towers
+releaseInfo:
+  catalogId: NES-DE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Br?derbund
+  developer: Lenar
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DE-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 20
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 60')"
+    filename: /images/175/d5b0fed2a9725dbbd7f1600c5f71f27b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 60')"
+    filename: /images/175/5c7d75868fce19d1c80185bbab59fbab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-DE-0 PRG
+  size: 128 KB
+  crc32: C2730C30
+  x: 4
+pcbProperties:
+  name: NES-BN-ROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8730 - 8839 (3)
+  estFirstRun: July 1987
+  pcbClass: NES-BNROM
+  inesMapper: 34
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0218
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7J4
+  dateCodeSuffix: A4
+  std: 8740
+  misc: 
+- designation: CHR RAM
+  maker: OKI
+  partNumber: M5165-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 64
+  dateCodeSuffix: 082
+  std: 8614
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8734
+  dateCodeSuffix: C
+  std: 8734
+  misc: 
+- designation: LS161N
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8723
+  dateCodeSuffix: CA
+  std: 8723
+  misc: 

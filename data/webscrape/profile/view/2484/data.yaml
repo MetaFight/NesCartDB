@@ -1,0 +1,124 @@
+metadata:
+  name: Rad Racer
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-12 00:22:00
+  moreProfiles:
+  - 1433
+  - 2484
+  - 2698
+  - 4160
+  relatedProfiles:
+  - 2389
+  - 1967
+  - 2124
+  - 3918
+  - 1943
+  - 243
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RC-EEC<br>Submitted by: Kinopio<br>Linked from profile 2698')"
+    filename: /images/175/d5fbd3345ee627a04e485bbeb6266b71.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RC-EEC<br>Submitted by: Kinopio<br>Linked from profile 2698')"
+    filename: /images/175/10cf1bf640ffd96376f3b5611c3d0dcb.jpg
+slug: rad-racer
+releaseInfo:
+  catalogId: NES-RC-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: January 15, 1988
+  publisher: Nintendo
+  developer: Square
+  players: 1
+  peripherals: NES Controller,3-D Glasses
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RC-EEC
+  sealOfQuality: None
+  mfgstringPresent: No
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/86b914cce8c59e792907c2f4d8e1d3ea.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/d06f70b0faf2cfb6b8dd9773dbc61b23.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-RC-0 PRG
+  size: 128 KB
+  crc32: 654F4E90
+  x: 8
+pcbProperties:
+  name: NES-SGROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8748 - 8914 (4)
+  estFirstRun: December 1987
+  pcbClass: NES-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: MMC1A
+detailedChipInfo:
+- designation: IC1 PRG-ROM
+  maker: Sharp
+  partNumber: LH2310
+  partNumberSubDetail: 7L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8914
+  dateCodeSuffix: E
+  std: 8914
+  misc: 
+- designation: IC2 CHR-RAM
+  maker: Fujitsu
+  partNumber: MB8464A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8905
+  dateCodeSuffix: KT51
+  std: 8905
+  misc: 
+- designation: IC3 MMC
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8912
+  dateCodeSuffix: 1 A
+  std: 8912
+  misc: 
+- designation: IC4 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8914
+  dateCodeSuffix: A
+  std: 8914
+  misc: 

@@ -1,0 +1,173 @@
+metadata:
+  name: Impossible Mission-II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-20 02:41:00
+  moreProfiles: []
+  relatedProfiles:
+  - 221
+  additionalImages: 
+slug: impossible-mission-ii
+releaseInfo:
+  catalogId: AVE-IM
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: AVE
+  developer: Epyx
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1081')"
+    filename: /images/175/afe0fdd3caa3d94ec57bd89d424e4c38.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1081')"
+    filename: /images/175/a67000b4d8a7ad5cf207eaade8bb4297.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b0a44c530d6392d1a5ac7c2f7c37dde.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 64 KB
+  crc32: 3A5CC3FA
+  x: 5
+- type: CHR0
+  label: CHR
+  size: 64 KB
+  crc32: B66C53B9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 92A3D007
+  x: 5
+pcbProperties:
+  name: NINA-002 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-002 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f1079446dbbe5b26ee49e22e9b39450e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-002 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3bfe1f67e54aa1f9549012278f6fc63.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 8944 - 8945 (3)
+  estFirstRun: November 1989
+  pcbClass: AVE-NINA-02
+  inesMapper: 34
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: CIC Stun
+  hardware: 74xx00, 74xx133, 74xx139, 74xx173, 74xx173, 74xx74
+detailedChipInfo:
+- designation: 
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1005
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: 
+  maker: Macronix
+  partNumber: 23C1033
+  partNumberSubDetail: 2002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8944
+  dateCodeSuffix: ''
+  std: 8944
+  misc: 17672
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS74A
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: I22
+  dateCodeSuffix: ''
+  std: 8922
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GM76C88-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: I14
+  dateCodeSuffix: ''
+  std: 8914
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: 
+  maker: Mitel
+  partNumber: MD74HCT139RE
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8436
+  dateCodeSuffix: DY
+  std: 8436
+  misc: B09005C4
+- designation: 
+  maker: ST Micro
+  partNumber: T74LS133B1
+  partNumberSubDetail: 
+  type: 74-133 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8940
+  dateCodeSuffix: 9
+  std: 8940
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: 
+  maker: GoldStar
+  partNumber: GD74LS00
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8927
+  dateCodeSuffix: ''
+  std: 8927
+  misc: 

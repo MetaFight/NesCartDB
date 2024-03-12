@@ -1,0 +1,109 @@
+metadata:
+  name: "Twin Eagle: Revenge Joe's Brother"
+  altName: ツインイーグル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2013-11-27 04:19:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1094
+  additionalImages: 
+slug: twin-eagle-revenge-joes-brother
+releaseInfo:
+  catalogId: VIS-2E
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 12, 1991
+  publisher: Visco
+  developer: Seta
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Green
+  formFactor: Small
+  frontLabelId: VIS-2E
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c5786e0ac10dc1788703131d98922093.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VIS-2E-0 PRG
+  size: 128 KB
+  crc32: 3CF67AEC
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9110
+  estFirstRun: March 1991
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NSC
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1
+  dateCodeSuffix: B3
+  std: 9110
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9037
+  dateCodeSuffix: M5
+  std: 9037
+  misc: 
+- designation: U3 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 037
+  dateCodeSuffix: EN
+  std: 9037
+  misc: 
+- designation: U4 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 024
+  dateCodeSuffix: GN
+  std: 9024
+  misc: 

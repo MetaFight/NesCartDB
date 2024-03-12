@@ -1,0 +1,69 @@
+metadata:
+  name: The 3-D Battles of Worldrunner
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-09 00:57:00
+  moreProfiles:
+  - 387
+  - 1173
+  - 2861
+  relatedProfiles: []
+  additionalImages: 
+slug: the-3-d-battles-of-worldrunner
+releaseInfo:
+  catalogId: NES-WO-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1987
+  publisher: Acclaim
+  developer: Square
+  players: 1
+  peripherals: NES Controller,3-D Glasses
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WO-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 2861')"
+    filename: /images/175/a55a972e45e3b663395ea49542650f75.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2861')"
+    filename: /images/175/c7bac79066f3ecc3aa801e96c7c7f10d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-WO-0 PRG
+  size: 128 KB
+  crc32: E6A477B2
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-04
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8731 - 8748 (2)
+  estFirstRun: August 1987
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3193A
+  hardware: 74xx161, 74xx32
+detailedChipInfo: []

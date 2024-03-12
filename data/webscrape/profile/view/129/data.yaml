@@ -1,0 +1,121 @@
+metadata:
+  name: Metal Storm
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-16 09:20:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2229
+  additionalImages: 
+slug: metal-storm
+releaseInfo:
+  catalogId: NES-4M-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Irem
+  developer: Tamtex
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4M-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9e6ba3af94d6bf49636d1ec612a40fae.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fa2a18b5dd70cf4b06b853b84149e084.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-4M-0 PRG
+  size: 128 KB
+  crc32: 5D05CCD0
+  x: 1
+- type: CHR0
+  label: NES-4M-0 CHR
+  size: 256 KB
+  crc32: 1E7F6E87
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: BCACBBF4
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f53e2eb8d061144f87f8878b750df837.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9102
+  estFirstRun: January 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1860
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 1AJ
+  dateCodeSuffix: XD
+  std: 9102
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP232048E
+  partNumberSubDetail: 0058
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 1AB
+  dateCodeSuffix: 72
+  std: 9101
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9044
+  dateCodeSuffix: 3 AB
+  std: 9044
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9038
+  dateCodeSuffix: KP042
+  std: 9038
+  misc: 

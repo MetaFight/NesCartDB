@@ -1,0 +1,106 @@
+metadata:
+  name: Excitebike
+  altName: エキサイトバイク
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 21:06:00
+  moreProfiles:
+  - 1467
+  - 1694
+  - 2314
+  - 3356
+  - 3472
+  - 3473
+  - 3474
+  - 3648
+  relatedProfiles:
+  - 2056
+  - 2149
+  - 1960
+  - 18
+  additionalImages: 
+slug: excitebike
+releaseInfo:
+  catalogId: HVC-EB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 30, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: HVC-EB
+  backLabelId/Desc: 830901
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1467')"
+    filename: /images/175/2ef7ec8a7b145821e645994c50391651.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-EB-0 PRG
+  size: 16 KB
+  crc32: 3A94FA0B
+  x: 15
+- type: CHR0
+  label: HVC-EB-0 CHR
+  size: 8 KB
+  crc32: E5F72401
+  x: 22
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 49AEB3A6
+  x: 17
+pcbProperties:
+  name: HVC-RROM-05S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0b485dfa53547a12446788f771478b69.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 3492')"
+    filename: /images/175/52e90c72ee82e2d0a1ca3d8d4616badc.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8448 - 8505 (6)
+  estFirstRun: December 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 124P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 504
+  dateCodeSuffix: 102
+  std: 8504
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0065
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 51C
+  dateCodeSuffix: 2
+  std: 8504
+  misc: 

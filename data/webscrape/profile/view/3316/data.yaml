@@ -1,0 +1,104 @@
+metadata:
+  name: Akumajou Densetsu
+  altName: 悪魔城伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-17 03:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: akumajou-densetsu
+releaseInfo:
+  catalogId: KON-RC845
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 22, 1989
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC845
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/942d22d4e6f0eded6b6e64460228aeab.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/769609d8b984f2ce9814f9d467d4238f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC845J0.0P
+  size: 256 KB
+  crc32: BA6BDD6A
+  x: 1
+- type: CHR0
+  label: RC845J0.1C
+  size: 128 KB
+  crc32: BF15255C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: E349AF38
+  x: 1
+pcbProperties:
+  name: 351951
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351951<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c22aee387973530b857efa4aac9348a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351951<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/998dbac20d8f641a7a4e1952849900d3.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 8947
+  estFirstRun: November 1989
+  pcbClass: KONAMI-VRC-6
+  inesMapper: 24
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC6
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH5321
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8947
+  dateCodeSuffix: D
+  std: 8947
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: SCC-I5P72
+  partNumberSubDetail: J802
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8944
+  dateCodeSuffix: EAI
+  std: 8944
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: 053329 VRC VI
+  partNumberSubDetail: 
+  type: Konami VRC VI
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 8945
+  dateCodeSuffix: EAI
+  std: 8945
+  misc: 1105-0039

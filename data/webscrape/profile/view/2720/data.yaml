@@ -1,0 +1,121 @@
+metadata:
+  name: 'Dragon Quest IV: Michibikareshi Mono-tachi'
+  altName: ドラゴンクエストIV 導かれし者たち
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2007-12-02 00:25:00
+  moreProfiles:
+  - 1526
+  - 1658
+  - 2721
+  - 2719
+  - 2720
+  - 3533
+  - 3534
+  - 3535
+  - 3536
+  - 3537
+  - 3649
+  - 4587
+  relatedProfiles:
+  - 1276
+  additionalImages: 
+slug: dragon-quest-iv-michibikareshi-mono-tachi
+releaseInfo:
+  catalogId: EFC-D4
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 11, 1990
+  publisher: Enix
+  developer: Chunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: EFC-D4
+  backLabelId/Desc: EFC-D4
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1526')"
+    filename: /images/175/66422437d9da81e3b946e3ea516f6047.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: EFC-D4-1 PRG
+  size: 512 KB
+  crc32: 0794F2A5
+  x: 11
+pcbProperties:
+  name: HVC-SUROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8948 - 9017 (12)
+  estFirstRun: December 1989
+  pcbClass: HVC-SUROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534C
+  partNumberSubDetail: 06
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9003
+  dateCodeSuffix: E
+  std: 9003
+  misc: 
+- designation: U2 CHR-RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8941
+  dateCodeSuffix: M5
+  std: 8941
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8952
+  dateCodeSuffix: 3 AA
+  std: 8952
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 017
+  dateCodeSuffix: 51
+  std: 9003
+  misc: 

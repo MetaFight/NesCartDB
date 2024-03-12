@@ -1,0 +1,80 @@
+metadata:
+  name: Hogan's Alley
+  altName: 
+  variant: 
+  submittedBy: crade
+  submittedOn: 2008-11-25 05:23:00
+  moreProfiles:
+  - 307
+  - 876
+  - 2938
+  relatedProfiles:
+  - 1841
+  - 3726
+  additionalImages: 
+slug: hogans-alley
+releaseInfo:
+  catalogId: NES-HA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Zapper Light Gun
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-HA-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 876')"
+    filename: /images/175/cf5ad44d99d8ec883659029dc5e5c169.jpg
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: HVC-HA-0 PRG
+  size: 16 KB
+  crc32: 8963AE6E
+  x: 6
+- type: CHR0
+  label: HVC-HA-0 CHR
+  size: 8 KB
+  crc32: 5DF42FC4
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FF24D794
+  x: 6
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8642 - 8909 (2)
+  estFirstRun: October 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113A
+detailedChipInfo: []

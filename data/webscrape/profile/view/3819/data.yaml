@@ -1,0 +1,118 @@
+metadata:
+  name: 'Nichibutsu Mahjong III: Mahjong G Men'
+  altName: ニチブツ麻雀III マージャンＧメン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-09-13 05:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: nichibutsu-mahjong-iii-mahjong-g-men
+releaseInfo:
+  catalogId: NBF-JX (10)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 20, 1990
+  publisher: Nichibutsu
+  developer: Nichibutsu
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NBF-JX
+  secondaryId: 10
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c880c6fe7a2f49202b20ad5b09a4e45c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4598')"
+    filename: /images/175/aa935e9b7086688374b86f3cdb97374d.jpg
+romDetails:
+- type: PRG0
+  label: NBF-JX-0 PRG
+  size: 128 KB
+  crc32: 2E2F9018
+  x: 1
+- type: CHR0
+  label: NBF-JX-0 CHR
+  size: 128 KB
+  crc32: 156DFCDD
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FA2A8A8B
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd714194d146563d7bb17a53eb594eba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9024
+  estFirstRun: June 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S04
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9023
+  dateCodeSuffix: EX033
+  std: 9023
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T98
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9023
+  dateCodeSuffix: EY004
+  std: 9023
+  misc: 
+- designation: U3 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9024
+  dateCodeSuffix: 5 EA
+  std: 9024
+  misc: 
+- designation: U4 W-RAM
+  maker: Panasonic
+  partNumber: MN4464-08LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 056
+  dateCodeSuffix: B1
+  std: 9020
+  misc: 

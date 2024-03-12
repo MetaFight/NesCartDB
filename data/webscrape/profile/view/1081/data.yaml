@@ -1,0 +1,184 @@
+metadata:
+  name: Impossible Mission-II
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-09 06:37:00
+  moreProfiles: []
+  relatedProfiles:
+  - 221
+  additionalImages: 
+slug: impossible-mission-ii
+releaseInfo:
+  catalogId: AVE-IM
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: AVE
+  developer: Epyx
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: AVE
+  color: Black
+  formFactor: Cut Corner
+  embossedText: None
+  backLabelDesc: English & French Caution Label
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/afe0fdd3caa3d94ec57bd89d424e4c38.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a67000b4d8a7ad5cf207eaade8bb4297.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1363')"
+    filename: /images/175/247805ec7722d1d9063d8357d11ebd0e.jpg
+romDetails:
+- type: PRG0
+  label: PGM
+  size: 64 KB
+  crc32: 3A5CC3FA
+  x: 5
+- type: CHR0
+  label: CHR
+  size: 64 KB
+  crc32: B66C53B9
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 92A3D007
+  x: 5
+pcbProperties:
+  name: NINA-001 REV. A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9ce7b1be4740ad800455a4ad6f83ad11.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NINA-001 REV. A<br>Submitted by: bootgod<br>Linked from profile 221')"
+    filename: /images/175/e379db1fc038cda8bb64ebafeed45310.jpg
+  pcbProducer: AVE
+  manufacturer: ACL
+  mfgRange: 8944 - 8945 (3)
+  estFirstRun: November 1989
+  pcbClass: AVE-NINA-01
+  inesMapper: 34
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 23C1033
+  hardware: 74xx00, 74xx133, 74xx139, 74xx173, 74xx173, 74xx74
+detailedChipInfo:
+- designation: U1
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1005
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: U10
+  maker: GoldStar
+  partNumber: GD74LS74A
+  partNumberSubDetail: 
+  type: 74-74 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: I22
+  dateCodeSuffix: ''
+  std: 8922
+  misc: 
+- designation: U2
+  maker: Macronix
+  partNumber: 23512
+  partNumberSubDetail: 1004
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 8943
+  dateCodeSuffix: ''
+  std: 8943
+  misc: 
+- designation: U3
+  maker: Macronix
+  partNumber: 23C1033
+  partNumberSubDetail: 2002
+  type: AVE CIC
+  typeSubDetail: 
+  package: DIP-32
+  dateCodePrefix: 8944
+  dateCodeSuffix: ''
+  std: 8944
+  misc: 17670
+- designation: U4
+  maker: GoldStar
+  partNumber: GM76C88-10
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: I15
+  dateCodeSuffix: ''
+  std: 8915
+  misc: 
+- designation: U5
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U6
+  maker: Mitel
+  partNumber: MD74HCT139RE
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8438
+  dateCodeSuffix: DY
+  std: 8438
+  misc: B17011C4-1
+- designation: U7
+  maker: ST Micro
+  partNumber: T74LS133B1
+  partNumberSubDetail: 
+  type: 74-133 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8944
+  dateCodeSuffix: 9
+  std: 8944
+  misc: 
+- designation: U8
+  maker: GoldStar
+  partNumber: GD74HCT173
+  partNumberSubDetail: 
+  type: 74-173 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8942
+  dateCodeSuffix: ''
+  std: 8942
+  misc: 
+- designation: U9
+  maker: GoldStar
+  partNumber: GD74LS00
+  partNumberSubDetail: 
+  type: 74-00 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8930
+  dateCodeSuffix: ''
+  std: 8930
+  misc: 

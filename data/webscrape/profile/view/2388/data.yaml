@@ -1,0 +1,130 @@
+metadata:
+  name: Castlevania
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-12-31 05:10:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1410
+  - 3987
+  - 57
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-CV-NOE-1<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/52d16ebb14a152828b58297d99af7bc6.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-CV-NOE-1<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/31def65c0dae04480b2b2521df080dda.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-CV-NOE-1<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/94375a337c408417fd77dd08704b6fde.jpg
+slug: castlevania
+releaseInfo:
+  catalogId: NES-CV-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: December 19, 1988
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CV-NOE-1
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e33b70f3efe720fe859aeff31c50d16e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/6eaa6ae31cf5142252143ff172a3b7ef.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-CV-0 PRG
+  size: 128 KB
+  crc32: A93527E2
+  x: 7
+pcbProperties:
+  name: NES-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9412
+  estFirstRun: March 1994
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 65
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9412
+  dateCodeSuffix: E
+  std: 9412
+  misc: 
+- designation: U2 CHR RAM
+  maker: Sanyo
+  partNumber: LC3564QL-10N
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 29
+  dateCodeSuffix: 815
+  std: 9236
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9246
+  dateCodeSuffix: C
+  std: 9246
+  misc: 
+- designation: U4 HC161
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 223
+  dateCodeSuffix: ER
+  std: 9223
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9329
+  dateCodeSuffix: ''
+  std: 9329
+  misc: 

@@ -1,0 +1,120 @@
+metadata:
+  name: G.I. Joe
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-27 05:04:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: gi-joe
+releaseInfo:
+  catalogId: NES-X4-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1991
+  publisher: Taxan
+  developer: KID
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-X4-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 28
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7e67c879ee7235179ab6d6e5f771e944.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f17a3fb8fc27c5f9265fb8965ad31ecb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-X4-0 PRG
+  size: 128 KB
+  crc32: 7A373833
+  x: 1
+- type: CHR0
+  label: NES-X4-0 CHR
+  size: 256 KB
+  crc32: 03BBEBAF
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 1D2D93FF
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/685cb9cd355a9330585d1d7da11f5420.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9049
+  estFirstRun: December 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 6618
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0LC
+  dateCodeSuffix: 70
+  std: 9044
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP232048D
+  partNumberSubDetail: 0055
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 0MB
+  dateCodeSuffix: 7B
+  std: 9048
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 043
+  dateCodeSuffix: C
+  std: 9043
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9049
+  dateCodeSuffix: 1 DB
+  std: 9049
+  misc: 

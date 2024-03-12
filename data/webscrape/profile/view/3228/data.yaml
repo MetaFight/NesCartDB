@@ -1,0 +1,99 @@
+metadata:
+  name: Tag Team Pro-Wrestling
+  altName: タッグチー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-03-01 00:27:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1587
+  - 2662
+  - 1800
+  - 3227
+  - 3228
+  - 3334
+  additionalImages: 
+slug: tag-team-pro-wrestling
+releaseInfo:
+  catalogId: NAM-NPW-4900-13
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: April 2, 1986
+  publisher: Namco
+  developer: Data East
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 13
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1587')"
+    filename: /images/175/3368b14290abb294dec210d29ca4c952.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1587')"
+    filename: /images/175/a5ae7e191ab2e5ebf0f51699657b796c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1576')"
+    filename: /images/175/8025d10937cadde911c0bdc432ab24d7.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: EDD7479A
+  x: 6
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: C8C6AEC3
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 32FA246F
+  x: 6
+pcbProperties:
+  name: 3311
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3311<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f68ecfc69456c371bb09bea1ad077dd4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3311<br>Submitted by: bootgod<br>Linked from profile 1587')"
+    filename: /images/175/54abc7e0f842666d69977765c21c28a9.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8550 - 8610 (6)
+  estFirstRun: December 1985
+  pcbClass: NAMCOT-3311
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: Intel
+  partNumber: P27256
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 601
+  dateCodeSuffix: U
+  std: 8601
+  misc: 
+- designation: CH
+  maker: Intel
+  partNumber: P2764A
+  partNumberSubDetail: 
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 539
+  dateCodeSuffix: U
+  std: 8539
+  misc: 

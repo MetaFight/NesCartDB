@@ -1,0 +1,122 @@
+metadata:
+  name: 'Best Keiba: Derby Stallion'
+  altName: ベスト競馬ダービースタリオン
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2009-05-10 05:02:00
+  moreProfiles:
+  - 1689
+  - 3459
+  - 3460
+  - 3461
+  relatedProfiles: []
+  additionalImages: 
+slug: best-keiba-derby-stallion
+releaseInfo:
+  catalogId: HSP-46
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 21, 1991
+  publisher: ASCII
+  developer: ASCII
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Small
+  frontLabelId: HSP-46
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  revision: A
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1689')"
+    filename: /images/175/4c53e22eb98662f4ec87f27e9913c309.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HSP-46-1 PRG
+  size: 128 KB
+  crc32: 9C94A0EC
+  x: 4
+- type: CHR0
+  label: HSP-46-0 CHR
+  size: 128 KB
+  crc32: 3EF776BD
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 83EAF3B1
+  x: 4
+pcbProperties:
+  name: HVC-SKROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/97c70eb3c4f8e16b0b1a1d756693a477.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7626a4d83d7a9f45742ab1e7a2b46085.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9207 - 9219 (4)
+  estFirstRun: February 1992
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 9B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9207
+  dateCodeSuffix: E
+  std: 9207
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 80
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9206
+  dateCodeSuffix: E
+  std: 9206
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9203
+  dateCodeSuffix: 5 TA
+  std: 9203
+  misc: 
+- designation: U4 W-RAM
+  maker: Sanyo
+  partNumber: LC3564QL-10N
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 1C
+  dateCodeSuffix: 264
+  std: 9148
+  misc: 

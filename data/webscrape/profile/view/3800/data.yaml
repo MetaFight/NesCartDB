@@ -1,0 +1,104 @@
+metadata:
+  name: Major League
+  altName: メジャーリーグ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-23 03:57:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: major-league
+releaseInfo:
+  catalogId: IF-13
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 27, 1989
+  publisher: Irem
+  developer: Lenar
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Black
+  formFactor: Original wo/ LED
+  frontLabelId: IF-13
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/81b5c35307dfeddff4bb646ae39af96a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/daf42a3ce87ca89234e39f922b4d1f11.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: C0FED437
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 5CD328C8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 243A8735
+  x: 1
+pcbProperties:
+  name: UNK-IF-13
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>UNK-IF-13<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b20b9f4789b3620d94a976fa2f9d2296.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>UNK-IF-13<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5985e25956dcd1be2085f0f8d4c8e5a0.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8923
+  estFirstRun: June 1989
+  pcbClass: IREM-G101
+  inesMapper: 32
+  mirroring: One Screen
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: G-101
+detailedChipInfo:
+- designation: IC1
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC2
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC3
+  maker: Mitsubishi
+  partNumber: G-101
+  partNumberSubDetail: 
+  type: Irem G-101
+  typeSubDetail: 
+  package: DIP-52
+  dateCodePrefix: 923
+  dateCodeSuffix: 100
+  std: 8923
+  misc: 

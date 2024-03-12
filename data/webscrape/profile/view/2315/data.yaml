@@ -1,0 +1,118 @@
+metadata:
+  name: Super Mario Bros.
+  altName: スーパーマリオブラザーズ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-12-01 21:17:00
+  moreProfiles:
+  - 1486
+  - 1669
+  - 2747
+  - 2315
+  - 3406
+  - 3407
+  - 3646
+  relatedProfiles:
+  - 2082
+  - 2122
+  - 2357
+  - 2010
+  - 2459
+  - 270
+  additionalImages: 
+slug: super-mario-bros
+releaseInfo:
+  catalogId: HVC-SM
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: September 13, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: HVC-SM
+  backLabelId/Desc: 851224
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1486')"
+    filename: /images/175/15104a8565e94bd845d28306ac0f97ab.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 5CF548D3
+  x: 15
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 867B51AD
+  x: 27
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: D445F698
+  x: 15
+pcbProperties:
+  name: 9011-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/43c9b60a39b0fcff85f860675847e9ba.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-10<br>Submitted by: bootgod<br>Linked from profile 1458')"
+    filename: /images/175/368603c7c521ccf6ccb6069756bc0a7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8538 - 8614 (5)
+  estFirstRun: September 1985
+  pcbClass: HVC-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: ISM
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 220485
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

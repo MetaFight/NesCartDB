@@ -1,0 +1,108 @@
+metadata:
+  name: Ys
+  altName: イース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-16 04:23:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: ys
+releaseInfo:
+  catalogId: VFR-Y2-05
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 26, 1988
+  publisher: Victor
+  developer: Nihon Falcom
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: VFR-Y2-05
+  backLabelId/Desc: 880606
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e674f1d7779eff80d6473c3a74de5126.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VFR-Y2-0 PRG
+  size: 256 KB
+  crc32: 92547F1C
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8831
+  estFirstRun: August 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8829
+  dateCodeSuffix: EY
+  std: 8829
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8831
+  dateCodeSuffix: 5 DA
+  std: 8831
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8828
+  dateCodeSuffix: MU
+  std: 8828
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8822
+  dateCodeSuffix: 5 A
+  std: 8822
+  misc: 

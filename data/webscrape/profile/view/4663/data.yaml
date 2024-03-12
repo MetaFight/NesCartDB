@@ -1,0 +1,113 @@
+metadata:
+  name: Kaguya Hime Densetsu
+  altName: かぐや姫伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2012-05-07 02:49:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/134f298cb7e70e3bbbfe58af9a9fa8ff.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/12ccd63762f04bb171243eb0f7cc4a9c.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0c3bc9ce83b1e500a39a80fa9183f743.jpg
+slug: kaguya-hime-densetsu
+releaseInfo:
+  catalogId: VFR-K1-06
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 16, 1988
+  publisher: Victor
+  developer: Micronics / Khaos
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Green
+  formFactor: Small
+  frontLabelId: VFR-K1-06
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3c8417b50ce1f7c3cd08622bde4f1ae7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VFR-K1-0 PRG
+  size: 256 KB
+  crc32: 26CEC726
+  x: 1
+pcbProperties:
+  name: HVC-SNROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844
+  estFirstRun: November 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8843
+  dateCodeSuffix: EY
+  std: 8843
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8844
+  dateCodeSuffix: 7 Y
+  std: 8844
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8839
+  dateCodeSuffix: B5
+  std: 8839
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8839
+  dateCodeSuffix: 3 A
+  std: 8839
+  misc: 

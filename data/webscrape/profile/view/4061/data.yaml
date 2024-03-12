@@ -1,0 +1,122 @@
+metadata:
+  name: Othello
+  altName: オセロ
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 01:30:00
+  moreProfiles: []
+  relatedProfiles:
+  - 496
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/dd6117b0859b62251125a4d49f93089d.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/11198ed60ee9ba74096437bf622373ef.jpg
+slug: othello
+releaseInfo:
+  catalogId: KWD-OH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 13, 1986
+  publisher: Kawada
+  developer: Kawada
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Violet
+  formFactor: Small
+  frontLabelId: KWD-OH
+  backLabelId/Desc: 860410
+  2-DigitCode: 17
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3a74247ad81c65f510613096e7bbc9e7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 81A743F5
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 2F7856C8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 87D7CAF0
+  x: 1
+pcbProperties:
+  name: 9011-N02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>9011-N02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/909d74a61d0c015635150b109102232b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>9011-N02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a8b8101eff04d19f29c6416fc8e071f6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 8622
+  estFirstRun: June 1986
+  pcbClass: HVC-CNROM
+  inesMapper: 185
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: KOH
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 610
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP256
+  type: Bonded ROM
+  typeSubDetail: 32 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP64
+  type: Bonded ROM
+  typeSubDetail: 8 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 65D
+  dateCodeSuffix: 7
+  std: 8622
+  misc: 

@@ -1,0 +1,104 @@
+metadata:
+  name: 'Akumajou Special: Boku Dracula-kun'
+  altName: 悪魔城すぺしゃる ぼくドラキュラ君
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 05:57:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: akumajou-special-boku-dracula-kun
+releaseInfo:
+  catalogId: KON-RC847
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 19, 1990
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC847
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/432b51b7c8bc632c925408def608c07a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/32eed0b7ec9d4d3cae5f81f4b34ec604.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC847J00P
+  size: 128 KB
+  crc32: 93794634
+  x: 1
+- type: CHR0
+  label: RC847J00C
+  size: 128 KB
+  crc32: C5D1196E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C1FBF659
+  x: 1
+pcbProperties:
+  name: 352396
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352396<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e9871d51b540aad7aef0ed36b5ce05bc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>352396<br>Submitted by: bootgod<br>Linked from profile 1779')"
+    filename: /images/175/1782afacaee7d04c51ff840d5c037721.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9038
+  estFirstRun: September 1990
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9038
+  dateCodeSuffix: E
+  std: 9038
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9038
+  dateCodeSuffix: E
+  std: 9038
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 052784 VRC IV
+  partNumberSubDetail: 
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9031
+  dateCodeSuffix: Z03
+  std: 9031
+  misc: 

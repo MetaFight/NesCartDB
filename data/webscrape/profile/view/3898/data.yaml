@@ -1,0 +1,107 @@
+metadata:
+  name: Gekitou Stadium!!
+  altName: 激闘スタジア
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 03:38:00
+  moreProfiles: []
+  relatedProfiles:
+  - 953
+  additionalImages: 
+slug: gekitou-stadium
+releaseInfo:
+  catalogId: TCF-EF
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 15, 1989
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Blue
+  formFactor: Small
+  frontLabelId: TCF-EF
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0ebbc5f4273dbdb37f03138542d70954.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TCF-EF-0 PRG
+  size: 128 KB
+  crc32: 547AD451
+  x: 1
+- type: CHR0
+  label: TCF-EF-0 CHR
+  size: 128 KB
+  crc32: EE9707A8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 481519B1
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/25418300bdf0126ddf1d3131c7802b7c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8948
+  estFirstRun: December 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 1835
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9L4
+  dateCodeSuffix: 78
+  std: 8948
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 9L
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8947
+  dateCodeSuffix: E
+  std: 8947
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8948
+  dateCodeSuffix: 3 AA
+  std: 8948
+  misc: 

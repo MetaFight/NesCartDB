@@ -1,0 +1,121 @@
+metadata:
+  name: 'Nobunaga no Yabou: Zenkokuban'
+  altName: 信長の野望　全国版
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-01-30 05:12:00
+  moreProfiles:
+  - 1529
+  - 3051
+  relatedProfiles:
+  - 497
+  additionalImages: 
+slug: nobunaga-no-yabou-zenkokuban
+releaseInfo:
+  catalogId: KOE-NZ
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 18, 1988
+  publisher: Koei
+  developer: Koei
+  players: 8
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Black
+  formFactor: Large w/ Nintendo Logo
+  frontLabelId: KOE-NZ
+  backLabelId/Desc: 880304
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8db02344bc86ce56c5b54a09ec87d7c0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: KOE-NZ-0 PRG
+  size: 256 KB
+  crc32: 3F7AD415
+  x: 2
+pcbProperties:
+  name: HVC-SOROM-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8809 - 8819 (2)
+  estFirstRun: March 1988
+  pcbClass: HVC-SOROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 16 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8814
+  dateCodeSuffix: EY
+  std: 8814
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8815
+  dateCodeSuffix: B5
+  std: 8815
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8819
+  dateCodeSuffix: 1 DA
+  std: 8819
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8815
+  dateCodeSuffix: B5
+  std: 8815
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8819
+  dateCodeSuffix: A
+  std: 8819
+  misc: 

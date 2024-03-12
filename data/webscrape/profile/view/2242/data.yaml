@@ -1,0 +1,107 @@
+metadata:
+  name: Lost Word of Jenny
+  altName: ロストワード・オブ・ジェニー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 03:58:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: lost-word-of-jenny
+releaseInfo:
+  catalogId: TFC-JN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 25, 1987
+  publisher: Takara
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Violet-Red
+  formFactor: Small
+  frontLabelId: TFC-JN
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fd6baabb40aad9910c8bb8f91db4a123.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TFC-JN-0 PRG
+  size: 128 KB
+  crc32: 3CD6BB0E
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8710
+  estFirstRun: March 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0208
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 7C1
+  dateCodeSuffix: A7
+  std: 8710
+  misc: 
+- designation: CHR RAM
+  maker: Sony
+  partNumber: CXK5864P-15
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6K
+  dateCodeSuffix: 29
+  std: 8644
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8704
+  dateCodeSuffix: CA
+  std: 8704
+  misc: 
+- designation: LS32
+  maker: Sanyo
+  partNumber: LC74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 6M1
+  dateCodeSuffix: ''
+  std: 8649
+  misc: 

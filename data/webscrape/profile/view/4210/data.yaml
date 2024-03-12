@@ -1,0 +1,121 @@
+metadata:
+  name: Wizards & Warriors III
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2010-10-05 15:28:00
+  moreProfiles:
+  - 1552
+  - 2107
+  - 4210
+  relatedProfiles:
+  - 1885
+  - 1215
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-8W-SCN<br>Submitted by: Kinopio<br>Linked from profile 1552')"
+    filename: /images/175/7c80cf1fbb6e4f48da7a6a0a94d14b24.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-8W-SCN<br>Submitted by: Kinopio<br>Linked from profile 1552')"
+    filename: /images/175/213d382452eb3a8e614e6af87c4ef761.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-8W-SCN<br>Submitted by: Kinopio<br>Linked from profile 1552')"
+    filename: /images/175/2b23c148330d57f5adeef759431dcfcd.jpg
+slug: wizards-warriors-iii
+releaseInfo:
+  catalogId: NES-8W-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: January 21, 1993
+  publisher: Acclaim
+  developer: Zippo Games
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8W-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 1552')"
+    filename: /images/175/2dd0fe56f14b31c2a7050aff3682e21a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 1552')"
+    filename: /images/175/13b4ab8586aa68c0b3bb958943997e32.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-8W-0 PRG
+  size: 256 KB
+  crc32: 806DE21E
+  x: 4
+pcbProperties:
+  name: NES-AOROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9234 - 9236 (3)
+  estFirstRun: August 1992
+  pcbClass: NES-AOROM
+  inesMapper: 7
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C2013ACZ
+  partNumberSubDetail: W55
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9235
+  dateCodeSuffix: XY700
+  std: 9235
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9230
+  dateCodeSuffix: EJ
+  std: 9230
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9234
+  dateCodeSuffix: C
+  std: 9234
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9205
+  dateCodeSuffix: ''
+  std: 9205
+  misc: 

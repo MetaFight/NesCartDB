@@ -1,0 +1,146 @@
+metadata:
+  name: Pin-Bot
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-08-31 19:32:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4370
+  - 4369
+  - 1968
+  - 275
+  additionalImages: 
+slug: pin-bot
+releaseInfo:
+  catalogId: NES-IO-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Nintendo
+  developer: Rare
+  players: 4
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IO-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 19
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/232a298487a6f36a9c3c6fe92c813205.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: PAL-IO-0 PRG
+  size: 128 KB
+  crc32: E1CEFA12
+  x: 3
+- type: CHR0
+  label: NES-IO-0 CHR
+  size: 64 KB
+  crc32: 9089FC24
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 9247C38D
+  x: 3
+pcbProperties:
+  name: NES-TQROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TQROM-01<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/976e8616ead7cb9af727e8ba8f97e9ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TQROM-01<br>Submitted by: Kinopio<br>Linked from profile 4369')"
+    filename: /images/175/a555a2672fb9d211892e505133ba8189.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9046
+  estFirstRun: November 1990
+  pcbClass: NES-TQROM
+  inesMapper: 119
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx32, MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 47
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9044
+  dateCodeSuffix: E
+  std: 9044
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9043
+  dateCodeSuffix: E
+  std: 9043
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9044
+  dateCodeSuffix: A
+  std: 9044
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9046
+  dateCodeSuffix: 5 DB
+  std: 9046
+  misc: 
+- designation: U5 CHR RAM
+  maker: Phillips
+  partNumber: FCB61C65-70P
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9018
+  dateCodeSuffix: HSH
+  std: 9018
+  misc: K0E180NB
+- designation: U6 HC32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 029
+  dateCodeSuffix: GN
+  std: 9029
+  misc: 

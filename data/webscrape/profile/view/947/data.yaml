@@ -1,0 +1,80 @@
+metadata:
+  name: The Adventures of Rad Gravity
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 03:44:00
+  moreProfiles:
+  - 742
+  - 947
+  relatedProfiles:
+  - 2467
+  - 4360
+  additionalImages: 
+slug: the-adventures-of-rad-gravity
+releaseInfo:
+  catalogId: NES-2A-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1990
+  publisher: Activision
+  developer: Interplay
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-2A-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 742')"
+    filename: /images/175/37a5cd0de6901de504126b8b96830187.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 742')"
+    filename: /images/175/871663969a9ef18953461294c34b5217.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-2A-0 PRG
+  size: 128 KB
+  crc32: 72A0D9A7
+  x: 2
+- type: CHR0
+  label: NES-2A-0 CHR
+  size: 128 KB
+  crc32: B9E1F924
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D8EE7669
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9040
+  estFirstRun: October 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC1B2
+detailedChipInfo: []

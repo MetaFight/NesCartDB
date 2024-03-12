@@ -1,0 +1,99 @@
+metadata:
+  name: Lode Runner
+  altName: ロードランナー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-04-29 02:12:00
+  moreProfiles:
+  - 1460
+  - 2217
+  - 3502
+  - 3503
+  relatedProfiles:
+  - 300
+  additionalImages: 
+slug: lode-runner
+releaseInfo:
+  catalogId: HFC-LR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: July 31, 1984
+  publisher: Hudson Soft
+  developer: Hudson Soft
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Bright Yellow
+  formFactor: Small
+  frontLabelId: HFC-LR
+  backLabelId/Desc: Black Text
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 2217')"
+    filename: /images/175/460e547a57ad6cea440dec610b3c481d.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-LR-0 PRG
+  size: 16 KB
+  crc32: 85534474
+  x: 4
+- type: CHR0
+  label: HVC-LR-0 CHR
+  size: 8 KB
+  crc32: E8C6C127
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 0A3FC393
+  x: 4
+pcbProperties:
+  name: HVC-RROM-05S
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/21ba81daee2835879669d4d54a3e179b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05S<br>Submitted by: bootgod<br>Linked from profile 3492')"
+    filename: /images/175/52e90c72ee82e2d0a1ca3d8d4616badc.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8445 - 8451 (4)
+  estFirstRun: November 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: Mitsubishi
+  partNumber: M5M23128
+  partNumberSubDetail: 120P
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8446
+  dateCodeSuffix: 09
+  std: 8446
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: RP2D68
+  partNumberSubDetail: 0050
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 47A
+  dateCodeSuffix: 5
+  std: 8427
+  misc: 

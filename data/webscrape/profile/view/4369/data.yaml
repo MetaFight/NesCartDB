@@ -1,0 +1,146 @@
+metadata:
+  name: Pin-Bot
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2011-06-11 02:54:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2089
+  - 4370
+  - 1968
+  - 275
+  additionalImages: 
+slug: pin-bot
+releaseInfo:
+  catalogId: NES-IO-NOE
+  region: Germany (PAL-B)
+  class: Licensed
+  releaseDate: 1990
+  publisher: Nintendo
+  developer: Rare
+  players: 4
+  peripherals: NES Controller
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-IO-NOE
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fde53974f610aa7a119ffc905433d01e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4065e684bfca9392d756846f736cbcf3.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4366')"
+    filename: /images/175/7bb7189e19cf1c770368f33ae802e593.jpg
+romDetails:
+- type: PRG0
+  label: PAL-IO-0 PRG
+  size: 128 KB
+  crc32: E1CEFA12
+  x: 3
+- type: CHR0
+  label: NES-IO-0 CHR
+  size: 64 KB
+  crc32: 9089FC24
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: 9247C38D
+  x: 3
+pcbProperties:
+  name: NES-TQROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TQROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/82e692650fe6c6b678c633dc12033020.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TQROM-01<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/a555a2672fb9d211892e505133ba8189.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9143
+  estFirstRun: October 1991
+  pcbClass: NES-TQROM
+  inesMapper: 119
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx32, MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 50
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9142
+  dateCodeSuffix: E
+  std: 9142
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2312
+  partNumberSubDetail: 22
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9141
+  dateCodeSuffix: B
+  std: 9141
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9143
+  dateCodeSuffix: A
+  std: 9143
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9108
+  dateCodeSuffix: KP222
+  std: 9108
+  misc: 
+- designation: U5 CHR RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9136
+  dateCodeSuffix: KT01
+  std: 9136
+  misc: 
+- designation: U6 HC32
+  maker: Motorola
+  partNumber: MC74HC32AN
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9112
+  dateCodeSuffix: RJAW
+  std: 9112
+  misc: 

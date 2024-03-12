@@ -1,0 +1,125 @@
+metadata:
+  name: Gun Nac
+  altName: ガンナック
+  variant: (CHR-A53C)
+  submittedBy: bootgod
+  submittedOn: 2009-11-02 08:06:00
+  moreProfiles:
+  - 3945
+  - 4024
+  relatedProfiles:
+  - 1219
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ad9651d1c5f85dfc2af2eceed9a25264.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aabdacefe099c5179b4c1a920a055b92.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6089e691829dcab1c3be536bb533913c.jpg
+slug: gun-nac
+releaseInfo:
+  catalogId: TKS-XG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 5, 1990
+  publisher: Tonkin House
+  developer: Compile
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: TKS-XG
+  backLabelId/Desc: TKS
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/14600950d10229b40818f42ca86dcccf.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: A0B8D310
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 8F3B99DC
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2DF81316
+  x: 1
+pcbProperties:
+  name: TL-01A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>TL-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ea1c9291ac086d43a78c78863cd4c962.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>TL-01A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b451027fef3a8a252acdf2cfb2602aa2.jpg
+  pcbProducer: Nintendo
+  manufacturer: Mfg17
+  mfgRange: 9030 - 9030 (2)
+  estFirstRun: July 1990
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: PCB
+  maker: _UnkMfg17
+  partNumber: 1LXG
+  partNumberSubDetail: 
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: A
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP1000
+  type: Bonded ROM
+  typeSubDetail: 128 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9030
+  dateCodeSuffix: KP046
+  std: 9030
+  misc: 

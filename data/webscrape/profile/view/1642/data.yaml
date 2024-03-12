@@ -1,0 +1,100 @@
+metadata:
+  name: Duck Hunt
+  altName: ダックハント
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-23 03:24:00
+  moreProfiles:
+  - 1642
+  - 3709
+  relatedProfiles:
+  - 2383
+  - 2470
+  - 2060
+  - 334
+  additionalImages: 
+slug: duck-hunt
+releaseInfo:
+  catalogId: HVC-DH
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 21, 1984
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: Zapper Light Gun
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Violet
+  formFactor: Small
+  frontLabelId: HVC-DH
+  backLabelId/Desc: 831018
+  2-DigitCode: 04
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e329af35ccb6ac91211beda85bb95784.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-DH-0 PRG
+  size: 16 KB
+  crc32: 90CA616D
+  x: 6
+- type: CHR0
+  label: HVC-DH-0 CHR
+  size: 8 KB
+  crc32: 4E049E03
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 24598791
+  x: 6
+pcbProperties:
+  name: HVC-RROM-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/80b26d5d9c5c0b6e211018b9c147c4ea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-RROM-05<br>Submitted by: bootgod<br>Linked from profile 3446')"
+    filename: /images/175/f924c55de70e8be8d53b7bafd544da7b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8427 - 8428 (2)
+  estFirstRun: July 1984
+  pcbClass: HVC-RROM
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1205
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 425
+  dateCodeSuffix: VA 3382
+  std: 8425
+  misc: RP23128 0313
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D68
+  partNumberSubDetail: 0045
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 4G1
+  dateCodeSuffix: 23
+  std: 8427
+  misc: 

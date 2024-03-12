@@ -1,0 +1,106 @@
+metadata:
+  name: Venus Senki
+  altName: ヴィナス戦記
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 05:40:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: venus-senki
+releaseInfo:
+  catalogId: VRE-R2
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: October 14, 1989
+  publisher: Varie
+  developer: Human Entertainment
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Olive Green
+  formFactor: Small
+  frontLabelId: VRE-R2
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/adc6ad61e1fabc4bd3e7634d105b9e5a.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: VRE-R2-0 PRG
+  size: 128 KB
+  crc32: C96C6F04
+  x: 1
+- type: CHR0
+  label: VRE-R2-0 CHR
+  size: 128 KB
+  crc32: B53C4032
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 1D8BF724
+  x: 1
+pcbProperties:
+  name: HVC-SLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d56947a36eb2976424d8f0f48da38eae.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SLROM-03<br>Submitted by: bootgod<br>Linked from profile 3498')"
+    filename: /images/175/69a25bf6090044437dad024902612736.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8938
+  estFirstRun: September 1989
+  pcbClass: HVC-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2307
+  partNumberSubDetail: B6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8938
+  dateCodeSuffix: E
+  std: 8938
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: 8J
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8938
+  dateCodeSuffix: D
+  std: 8938
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8938
+  dateCodeSuffix: 3 A
+  std: 8938
+  misc: 

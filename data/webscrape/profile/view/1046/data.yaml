@@ -1,0 +1,116 @@
+metadata:
+  name: Fantasy Zone
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-09-17 22:53:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: fantasy-zone
+releaseInfo:
+  catalogId: TGN-013-FZ
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1989
+  publisher: Tengen
+  developer: Sega
+  portedBy: 
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/922d2e00bb20b99357cdc26c83bf4421.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335013-1011 FZPRG
+  size: 64 KB
+  crc32: 3D96A1D8
+  x: 1
+- type: CHR0
+  label: 335013-1012 FZCHR
+  size: 64 KB
+  crc32: A105673E
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 128 KB
+  crc32: 0FFDE258
+  x: 1
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6fce1c8eb86a00776cc9f08d24ccf685.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 322')"
+    filename: /images/175/61422c6d305e1b3b4200a2448d86752b.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9010
+  estFirstRun: March 1990
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9009
+  dateCodeSuffix: MAB
+  std: 9009
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9010
+  dateCodeSuffix: MAL
+  std: 9010
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8919
+  dateCodeSuffix: ILYD
+  std: 8919
+  misc: 
+- designation: MIMIC 1
+  maker: Motorola
+  partNumber: 337001-002
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 8937
+  dateCodeSuffix: ILAD
+  std: 8937
+  misc: 

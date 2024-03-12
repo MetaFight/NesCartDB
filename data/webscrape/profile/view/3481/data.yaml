@@ -1,0 +1,104 @@
+metadata:
+  name: 'RockMan 2: Dr. Wily no Nazo'
+  altName: ロックマン２ Ｄｒ．ワイリーの謎
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-05-11 05:12:00
+  moreProfiles:
+  - 3481
+  - 3482
+  - 3483
+  - 4278
+  relatedProfiles:
+  - 1417
+  - 2654
+  - 1917
+  - 47
+  additionalImages: 
+slug: rockman-2-dr-wily-no-nazo
+releaseInfo:
+  catalogId: CAP-XR
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 24, 1988
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Red
+  formFactor: Small
+  frontLabelId: CAP-XR
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9c7f73f8808e2bff9d065fb7d8f267fe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4599')"
+    filename: /images/175/ccc8b2c4d0d1f8a86291ade861d423c2.jpg
+romDetails:
+- type: PRG0
+  label: CAP-XR-0 PRG
+  size: 256 KB
+  crc32: 6150517C
+  x: 4
+pcbProperties:
+  name: HVC-SGROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8851 - 9111 (4)
+  estFirstRun: December 1988
+  pcbClass: HVC-SGROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9038
+  dateCodeSuffix: PY
+  std: 9038
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9035
+  dateCodeSuffix: M5
+  std: 9035
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9032
+  dateCodeSuffix: 3 TA
+  std: 9032
+  misc: 

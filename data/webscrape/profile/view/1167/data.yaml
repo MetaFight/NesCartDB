@@ -1,0 +1,83 @@
+metadata:
+  name: F-15 Strike Eagle
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-11-08 02:29:00
+  moreProfiles:
+  - 227
+  - 1167
+  relatedProfiles:
+  - 979
+  - 4499
+  - 2111
+  - 1860
+  - 2410
+  additionalImages: 
+slug: f-15-strike-eagle
+releaseInfo:
+  catalogId: NES-8F-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1992
+  publisher: Microprose
+  developer: Microprose
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-8F-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/56e8c9fefd4914284d7f90c666ae45aa.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 227')"
+    filename: /images/175/766386d4c1d77a09d9fa408295c89640.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-8F-0 PRG
+  size: 256 KB
+  crc32: 144A9380
+  x: 2
+- type: CHR0
+  label: NES-8F-0 CHR
+  size: 256 KB
+  crc32: 123C7E13
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 0BCAA4D7
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9149
+  estFirstRun: December 1991
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo: []

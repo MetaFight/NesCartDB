@@ -1,0 +1,116 @@
+metadata:
+  name: 'Tsuru Pika Hagemaru: Mezase! Tsuru Seko no Akashi'
+  altName: つるピカハゲ丸 めざせ！つるセコの証
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 05:41:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: tsuru-pika-hagemaru-mezase-tsuru-seko-no-akashi
+releaseInfo:
+  catalogId: JF-34
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 13, 1991
+  publisher: Jaleco
+  developer: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-34
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f6bd88a3570aed992d02af968679fa3e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/28c9e969808270bb3be383964f53b10b.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: EA812597
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 96328DFB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 652F3324
+  x: 1
+pcbProperties:
+  name: JF-24A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b84c6f737eedbcf570b6f0a471a31451.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 2288')"
+    filename: /images/175/efad5326850045481d8ccde9ecfa1fa5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9148
+  estFirstRun: December 1991
+  pcbClass: JALECO-JF-24
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W62
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9147
+  dateCodeSuffix: K9705
+  std: 9147
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010BCZ
+  partNumberSubDetail: W63
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9148
+  dateCodeSuffix: K9709
+  std: 9148
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 120
+  dateCodeSuffix: 170
+  std: 9120
+  misc: 
+- designation: IC5
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9143
+  dateCodeSuffix: J7
+  std: 9143
+  misc: 

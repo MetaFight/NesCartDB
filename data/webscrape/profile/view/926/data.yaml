@@ -1,0 +1,138 @@
+metadata:
+  name: Wario's Woods
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-07-04 00:23:00
+  moreProfiles:
+  - 926
+  - 2775
+  - 4647
+  relatedProfiles:
+  - 2127
+  - 4022
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-WB-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/100639d2c9e2b2b05a11458d1f009a43.jpg
+slug: warios-woods
+releaseInfo:
+  catalogId: NES-WB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1994
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-WB-USA
+  sealOfQuality: None
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1 (Battery)
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9e9fd7e17057b089ce0c435e4642c418.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/51be472d8baebdee4de5041cc8f6a1e7.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-WB-0 PRG
+  size: 256 KB
+  crc32: 1AFB26D7
+  x: 2
+- type: CHR0
+  label: NES-WB-0 CHR
+  size: 256 KB
+  crc32: EB133A6D
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: F79A75D7
+  x: 3
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b44f12ecb328b50967578449d70e7145.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9444 - 9444 (2)
+  estFirstRun: November 1994
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 3P
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9444
+  dateCodeSuffix: D
+  std: 9444
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 3R
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9444
+  dateCodeSuffix: D
+  std: 9444
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9144
+  dateCodeSuffix: 5 CB
+  std: 9144
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9402
+  dateCodeSuffix: XP001
+  std: 9402
+  misc: 
+- designation: U5 S-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9431
+  dateCodeSuffix: NB
+  std: 9431
+  misc: 

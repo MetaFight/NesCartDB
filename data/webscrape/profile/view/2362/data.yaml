@@ -1,0 +1,129 @@
+metadata:
+  name: The Addams Family
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-12-17 18:18:00
+  moreProfiles:
+  - 2362
+  - 4117
+  relatedProfiles:
+  - 2903
+  - 1978
+  - 586
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-6Z-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/f66e1180137e7ce3f07791aa29154d7e.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-6Z-SCN<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/884bc63cc17740a0b55fb2b67375cc26.jpg
+slug: the-addams-family
+releaseInfo:
+  catalogId: NES-6Z-SCN
+  region: Scandinavia (PAL-B)
+  class: Licensed
+  releaseDate: December 30, 1992
+  publisher: Ocean
+  developer: Ocean
+  players: 1
+  peripherals: NES Controller
+  country: Scandinavia
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6Z-SCN
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/67ebebe1c48c12996df2fc51e729bfb1.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/0649023e5cd760186edd97abdf0ab106.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-6Z-0 PRG
+  size: 128 KB
+  crc32: 0FA94D88
+  x: 4
+- type: CHR0
+  label: NES-6Z-0 CHR
+  size: 128 KB
+  crc32: EEA879FA
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: BF700470
+  x: 4
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/3f0e600b645a512eaac382babbb31a16.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/fd8115c21a18e4eadf654501221c52dd.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9225 - 9232 (2)
+  estFirstRun: June 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B3
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6688
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2FC
+  dateCodeSuffix: 45
+  std: 9223
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP231039D
+  partNumberSubDetail: 0160
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 2FC
+  dateCodeSuffix: 48
+  std: 9223
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9219
+  dateCodeSuffix: C
+  std: 9219
+  misc: 
+- designation: U4 MMC1
+  maker: NEC
+  partNumber: MMC1B3
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9225
+  dateCodeSuffix: B3003
+  std: 9225
+  misc: 

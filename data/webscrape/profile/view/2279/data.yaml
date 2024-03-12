@@ -1,0 +1,115 @@
+metadata:
+  name: Crisis Force
+  altName: クライシスフォース
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 07:02:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: crisis-force
+releaseInfo:
+  catalogId: KON-RC856
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 27, 1991
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC856
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0b5dc0b450abd2ba61439496dc743603.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cef2bc203bfcb62695de245f22275830.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC856J00P
+  size: 128 KB
+  crc32: 99580334
+  x: 1
+- type: CHR0
+  label: RC856J00C
+  size: 128 KB
+  crc32: A709BCB8
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: FCBF28B1
+  x: 1
+pcbProperties:
+  name: 352396
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>352396<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a2b3c8421b1b454214a628037125e44f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>352396<br>Submitted by: bootgod<br>Linked from profile 1779')"
+    filename: /images/175/1782afacaee7d04c51ff840d5c037721.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9133
+  estFirstRun: August 1991
+  pcbClass: KONAMI-VRC-4
+  inesMapper: 23
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC4
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9133
+  dateCodeSuffix: E9701
+  std: 9133
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9132
+  dateCodeSuffix: Z07
+  std: 9132
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: MB8416A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: SDIP-24
+  dateCodePrefix: 9122
+  dateCodeSuffix: KT28
+  std: 9122
+  misc: 
+- designation: 
+  maker: Fujitsu
+  partNumber: 052784 VRC IV
+  partNumberSubDetail: 
+  type: Konami VRC IV
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9125
+  dateCodeSuffix: Z52
+  std: 9125
+  misc: 

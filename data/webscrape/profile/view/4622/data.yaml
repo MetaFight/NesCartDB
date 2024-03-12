@@ -1,0 +1,131 @@
+metadata:
+  name: Playbox BASIC
+  altName: ＰＬＡＹＢＯＸベーシック
+  variant: (Prototype)
+  submittedBy: kevtris
+  submittedOn: 2012-04-17 02:08:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3810
+  - 4028
+  additionalImages: 
+slug: playbox-basic
+releaseInfo:
+  catalogId: UNR-HVC-PB
+  region: Japan (NTSC)
+  class: Licensed  » Unreleased
+  releaseDate: 
+  publisher: Sharp
+  developer: Hudson Soft
+  players: 1
+  peripherals: Family Keyboard,Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Family Basic
+  frontLabelId: Not Present
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/3d6db317201e5a4f10d6decabf6f3daf.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: 2
+  size: 16 KB
+  crc32: C8C15B11
+  x: 1
+- type: PRG1
+  label: 1
+  size: 16 KB
+  crc32: 2A5E0348
+  x: 1
+- type: CHR0
+  label: 3
+  size: 8 KB
+  crc32: C06BB289
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 912989DC
+  x: 1
+pcbProperties:
+  name: HVC-FB1-128
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  pcbClass: HVC-FAMILYBASIC
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: Yes
+  wram: 2 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx20
+detailedChipInfo:
+- designation: IC1 WORKING RAM
+  maker: Fujitsu
+  partNumber: MB8416A-15-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 2 KB
+  package: SDIP-24
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC2 PROGRAM ROM-A 128K
+  maker: Hitachi
+  partNumber: HN4827128G-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC3 PROGRAM ROM-B 128K
+  maker: Fujitsu
+  partNumber: MBM27128-25
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC4 LS20
+  maker: Mitsubishi
+  partNumber: M74LS20P
+  partNumberSubDetail: 
+  type: 74-20 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: IC5 CHARACTER ROM-C 64K
+  maker: Hitachi
+  partNumber: HN482764G-2
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

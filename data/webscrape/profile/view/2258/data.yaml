@@ -1,0 +1,93 @@
+metadata:
+  name: Spelunker
+  altName: スペランカー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 01:15:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: spelunker
+releaseInfo:
+  catalogId: IF-03
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 7, 1985
+  publisher: Irem
+  developer: MicroGraphicImage
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original w/ LED
+  frontLabelId: IF-03
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/ddd17a76ddc4627b4bd53f763d112359.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eb2516d537d79d7b991dfdcea0e46b72.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aa136cb6cc670c95e4c213635777d721.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 32 KB
+  crc32: 2959B3FA
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 8619B5AA
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 636923BB
+  x: 1
+pcbProperties:
+  name: IREM-01-H
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>IREM-01-H<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/35a6b1acf704481b8103036958348185.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>IREM-01-H<br>Submitted by: bootgod<br>Linked from profile 1754')"
+    filename: /images/175/6bb7ca4d2ff12a6250a791e68d80cbea.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8602
+  estFirstRun: January 1986
+  pcbClass: IREM-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: 
+  maker: Toshiba
+  partNumber: TMM24256AP
+  partNumberSubDetail: 3012
+  type: PROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8602
+  dateCodeSuffix: ACA
+  std: 8602
+  misc: 
+- designation: 
+  maker: Toshiba
+  partNumber: TMM2464AP
+  partNumberSubDetail: 1012
+  type: PROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8602
+  dateCodeSuffix: EEI
+  std: 8602
+  misc: 

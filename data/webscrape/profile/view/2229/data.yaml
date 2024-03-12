@@ -1,0 +1,108 @@
+metadata:
+  name: Juuryoku Soukou Metal Storm
+  altName: 重力装甲メタルストー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 02:45:00
+  moreProfiles: []
+  relatedProfiles:
+  - 129
+  additionalImages: 
+slug: juuryoku-soukou-metal-storm
+releaseInfo:
+  catalogId: TIX-4M (IF-21)
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 24, 1992
+  publisher: Irem
+  developer: Tamtex
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Grey
+  formFactor: Small
+  frontLabelId: TIX-4M
+  secondaryId: IF-21
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92ab843a07a7e79459d1679e8c10eda8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: TIX-4M-0 PRG
+  size: 128 KB
+  crc32: BD8A0D7D
+  x: 1
+- type: CHR0
+  label: TIX-4M-0 CHR
+  size: 256 KB
+  crc32: 84729F89
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: FDB8AA9A
+  x: 1
+pcbProperties:
+  name: HVC-TLROM-04
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/23b9bcd0c79c5a31bda5b2f88ec023e6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-04<br>Submitted by: bootgod<br>Linked from profile 2688')"
+    filename: /images/175/aeceae2a6fef610cef7866751c8d5586.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9210
+  estFirstRun: March 1992
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6682
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 2CC
+  dateCodeSuffix: 41
+  std: 9210
+  misc: 
+- designation: U2 CHR
+  maker: Ricoh
+  partNumber: RP232048E
+  partNumberSubDetail: 0074
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 2CB
+  dateCodeSuffix: 71
+  std: 9210
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9203
+  dateCodeSuffix: EP057
+  std: 9203
+  misc: 

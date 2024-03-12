@@ -1,0 +1,81 @@
+metadata:
+  name: 'Top Gun: The Second Mission'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 04:48:00
+  moreProfiles:
+  - 639
+  - 901
+  relatedProfiles:
+  - 4762
+  - 2555
+  - 2031
+  - 4390
+  additionalImages: 
+slug: top-gun-the-second-mission
+releaseInfo:
+  catalogId: NES-OG-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: January 1990
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-OG-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 901')"
+    filename: /images/175/a1c604f44473d7a2db5afbd14252aa98.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 901')"
+    filename: /images/175/f67996699f296dba8dd1a799397cd24f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: twitch<br>Linked from profile 2470')"
+    filename: /images/175/1ae28e1de545def57a0d7e5d29085ba7.jpg
+romDetails:
+- type: PRG0
+  label: RD022N3P
+  size: 128 KB
+  crc32: E3765667
+  x: 2
+- type: CHR0
+  label: RD022N1C
+  size: 128 KB
+  crc32: DD752C05
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 6F8AF3E8
+  x: 2
+pcbProperties:
+  name: 352026
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9012
+  estFirstRun: March 1990
+  pcbClass: KONAMI-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC3B
+detailedChipInfo: []

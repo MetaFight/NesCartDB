@@ -1,0 +1,111 @@
+metadata:
+  name: Disney's DuckTales 2
+  altName: ダックテイルズ２
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 04:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 987
+  - 2069
+  - 1574
+  - 1115
+  additionalImages: 
+slug: disneys-ducktales-2
+releaseInfo:
+  catalogId: CAP-DW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: April 23, 1993
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Plum
+  formFactor: Small
+  frontLabelId: CAP-DW
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/d7fcf1c8ff895d40cdccad1099623b74.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/95aa5b9a66ab1d2b58262011647bf831.jpg
+romDetails:
+- type: PRG0
+  label: CAP-DW-0 PRG
+  size: 128 KB
+  crc32: EDDCC468
+  x: 0
+pcbProperties:
+  name: HVC-UNROM-10
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9309
+  estFirstRun: March 1993
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231027D
+  partNumberSubDetail: 6721
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 3CC
+  dateCodeSuffix: 1G
+  std: 9309
+  misc: 
+- designation: U2 CHR RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9245
+  dateCodeSuffix: HCK
+  std: 9245
+  misc: 
+- designation: U3 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9249
+  dateCodeSuffix: ''
+  std: 9249
+  misc: 
+- designation: U4 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9248
+  dateCodeSuffix: ''
+  std: 9248
+  misc: 

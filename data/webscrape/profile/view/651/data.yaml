@@ -1,0 +1,82 @@
+metadata:
+  name: 'The Simpsons:  Bart vs. The World'
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-03-12 07:30:00
+  moreProfiles:
+  - 651
+  - 661
+  - 1194
+  relatedProfiles:
+  - 2899
+  - 1854
+  - 1987
+  additionalImages: 
+slug: the-simpsons-bart-vs-the-world
+releaseInfo:
+  catalogId: NES-Y9-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: December 1991
+  publisher: Acclaim
+  developer: Imagineering
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-Y9-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: WYRX
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 661')"
+    filename: /images/175/4e38a9f5def90f0f3341f30fa3daeb8f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1194')"
+    filename: /images/175/7e0e9d6611635b986025789764d21f57.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-Y9-1 PRG
+  size: 256 KB
+  crc32: CB392A83
+  x: 3
+- type: CHR0
+  label: NES-Y9-1 CHR
+  size: 128 KB
+  crc32: 0F891CEA
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 7416903F
+  x: 3
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9145 - 9213 (2)
+  estFirstRun: November 1991
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo: []

@@ -1,0 +1,124 @@
+metadata:
+  name: 'Igo: Kyuu Roban Taikyoku'
+  altName: 囲碁 九路盤対局
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-12-06 22:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6c357eb8470fa2e97ea4acb75d319579.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f108805306b9b6c67cc1f86c644e6b9.jpg
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4ee75c9dddec3629bf53f4a6f0e58f67.jpg
+slug: igo-kyuu-roban-taikyoku
+releaseInfo:
+  catalogId: BPS-IG
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: August 11, 1987
+  publisher: Bullet-Proof Software
+  developer: Edge Computers
+  portedBy: 
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Brown
+  formFactor: Small
+  frontLabelId: BPS-IG
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9f49431a3f73a6b866bb9cd001143e86.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: BPS-IG-0 PRG
+  size: 32 KB
+  crc32: B37F48CD
+  x: 1
+- type: CHR0
+  label: BPS-IG-0 CHR
+  size: 16 KB
+  crc32: C9DAFBCB
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 48 KB
+  crc32: 9B208AB1
+  x: 1
+pcbProperties:
+  name: HVC-SIROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SIROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a5a769d6baa6ee3d3be45efa99dff74.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SIROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4638f74ef4058478383a4284b206e193.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9109
+  estFirstRun: March 1991
+  pcbClass: HVC-SIROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2357
+  partNumberSubDetail: T2
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9109
+  dateCodeSuffix: B
+  std: 9109
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 55
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 9109
+  dateCodeSuffix: B
+  std: 9109
+  misc: 
+- designation: U3 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9109
+  dateCodeSuffix: 3 AA
+  std: 9109
+  misc: 
+- designation: U4 W-RAM
+  maker: Samsung
+  partNumber: KM6264BL-10L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 041
+  dateCodeSuffix: N
+  std: 9041
+  misc: 

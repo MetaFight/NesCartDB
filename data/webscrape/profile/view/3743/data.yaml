@@ -1,0 +1,108 @@
+metadata:
+  name: Osomatsu-kun
+  altName: おそ松くん バック・トゥ・ザ・ミーの出っ歯の巻
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 20:50:00
+  moreProfiles:
+  - 3743
+  - 3767
+  relatedProfiles: []
+  additionalImages: 
+slug: osomatsu-kun
+releaseInfo:
+  catalogId: SHI-OB
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: December 8, 1989
+  publisher: Shinsei
+  developer: TOSE Software
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SHI-OB
+  backLabelId/Desc: SHI-OB
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/67969540c4654cd99a05f9510aae562b.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SHI-OB-0 PRG
+  size: 128 KB
+  crc32: ED9A3AC6
+  x: 2
+- type: CHR0
+  label: SHI-OB-0 CHR
+  size: 128 KB
+  crc32: 73CACDE4
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 4E5257D7
+  x: 2
+pcbProperties:
+  name: HVC-SL1ROM-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SL1ROM-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cb994e604ca94ba071c6646fdda2c5e4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SL1ROM-01<br>Submitted by: bootgod<br>Linked from profile 3767')"
+    filename: /images/175/baf690f69df52ac429023e8fd840f210.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8944 - 8949 (2)
+  estFirstRun: November 1989
+  pcbClass: HVC-SL1ROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8942
+  dateCodeSuffix: EX720
+  std: 8942
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8942
+  dateCodeSuffix: EX725
+  std: 8942
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8944
+  dateCodeSuffix: 3 AA
+  std: 8944
+  misc: 

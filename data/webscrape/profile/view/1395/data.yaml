@@ -1,0 +1,133 @@
+metadata:
+  name: Rambo
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-03-19 04:27:00
+  moreProfiles:
+  - 391
+  - 569
+  - 868
+  - 2837
+  - 1395
+  relatedProfiles:
+  - 3774
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-RV USA<br>Submitted by: bootgod<br>Linked from profile 868')"
+    filename: /images/175/df13dbd99aa1f63b96f4bc1abd6444c2.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-RV USA<br>Submitted by: bootgod<br>Linked from profile 868')"
+    filename: /images/175/f1f9359c7204e70b68530146c757a43b.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-RV-USA<br>Submitted by: bootgod<br>Linked from profile 868')"
+    filename: /images/175/a6c80da331160017bd8da30c8f757640.jpg
+slug: rambo
+releaseInfo:
+  catalogId: NES-RV-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1988
+  publisher: Acclaim
+  developer: Pack-In-Video
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-RV-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 391')"
+    filename: /images/175/3e716661cc16678f8c3d71120c6fdc77.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 868')"
+    filename: /images/175/37944353a39d326658d26a720149aeac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-RV-0 PRG
+  size: 128 KB
+  crc32: A342A5FD
+  x: 3
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8812 - 8821 (4)
+  estFirstRun: March 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8814
+  dateCodeSuffix: EX
+  std: 8814
+  misc: 
+- designation: CHR RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8817
+  dateCodeSuffix: 5 DA
+  std: 8817
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8814
+  dateCodeSuffix: B
+  std: 8814
+  misc: 
+- designation: LS161N
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 749
+  dateCodeSuffix: J
+  std: 8749
+  misc: 
+- designation: LS32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 736
+  dateCodeSuffix: J
+  std: 8736
+  misc: 

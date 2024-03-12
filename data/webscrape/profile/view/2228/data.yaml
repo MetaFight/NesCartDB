@@ -1,0 +1,109 @@
+metadata:
+  name: 'City Adventure Touch: Mystery of Triangle'
+  altName: タッチ　ミステリー・オブトライアングル
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-17 02:41:00
+  moreProfiles:
+  - 2228
+  - 3722
+  relatedProfiles: []
+  additionalImages: 
+slug: city-adventure-touch-mystery-of-triangle
+releaseInfo:
+  catalogId: THF-TU
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: March 14, 1987
+  publisher: Toho
+  developer: Compile
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: THF-TU
+  backLabelId/Desc: 860410
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a7edd6b94e56d9d8441cb7dc3a49e11c.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: THF-TU-0 PRG
+  size: 128 KB
+  crc32: B834EB30
+  x: 2
+pcbProperties:
+  name: HVC-UNROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8706 - 8708 (2)
+  estFirstRun: February 1987
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8706
+  dateCodeSuffix: KX
+  std: 8706
+  misc: 
+- designation: CHR RAM
+  maker: NEC
+  partNumber: D4364C-20LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8634
+  dateCodeSuffix: AU024
+  std: 8634
+  misc: 
+- designation: LS161
+  maker: Sharp
+  partNumber: LR74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8703
+  dateCodeSuffix: CA
+  std: 8703
+  misc: 
+- designation: LS32
+  maker: National Semiconductor
+  partNumber: MM / MC74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8640
+  dateCodeSuffix: +B
+  std: 8640
+  misc: 

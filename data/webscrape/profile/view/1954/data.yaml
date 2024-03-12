@@ -1,0 +1,79 @@
+metadata:
+  name: Gargoyle's Quest II
+  altName: 
+  variant: 
+  submittedBy: piteta
+  submittedOn: 2007-08-04 11:45:00
+  moreProfiles:
+  - 701
+  - 1954
+  relatedProfiles:
+  - 2448
+  additionalImages: 
+slug: gargoyles-quest-ii
+releaseInfo:
+  catalogId: NES-G2-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1992
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-G2-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 701')"
+    filename: /images/175/5127b603b91c54f721cfc1fb8de89767.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: piteta<br>Linked from profile 0')"
+    filename: /images/175/73eb8f8f05252472b0bfdb72c574bcfd.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-G2-0 PRG
+  size: 128 KB
+  crc32: 4F50457E
+  x: 3
+- type: CHR0
+  label: NES-G2-0 CHR
+  size: 128 KB
+  crc32: 249C887C
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: F0E9971B
+  x: 3
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9234
+  estFirstRun: August 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo: []

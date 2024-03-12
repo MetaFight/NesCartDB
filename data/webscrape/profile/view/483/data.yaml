@@ -1,0 +1,120 @@
+metadata:
+  name: R.B.I. Baseball 3
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-08 06:06:00
+  moreProfiles:
+  - 483
+  - 644
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br><br>Submitted by: polarz<br>Linked from profile 0')"
+    filename: /images/175/52e23af246cc04173011aed43b854aa9.jpg
+slug: rbi-baseball-3
+releaseInfo:
+  catalogId: TGN-024-RB3
+  region: USA (NTSC)
+  class: Unlicensed
+  releaseDate: 1991
+  publisher: Tengen
+  developer: Tengen
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Tengen
+  color: Black
+  formFactor: Original
+  backLabelDesc: w/o Mfg by Tengen
+  4-DigitCode: RNRZ
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1665feb2b09b49e3a4bcf941c6eeb4d9.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1046')"
+    filename: /images/175/a93b5b2904dd2e60411388e4d1015ee2.jpg
+romDetails:
+- type: PRG0
+  label: 335024-1011 RB3PR
+  size: 128 KB
+  crc32: BAB897FE
+  x: 3
+- type: CHR0
+  label: 335024-1012 RB3CH
+  size: 64 KB
+  crc32: E7D4D434
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 192 KB
+  crc32: FD63E7AC
+  x: 3
+pcbProperties:
+  name: 800030-01 REV A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5dd16f587cfdfbdca6f4a61805b247dc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>800030-01 REV A<br>Submitted by: bootgod<br>Linked from profile 322')"
+    filename: /images/175/61422c6d305e1b3b4200a2448d86752b.jpg
+  pcbProducer: Tengen
+  manufacturer: Key Tronic
+  mfgRange: 9135
+  estFirstRun: September 1991
+  pcbClass: TENGEN-800030
+  inesMapper: 206
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 337002
+  hardware: 337001
+detailedChipInfo:
+- designation: PRG
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM231002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9134
+  dateCodeSuffix: MAX
+  std: 9134
+  misc: 
+- designation: CHR
+  maker: AMI
+  partNumber: 
+  partNumberSubDetail: AM23512
+  type: Mask ROM
+  typeSubDetail: 64 KB
+  package: DIP-28
+  dateCodePrefix: 9135
+  dateCodeSuffix: MAR
+  std: 9135
+  misc: 
+- designation: 337002
+  maker: Motorola
+  partNumber: 337002-001
+  partNumberSubDetail: 
+  type: Tengen CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9131
+  dateCodeSuffix: ZKHAF
+  std: 9131
+  misc: 
+- designation: MIMIC 1
+  maker: Motorola
+  partNumber: 337001-002
+  partNumberSubDetail: 
+  type: Tengen MIMIC-1
+  typeSubDetail: 
+  package: DIP-28
+  dateCodePrefix: 9113
+  dateCodeSuffix: ZKHAA
+  std: 9113
+  misc: 

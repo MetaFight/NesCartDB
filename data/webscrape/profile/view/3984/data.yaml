@@ -1,0 +1,119 @@
+metadata:
+  name: Magic John
+  altName: マジックジョン
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-04 05:50:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2343
+  - 2413
+  - 72
+  additionalImages: 
+slug: magic-john
+releaseInfo:
+  catalogId: JF-30
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 28, 1990
+  publisher: Jaleco
+  developer: Aicom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Jaleco
+  color: Black
+  formFactor: Large
+  embossedText: Made in Japan
+  frontLabelId: JF-30
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8cada907aad774634bdf9174dc50e8f2.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b2ef75fc8731018d82aa7a27e275daba.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 128 KB
+  crc32: EFD4837F
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 128 KB
+  crc32: 89B71145
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D8748E0A
+  x: 1
+pcbProperties:
+  name: JF-24A
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/67648ae00024286f38f13413eb56fb9e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>JF-24A<br>Submitted by: bootgod<br>Linked from profile 2288')"
+    filename: /images/175/efad5326850045481d8ccde9ecfa1fa5.jpg
+  pcbProducer: Jaleco
+  manufacturer: Not Specified
+  mfgRange: 9036
+  estFirstRun: September 1990
+  pcbClass: JALECO-JF-24
+  inesMapper: 18
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: 74xx32, SS88006
+detailedChipInfo:
+- designation: IC1 PRG
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S35
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9036
+  dateCodeSuffix: EX023
+  std: 9036
+  misc: 
+- designation: IC2 CHR
+  maker: NEC
+  partNumber: D23C1010AC
+  partNumberSubDetail: S36
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9036
+  dateCodeSuffix: EX017
+  std: 9036
+  misc: 
+- designation: IC3 SS88006
+  maker: Rohm
+  partNumber: SS 88006
+  partNumberSubDetail: 
+  type: Jaleco SS88006
+  typeSubDetail: 
+  package: DIP-42
+  dateCodePrefix: 949
+  dateCodeSuffix: 378
+  std: 8949
+  misc: 
+- designation: IC5
+  maker: NEC
+  partNumber: D74HC32C
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9029
+  dateCodeSuffix: J7
+  std: 9029
+  misc: 

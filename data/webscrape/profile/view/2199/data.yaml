@@ -1,0 +1,117 @@
+metadata:
+  name: Kagerou Densetsu
+  altName: 影狼伝説
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-13 05:05:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: kagerou-densetsu
+releaseInfo:
+  catalogId: PIX-XA-01
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 11, 1990
+  publisher: Pixel
+  developer: Pixel
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Dark Blue
+  formFactor: Small
+  frontLabelId: PIX-XA-01
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/107526f42b5d6f7dd65d646f497bf369.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: PIX-XA-0 PRG
+  size: 128 KB
+  crc32: 49E834C3
+  x: 1
+- type: CHR0
+  label: PIX-XA-0 CHR
+  size: 128 KB
+  crc32: 6A661390
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: C9187B43
+  x: 1
+pcbProperties:
+  name: HVC-TKROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c308ac7c8279d215960372c0d316c05c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TKROM-02<br>Submitted by: bootgod<br>Linked from profile 3528')"
+    filename: /images/175/8481cf060b70303ede197d9c6cbac5f7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9013
+  estFirstRun: March 1990
+  pcbClass: HVC-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Panasonic
+  partNumber: MN231001
+  partNumberSubDetail: NUP
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 0
+  dateCodeSuffix: B3
+  std: 9013
+  misc: 
+- designation: U2 CHR
+  maker: Panasonic
+  partNumber: MN231003
+  partNumberSubDetail: NUQ
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 0
+  dateCodeSuffix: 52
+  std: 9012
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9008
+  dateCodeSuffix: KX044
+  std: 9008
+  misc: 
+- designation: U4 W-RAM
+  maker: Sony
+  partNumber: CXK5864PN-15LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 0A
+  dateCodeSuffix: 17E
+  std: 9001
+  misc: 

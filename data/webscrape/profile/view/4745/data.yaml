@@ -1,0 +1,126 @@
+metadata:
+  name: Super Spike V'Ball
+  altName: 
+  variant: 
+  submittedBy: zoinknoise
+  submittedOn: 2019-01-16 02:59:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2152
+  - 2236
+  - 2615
+  - 1877
+  - 4367
+  - 731
+  additionalImages: 
+slug: super-spike-vball
+releaseInfo:
+  catalogId: NES-VJ-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: February 1990
+  publisher: Nintendo
+  developer: Technos
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-VJ-CAN
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: CAN
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: zoinknoise<br>Linked from profile 0')"
+    filename: /images/175/b7498365ff8d78a41d8aab22aae22beb.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: zoinknoise<br>Linked from profile 0')"
+    filename: /images/175/c74dfcbc312053fc32947a8eed387cd4.jpg
+romDetails:
+- type: PRG0
+  label: NES-VJ-0 PRG
+  size: 128 KB
+  crc32: 1E598A14
+  x: 3
+- type: CHR0
+  label: NES-VJ-0 CHR
+  size: 128 KB
+  crc32: E5F016C4
+  x: 8
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E840FD21
+  x: 3
+pcbProperties:
+  name: NES-TLROM-02
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-02<br>Submitted by: zoinknoise<br>Linked from profile 0')"
+    filename: /images/175/976d2825160bbdddc50061b7f60845f8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-02<br>Submitted by: zoinknoise<br>Linked from profile 0')"
+    filename: /images/175/03a9e77c070de9ea4b683ef08bec2906.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9002
+  estFirstRun: January 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5380
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9M2
+  dateCodeSuffix: 70
+  std: 8950
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: B3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9002
+  dateCodeSuffix: D
+  std: 9002
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9002
+  dateCodeSuffix: 3 CA
+  std: 9002
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8951
+  dateCodeSuffix: EX
+  std: 8951
+  misc: 

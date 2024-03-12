@@ -1,0 +1,79 @@
+metadata:
+  name: Donkey Kong Jr. Math
+  altName: 
+  variant: 
+  submittedBy: Cowering
+  submittedOn: 2007-03-07 03:45:00
+  moreProfiles:
+  - 523
+  - 1378
+  relatedProfiles:
+  - 2062
+  - 3468
+  additionalImages: 
+slug: donkey-kong-jr-math
+releaseInfo:
+  catalogId: NES-CA-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 12
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/46cf453bde34b635929e122437c58128.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 523')"
+    filename: /images/175/f73e263b0227c408124c548b840b2ecf.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-CA-0 PRG
+  size: 16 KB
+  crc32: 66F11648
+  x: 2
+- type: CHR0
+  label: NES-CA-0 CHR
+  size: 8 KB
+  crc32: 73329878
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 0504B007
+  x: 2
+pcbProperties:
+  name: NES-NROM-128-01
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8712
+  estFirstRun: March 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo: []

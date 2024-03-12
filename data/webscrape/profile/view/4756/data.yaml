@@ -1,0 +1,107 @@
+metadata:
+  name: 'Ningen Heiki: Dead Fox'
+  altName: 人間兵器デッドフォックス
+  variant: 
+  submittedBy: aodinets
+  submittedOn: 2019-01-16 04:34:00
+  moreProfiles: []
+  relatedProfiles:
+  - 442
+  additionalImages: 
+slug: ningen-heiki-dead-fox
+releaseInfo:
+  catalogId: CAP-VP
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: February 23, 1990
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Olive
+  formFactor: Small
+  frontLabelId: CAP-VP
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/f11eb4f3a3a5b719a6b77419d3cb41ab.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/4cbb79336965b59296901ea665e88454.jpg
+romDetails:
+- type: PRG0
+  label: CAP-VP-0 PRG
+  size: 128 KB
+  crc32: 5EB21035
+  x: 0
+- type: CHR0
+  label: CAP-VP-0 CHR
+  size: 128 KB
+  crc32: 11B42818
+  x: 0
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 2E1E7FD8
+  x: 0
+pcbProperties:
+  name: HVC-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-TLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/1dadcba55c691c9d57342ce2c5931c65.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-TLROM-03<br>Submitted by: aodinets<br>Linked from profile 0')"
+    filename: /images/175/8981070d8717fa7999939c38950e6117.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8950
+  estFirstRun: December 1989
+  pcbClass: HVC-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC3A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231026D
+  partNumberSubDetail: 5382
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9M2
+  dateCodeSuffix: 73
+  std: 8950
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: T69
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8947
+  dateCodeSuffix: EY815
+  std: 8947
+  misc: 
+- designation: U3 MMC3
+  maker: NEC
+  partNumber: MMC3A
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 8922
+  dateCodeSuffix: KP
+  std: 8922
+  misc: 

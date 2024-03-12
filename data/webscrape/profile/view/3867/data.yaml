@@ -1,0 +1,96 @@
+metadata:
+  name: Popeye no Eigo Asobi
+  altName: ポパイの英語遊び
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-11-01 06:35:00
+  moreProfiles:
+  - 3867
+  - 4753
+  relatedProfiles: []
+  additionalImages: 
+slug: popeye-no-eigo-asobi
+releaseInfo:
+  catalogId: HVC-EN
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 22, 1983
+  publisher: Nintendo
+  developer: Nintendo
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Peach
+  formFactor: Small
+  frontLabelId: HVC-EN
+  backLabelId/Desc: 831018
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4a6b7bbd557dfb1d12b0459a38943a63.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-EN-0 PRG
+  size: 16 KB
+  crc32: 2DBFA36A
+  x: 1
+- type: CHR0
+  label: HVC-EN-0 CHR
+  size: 8 KB
+  crc32: FCCC0F36
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 27738241
+  x: 1
+pcbProperties:
+  name: HVC-SROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b0598ea9174d48770e544f8598313fa7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SROM-03<br>Submitted by: bootgod<br>Linked from profile 3475')"
+    filename: /images/175/46bcb180c2db2e50f46db969489ab1b7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8436
+  estFirstRun: September 1984
+  pcbClass: HVC-SROM
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PRG
+  maker: VTI
+  partNumber: 23128
+  partNumberSubDetail: 1138
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 436
+  dateCodeSuffix: VA 4129
+  std: 8436
+  misc: RP23128 0050
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2362
+  partNumberSubDetail: R1
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-24
+  dateCodePrefix: 47C
+  dateCodeSuffix: 5
+  std: 8429
+  misc: 

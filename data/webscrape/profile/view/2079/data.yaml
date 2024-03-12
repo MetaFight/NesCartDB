@@ -1,0 +1,117 @@
+metadata:
+  name: Ice Climber
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2007-08-19 03:06:00
+  moreProfiles:
+  - 2079
+  - 2080
+  - 2081
+  relatedProfiles:
+  - 3728
+  - 4250
+  - 281
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/61ae0500970580f88467cec618640615.jpg
+  - toolTipJS: "ddrivetip('Box Back<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/b36425cbb171bbcc9dfa93641bd517df.jpg
+slug: ice-climber
+releaseInfo:
+  catalogId: NES-IC-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: July 11, 1987
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: Not Present
+  sealOfQuality: None
+  mfgstringPresent: No
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/09baab167ea93009321e9ae5408348e5.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4fd20b4fd570384cde1edf00c7bd3fe8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-IC-0 PRG
+  size: 16 KB
+  crc32: D548307F
+  x: 8
+- type: CHR0
+  label: NES-IC-0 CHR
+  size: 8 KB
+  crc32: 0D58A8B1
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: FB98D46E
+  x: 7
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/988c6722725ad39e5be2a1d7b9324a70.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-NROM-128-03<br>Submitted by: Kinopio<br>Linked from profile 1839')"
+    filename: /images/175/43f086cf49bbfb67a00d0b394940927b.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8704 - 8829 (3)
+  estFirstRun: January 1987
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+detailedChipInfo:
+- designation: PRG
+  maker: Sharp
+  partNumber: LH2326
+  partNumberSubDetail: 01
+  type: Mask ROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 8728
+  dateCodeSuffix: E
+  std: 8728
+  misc: 
+- designation: CHR
+  maker: Sharp
+  partNumber: LH2369
+  partNumberSubDetail: 13
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8728
+  dateCodeSuffix: E
+  std: 8728
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8727
+  dateCodeSuffix: A
+  std: 8727
+  misc: 

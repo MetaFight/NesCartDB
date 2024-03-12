@@ -1,0 +1,109 @@
+metadata:
+  name: Chubby Cherub
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-10-09 06:00:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1736
+  additionalImages: 
+slug: chubby-cherub
+releaseInfo:
+  catalogId: NES-CB-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 1986
+  publisher: Bandai
+  developer: TOSE Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 5-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-CB-USA
+  sealOfQuality: Round
+  mfgstringPresent: No
+  backLabelId/Desc: Grey
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/72382f8d54919cd877e50874a9bd6ad9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4d1ea529856ecd1b63f7166e8edcbd78.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2471')"
+    filename: /images/175/5e99b13010ccb380f41dc751c8dbeacd.jpg
+romDetails:
+- type: PRG0
+  label: NES-CB-0 PRG
+  size: 32 KB
+  crc32: CCA983F8
+  x: 1
+- type: CHR0
+  label: NES-CB-0 CHR
+  size: 8 KB
+  crc32: 06DAD11C
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: 77833016
+  x: 1
+pcbProperties:
+  name: NES-NROM-256-01
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-NROM-256-01<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/555afc48532063eae083aa845d2a5f34.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8639
+  estFirstRun: September 1986
+  pcbClass: NES-NROM-256
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3193
+detailedChipInfo:
+- designation: PRG
+  maker: Ricoh
+  partNumber: RP23256D
+  partNumberSubDetail: 0095
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 6J3
+  dateCodeSuffix: A0
+  std: 8638
+  misc: 
+- designation: CHR
+  maker: Ricoh
+  partNumber: RP2D70
+  partNumberSubDetail: 0049
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 6J4
+  dateCodeSuffix: 11
+  std: 8639
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3193
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8639
+  dateCodeSuffix: AC
+  std: 8639
+  misc: 

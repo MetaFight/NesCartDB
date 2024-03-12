@@ -1,0 +1,122 @@
+metadata:
+  name: Monopoly
+  altName: 
+  variant: 
+  submittedBy: efnes
+  submittedOn: 2006-07-24 04:28:00
+  moreProfiles:
+  - 992
+  - 4411
+  relatedProfiles:
+  - 2458
+  - 368
+  additionalImages: 
+slug: monopoly
+releaseInfo:
+  catalogId: NES-6B-FRA
+  region: France (PAL-B)
+  class: Licensed
+  releaseDate: 1991
+  publisher: Parker Brothers
+  developer: Sculptured Software
+  players: 8
+  peripherals: NES Controller
+  country: France
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-6B-FRA/FRA
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 4411')"
+    filename: /images/175/53d604733d25e9da05ef715c213dea6e.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4411')"
+    filename: /images/175/3e0d4898dfef82d370eccfc67423218e.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: FRA-6B-0 PRG
+  size: 128 KB
+  crc32: F4A9D860
+  x: 2
+- type: CHR0
+  label: FRA-6B-0 CHR
+  size: 128 KB
+  crc32: 14853B0F
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: 03B8DEFA
+  x: 2
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/c136eb04bea88b912ddf38c0cadd35c6.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9242 - 9242 (2)
+  estFirstRun: October 1992
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: F3
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9242
+  dateCodeSuffix: E
+  std: 9242
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 7D
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9242
+  dateCodeSuffix: D
+  std: 9242
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9236
+  dateCodeSuffix: A
+  std: 9236
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9241
+  dateCodeSuffix: 5 A 170
+  std: 9241
+  misc: 

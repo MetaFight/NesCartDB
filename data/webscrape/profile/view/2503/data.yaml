@@ -1,0 +1,131 @@
+metadata:
+  name: Top Gun
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-02-15 03:25:00
+  moreProfiles:
+  - 1022
+  - 2503
+  - 2632
+  relatedProfiles:
+  - 2005
+  - 1521
+  - 86
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-TG-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c47c5f7d50a9033d406cd769888df8e1.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-TG-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/85619fc9c9df126afe29533e0c8820ea.jpg
+slug: top-gun
+releaseInfo:
+  catalogId: NES-TG-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: November 30, 1988
+  publisher: Konami
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TG-EEC
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 08
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/7038df01584f7d0e2683b52615886410.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/ffcd297566c2d89a5e3ced6c5f941c1d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-TG-0 PRG
+  size: 128 KB
+  crc32: D78BFB28
+  x: 4
+pcbProperties:
+  name: NES-UN-ROM-07
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8844 - 8951 (3)
+  estFirstRun: November 1988
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 3195A
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Sharp
+  partNumber: LH2309
+  partNumberSubDetail: LD
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8916
+  dateCodeSuffix: D
+  std: 8916
+  misc: 
+- designation: CHR RAM
+  maker: Fujitsu
+  partNumber: MB8464A-15L-SK
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: SDIP-28
+  dateCodePrefix: 8910
+  dateCodeSuffix: KT72
+  std: 8910
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8914
+  dateCodeSuffix: A
+  std: 8914
+  misc: 
+- designation: LS161N
+  maker: Texas Instruments
+  partNumber: SN74HC161N
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 850
+  dateCodeSuffix: EN
+  std: 8850
+  misc: 
+- designation: LS32
+  maker: Texas Instruments
+  partNumber: SN74HC32N
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 911
+  dateCodeSuffix: J
+  std: 8911
+  misc: 

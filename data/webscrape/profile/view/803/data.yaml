@@ -1,0 +1,124 @@
+metadata:
+  name: 'WWF WrestleMania: Steel Cage Challenge'
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-04-19 02:36:00
+  moreProfiles:
+  - 803
+  - 894
+  relatedProfiles:
+  - 4366
+  - 4572
+  additionalImages: 
+slug: wwf-wrestlemania-steel-cage-challenge
+releaseInfo:
+  catalogId: NES-WS-USA
+  region: USA (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 1992
+  publisher: LJN
+  developer: Sculptured Software
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Acclaim
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Manufactured by Acclaim Licensed by Nintendo Made in U.S.A.
+  frontLabelId: NES-WS-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId: REV-A
+  4-DigitCode: SBRY
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6be0233dfcdb732be02129876f0a30f3.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3b1161e316f0bf8701921f62709172f9.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-WS PRG
+  size: 128 KB
+  crc32: 25A44D1B
+  x: 2
+- type: CHR0
+  label: NES-WS CHR
+  size: 256 KB
+  crc32: 32C440A1
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: D4611B79
+  x: 2
+pcbProperties:
+  name: 53361-2
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5674c352c140053753046c39fbfc20d1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>53361-2<br>Submitted by: bootgod<br>Linked from profile 661')"
+    filename: /images/175/8327ac9b64b61c483a5dbc99f043c41a.jpg
+  pcbProducer: Acclaim
+  manufacturer: Key Tronic
+  mfgRange: 9231 - 9232 (2)
+  estFirstRun: August 1992
+  pcbClass: ACCLAIM-MC-ACC
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MC-ACC
+detailedChipInfo:
+- designation: U1 PRG
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM231003
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9231
+  dateCodeSuffix: RNN
+  std: 9231
+  misc: 
+- designation: U2 CHR
+  maker: IMP
+  partNumber: 
+  partNumberSubDetail: IM232000
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9231
+  dateCodeSuffix: UEN
+  std: 9231
+  misc: 
+- designation: U3 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 223
+  dateCodeSuffix: C
+  std: 9223
+  misc: 
+- designation: U4
+  maker: Acclaim
+  partNumber: MC-ACC
+  partNumberSubDetail: 
+  type: Acclaim MC-ACC
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9204
+  dateCodeSuffix: KVA65
+  std: 9204
+  misc: 

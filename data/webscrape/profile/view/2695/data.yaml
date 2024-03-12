@@ -1,0 +1,106 @@
+metadata:
+  name: Gimmick!
+  altName: ギミック！
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2008-04-17 05:02:00
+  moreProfiles: []
+  relatedProfiles:
+  - 2105
+  - 4645
+  additionalImages: 
+slug: gimmick
+releaseInfo:
+  catalogId: SUN-GMK-6200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: January 31, 1992
+  publisher: Sunsoft
+  developer: Sunsoft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: Black
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/2902cb467bdd556c85a82ea8ad55b386.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ae1e7a3048b5879f11d39195fcab1cf.jpg
+romDetails:
+- type: PRG0
+  label: GMK-PRG
+  size: 256 KB
+  crc32: AAD7BDC1
+  x: 1
+- type: CHR0
+  label: GMK-CHR
+  size: 128 KB
+  crc32: 9868ACBE
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: 0D65E7C7
+  x: 1
+pcbProperties:
+  name: FC-GMK
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-GMK<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a736dd54d458b8de9de850f051be076d.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-GMK<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a353688ff65a3ea537f58402a4bdb166.jpg
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 9149
+  estFirstRun: December 1991
+  pcbClass: SUNSOFT-5B
+  inesMapper: 69
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-5B
+detailedChipInfo:
+- designation: 
+  maker: _UnkAMS
+  partNumber: 0210D
+  partNumberSubDetail: 162
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9149
+  dateCodeSuffix: ALA6
+  std: 9149
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2311
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9149
+  dateCodeSuffix: D
+  std: 9149
+  misc: 
+- designation: 
+  maker: _UnkAMS
+  partNumber: SUNSOFT-5B
+  partNumberSubDetail: 
+  type: Sunsoft-5
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9005
+  dateCodeSuffix: KABC
+  std: 9005
+  misc: 6630B

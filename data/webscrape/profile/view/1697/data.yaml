@@ -1,0 +1,122 @@
+metadata:
+  name: 'Baseball Star: Mezase Sankanou'
+  altName: ベースボールスター めざせ三
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 00:03:00
+  moreProfiles:
+  - 1697
+  - 2718
+  - 3614
+  - 3615
+  relatedProfiles:
+  - 139
+  additionalImages: 
+slug: baseball-star-mezase-sankanou
+releaseInfo:
+  catalogId: SFX-B9
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 19, 1989
+  publisher: SNK
+  developer: SNK
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: Light Orange
+  formFactor: Small
+  frontLabelId: SFX-B9
+  backLabelId/Desc: 880920 (Red Text)
+  2-DigitCode: 00
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/91d6763e67fc2569eb520f738653b0c4.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SFX-B9-0 PRG
+  size: 128 KB
+  crc32: 479ECFB6
+  x: 4
+- type: CHR0
+  label: SFX-B9-0 CHR
+  size: 128 KB
+  crc32: 7EEC68B9
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AE5C3D94
+  x: 4
+pcbProperties:
+  name: HVC-SKROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/57ac388848f8ef622a0fcac9c53c8458.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>HVC-SKROM-03<br>Submitted by: bootgod<br>Linked from profile 3504')"
+    filename: /images/175/7483de45a9c33e45ce4236b54443542a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8919 - 8919 (4)
+  estFirstRun: May 1989
+  pcbClass: HVC-SKROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8915
+  dateCodeSuffix: EX
+  std: 8915
+  misc: 
+- designation: U2 W-RAM
+  maker: Sharp
+  partNumber: LH5264T-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8919
+  dateCodeSuffix: 1 Y
+  std: 8919
+  misc: 
+- designation: U3 CHR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8915
+  dateCodeSuffix: EY
+  std: 8915
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8919
+  dateCodeSuffix: 1 A
+  std: 8919
+  misc: 

@@ -1,0 +1,143 @@
+metadata:
+  name: Kirby's Adventure
+  altName: 
+  variant: (Revision A)
+  submittedBy: bootgod
+  submittedOn: 2005-12-15 04:40:00
+  moreProfiles:
+  - 170
+  - 286
+  - 781
+  - 4236
+  - 1377
+  - 4644
+  relatedProfiles:
+  - 2118
+  - 993
+  - 1880
+  - 2241
+  - 2347
+  additionalImages: 
+slug: kirbys-adventure
+releaseInfo:
+  catalogId: NES-KR-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: May 1993
+  publisher: Nintendo
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-KR-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1 (Battery)
+  2-DigitCode: 07
+  revision: A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/9e8775797a8f33de9d9a88e472b4f050.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/fc59c3c6e13d81218d963307bb753cb0.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-KR-1 PRG
+  size: 512 KB
+  crc32: 8FFF3F32
+  x: 1
+- type: CHR0
+  label: NES-KR-0 CHR
+  size: 256 KB
+  crc32: 7EDAE6F3
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: 5ED6F221
+  x: 1
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4c4201fc46274743b65b5c7efdf09ce7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9312 - 9334 (3)
+  estFirstRun: March 1993
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534T
+  partNumberSubDetail: 79
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9334
+  dateCodeSuffix: E
+  std: 9334
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 3A
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9334
+  dateCodeSuffix: E
+  std: 9334
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9317
+  dateCodeSuffix: 7 BB
+  std: 9317
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9326
+  dateCodeSuffix: EP019
+  std: 9326
+  misc: 
+- designation: U5 S-RAM
+  maker: Hyundai
+  partNumber: HY6264AP-10LL
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9327
+  dateCodeSuffix: NB
+  std: 9327
+  misc: 

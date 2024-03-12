@@ -1,0 +1,126 @@
+metadata:
+  name: Defenders of Dynatron City
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-01-16 00:20:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-DY USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/846867e7d7262808f00ed8fd60cc750b.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-DY USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b86b3deb152751332c48b07596b5a5d6.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-DY-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/a40a1be5d10ba9dc64dd32da38a3e2ba.jpg
+slug: defenders-of-dynatron-city
+releaseInfo:
+  catalogId: NES-DY-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1992
+  publisher: JVC
+  developer: LucasFilm Games
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-DY-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN
+  2-DigitCode: 21
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/b698e49c5a50a1ae11c6cb7af78ff429.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6d49add76727df8d1e996be909cdbf12.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 4402')"
+    filename: /images/175/8670be1eed457bdc345d7bb401494e31.jpg
+romDetails:
+- type: PRG0
+  label: NES-DY-0 PRG
+  size: 128 KB
+  crc32: D78F47AE
+  x: 1
+- type: CHR0
+  label: NES-DY-0 CHR
+  size: 128 KB
+  crc32: 346320D4
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: A725B2D3
+  x: 1
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/676064117d9f9a24d2c6ff66da735be8.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9221
+  estFirstRun: May 1992
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: B6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9219
+  dateCodeSuffix: E
+  std: 9219
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH231J
+  partNumberSubDetail: 2B
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9221
+  dateCodeSuffix: D
+  std: 9221
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9218
+  dateCodeSuffix: 1 BB
+  std: 9218
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9208
+  dateCodeSuffix: 5 T
+  std: 9208
+  misc: 

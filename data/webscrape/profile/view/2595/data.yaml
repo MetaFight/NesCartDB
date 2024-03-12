@@ -1,0 +1,129 @@
+metadata:
+  name: Tecmo World Wrestling
+  altName: 
+  variant: 
+  submittedBy: Kinopio
+  submittedOn: 2008-03-10 03:11:00
+  moreProfiles: []
+  relatedProfiles:
+  - 4698
+  - 3543
+  - 2496
+  - 1888
+  - 418
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-PZ-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/1c6d3700da8f5e26f5ad2c2c4a949af5.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-PZ-EEC<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/e5af19c22dd2d62705ee6c09b671a66b.jpg
+slug: tecmo-world-wrestling
+releaseInfo:
+  catalogId: NES-PZ-EEC
+  region: Europe (PAL-B)
+  class: Licensed
+  releaseDate: November 23, 1990
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: Europe
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-PZ-EEC
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: SCN
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/5b5d9bbc29d52e5a32b515f1b9feaa9b.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/4ac4d21492e5bd2102a19f844ceb621e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Kinopio<br>Linked from profile 2497')"
+    filename: /images/175/fbb6df3fc252ad747f3da83b9ac44a9c.jpg
+romDetails:
+- type: PRG0
+  label: PAL-PZ-0 PRG
+  size: 128 KB
+  crc32: 790D2916
+  x: 5
+- type: CHR0
+  label: NES-PZ-0 CHR
+  size: 128 KB
+  crc32: 849275C5
+  x: 6
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: CF849F72
+  x: 5
+pcbProperties:
+  name: NES-SLROM-06
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 0')"
+    filename: /images/175/c4296e104cbd4b8564f51d4bbda5fb2b.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-SLROM-06<br>Submitted by: Kinopio<br>Linked from profile 1619')"
+    filename: /images/175/28b322306ed539e7ab172c5e0c133dc7.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9032
+  estFirstRun: August 1990
+  pcbClass: NES-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 3195A
+  hardware: MMC1B2
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH2306
+  partNumberSubDetail: 57
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: E
+  std: 9032
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH2311
+  partNumberSubDetail: H6
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9031
+  dateCodeSuffix: E
+  std: 9031
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 3195A
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9031
+  dateCodeSuffix: A
+  std: 9031
+  misc: 
+- designation: U4 MMC1
+  maker: Sharp
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9024
+  dateCodeSuffix: 5 TA
+  std: 9024
+  misc: 

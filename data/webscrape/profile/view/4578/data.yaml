@@ -1,0 +1,98 @@
+metadata:
+  name: The Tower of Druaga
+  altName: ドルアーガの塔
+  variant: 
+  submittedBy: Mark_K
+  submittedOn: 2011-12-08 05:24:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1577
+  - 1807
+  - 2299
+  - 3178
+  - 3179
+  - 4578
+  additionalImages: 
+slug: the-tower-of-druaga
+releaseInfo:
+  catalogId: NAM-NTD-4900-07
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 6, 1985
+  publisher: Namco
+  developer: Namco
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: 
+  color: Black
+  formFactor: Small
+  frontLabelId: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1807')"
+    filename: /images/175/e31a60f36e04ac32cffd0b2a001f93b2.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1807')"
+    filename: /images/175/e879790024f165769d5966cf95cb40d1.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4708')"
+    filename: /images/175/b1df30a77d2a6013fe6a86e07bcc08fb.jpg
+romDetails:
+- type: PRG0
+  label: NAMCOT TD PRG
+  size: 32 KB
+  crc32: AF6E8571
+  x: 5
+- type: CHR0
+  label: NAMCOT TD CHR
+  size: 8 KB
+  crc32: 6DC7E8EA
+  x: 5
+- type: N/A
+  label: ROMs Combined
+  size: 40 KB
+  crc32: EB764567
+  x: 5
+pcbProperties:
+  name: 3305
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>3305<br>Submitted by: Mark_K<br>Linked from profile 0')"
+    filename: /images/175/f2b2f269fa0e220bd000f1f33f09573e.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>3305<br>Submitted by: bootgod<br>Linked from profile 1577')"
+    filename: /images/175/3d02a9bf10fa8a47857965e1e8638949.jpg
+  pcbProducer: 
+  manufacturer: Not Specified
+  mfgRange: 8528 - 8618 (6)
+  estFirstRun: July 1985
+  pcbClass: NAMCOT-3305
+  inesMapper: 0
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: PR
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C256
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: E9
+  std: 8528
+  misc: 
+- designation: CH
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C64
+  type: Mask ROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8528
+  dateCodeSuffix: X7
+  std: 8528
+  misc: 

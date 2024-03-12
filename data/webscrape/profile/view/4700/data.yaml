@@ -1,0 +1,168 @@
+metadata:
+  name: Tecmo Super Bowl
+  altName: 
+  variant: (Prototype)
+  submittedBy: Skrybe
+  submittedOn: 2013-07-17 02:57:00
+  moreProfiles:
+  - 82
+  - 460
+  - 638
+  - 805
+  - 2372
+  - 4700
+  relatedProfiles:
+  - 3560
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-4U USA<br>Submitted by: polarz<br>Linked from profile 460')"
+    filename: /images/175/690a469824540903c0cc9070df49f5a4.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-4U USA<br>Submitted by: polarz<br>Linked from profile 460')"
+    filename: /images/175/8a1012644b847e2a60fccce56ed959a2.jpg
+slug: tecmo-super-bowl
+releaseInfo:
+  catalogId: NES-4U-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: December 1991
+  publisher: Tecmo
+  developer: Tecmo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-4U USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: None
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/5c7048a004c093d67aa848443c5c29f6.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/87227ca6f4ba23e8374d821e7b805857.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Skrybe<br>Linked from profile 0')"
+    filename: /images/175/6cd70abe25f47c91a61c915ff48c98da.jpg
+romDetails:
+- type: PRG0
+  label: 8/27 0 5:20
+  size: 128 KB
+  crc32: E88F1FE7
+  x: 1
+- type: PRG1
+  label: 8/27 1 5:20
+  size: 128 KB
+  crc32: 937992D7
+  x: 1
+- type: CHR0
+  label: T.S.B CHR 8/17
+  size: 128 KB
+  crc32: E5F74C77
+  x: 7
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: DB2D4F9D
+  x: 1
+pcbProperties:
+  name: NES-TKEPROM-02
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9144 - 9210 (2)
+  estFirstRun: November 1991
+  pcbClass: NES-TKEPROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx139, MMC3B
+detailedChipInfo:
+- designation: U1 PRG-ROM
+  maker: NEC
+  partNumber: D27C1000D-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8814
+  dateCodeSuffix: PX700
+  std: 8814
+  misc: 
+- designation: U10
+  maker: Toshiba
+  partNumber: 74HC139AP
+  partNumberSubDetail: 
+  type: 74-139 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9045
+  dateCodeSuffix: H
+  std: 9045
+  misc: 
+- designation: U2 PRG-ROM
+  maker: NEC
+  partNumber: D27C1000D-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8814
+  dateCodeSuffix: PX700
+  std: 8814
+  misc: 
+- designation: U5 CHR-ROM
+  maker: NEC
+  partNumber: D27C1000D-15
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8814
+  dateCodeSuffix: PX700
+  std: 8814
+  misc: 
+- designation: U7 W-RAM
+  maker: Sanyo
+  partNumber: LC3664NL-12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8D
+  dateCodeSuffix: 8
+  std: 8814
+  misc: 
+- designation: U8 MMC3
+  maker: Sharp
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9113
+  dateCodeSuffix: 5 DB
+  std: 9113
+  misc: 
+- designation: U9 CIC
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 047
+  dateCodeSuffix: C
+  std: 9047
+  misc: 

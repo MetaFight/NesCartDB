@@ -1,0 +1,107 @@
+metadata:
+  name: Saiyuuki World
+  altName: 西遊記ワールド
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-06-27 18:28:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: saiyuuki-world
+releaseInfo:
+  catalogId: NMK-KW
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: November 11, 1988
+  publisher: Jaleco
+  developer: NMK
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: NMK-KW
+  backLabelId/Desc: 880920 (Blue Text)
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3d2ba18540fe92142282aa67a3dbb361.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4603')"
+    filename: /images/175/9dbbdefc3835c1eea6cae067a6f66622.jpg
+romDetails:
+- type: PRG0
+  label: NMK-KW-0 PRG
+  size: 128 KB
+  crc32: 69D07DDB
+  x: 1
+pcbProperties:
+  name: HVC-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8839
+  estFirstRun: September 1988
+  pcbClass: HVC-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: None
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Ricoh
+  partNumber: RP231024D
+  partNumberSubDetail: 0242
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8J4
+  dateCodeSuffix: A5
+  std: 8839
+  misc: 
+- designation: U2 CHR RAM
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8834
+  dateCodeSuffix: M5
+  std: 8834
+  misc: 
+- designation: U3 HC161
+  maker: Toshiba
+  partNumber: 74HC161AP
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8828
+  dateCodeSuffix: H
+  std: 8828
+  misc: 
+- designation: U4 HC32
+  maker: Toshiba
+  partNumber: 74HC32AP
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 8819
+  dateCodeSuffix: H
+  std: 8819
+  misc: 

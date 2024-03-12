@@ -1,0 +1,104 @@
+metadata:
+  name: 'Daiku no Gen-san 2: Akage no Dan no Gyakushuu'
+  altName: 大工の源さん２ 赤毛のダンの逆襲
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2010-07-23 03:46:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: daiku-no-gen-san-2-akage-no-dan-no-gyakushuu
+releaseInfo:
+  catalogId: IF-29
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: October 22, 1993
+  publisher: Irem
+  developer: Micronics / Khaos
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Lime Green
+  formFactor: New Style
+  frontLabelId: IF-29
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5ab3e9ec598e5f3d2311d7baedc8ec47.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/aef4f51d2d54182b85606c75e7f02e24.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 744893DA
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: 8F4C28E6
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 93B2CEC4
+  x: 1
+pcbProperties:
+  name: FC-00-017C
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>FC-00-017C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5c9233d57b6a7e5080763d9fb2f72786.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>FC-00-017C<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f27ae705bb2487b45c9842cb2f32bd4c.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 9341
+  estFirstRun: October 1993
+  pcbClass: IREM-H3001
+  inesMapper: 65
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: IF-H3001
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: D23C2001ECZ
+  partNumberSubDetail: W48
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9341
+  dateCodeSuffix: XD008
+  std: 9341
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: D23C2001ECZ
+  partNumberSubDetail: W49
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9340
+  dateCodeSuffix: XD007
+  std: 9340
+  misc: 
+- designation: H3001
+  maker: NEC
+  partNumber: IF-H3001
+  partNumberSubDetail: 
+  type: Irem H3001
+  typeSubDetail: 
+  package: DIP-48
+  dateCodePrefix: 9129
+  dateCodeSuffix: K5024
+  std: 9129
+  misc: 

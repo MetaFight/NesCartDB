@@ -1,0 +1,126 @@
+metadata:
+  name: Rollergames
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-01-29 22:52:00
+  moreProfiles:
+  - 441
+  - 2772
+  relatedProfiles:
+  - 2039
+  - 1850
+  additionalImages:
+  - toolTipJS: "ddrivetip('Manual<br>NES-U5-USA<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/bd936d9622c55a3c69a97aec0eb05e31.jpg
+slug: rollergames
+releaseInfo:
+  catalogId: NES-U5-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: September 1990
+  publisher: Ultra Games
+  developer: Konami
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-U5-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 05
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/644e2e394ecf8f50e1dacbb4673ef515.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/f3cf0fa7fc6239698036be89d9087bc4.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-U5-0 PRG
+  size: 128 KB
+  crc32: A4D734E9
+  x: 2
+- type: CHR0
+  label: NES-U5-0 CHR
+  size: 128 KB
+  crc32: 7A596F1B
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: AA4997C1
+  x: 2
+pcbProperties:
+  name: NES-TLROM-03
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TLROM-03<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4170f7fde0293a60abe76de7f089fc3f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TLROM-03<br>Submitted by: Kinopio<br>Linked from profile 1610')"
+    filename: /images/175/8f7b24bde49d350ca42293b2a5d8725f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9031 - 9034 (2)
+  estFirstRun: August 1990
+  pcbClass: NES-TLROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3B
+detailedChipInfo:
+- designation: U1 PRG
+  maker: NEC
+  partNumber: UPD23C1010AC
+  partNumberSubDetail: S24
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9032
+  dateCodeSuffix: EX740
+  std: 9032
+  misc: 
+- designation: U2 CHR
+  maker: NEC
+  partNumber: UPD23C1013AC
+  partNumberSubDetail: R08
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 9030
+  dateCodeSuffix: EY018
+  std: 9030
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9034
+  dateCodeSuffix: 3 AA
+  std: 9034
+  misc: 
+- designation: U4 MMC3
+  maker: NEC
+  partNumber: MMC3B
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9031
+  dateCodeSuffix: KX049
+  std: 9031
+  misc: 

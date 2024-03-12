@@ -1,0 +1,130 @@
+metadata:
+  name: Disney's The Little Mermaid
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2005-10-01 04:38:00
+  moreProfiles:
+  - 39
+  - 866
+  relatedProfiles:
+  - 4016
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-3U USA<br>Submitted by: bootgod<br>Linked from profile 866')"
+    filename: /images/175/7aae4331a81edebdbc0b96089f1e7d23.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-3U USA<br>Submitted by: bootgod<br>Linked from profile 866')"
+    filename: /images/175/7cc95b789850c3e361cf09654f464169.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-3U-USA<br>Submitted by: bootgod<br>Linked from profile 866')"
+    filename: /images/175/18080b9faa7c3775af4baf14158af49f.jpg
+slug: disneys-the-little-mermaid
+releaseInfo:
+  catalogId: NES-3U-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: July 1991
+  publisher: Capcom
+  developer: Capcom
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-3U-USA-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/1853a7cd9d06ffa4bb7788b1e57f6870.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/8460973d52722148d91d4d5610775754.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-3U-0 PRG
+  size: 128 KB
+  crc32: 3BE244EF
+  x: 2
+pcbProperties:
+  name: NES-UNROM-09
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9127 - 9139 (2)
+  estFirstRun: July 1991
+  pcbClass: NES-UNROM
+  inesMapper: 2
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 8 KB
+  cicType: 6113B1
+  hardware: 74xx161, 74xx32
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH231G
+  partNumberSubDetail: 83
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9139
+  dateCodeSuffix: E
+  std: 9139
+  misc: 
+- designation: U2 CHR RAM
+  maker: Motorola
+  partNumber: MCM6064P12
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9131
+  dateCodeSuffix: HCK
+  std: 9131
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9047
+  dateCodeSuffix: 5 AB
+  std: 9047
+  misc: 
+- designation: U4 HC161
+  maker: GoldStar
+  partNumber: GD74HC161
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9036
+  dateCodeSuffix: ''
+  std: 9036
+  misc: 
+- designation: U5 HC32
+  maker: GoldStar
+  partNumber: GD74HC32
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9036
+  dateCodeSuffix: ''
+  std: 9036
+  misc: 

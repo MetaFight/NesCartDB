@@ -1,0 +1,95 @@
+metadata:
+  name: 10-Yard Fight
+  altName: １０ヤードファイト
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-02-16 00:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 1541
+  - 3129
+  - 3130
+  additionalImages: 
+slug: 10-yard-fight
+releaseInfo:
+  catalogId: IF-02
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: August 30, 1985
+  publisher: Irem
+  developer: Irem
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Irem
+  color: Off White
+  formFactor: Original w/ LED
+  frontLabelId: IF-02
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/0a92f4e01f9ea6f33be0d6902691ceb9.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6b8b61ea5c4b7601b443009361c0e223.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/7ed7a8ddd0ce71aae3aa8cc9fbf8313e.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 16 KB
+  crc32: B7E8DECA
+  x: 1
+- type: CHR0
+  label: Not Present
+  size: 8 KB
+  crc32: 9C124A53
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: 44D21F83
+  x: 1
+pcbProperties:
+  name: IREM-01-V
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>IREM-01-V<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b83f095ea9eabb3b9ce5118c2285a7a.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>IREM-01-V<br>Submitted by: bootgod<br>Linked from profile 2257')"
+    filename: /images/175/ad3a73256ef4fca44b3ceecc8d5958c2.jpg
+  pcbProducer: Irem
+  manufacturer: Not Specified
+  mfgRange: 8517 - 8528 (3)
+  estFirstRun: April 1985
+  pcbClass: IREM-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+detailedChipInfo:
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5L27128K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 16 KB
+  package: DIP-28
+  dateCodePrefix: 517
+  dateCodeSuffix: 11J
+  std: 8517
+  misc: 
+- designation: 
+  maker: Mitsubishi
+  partNumber: M5L2764K
+  partNumberSubDetail: 
+  type: UV EPROM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 513
+  dateCodeSuffix: 12J
+  std: 8513
+  misc: 

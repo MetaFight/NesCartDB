@@ -1,0 +1,122 @@
+metadata:
+  name: Friday the 13th
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-02-12 21:46:00
+  moreProfiles:
+  - 176
+  - 487
+  - 567
+  relatedProfiles: []
+  additionalImages: 
+slug: friday-the-13th
+releaseInfo:
+  catalogId: NES-F3-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1989
+  publisher: LJN
+  developer: Pack-In-Video
+  players: 1
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-F3-USA
+  sealOfQuality: Oval (TM)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 176')"
+    filename: /images/175/94b5993a50fc29f3f360ba68ce50ea8f.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/98dc491a02b50348873d7f97d50d08bc.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: NES-F3-0 PRG
+  size: 32 KB
+  crc32: 92861600
+  x: 3
+- type: CHR0
+  label: NES-F3-0 CHR
+  size: 32 KB
+  crc32: 1B5BB3E0
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 64 KB
+  crc32: BEB15855
+  x: 3
+pcbProperties:
+  name: NES-CN-ROM-256-05
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-CN-ROM-256-05<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4aafc926dab20f6e2761d0835826f3ea.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-CN-ROM-256-05<br>Submitted by: Kinopio<br>Linked from profile 2344')"
+    filename: /images/175/85e5f6d54efb74ce19a01090ff226e4a.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8901 - 8914 (2)
+  estFirstRun: January 1989
+  pcbClass: NES-CNROM
+  inesMapper: 3
+  mirroring: Vertical
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx161
+detailedChipInfo:
+- designation: PRG ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2097
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9C4
+  dateCodeSuffix: E1
+  std: 8913
+  misc: 
+- designation: CHR ROM
+  maker: Ricoh
+  partNumber: RP23256E
+  partNumberSubDetail: 2098
+  type: Mask ROM
+  typeSubDetail: 32 KB
+  package: DIP-28
+  dateCodePrefix: 9C4
+  dateCodeSuffix: 31
+  std: 8913
+  misc: 
+- designation: CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8914
+  dateCodeSuffix: 7 AA
+  std: 8914
+  misc: 
+- designation: LS161
+  maker: Phillips
+  partNumber: PC74HC161P
+  partNumberSubDetail: 
+  type: 74-161 Series
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 8905
+  dateCodeSuffix: rSS
+  std: 8905
+  misc: 1588B04T

@@ -1,0 +1,142 @@
+metadata:
+  name: Kirby's Adventure
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-10-28 22:25:00
+  moreProfiles: []
+  relatedProfiles:
+  - 993
+  - 1880
+  - 2241
+  - 2347
+  - 170
+  additionalImages:
+  - toolTipJS: "ddrivetip('Box Front<br>NES-K5-CAN-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d83075e3bc16502f13e4f8aa06a764b0.jpg
+  - toolTipJS: "ddrivetip('Box Back<br>NES-K5-CAN-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/5abb4332a590944f6373cb91ef81dd17.jpg
+  - toolTipJS: "ddrivetip('Manual<br>NES-K5-CAN-1<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/77eca4c6bc507abfa69fead1ddbb1d08.jpg
+slug: kirbys-adventure
+releaseInfo:
+  catalogId: NES-K5-CAN
+  region: Canada (NTSC)
+  class: Licensed
+  releaseDate: September 27, 1993
+  publisher: Nintendo
+  developer: HAL Laboratory
+  players: 1
+  peripherals: NES Controller
+  country: Canada
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-K5-CAN-1
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: NES-USA/CAN-1 (Battery)
+  2-DigitCode: 07
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/92a67d1c9dbf3bbc9f6c21833c90992a.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cc9df56f95b5aba326523f5776b5af41.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: NES-K5-0 PRG
+  size: 512 KB
+  crc32: 7266B1B3
+  x: 1
+- type: CHR0
+  label: NES-K5-0 CHR
+  size: 256 KB
+  crc32: AF7693D2
+  x: 2
+- type: N/A
+  label: ROMs Combined
+  size: 768 KB
+  crc32: 37088EFF
+  x: 1
+pcbProperties:
+  name: NES-TKROM-10
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>NES-TKROM-10<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/e5536da395978c64139347203b9a64fe.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>NES-TKROM-10<br>Submitted by: Kinopio<br>Linked from profile 1821')"
+    filename: /images/175/66b645c62260e493938183df63109a1f.jpg
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 9339
+  estFirstRun: September 1993
+  pcbClass: NES-TKROM
+  inesMapper: 4
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: MMC3C
+detailedChipInfo:
+- designation: U1 PRG
+  maker: Sharp
+  partNumber: LH534T
+  partNumberSubDetail: 0M
+  type: Mask ROM
+  typeSubDetail: 512 KB
+  package: DIP-32
+  dateCodePrefix: 9339
+  dateCodeSuffix: D
+  std: 9339
+  misc: 
+- designation: U2 CHR
+  maker: Sharp
+  partNumber: LH532J
+  partNumberSubDetail: 0G
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 9339
+  dateCodeSuffix: D
+  std: 9339
+  misc: 
+- designation: U3 CIC
+  maker: Sharp
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 9317
+  dateCodeSuffix: 5 CB
+  std: 9317
+  misc: 
+- designation: U4 MMC3
+  maker: Sharp
+  partNumber: MMC3C
+  partNumberSubDetail: 
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: TQFP-44
+  dateCodePrefix: 9319
+  dateCodeSuffix: 5 B
+  std: 9319
+  misc: 
+- designation: U5 S-RAM
+  maker: MOSEL
+  partNumber: MS6264CLL-15PC
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 9325
+  dateCodeSuffix: KT26
+  std: 9325
+  misc: 

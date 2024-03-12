@@ -1,0 +1,137 @@
+metadata:
+  name: Ski or Die
+  altName: 
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2006-12-03 03:06:00
+  moreProfiles:
+  - 247
+  - 2830
+  - 2838
+  relatedProfiles:
+  - 1845
+  - 4609
+  additionalImages: 
+slug: ski-or-die
+releaseInfo:
+  catalogId: NES-7S-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: February 1991
+  publisher: Ultra Games
+  developer: Electronic Arts
+  portedBy: 
+  players: 6
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-7S-USA
+  sealOfQuality: Oval (R)
+  mfgstringPresent: Yes
+  backLabelId/Desc: REV-A
+  2-DigitCode: 24
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 247')"
+    filename: /images/175/cdc0498458cf11608c3efc2e877f3377.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 247')"
+    filename: /images/175/2466739ad2c1365b9f099a987ec6ddc5.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4699')"
+    filename: /images/175/31d15a908b8b9f18f50c093840ba9eca.jpg
+romDetails:
+- type: PRG0
+  label: RD033N01P
+  size: 128 KB
+  crc32: B330ED11
+  x: 4
+- type: CHR0
+  label: RD033N01C
+  size: 128 KB
+  crc32: F67B4EE3
+  x: 4
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: E9A6C211
+  x: 4
+pcbProperties:
+  name: 351908
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351908<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d318cf6ea19ed161567d014618515fe6.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9050 - 9051 (3)
+  estFirstRun: December 1990
+  pcbClass: KONAMI-SLROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113B1
+  hardware: 74xx32, MMC1B2
+detailedChipInfo:
+- designation: 
+  maker: Fujitsu
+  partNumber: ''
+  partNumberSubDetail: MB831002
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9050
+  dateCodeSuffix: Z07
+  std: 9050
+  misc: 
+- designation: 
+  maker: Sharp
+  partNumber: 
+  partNumberSubDetail: LH2310
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 9049
+  dateCodeSuffix: E
+  std: 9049
+  misc: 
+- designation: 
+  maker: LSI Logic
+  partNumber: 6113B1
+  partNumberSubDetail: 
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: DIP-16
+  dateCodePrefix: 043
+  dateCodeSuffix: C
+  std: 9043
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: MMC1B2
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 9046
+  dateCodeSuffix: B3010
+  std: 9046
+  misc: 
+- designation: 
+  maker: Phillips
+  partNumber: PC74HC32P
+  partNumberSubDetail: 
+  type: 74-32 Series
+  typeSubDetail: 
+  package: DIP-14
+  dateCodePrefix: 9035
+  dateCodeSuffix: Hnn
+  std: 9035
+  misc: 688510T

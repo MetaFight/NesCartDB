@@ -1,0 +1,81 @@
+metadata:
+  name: Tennis
+  altName: 
+  variant: 
+  submittedBy: polarz
+  submittedOn: 2006-02-27 01:59:00
+  moreProfiles:
+  - 568
+  - 833
+  - 853
+  - 1346
+  relatedProfiles:
+  - 1562
+  - 1455
+  - 1973
+  additionalImages: 
+slug: tennis
+releaseInfo:
+  catalogId: NES-TE-USA
+  region: USA (NTSC)
+  class: Licensed
+  releaseDate: October 18, 1985
+  publisher: Nintendo
+  developer: Nintendo
+  players: 2
+  peripherals: NES Controller
+  country: USA
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-TE-USA
+  sealOfQuality: Round
+  mfgstringPresent: Yes
+  2-DigitCode: 11
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 1346')"
+    filename: /images/175/fa38d9de8210cc7d31b89beeca1519bb.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 1346')"
+    filename: /images/175/68242fe5862e77b17468ad199d235ca8.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: HVC-TE-0 PRG
+  size: 16 KB
+  crc32: 8B2E3E81
+  x: 11
+- type: CHR0
+  label: HVC-TE-0 CHR
+  size: 8 KB
+  crc32: 3A34C45B
+  x: 16
+- type: N/A
+  label: ROMs Combined
+  size: 24 KB
+  crc32: D4D9E21A
+  x: 11
+pcbProperties:
+  name: NES-NROM-128-03
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8642 - 8808 (3)
+  estFirstRun: October 1986
+  pcbClass: NES-NROM-128
+  inesMapper: 0
+  mirroring: Horizontal
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 6113
+detailedChipInfo: []

@@ -1,0 +1,104 @@
+metadata:
+  name: 'TwinBee 3: Poko Poko Dai Maou'
+  altName: ツインビー3　ポコポコ大魔王
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-11-28 06:34:00
+  moreProfiles: []
+  relatedProfiles: []
+  additionalImages: 
+slug: twinbee-3-poko-poko-dai-maou
+releaseInfo:
+  catalogId: KON-RC841
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: September 29, 1989
+  publisher: Konami
+  developer: Konami
+  players: 2
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Konami
+  color: Black
+  formFactor: Small
+  frontLabelId: RC841
+  topImage:
+    toolTipJS: "ddrivetip('Cart Top<br><br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/6598d15cac18be6942d369fb35939710.jpg
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/d1bcc0eaed3346f9e50cdce53a8854e7.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: aodinets<br>Linked from profile 4601')"
+    filename: /images/175/7e5b199eddbeb9165b663f3ab01ae3ae.jpg
+romDetails:
+- type: PRG0
+  label: RC841J0P
+  size: 128 KB
+  crc32: 7A508DBB
+  x: 1
+- type: CHR0
+  label: RC841J0C
+  size: 128 KB
+  crc32: 51B6F84A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 256 KB
+  crc32: D7FABAC1
+  x: 1
+pcbProperties:
+  name: 351618
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>351618<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/3e5c9d43d3f13b314e73700a99bc384f.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>351618<br>Submitted by: bootgod<br>Linked from profile 1774')"
+    filename: /images/175/aa7a7d39d4f788062615ef3d8ebff9ee.jpg
+  pcbProducer: Konami
+  manufacturer: Not Specified
+  mfgRange: 9136
+  estFirstRun: September 1991
+  pcbClass: KONAMI-VRC-2
+  inesMapper: 22
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: VRC2
+detailedChipInfo:
+- designation: IC1
+  maker: __Unknown
+  partNumber: 200
+  partNumberSubDetail: A05
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 136
+  dateCodeSuffix: A03C
+  std: 9136
+  misc: 
+- designation: IC2
+  maker: __Unknown
+  partNumber: 200
+  partNumberSubDetail: A04
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 953
+  dateCodeSuffix: A03C
+  std: 8953
+  misc: 
+- designation: IC3
+  maker: Fujitsu
+  partNumber: 051705 VRC II
+  partNumberSubDetail: 
+  type: Konami VRC II
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 9008
+  dateCodeSuffix: Z20
+  std: 9008
+  misc: 

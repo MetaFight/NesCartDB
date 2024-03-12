@@ -1,0 +1,124 @@
+metadata:
+  name: After Burner
+  altName: アフターバーナー
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2009-07-26 20:06:00
+  moreProfiles:
+  - 3806
+  - 4740
+  relatedProfiles:
+  - 326
+  additionalImages: 
+slug: after-burner
+releaseInfo:
+  catalogId: SUN-AFB-6200
+  region: Japan (NTSC)
+  class: Licensed  » 3rd-Party
+  releaseDate: March 30, 1989
+  publisher: Sunsoft
+  developer: Sega
+  portedBy: 
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Sunsoft
+  color: White
+  formFactor: Small
+  embossedText: Made in Japan
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/4b26ea30927742f2668a0c2ccaf5395c.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/cdced3f576d828b3be53f0da9484031c.jpg
+romDetails:
+- type: PRG0
+  label: SUNSOFT-P0
+  size: 128 KB
+  crc32: 88F202F0
+  x: 2
+- type: CHR0
+  label: SUNSOFT-00
+  size: 128 KB
+  crc32: 10935D10
+  x: 1
+- type: CHR1
+  label: SUNSOFT-01
+  size: 128 KB
+  crc32: 0BC56F7A
+  x: 1
+- type: N/A
+  label: ROMs Combined
+  size: 384 KB
+  crc32: F2CE3641
+  x: 2
+pcbProperties:
+  name: UNK-SUNSOFT-AFB
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Sunsoft
+  manufacturer: Not Specified
+  mfgRange: 8907 - 8911 (2)
+  estFirstRun: February 1989
+  pcbClass: SUNSOFT-4
+  inesMapper: 68
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: None
+  hardware: Sunsoft-4
+detailedChipInfo:
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1010
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-28
+  dateCodePrefix: 8906
+  dateCodeSuffix: KX
+  std: 8906
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8907
+  dateCodeSuffix: KY
+  std: 8907
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C1013
+  type: Mask ROM
+  typeSubDetail: 128 KB
+  package: DIP-32
+  dateCodePrefix: 8907
+  dateCodeSuffix: KY
+  std: 8907
+  misc: 
+- designation: 
+  maker: NEC
+  partNumber: SUNSOFT-4
+  partNumberSubDetail: 
+  type: Sunsoft-4
+  typeSubDetail: 
+  package: DIP-40
+  dateCodePrefix: 8848
+  dateCodeSuffix: KP
+  std: 8848
+  misc: 

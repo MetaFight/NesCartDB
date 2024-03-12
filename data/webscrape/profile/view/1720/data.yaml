@@ -1,0 +1,110 @@
+metadata:
+  name: 'Deep Dungeon III: Yuushi e no Tabi'
+  altName: ディープダンジョンIII 勇士への旅
+  variant: 
+  submittedBy: bootgod
+  submittedOn: 2007-06-25 02:32:00
+  moreProfiles:
+  - 1720
+  - 3616
+  - 3617
+  relatedProfiles: []
+  additionalImages: 
+slug: deep-dungeon-iii-yuushi-e-no-tabi
+releaseInfo:
+  catalogId: SQF-UT
+  region: Japan (NTSC)
+  class: Licensed
+  releaseDate: May 13, 1988
+  publisher: Square
+  developer: HummingBird Soft
+  players: 1
+  peripherals: Famicom Controller
+  country: Japan
+cartProperties:
+  cartProducer: Nintendo (Famicom)
+  color: White
+  formFactor: Small
+  frontLabelId: SQF-UT
+  backLabelId/Desc: 880304
+  2-DigitCode: 09
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 0')"
+    filename: /images/175/eefbd5dbbd446eff42403bd9f35fb188.jpg
+  backImage:
+    toolTipJS: 
+    filename: 
+romDetails:
+- type: PRG0
+  label: SQF-UT-0 PRG
+  size: 256 KB
+  crc32: 73F7E5D8
+  x: 3
+pcbProperties:
+  name: HVC-SNROM-05
+  frontImage:
+    toolTipJS: 
+    filename: 
+  backImage:
+    toolTipJS: 
+    filename: 
+  pcbProducer: Nintendo
+  manufacturer: Not Specified
+  mfgRange: 8813 - 8816 (3)
+  estFirstRun: March 1988
+  pcbClass: HVC-SNROM
+  inesMapper: 1
+  mirroring: Mapper Ctrl
+  batteryPresent: Yes
+  wram: 8 KB
+  vram: 8 KB
+  cicType: None
+  hardware: MMC1A
+detailedChipInfo:
+- designation: PRG
+  maker: NEC
+  partNumber: ''
+  partNumberSubDetail: UPD23C2013
+  type: Mask ROM
+  typeSubDetail: 256 KB
+  package: DIP-32
+  dateCodePrefix: 8811
+  dateCodeSuffix: EY
+  std: 8811
+  misc: 
+- designation: CHR
+  maker: NEC
+  partNumber: 64S20
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8804
+  dateCodeSuffix: M5
+  std: 8804
+  misc: 
+- designation: MMC1
+  maker: Sharp
+  partNumber: MMC1A
+  partNumberSubDetail: 
+  type: Nintendo MMC1
+  typeSubDetail: 
+  package: DIP-24
+  dateCodePrefix: 8813
+  dateCodeSuffix: A
+  std: 8813
+  misc: 
+- designation: W-RAM
+  maker: Sharp
+  partNumber: LH5164D3-L
+  partNumberSubDetail: 
+  type: SRAM
+  typeSubDetail: 8 KB
+  package: DIP-28
+  dateCodePrefix: 8812
+  dateCodeSuffix: 7 DA
+  std: 8812
+  misc: 

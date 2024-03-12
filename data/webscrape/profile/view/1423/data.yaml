@@ -1,0 +1,155 @@
+metadata:
+  name: Super Mario Bros. / Tetris / Nintendo World Cup
+  altName: 
+  variant: 
+  submittedBy: Bregalad
+  submittedOn: 2007-04-06 12:46:00
+  moreProfiles: []
+  relatedProfiles:
+  - 3809
+  - 3807
+  additionalImages: 
+slug: super-mario-bros-tetris-nintendo-world-cup
+releaseInfo:
+  catalogId: NES-ZZ-FRG
+  region: Germany (PAL-B)
+  class: Licensed  » Multi-cart
+  releaseDate: November 1988
+  publisher: Nintendo
+  developer: Nintendo
+  players: 4
+  peripherals: NES Controller,4-Player Adapter
+  country: Germany
+cartProperties:
+  cartProducer: Nintendo (NES)
+  color: Grey
+  formFactor: 3-Screw
+  embossedText: Nintendo® Pat. Pend. Made in Japan
+  frontLabelId: NES-ZZ-FRG
+  sealOfQuality: 'PAL: Round (Original)'
+  mfgstringPresent: Yes
+  backLabelId/Desc: DAS
+  2-DigitCode: 01
+  topImage:
+    toolTipJS: 
+    filename: 
+  frontImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/c541f2d3483be45a4b870881d1fee6ac.jpg
+  backImage:
+    toolTipJS: "ddrivetip('Cart Front<br>Submitted by: bootgod<br>Linked from profile 4521')"
+    filename: /images/175/98c32de5bd6612fd9ad2c68221c96f00.jpg
+romDetails:
+- type: PRG0
+  label: Not Present
+  size: 256 KB
+  crc32: 1808BB59
+  x: 2
+- type: CHR0
+  label: Not Present
+  size: 256 KB
+  crc32: BD06932A
+  x: 3
+- type: N/A
+  label: ROMs Combined
+  size: 512 KB
+  crc32: 73298C87
+  x: 3
+pcbProperties:
+  name: ZZ
+  frontImage:
+    toolTipJS: "ddrivetip('PCB Front<br>ZZ<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/5e1faa18e017e7d48fb8e9a68b8d7962.jpg
+  backImage:
+    toolTipJS: "ddrivetip('PCB Back<br>ZZ<br>Submitted by: Bregalad<br>Linked from profile 0')"
+    filename: /images/175/1fef56a98d30dd2338079140dcc74dd6.jpg
+  pcbProducer: Nintendo
+  manufacturer: Sharp
+  mfgRange: 9132
+  estFirstRun: August 1991
+  pcbClass: PAL-ZZ
+  inesMapper: 37
+  mirroring: Mapper Ctrl
+  batteryPresent: No
+  wram: 0 KB
+  vram: 0 KB
+  cicType: 
+  hardware: 74xx00, 74xx161, MMC3
+detailedChipInfo:
+- designation: PCB
+  maker: Sharp
+  partNumber: LROG128
+  partNumberSubDetail: ZZ
+  type: Chip-on-Board PCB
+  typeSubDetail: 
+  package: PCB
+  dateCodePrefix: 9132
+  dateCodeSuffix: 6 A
+  std: 9132
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP2000
+  type: Bonded ROM
+  typeSubDetail: 256 KB
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP3195A
+  type: Nintendo CIC
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EPMMC3
+  type: Nintendo MMC3
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP74161
+  type: 74-161 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 
+- designation: 
+  maker: __Unknown
+  partNumber: 
+  partNumberSubDetail: EP7400
+  type: 74-00 Series
+  typeSubDetail: 
+  package: EPOXY
+  dateCodePrefix: 
+  dateCodeSuffix: 
+  std: 
+  misc: 

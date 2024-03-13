@@ -37,7 +37,7 @@ jobs:
       if: ${{ inputs.useMinimalInputSet }}
       working-directory: ./Scripts/
       shell: bash
-      run: ./bootstrap-localDev-data.sh
+      run: ./bootstrap-localDev.sh
     
     - name: Generate Minimal Site
       if: ${{ inputs.useMinimalInputSet }}

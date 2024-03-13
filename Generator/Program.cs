@@ -5,8 +5,7 @@ using Statiq.Sass;
 var pwd = new DirectoryInfo(Environment.CurrentDirectory);
 Environment.CurrentDirectory = pwd.Parent!.FullName;
 
-// TODO: Add this to config
-bool isProduction = true;
+var isProduction = Environment.GetEnvironmentVariable("DEPLOYMENT_ENVIRONMENT") == "PROD";
 
 var inputPath =
     isProduction

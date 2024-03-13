@@ -42,12 +42,12 @@ jobs:
     - name: Generate Minimal Site
       if: ${{ inputs.useMinimalInputSet }}
       working-directory: ./Generator/
-      run: dotnet run
+      run: dotnet run --configuration Release -- deploy
 
     - name: Generate Full Site
       if: ${{ !inputs.useMinimalInputSet }}
       working-directory: ./Generator/
       env:
         DEPLOYMENT_ENVIRONMENT: PROD
-      run: dotnet run
+      run: dotnet run --configuration Release -- deploy
     

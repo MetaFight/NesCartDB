@@ -1,7 +1,7 @@
 #!/bin/bash
 
 rm -rf ../localDev-data
-mkdir -p ../localDev-data
+mkdir -p ../localDev-data/webscrape/profile/view/
 
 cp -r ../data/webscrape/profile/view/1143 ../localDev-data/webscrape/profile/view/1143
 cp -r ../data/webscrape/profile/view/1146 ../localDev-data/webscrape/profile/view/1146

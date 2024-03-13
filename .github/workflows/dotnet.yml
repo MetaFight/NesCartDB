@@ -4,16 +4,20 @@
 name: .NET
 
 on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+  # push:
+  #   branches: [ "master" ]
+  # pull_request:
+  #   branches: [ "master" ]
+  workflow_dispatch:
+    inputs:
+      useMinimalInputSet:
+        required: true
+        type: boolean
+        default: true
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
     - name: Setup .NET
@@ -21,15 +25,29 @@ jobs:
       with:
         dotnet-version: 8.0.x
     
-    - name: Restore dependencies
-      working-directory: ./Generator/
-      run: dotnet restore
+    # - name: Restore dependencies
+    #   working-directory: ./Generator/
+    #   run: dotnet restore
     
-    - name: Build
-      working-directory: ./Generator/
-      run: dotnet build --no-restore
+    # - name: Build
+    #   working-directory: ./Generator/
+    #   run: dotnet build --no-restore
+
+    - name: Set up
+      if: ${{ inputs.useMinimalInputSet }}
+      working-directory: ./Scripts/
+      shell: bash
+      run: ./bootstrap-localDev-data.sh
     
-    - name: Generate Site
+    - name: Generate Minimal Site
+      if: ${{ inputs.useMinimalInputSet }}
       working-directory: ./Generator/
+      run: dotnet run
+
+    - name: Generate Full Site
+      if: ${{ !inputs.useMinimalInputSet }}
+      working-directory: ./Generator/
+      env:
+        DEPLOYMENT_ENVIRONMENT: PROD
       run: dotnet run
     

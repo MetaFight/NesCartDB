@@ -4,10 +4,9 @@
 name: .NET
 
 on:
-  # push:
-  #   branches: [ "master" ]
-  # pull_request:
-  #   branches: [ "master" ]
+  push:
+    branches: [ "master" ]
+  pull_request:
   workflow_dispatch:
     inputs:
       useMinimalInputSet:
@@ -55,7 +54,7 @@ jobs:
       uses: nwtgck/actions-netlify@v3.0
       with:
         publish-dir: './_site'
+        alias: ${{ github.head_ref }}
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-      timeout-minutes: 1

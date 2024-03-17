@@ -55,14 +55,14 @@ jobs:
       uses: nwtgck/actions-netlify@v3.0
       with:
         publish-dir: './_site'
-        production-deploy: ${{ github.ref == 'refs/heads/master' }}
+        production-deploy: ${{ !inputs.useMinimalInputSet && github.ref == 'refs/heads/master' }}
         alias: ${{ github.ref == 'refs/heads/master' && '' || github.head_ref }}
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
 
     - name: Comment on PR
-      if: ${{ github.ref == 'refs/heads/master' }}
+      if: ${{ context.issue.number == '' }}
       uses: actions/github-script@v6
       with:
         script: |

@@ -16,6 +16,7 @@ return await Bootstrapper
     .Factory
     //.CreateWeb(args)
     .CreateDefault(args)
+    .AddSetting(WebKeys.NetlifyRedirects, true)
     .AddInputPath("docs")
     .AddInputPath(inputPath)
     .SetOutputPath("_site/")

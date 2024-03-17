@@ -51,6 +51,7 @@ jobs:
       run: dotnet run --configuration Release -- deploy
 
     - name: Deploy to Netlify
+      id: deploy_to_netlify
       uses: nwtgck/actions-netlify@v3.0
       with:
         publish-dir: './_site'
@@ -59,3 +60,14 @@ jobs:
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+
+    - name: Comment on PR
+      uses: actions/github-script@v6
+      with:
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: 'Deployed to ${{ steps.deploy_to_netlify.outputs.deploy-url }}'
+          })

@@ -1,6 +1,7 @@
 ﻿using Generator;
 using Microsoft.Extensions.DependencyInjection;
 using Statiq.Sass;
+using Statiq.Web.Pipelines;
 
 var pwd = new DirectoryInfo(Environment.CurrentDirectory);
 Environment.CurrentDirectory = pwd.Parent!.FullName;
@@ -24,8 +25,6 @@ return await Bootstrapper
     {
         services.AddTransient<Templates>();
     })
-    //.AddPipeline<DirectoryMetadata>()
-    //.AddPipeline<Inputs>()
     .BuildPipeline("Prep Profile Assets", builder =>
         builder
             .WithInputReadFiles("webscrape/profile/view/*/img/*.jpg")

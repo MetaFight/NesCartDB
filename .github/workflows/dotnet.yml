@@ -14,6 +14,9 @@ on:
         type: boolean
         default: true
 
+env:
+  PR_NUMBER: ${{ github.event.pull_request.number || github.event.issue.number }}
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -67,7 +70,7 @@ jobs:
       with:
         script: |
           github.rest.issues.createComment({
-            issue_number: context.issue.number,
+            issue_number: $PR_NUMBER,
             owner: context.repo.owner,
             repo: context.repo.repo,
             body: 'Deployed to ${{ steps.deploy_to_netlify.outputs.deploy-url }}'

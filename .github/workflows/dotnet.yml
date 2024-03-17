@@ -54,6 +54,7 @@ jobs:
       uses: nwtgck/actions-netlify@v3.0
       with:
         publish-dir: './_site'
+        production-deploy: ${{ github.ref == 'refs/heads/master' }}
         alias: ${{ github.head_ref }}
       env:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

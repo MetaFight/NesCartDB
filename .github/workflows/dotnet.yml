@@ -58,6 +58,7 @@ jobs:
       uses: nwtgck/actions-netlify@v3.0
       with:
         publish-dir: './_site'
+        deploy-message: ${{ github.head_ref }}
         production-deploy: ${{ !inputs.useMinimalInputSet && github.ref == 'refs/heads/master' }}
         alias: ${{ github.ref == 'refs/heads/master' && '' || github.head_ref }}
       env:

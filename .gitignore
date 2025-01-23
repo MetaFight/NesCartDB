@@ -1,9 +1,9 @@
 .vs
 
 # only selectively include scraped data
-data/**/*.*
-!data/**/*.yaml
-!data/**/img/*.jpg
+data/webscrape/**/*.*
+!data/webscrape/**/*.yaml
+!data/webscrape/**/img/*.jpg
 
 # exclude data used for local development
 localDev-data
